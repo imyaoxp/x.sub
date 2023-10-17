@@ -10,15 +10,13 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇸🇬 ‍新加坡
+  - 🇭🇰 ‍香港
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -26,16 +24,63 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇸🇬 [vip①]新加坡1 - MG Network
-  - 🇯🇵 [vip①]日本1 - MG Network
-  - 🇯🇵 [vip①]日本2 - MG Network
-  - 🇺🇸 [vip①]美国1 - MG Network
-  - 🇺🇸 [vip①]美国2 - MG Network
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
+  - 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点09 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点10 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点09 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点10 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点09 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点10 - 恰恰- 有情怀的Ai加速服务商
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -51,20 +96,18 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -74,44 +117,85 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇸🇬 [vip①]新加坡1 - MG Network
+  - 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Mini|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港Plus|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇭🇰 香港VIP|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇯🇵 [vip①]日本1 - MG Network
-  - 🇯🇵 [vip①]日本2 - MG Network
+  - 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇺🇸 [vip①]美国1 - MG Network
-  - 🇺🇸 [vip①]美国2 - MG Network
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id005
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
+  - 🇺🇸 美国Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点09 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Mini|高速|节点10 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点09 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国Plus|高速|节点10 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点04 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点05 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点06 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点07 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点08 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点09 - 恰恰- 有情怀的Ai加速服务商
+  - 🇺🇸 美国VIP|高速|节点10 - 恰恰- 有情怀的Ai加速服务商
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
 - name: 👆🏻🇯🇵 ‍日本
@@ -120,20 +204,64 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id004
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id005
 proxies:
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
+- {name: 🇯🇵 日本Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp01.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp01.qiaqia.win}}, udp: true}
+- {name: 🇯🇵 日本Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp02.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp02.qiaqia.win}}, udp: true}
+- {name: 🇯🇵 日本VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: pjp03.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: pjp03.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: sus41.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus41.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: sus49.1122332.xyz, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus49.1122332.xyz}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: sus57.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus57.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点04 - 恰恰- 有情怀的Ai加速服务商, server: sus65.1122335.xyz, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus65.1122335.xyz}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点05 - 恰恰- 有情怀的Ai加速服务商, server: sus73.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus73.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点06 - 恰恰- 有情怀的Ai加速服务商, server: sus81.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus81.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点07 - 恰恰- 有情怀的Ai加速服务商, server: sus89.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus89.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点08 - 恰恰- 有情怀的Ai加速服务商, server: sus97.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus97.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点09 - 恰恰- 有情怀的Ai加速服务商, server: sus105.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus105.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Mini|高速|节点10 - 恰恰- 有情怀的Ai加速服务商, server: sus113.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus113.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: sus42.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus42.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: sus50.1122332.xyz, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus50.1122332.xyz}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: sus58.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus58.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点04 - 恰恰- 有情怀的Ai加速服务商, server: sus66.1122335.xyz, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus66.1122335.xyz}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点05 - 恰恰- 有情怀的Ai加速服务商, server: sus74.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus74.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点06 - 恰恰- 有情怀的Ai加速服务商, server: sus82.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus82.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点07 - 恰恰- 有情怀的Ai加速服务商, server: sus90.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus90.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点08 - 恰恰- 有情怀的Ai加速服务商, server: sus98.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus98.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点09 - 恰恰- 有情怀的Ai加速服务商, server: sus106.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus106.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国Plus|高速|节点10 - 恰恰- 有情怀的Ai加速服务商, server: sus114.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus114.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: sus43.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus43.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: sus51.1122332.xyz, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus51.1122332.xyz}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: sus59.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus59.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点04 - 恰恰- 有情怀的Ai加速服务商, server: sus67.1122335.xyz, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus67.1122335.xyz}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点05 - 恰恰- 有情怀的Ai加速服务商, server: sus75.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus75.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点06 - 恰恰- 有情怀的Ai加速服务商, server: sus83.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus83.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点07 - 恰恰- 有情怀的Ai加速服务商, server: sus91.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus91.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点08 - 恰恰- 有情怀的Ai加速服务商, server: sus99.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus99.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点09 - 恰恰- 有情怀的Ai加速服务商, server: sus107.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus107.qiaqia.win}}, udp: true}
+- {name: 🇺🇸 美国VIP|高速|节点10 - 恰恰- 有情怀的Ai加速服务商, server: sus115.qiaqia.win, port: 80, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus115.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk01.qiaqia.win, port: 8791, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk01.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: bhk01.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk01.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: bhk137.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk137.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点04 - 恰恰- 有情怀的Ai加速服务商, server: bhk145.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk145.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点05 - 恰恰- 有情怀的Ai加速服务商, server: bhk153.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk153.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点06 - 恰恰- 有情怀的Ai加速服务商, server: bhk161.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk161.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点07 - 恰恰- 有情怀的Ai加速服务商, server: bhk169.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk169.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Mini|高速|节点08 - 恰恰- 有情怀的Ai加速服务商, server: bhk177.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk177.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk02.qiaqia.win, port: 8972, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk02.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: bhk02.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk02.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: bhk138.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk138.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点04 - 恰恰- 有情怀的Ai加速服务商, server: bhk146.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk146.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点05 - 恰恰- 有情怀的Ai加速服务商, server: bhk154.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk154.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点06 - 恰恰- 有情怀的Ai加速服务商, server: bhk162.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk162.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点07 - 恰恰- 有情怀的Ai加速服务商, server: bhk170.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk170.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港Plus|高速|节点08 - 恰恰- 有情怀的Ai加速服务商, server: bhk178.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk178.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点01 - 恰恰- 有情怀的Ai加速服务商, server: ahk03.qiaqia.win, port: 8973, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: ahk03.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点02 - 恰恰- 有情怀的Ai加速服务商, server: bhk03.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk03.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点03 - 恰恰- 有情怀的Ai加速服务商, server: bhk139.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk139.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点04 - 恰恰- 有情怀的Ai加速服务商, server: bhk147.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk147.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点05 - 恰恰- 有情怀的Ai加速服务商, server: bhk155.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk155.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点06 - 恰恰- 有情怀的Ai加速服务商, server: bhk163.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk163.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点07 - 恰恰- 有情怀的Ai加速服务商, server: bhk171.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk171.qiaqia.win}}, udp: true}
+- {name: 🇭🇰 香港VIP|高速|节点08 - 恰恰- 有情怀的Ai加速服务商, server: bhk179.qiaqia.win, port: 8080, type: vmess, uuid: 55fc63aa-7f55-36c1-a02f-fa6dd6e033a2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bhk179.qiaqia.win}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

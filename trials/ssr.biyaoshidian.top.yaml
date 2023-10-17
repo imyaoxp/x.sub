@@ -10,12 +10,12 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇸🇬 ‍新加坡
+  - 🇭🇰 ‍香港
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -26,16 +26,23 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇸🇬 [vip①]新加坡1 - MG Network
-  - 🇯🇵 [vip①]日本1 - MG Network
-  - 🇯🇵 [vip①]日本2 - MG Network
-  - 🇺🇸 [vip①]美国1 - MG Network
-  - 🇺🇸 [vip①]美国2 - MG Network
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
+  - 🇭🇰 香港 Ali2 *3 - 独孤乐天
+  - 🇭🇰 香港 Ali3 *3 - 独孤乐天
+  - 🇭🇰 香港 Ali6 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS2 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS2 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS6 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS6 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 CS4 *5 - 独孤乐天
+  - 🇯🇵 日本 CS5 *5 - 独孤乐天
+  - 🇯🇵 日本 kagoya *3 - 独孤乐天
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇵🇭 菲律宾 IPC *3 - 独孤乐天
+  - 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -51,8 +58,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -61,10 +70,8 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -74,44 +81,51 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇸🇬 [vip①]新加坡1 - MG Network
+  - 🇭🇰 香港 Ali2 *3 - 独孤乐天
+  - 🇭🇰 香港 Ali3 *3 - 独孤乐天
+  - 🇭🇰 香港 Ali6 *3 - 独孤乐天
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇯🇵 [vip①]日本1 - MG Network
-  - 🇯🇵 [vip①]日本2 - MG Network
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS2 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS2 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS6 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS6 *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 CS4 *5 - 独孤乐天
+  - 🇯🇵 日本 CS5 *5 - 独孤乐天
+  - 🇯🇵 日本 kagoya *3 - 独孤乐天
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇺🇸 [vip①]美国1 - MG Network
-  - 🇺🇸 [vip①]美国2 - MG Network
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id005
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
+  - 🇵🇭 菲律宾 IPC *3 - 独孤乐天
+  - 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
 - name: 👆🏻🇯🇵 ‍日本
@@ -124,16 +138,23 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 6f5f47dc-5272-3286-8e35-d8fd2904b988, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS2 *3 - 独孤乐天, server: jp-2.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS2 *3 IPv6 - 独孤乐天, server: jp6-2.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS6 *3 - 独孤乐天, server: nhk-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS6 *3 IPv6 - 独孤乐天, server: nhk6-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 CS4 *5 - 独孤乐天, server: nhk-4.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 CS5 *5 - 独孤乐天, server: nhk-5.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 kagoya *3 - 独孤乐天, server: jp-4.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇵🇭 菲律宾 IPC *3 - 独孤乐天, server: nph-1.biyaoshidian.top, port: 443, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
+- {name: 🇵🇭 菲律宾 IPC2 *3 - 独孤乐天, server: ph-2.biyaoshidian.top, port: 443, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.bugubudu.top}}, udp: true}
+- {name: 🇭🇰 香港 Ali2 *3 - 独孤乐天, server: nhk-2.biyaoshidian.top, port: 443, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v, headers: {Host: a.anewstart.cyou}}, udp: true}
+- {name: 🇭🇰 香港 Ali3 *3 - 独孤乐天, server: nhk-3.biyaoshidian.top, port: 5062, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 Ali6 *3 - 独孤乐天, server: nhk-6.biyaoshidian.top, port: 5061, type: vmess, uuid: 7aa57706-3dda-3e85-9c8c-0ffecfd80a6e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
