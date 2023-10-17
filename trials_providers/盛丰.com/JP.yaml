@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本01-Netflix|Disney+|动画疯 - 盛丰, server: jp.nodegroups.ink, port: 33211, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本02 - 盛丰, server: jp.nodegroups.ink, port: 33212, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03 - 盛丰, server: jp.nodegroups.ink, port: 33213, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

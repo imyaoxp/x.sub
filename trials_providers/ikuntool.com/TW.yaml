@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 3a361cd7-1ca3-4157-9304-9aa9370d52e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
+- {name: 🇹🇼 🇨🇳B台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 3a361cd7-1ca3-4157-9304-9aa9370d52e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}

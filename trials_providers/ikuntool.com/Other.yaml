@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇲🇽A墨西哥-原生ip - ikunVPN, server: mx-one.1234585.xyz, port: 80, type: vmess, uuid: 3a361cd7-1ca3-4157-9304-9aa9370d52e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mx-one.1234585.xyz}}, udp: true}
+- {name: 🇲🇽B墨西哥-原生ip - ikunVPN, server: mx-one.1234585.xyz, port: 80, type: vmess, uuid: 3a361cd7-1ca3-4157-9304-9aa9370d52e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mx-one.1234585.xyz}}, udp: true}
+- {name: 🇬🇧A英国-原生ip - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: 3a361cd7-1ca3-4157-9304-9aa9370d52e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
+- {name: 🇬🇧B英国-原生ip - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 3a361cd7-1ca3-4157-9304-9aa9370d52e8, udp: true}
+- {name: 🇰🇵A朝鲜 - ikunVPN, server: 104.21.34.30, port: 80, type: vmess, uuid: 3a361cd7-1ca3-4157-9304-9aa9370d52e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kp.1234585.xyz}}, udp: true}

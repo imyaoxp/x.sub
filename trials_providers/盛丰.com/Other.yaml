@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷 韩国01-Netflix|Disney+|动画疯 - 盛丰, server: kr.nodegroups.ink, port: 33216, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国02 - 盛丰, server: kr.nodegroups.ink, port: 33217, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 实验性线路1|全节点轮询自动切换 - 盛丰, server: hk.nodegroups.ink, port: 49001, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
