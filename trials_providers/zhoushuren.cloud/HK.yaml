@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 15708, type: trojan, password: 418aecfe-7a8a-4fd8-aff7-9162e27caf66, sni: zf.zsr-seoul.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 37971, type: trojan, password: 418aecfe-7a8a-4fd8-aff7-9162e27caf66, sni: manghe.xiaohongshuvpn.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 23378, type: trojan, password: 418aecfe-7a8a-4fd8-aff7-9162e27caf66, sni: 1.waimaozhan.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 56859, type: trojan, password: 418aecfe-7a8a-4fd8-aff7-9162e27caf66, sni: 2.waimaozhan.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港家宽-新界-01|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 17715, type: vmess, uuid: 418aecfe-7a8a-4fd8-aff7-9162e27caf66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy56dsdsds3565hfdf111sd, headers: {Host: www.apple.com}}, udp: true}
+- {name: 🇭🇰香港家宽-新界-02|1X - 周树人Cloud, server: hkbn.miaoddns.top, port: 33090, type: vmess, uuid: 418aecfe-7a8a-4fd8-aff7-9162e27caf66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfhfdf111sd, headers: {Host: www.apple.com}}, udp: true}
