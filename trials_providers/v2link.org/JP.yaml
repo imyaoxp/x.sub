@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 - 东京 R - V2Link, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: b86fe8d0-2c5d-4ea2-a949-e3ebfa41cbe9, udp: true}
-- {name: 🇯🇵 日本 - 大版 A - V2Link, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: b86fe8d0-2c5d-4ea2-a949-e3ebfa41cbe9, udp: true}
-- {name: 🇯🇵 日本 - 东京 A - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: b86fe8d0-2c5d-4ea2-a949-e3ebfa41cbe9, udp: true}
-- {name: 🇯🇵 日本 - 东京 B - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: b86fe8d0-2c5d-4ea2-a949-e3ebfa41cbe9, udp: true}
-- {name: 🇯🇵 日本 - 东京 C - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: b86fe8d0-2c5d-4ea2-a949-e3ebfa41cbe9, udp: true}
-- {name: 🇯🇵 日本 - 东京 D - V2Link, server: host-016.crazyspeed.xyz, port: 30606, type: ss, cipher: chacha20-ietf-poly1305, password: b86fe8d0-2c5d-4ea2-a949-e3ebfa41cbe9, udp: true}
+- {name: 🇯🇵 日本 - 东京 R - V2Link, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
+- {name: 🇯🇵 日本 - 大版 A - V2Link, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
+- {name: 🇯🇵 日本 - 东京 A - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
+- {name: 🇯🇵 日本 - 东京 B - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
+- {name: 🇯🇵 日本 - 东京 C - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
+- {name: 🇯🇵 日本 - 东京 D - V2Link, server: host-016.crazyspeed.xyz, port: 30606, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
