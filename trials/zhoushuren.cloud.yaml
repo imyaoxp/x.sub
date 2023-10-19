@@ -92,7 +92,6 @@ proxy-groups:
   - 🇲🇽墨西哥-克雷塔罗-01|1X - 周树人Cloud
   - 🇫🇷法国-巴黎-01|1X - 周树人Cloud
   - 🇱🇺卢森堡-盧森堡市-01|0.1X - 周树人Cloud
-  - 🇱🇺卢森堡-盧森堡市-02|0.1X - 周树人Cloud
   - 🇰🇷韩国-首尔-01|0.2X - 周树人Cloud
   - 🇰🇷韩国-首尔-02|0.2X - 周树人Cloud
   - 🇰🇷韩国01|1X - 周树人Cloud
@@ -287,7 +286,6 @@ proxy-groups:
   - 🇲🇽墨西哥-克雷塔罗-01|1X - 周树人Cloud
   - 🇫🇷法国-巴黎-01|1X - 周树人Cloud
   - 🇱🇺卢森堡-盧森堡市-01|0.1X - 周树人Cloud
-  - 🇱🇺卢森堡-盧森堡市-02|0.1X - 周树人Cloud
   - 🇰🇷韩国-首尔-01|0.2X - 周树人Cloud
   - 🇰🇷韩国-首尔-02|0.2X - 周树人Cloud
   - 🇰🇷韩国01|1X - 周树人Cloud
@@ -382,7 +380,6 @@ proxies:
 - {name: 🇲🇽墨西哥-克雷塔罗-01|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11492, type: vmess, uuid: b9d0e2f6-995d-44ad-8195-3a66047fb853, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhsdadasdasdasds99d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇫🇷法国-巴黎-01|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 41356, type: vmess, uuid: b9d0e2f6-995d-44ad-8195-3a66047fb853, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhs12121asds99d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇱🇺卢森堡-盧森堡市-01|0.1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 14210, type: vmess, uuid: b9d0e2f6-995d-44ad-8195-3a66047fb853, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdfffffff9999d, headers: {Host: www.apple.com}}, udp: true}
-- {name: 🇱🇺卢森堡-盧森堡市-02|0.1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 40373, type: vmess, uuid: b9d0e2f6-995d-44ad-8195-3a66047fb853, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdfffffff9999d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇰🇷韩国-首尔-01|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 14374, type: trojan, password: b9d0e2f6-995d-44ad-8195-3a66047fb853, sni: c.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷韩国-首尔-02|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 29295, type: trojan, password: b9d0e2f6-995d-44ad-8195-3a66047fb853, sni: d.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷韩国01|1X - 周树人Cloud, server: jgwsr01.588511.xyz, port: 44444, type: trojan, password: b9d0e2f6-995d-44ad-8195-3a66047fb853, sni: jgwsr01.588511.xyz, skip-cert-verify: true, udp: true}
