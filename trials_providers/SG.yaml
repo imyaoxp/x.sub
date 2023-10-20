@@ -4,7 +4,7 @@ proxies:
 - {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 381df1f5-c19d-4dbd-a904-ed65e35e4c29, udp: true}
 - {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 381df1f5-c19d-4dbd-a904-ed65e35e4c29, udp: true}
 - {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 381df1f5-c19d-4dbd-a904-ed65e35e4c29, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: js1.76po.com, port: 26480, type: vmess, uuid: 1ff31b50-9093-4486-8ef9-a6a7404f6a64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: js1.76po.com, port: 26480, type: vmess, uuid: 25592f24-e947-4d7e-93fd-b1d93140289d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '[🇸🇬] 打杂的02 x1 - 星河 583', server: v14.583182.xyz, port: 8443, type: vmess, uuid: 260da6e7-906d-4a2e-bd45-bc8025a8009d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v14.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v14.583181.xyz}}, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: 3e1f5213-f28e-496f-ab27-69eac430ba2a, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 59211, type: ss, cipher: chacha20-ietf-poly1305, password: 3e1f5213-f28e-496f-ab27-69eac430ba2a, udp: true}
@@ -38,8 +38,8 @@ proxies:
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: ujPS0YSbdi4R0nco, udp: true}
 - {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: ujPS0YSbdi4R0nco, udp: true}
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: ujPS0YSbdi4R0nco, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 8b935388-1c93-3996-8244-f47c73d6d346, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 8b935388-1c93-3996-8244-f47c73d6d346, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 3bc84e07-5a46-3764-be08-7bc6a9c61476, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 3bc84e07-5a46-3764-be08-7bc6a9c61476, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: a4e3e70e-52df-4841-9f18-05052e083d02, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: a4e3e70e-52df-4841-9f18-05052e083d02, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: a4e3e70e-52df-4841-9f18-05052e083d02, udp: true}
@@ -47,9 +47,9 @@ proxies:
 - {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
 - {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
 - {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 1c5fd67d-e43a-4307-a8f5-88e805202fab, udp: true}
-- {name: 🇸🇬新加坡01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: 70f6f942-b1af-40f9-9bda-20ea5cfaac8b, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡02|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: 70f6f942-b1af-40f9-9bda-20ea5cfaac8b, sni: gfxjp01.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 70f6f942-b1af-40f9-9bda-20ea5cfaac8b, udp: true}
+- {name: 🇸🇬新加坡01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: 521c1108-b0c6-4be6-9af1-6dabaa275678, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡02|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: 521c1108-b0c6-4be6-9af1-6dabaa275678, sni: gfxjp01.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 521c1108-b0c6-4be6-9af1-6dabaa275678, udp: true}
 - {name: 🇸🇬 新加坡01 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 9ce459ff-a3de-4dd9-b93d-d692aeb3070f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
 - {name: 🇸🇬 新加坡02 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 9ce459ff-a3de-4dd9-b93d-d692aeb3070f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
 - {name: 🇸🇬 新加坡03 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 9ce459ff-a3de-4dd9-b93d-d692aeb3070f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
