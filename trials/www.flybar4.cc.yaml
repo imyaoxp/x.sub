@@ -50,7 +50,6 @@ proxy-groups:
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
   - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
-  - 🇯🇵 日本•软银260•高速 - 飞翔吧
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
   - 🇯🇵 日本•高速114•高速 - 飞翔吧
@@ -181,7 +180,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id006
-  - 🇯🇵 日本•软银260•高速 - 飞翔吧
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
   - 🇯🇵 日本•高速114•高速 - 飞翔吧
@@ -243,7 +241,6 @@ proxy-groups:
   proxies: *id008
 proxies:
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gg.58n.net, port: 20301, type: trojan, password: 371a25a1-6d4e-323d-a175-dfb3e3a5fee3, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•软银260•高速 - 飞翔吧, server: gg.58n.net, port: 31313, type: trojan, password: 371a25a1-6d4e-323d-a175-dfb3e3a5fee3, sni: z260.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gg.58n.net, port: 17629, type: trojan, password: 371a25a1-6d4e-323d-a175-dfb3e3a5fee3, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.58n.net, port: 28678, type: trojan, password: 371a25a1-6d4e-323d-a175-dfb3e3a5fee3, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gg.58n.net, port: 22741, type: trojan, password: 371a25a1-6d4e-323d-a175-dfb3e3a5fee3, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
