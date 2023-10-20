@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: f4c6e40a-4531-46d7-b6da-829a5716f5a4, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: f4c6e40a-4531-46d7-b6da-829a5716f5a4, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: f4c6e40a-4531-46d7-b6da-829a5716f5a4, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 326ed331-4cd9-436d-8a86-8a784a5ab78e, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 326ed331-4cd9-436d-8a86-8a784a5ab78e, udp: true}
+- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 326ed331-4cd9-436d-8a86-8a784a5ab78e, udp: true}
