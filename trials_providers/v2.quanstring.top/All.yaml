@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 🇭🇰|流媒体|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: a7a0a9cc-8e8b-4c2a-876b-ef62e1bb0f4e, udp: true}
-- {name: 🇭🇰|IEPL|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: a7a0a9cc-8e8b-4c2a-876b-ef62e1bb0f4e, udp: true}
+- {name: 🇭🇰|南方高速|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: a7a0a9cc-8e8b-4c2a-876b-ef62e1bb0f4e, udp: true}
 - {name: 🇺🇸-移动联通 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: a7a0a9cc-8e8b-4c2a-876b-ef62e1bb0f4e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸|稳定|VIP - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: a7a0a9cc-8e8b-4c2a-876b-ef62e1bb0f4e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸|ChatGPT|优质IP - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: a7a0a9cc-8e8b-4c2a-876b-ef62e1bb0f4e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
