@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本-东京-02|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 59937, type: trojan, password: 34fe3851-989b-4fb3-b7c8-a2b01d92faa3, sni: 15.zhudaidaohang.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-03|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 54964, type: trojan, password: 34fe3851-989b-4fb3-b7c8-a2b01d92faa3, sni: 16.zhudaidaohang.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-04|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 24184, type: trojan, password: 34fe3851-989b-4fb3-b7c8-a2b01d92faa3, sni: jgwjp1.zhoushuren.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-05|1X - 周树人Cloud, server: cs1.zhoushurentaobao.top, port: 24612, type: trojan, password: 34fe3851-989b-4fb3-b7c8-a2b01d92faa3, sni: cs1.zhoushurentaobao.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-06|1X - 周树人Cloud, server: gfriben01.588500.xyz, port: 24685, type: trojan, password: 34fe3851-989b-4fb3-b7c8-a2b01d92faa3, sni: gfriben01.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: 34fe3851-989b-4fb3-b7c8-a2b01d92faa3, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 59937, type: trojan, password: 0f3e1ad5-4028-485e-984a-ea05175faf6d, sni: 15.zhudaidaohang.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-03|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 54964, type: trojan, password: 0f3e1ad5-4028-485e-984a-ea05175faf6d, sni: 16.zhudaidaohang.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-04|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 24184, type: trojan, password: 0f3e1ad5-4028-485e-984a-ea05175faf6d, sni: jgwjp1.zhoushuren.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-05|1X - 周树人Cloud, server: cs1.zhoushurentaobao.top, port: 24612, type: trojan, password: 0f3e1ad5-4028-485e-984a-ea05175faf6d, sni: cs1.zhoushurentaobao.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-06|1X - 周树人Cloud, server: gfriben01.588500.xyz, port: 24685, type: trojan, password: 0f3e1ad5-4028-485e-984a-ea05175faf6d, sni: gfriben01.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: 0f3e1ad5-4028-485e-984a-ea05175faf6d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
