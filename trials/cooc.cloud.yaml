@@ -58,6 +58,8 @@ proxy-groups:
   - 🇲🇾 马来 / 华南 | 原生·Pro - 小白云
   - 🇬🇧 英国 / 华东 | 原生·Pro - 小白云
   - 🇬🇧 英国 / 华南 | 原生·Pro - 小白云
+  - 🇩🇪 德国 / 华南 | 原生·Pro - 小白云
+  - 🇩🇪 德国 / 华东 | 原生·Pro - 小白云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -178,6 +180,8 @@ proxy-groups:
   - 🇲🇾 马来 / 华南 | 原生·Pro - 小白云
   - 🇬🇧 英国 / 华东 | 原生·Pro - 小白云
   - 🇬🇧 英国 / 华南 | 原生·Pro - 小白云
+  - 🇩🇪 德国 / 华南 | 原生·Pro - 小白云
+  - 🇩🇪 德国 / 华东 | 原生·Pro - 小白云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -229,6 +233,8 @@ proxies:
 - {name: 🇲🇾 马来 / 华南 | 原生·Pro - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: 17ec94e9-63c3-4fcc-9b13-ff7f640ad51f, udp: true}
 - {name: 🇬🇧 英国 / 华东 | 原生·Pro - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 17ec94e9-63c3-4fcc-9b13-ff7f640ad51f, udp: true}
 - {name: 🇬🇧 英国 / 华南 | 原生·Pro - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 17ec94e9-63c3-4fcc-9b13-ff7f640ad51f, udp: true}
+- {name: 🇩🇪 德国 / 华南 | 原生·Pro - 小白云, server: fra1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 17ec94e9-63c3-4fcc-9b13-ff7f640ad51f, udp: true}
+- {name: 🇩🇪 德国 / 华东 | 原生·Pro - 小白云, server: fra2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 17ec94e9-63c3-4fcc-9b13-ff7f640ad51f, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
