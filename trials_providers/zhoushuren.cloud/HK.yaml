@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 15708, type: trojan, password: d7c88fb6-12b9-41b0-8474-94448d9807ec, sni: zf.zsr-seoul.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 37971, type: trojan, password: d7c88fb6-12b9-41b0-8474-94448d9807ec, sni: manghe.xiaohongshuvpn.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 23378, type: trojan, password: d7c88fb6-12b9-41b0-8474-94448d9807ec, sni: 1.waimaozhan.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 56859, type: trojan, password: d7c88fb6-12b9-41b0-8474-94448d9807ec, sni: 2.waimaozhan.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 15708, type: trojan, password: 97ce081f-c992-4714-94c1-56d1fb52a8c9, sni: zf.zsr-seoul.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 37971, type: trojan, password: 97ce081f-c992-4714-94c1-56d1fb52a8c9, sni: manghe.xiaohongshuvpn.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 23378, type: trojan, password: 97ce081f-c992-4714-94c1-56d1fb52a8c9, sni: 1.waimaozhan.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 56859, type: trojan, password: 97ce081f-c992-4714-94c1-56d1fb52a8c9, sni: 2.waimaozhan.top, skip-cert-verify: true, udp: true}
