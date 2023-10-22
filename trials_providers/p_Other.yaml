@@ -1,14 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：9 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 9cd12640-51d0-4f34-ae71-f689bf3db08f, udp: true}
+- {name: 距离下次重置剩余：30 天 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 0e053beb-7f37-49f1-b8af-f8f118698afc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
+- {name: 距离下次重置剩余：8 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 9cd12640-51d0-4f34-ae71-f689bf3db08f, udp: true}
 - {name: 距离下次重置剩余：9 天 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: 31fa2494-4f1f-4b3c-a032-3cd756174ca6, udp: true}
-- {name: 距离下次重置剩余：9 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 65e11d1b-15b0-4433-815d-f791507181c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：8 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 65e11d1b-15b0-4433-815d-f791507181c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 35e963c6-12b7-399a-9a97-cd4602686234, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 35e963c6-12b7-399a-9a97-cd4602686234, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 130385:SprF77, obfs-param: '289dd130385.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: 距离下次重置剩余：22 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 9ce459ff-a3de-4dd9-b93d-d692aeb3070f, udp: true}
+- {name: 距离下次重置剩余：21 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 9ce459ff-a3de-4dd9-b93d-d692aeb3070f, udp: true}
 - {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 9ce459ff-a3de-4dd9-b93d-d692aeb3070f, udp: true}
-- {name: 距离下次重置剩余：9 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: e7c3de68-cf9c-4910-bbd4-472354f7d121, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：8 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: e7c3de68-cf9c-4910-bbd4-472354f7d121, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: e7c3de68-cf9c-4910-bbd4-472354f7d121, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
