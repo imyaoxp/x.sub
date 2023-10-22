@@ -11,12 +11,10 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -28,7 +26,6 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰|流媒体|3倍 - 大湾区坤厂
   - 🇭🇰|南方高速|3倍 - 大湾区坤厂
-  - 🇯🇵|自己测试|2倍 - 大湾区坤厂
   - 🇺🇸-移动联通 - 大湾区坤厂
   - 🇺🇸|稳定|VIP - 大湾区坤厂
   - 🇺🇸|ChatGPT|优质IP - 大湾区坤厂
@@ -61,9 +58,7 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -80,19 +75,12 @@ proxy-groups:
   proxies: &id002
   - 🇭🇰|流媒体|3倍 - 大湾区坤厂
   - 🇭🇰|南方高速|3倍 - 大湾区坤厂
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇯🇵|自己测试|2倍 - 大湾区坤厂
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
+  proxies: &id003
   - 🇺🇸-移动联通 - 大湾区坤厂
   - 🇺🇸|稳定|VIP - 大湾区坤厂
   - 🇺🇸|ChatGPT|优质IP - 大湾区坤厂
@@ -103,7 +91,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id004
   - 距离下次重置剩余：9 天 - 大湾区坤厂
 - name: 👆🏻 ‍指定
   type: select
@@ -111,18 +99,14 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
+  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
+  proxies: *id004
 proxies:
-- {name: 距离下次重置剩余：9 天 - 大湾区坤厂, server: 45.14.105.44, port: 80, type: vmess, uuid: 31fa2494-4f1f-4b3c-a032-3cd756174ca6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇯🇵|自己测试|2倍 - 大湾区坤厂, server: 45.14.105.44, port: 80, type: vmess, uuid: 31fa2494-4f1f-4b3c-a032-3cd756174ca6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 距离下次重置剩余：9 天 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: 31fa2494-4f1f-4b3c-a032-3cd756174ca6, udp: true}
 - {name: 🇭🇰|流媒体|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: 31fa2494-4f1f-4b3c-a032-3cd756174ca6, udp: true}
 - {name: 🇭🇰|南方高速|3倍 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39112, type: ss, cipher: chacha20-ietf-poly1305, password: 31fa2494-4f1f-4b3c-a032-3cd756174ca6, udp: true}
 - {name: 🇺🇸-移动联通 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 31fa2494-4f1f-4b3c-a032-3cd756174ca6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}

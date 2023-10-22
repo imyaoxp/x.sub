@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵|自己测试|2倍 - 大湾区坤厂, server: 45.14.105.44, port: 80, type: vmess, uuid: 31fa2494-4f1f-4b3c-a032-3cd756174ca6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
