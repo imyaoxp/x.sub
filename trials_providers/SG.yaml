@@ -39,10 +39,10 @@ proxies:
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gg.58n.net, port: 30712, type: trojan, password: 4443c77b-05d4-3467-bacb-72fba33befb9, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gg.58n.net, port: 20129, type: trojan, password: 4443c77b-05d4-3467-bacb-72fba33befb9, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gg.58n.net, port: 20130, type: trojan, password: 4443c77b-05d4-3467-bacb-72fba33befb9, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: r45OIfUqpGOqiTSa, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: r45OIfUqpGOqiTSa, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: r45OIfUqpGOqiTSa, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: r45OIfUqpGOqiTSa, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: jig1vSqRlSnYKQpV, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: jig1vSqRlSnYKQpV, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: jig1vSqRlSnYKQpV, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: jig1vSqRlSnYKQpV, udp: true}
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 6bb29def-e977-37b2-aa45-d91358fc7c71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 6bb29def-e977-37b2-aa45-d91358fc7c71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
