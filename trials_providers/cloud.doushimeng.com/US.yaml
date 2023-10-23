@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国01 - 都是梦, server: us2.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
-- {name: 🇺🇸美国02 - 都是梦, server: us3.doushimeng.com, port: 21052, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 9077af6b-f8db-4956-acec-1bc3bc439b4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us10.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国04 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: us2.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}
+- {name: 🇺🇸美国02 - 都是梦, server: us3.doushimeng.com, port: 21052, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}
+- {name: 🇺🇸美国03 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 77837aa0-acb8-4b04-99c4-23abe04f205a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us10.doushimeng.com}}, udp: true}
+- {name: 🇺🇸美国04 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}

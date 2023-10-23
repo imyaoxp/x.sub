@@ -45,16 +45,16 @@ proxies:
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: jig1vSqRlSnYKQpV, udp: true}
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: d959263e-2f7b-31bf-8398-c68332bf4e04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: d959263e-2f7b-31bf-8398-c68332bf4e04, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}
+- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 0cc873dd-903c-32ed-ad46-55d7f0a93329, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
 - {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
 - {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
-- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: 836827b2-f02b-4c10-97a6-339c9abf7539, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: 836827b2-f02b-4c10-97a6-339c9abf7539, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 836827b2-f02b-4c10-97a6-339c9abf7539, udp: true}
+- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: 84395e06-c671-46c2-8e35-e4235e634bec, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: 84395e06-c671-46c2-8e35-e4235e634bec, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 84395e06-c671-46c2-8e35-e4235e634bec, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gzdx01.jcnode.top, port: 15035, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 41754, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 21425, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
