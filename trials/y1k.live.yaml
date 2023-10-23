@@ -10,15 +10,51 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 50
-  use: &id001
-  - All
+  proxies: &id001
+  - 🇹🇼 台湾Hinet - 一颗机场
+  - 🇸🇬 新加坡|甲骨文 - 一颗机场
+  - 🇯🇵 日本1 - 一颗机场
+  - 🇯🇵 日本2 - 一颗机场
+  - 🇯🇵 日本3 - 一颗机场
+  - 🇯🇵 日本东京|甲骨文 - 一颗机场
+  - 🇺🇸 美国堪萨斯1 - 一颗机场
+  - 🇺🇸 美国堪萨斯2 - 一颗机场
+  - 🇺🇸 美国堪萨斯3 - 一颗机场
+  - 🇺🇸 美国洛杉矶 - 一颗机场
+  - 🇰🇷 韩国首尔|甲骨文 - 一颗机场
+  - 🇫🇷 法国1 - 一颗机场
+  - 🇫🇷 法国2 - 一颗机场
+  - 🇫🇷 法国3 - 一颗机场
+  - 🇮🇹 意大利1 - 一颗机场
+  - 🇮🇹 意大利2 - 一颗机场
+  - 🇮🇹 意大利3 - 一颗机场
+  - 🇦🇺 澳大利亚悉尼1 - 一颗机场
+  - 🇦🇺 澳大利亚悉尼2 - 一颗机场
+  - 🇦🇺 澳大利亚悉尼3 - 一颗机场
+  - 🇻🇳 越南 - 一颗机场
+  - 🇨🇦 加拿大1 - 一颗机场
+  - 🇨🇦 加拿大2 - 一颗机场
+  - 🇨🇦 加拿大3 - 一颗机场
+  - 🇪🇸 西班牙1 - 一颗机场
+  - 🇪🇸 西班牙2 - 一颗机场
+  - 🇪🇸 西班牙3 - 一颗机场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -34,15 +70,25 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -51,36 +97,109 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id002
+  - 🇹🇼 台湾Hinet - 一颗机场
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id003
+  - 🇸🇬 新加坡|甲骨文 - 一颗机场
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
+  - 🇯🇵 日本1 - 一颗机场
+  - 🇯🇵 日本2 - 一颗机场
+  - 🇯🇵 日本3 - 一颗机场
+  - 🇯🇵 日本东京|甲骨文 - 一颗机场
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id005
+  - 🇺🇸 美国堪萨斯1 - 一颗机场
+  - 🇺🇸 美国堪萨斯2 - 一颗机场
+  - 🇺🇸 美国堪萨斯3 - 一颗机场
+  - 🇺🇸 美国洛杉矶 - 一颗机场
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 50
-  use: &id002
-  - Other
+  proxies: &id006
+  - 🇰🇷 韩国首尔|甲骨文 - 一颗机场
+  - 🇫🇷 法国1 - 一颗机场
+  - 🇫🇷 法国2 - 一颗机场
+  - 🇫🇷 法国3 - 一颗机场
+  - 🇮🇹 意大利1 - 一颗机场
+  - 🇮🇹 意大利2 - 一颗机场
+  - 🇮🇹 意大利3 - 一颗机场
+  - 🇦🇺 澳大利亚悉尼1 - 一颗机场
+  - 🇦🇺 澳大利亚悉尼2 - 一颗机场
+  - 🇦🇺 澳大利亚悉尼3 - 一颗机场
+  - 🇻🇳 越南 - 一颗机场
+  - 🇨🇦 加拿大1 - 一颗机场
+  - 🇨🇦 加拿大2 - 一颗机场
+  - 🇨🇦 加拿大3 - 一颗机场
+  - 🇪🇸 西班牙1 - 一颗机场
+  - 🇪🇸 西班牙2 - 一颗机场
+  - 🇪🇸 西班牙3 - 一颗机场
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id002
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id003
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id002
-proxy-providers:
-  All:
-    type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/my.bfhk.xyz/All.yaml
-    interval: 180
-    path: trials_providers/my.bfhk.xyz/All.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/my.bfhk.xyz/Other.yaml
-    interval: 180
-    path: trials_providers/my.bfhk.xyz/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id006
+proxies:
+- {name: 🇺🇸 美国堪萨斯1 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
+- {name: 🇺🇸 美国堪萨斯2 - 一颗机场, server: cf.13d7s.site, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
+- {name: 🇺🇸 美国堪萨斯3 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
+- {name: 🇯🇵 日本1 - 一颗机场, server: jp1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jp1?ed=2048', headers: {Host: jp1.cou.gay}}, udp: true}
+- {name: 🇯🇵 日本2 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jp1?ed=2048', headers: {Host: jp1.cou.gay}}, udp: true}
+- {name: 🇯🇵 日本3 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jp1?ed=2048', headers: {Host: jp1.cou.gay}}, udp: true}
+- {name: 🇺🇸 美国洛杉矶 - 一颗机场, server: 108.181.113.100, port: 20070, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp5.cou.gay, port: 20402, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国首尔|甲骨文 - 一颗机场, server: ora-kr4.cou.gay, port: 24602, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|甲骨文 - 一颗机场, server: ora-sg4.cou.gay, port: 23502, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国1 - 一颗机场, server: fr1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/fr1?ed=2048', headers: {Host: fr1.cou.gay}}, udp: true}
+- {name: 🇫🇷 法国2 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/fr1?ed=2048', headers: {Host: fr1.cou.gay}}, udp: true}
+- {name: 🇫🇷 法国3 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/fr1?ed=2048', headers: {Host: fr1.cou.gay}}, udp: true}
+- {name: 🇮🇹 意大利1 - 一颗机场, server: it1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
+- {name: 🇮🇹 意大利2 - 一颗机场, server: v4.cfnode.eu.org, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
+- {name: 🇮🇹 意大利3 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
+- {name: 🇦🇺 澳大利亚悉尼1 - 一颗机场, server: au1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/au1?ed=2048', headers: {Host: au1.cou.gay}}, udp: true}
+- {name: 🇦🇺 澳大利亚悉尼2 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/au1?ed=2048', headers: {Host: au1.cou.gay}}, udp: true}
+- {name: 🇦🇺 澳大利亚悉尼3 - 一颗机场, server: v4.cfnode.eu.org, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/au1?ed=2048', headers: {Host: au1.cou.gay}}, udp: true}
+- {name: 🇻🇳 越南 - 一颗机场, server: 103.178.235.105, port: 20210, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾Hinet - 一颗机场, server: y1ktw1.kozow.com, port: 12290, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大1 - 一颗机场, server: jnd1.531131.xyz, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jnd1?ed=2048', headers: {Host: jnd1.531131.xyz}}, udp: true}
+- {name: 🇨🇦 加拿大2 - 一颗机场, server: new.cfnode.eu.org, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jnd1?ed=2048', headers: {Host: jnd1.531131.xyz}}, udp: true}
+- {name: 🇨🇦 加拿大3 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jnd1?ed=2048', headers: {Host: jnd1.531131.xyz}}, udp: true}
+- {name: 🇪🇸 西班牙1 - 一颗机场, server: es1.531131.xyz, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/es1?ed=2048', headers: {Host: es1.531131.xyz}}, udp: true}
+- {name: 🇪🇸 西班牙2 - 一颗机场, server: tunneltransfer.bpyjc.com, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/es1?ed=2048', headers: {Host: es1.531131.xyz}}, udp: true}
+- {name: 🇪🇸 西班牙3 - 一颗机场, server: m.hnten.com, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/es1?ed=2048', headers: {Host: es1.531131.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

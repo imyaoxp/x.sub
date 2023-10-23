@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡|甲骨文 - 一颗机场, server: ora-sg4.cou.gay, port: 23502, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -10,17 +10,27 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id001
-  - 🇺🇸美国 🌐「达拉斯」 - 北方航空
+  use: &id001
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -36,15 +46,25 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -53,22 +73,95 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  tolerance: 50
+  use: &id002
+  - TW
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  tolerance: 50
+  use: &id003
+  - SG
+- name: 🇯🇵 ‍日本
+  type: url-test
+  tolerance: 50
+  use: &id004
+  - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 50
+  use: &id005
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 50
-  proxies: &id002
-  - 距离下次重置剩余：8 天 - 北方航空
+  use: &id006
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  use: *id002
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  use: *id003
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  use: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id002
-proxies:
-- {name: 距离下次重置剩余：8 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 65e11d1b-15b0-4433-815d-f791507181c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
-- {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 65e11d1b-15b0-4433-815d-f791507181c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+  use: *id006
+proxy-providers:
+  TW:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/cloud.fanqiecloud.top/TW.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/cloud.fanqiecloud.top/SG.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/cloud.fanqiecloud.top/JP.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/cloud.fanqiecloud.top/US.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/cloud.fanqiecloud.top/Other.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

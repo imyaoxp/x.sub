@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 12482, type: ss, cipher: chacha20-ietf-poly1305, password: cd5bf1a9-7fde-47e1-a45e-f85dbd79f8a1, udp: true}
