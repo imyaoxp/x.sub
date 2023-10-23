@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 120.233.42.181, port: 50080, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: b.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: b.db-link.in}}, udp: true}
-- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.233.42.39, port: 50080, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: a.db-link.in}}, udp: true}
+- {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 120.233.42.189, port: 50080, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: b.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: b.db-link.in}}, udp: true}
+- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.233.42.181, port: 50080, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: a.db-link.in}}, udp: true}
