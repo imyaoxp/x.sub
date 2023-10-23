@@ -43,8 +43,8 @@ proxies:
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: r45OIfUqpGOqiTSa, udp: true}
 - {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: r45OIfUqpGOqiTSa, udp: true}
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: r45OIfUqpGOqiTSa, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 95254e59-0082-3f24-9389-177f99fdc5ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 95254e59-0082-3f24-9389-177f99fdc5ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: bdb1df5b-7b10-3f92-ad93-625f76092e64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: bdb1df5b-7b10-3f92-ad93-625f76092e64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 9077af6b-f8db-4956-acec-1bc3bc439b4a, udp: true}
@@ -52,9 +52,9 @@ proxies:
 - {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
 - {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
 - {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
-- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: a79679ec-0a24-4d48-ad78-3aa05a8a3f53, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: a79679ec-0a24-4d48-ad78-3aa05a8a3f53, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: a79679ec-0a24-4d48-ad78-3aa05a8a3f53, udp: true}
+- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: 5c912315-a1a1-4949-9978-5a635ac2d4d9, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: 5c912315-a1a1-4949-9978-5a635ac2d4d9, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 5c912315-a1a1-4949-9978-5a635ac2d4d9, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gzdx01.jcnode.top, port: 15035, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 41754, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 21425, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
