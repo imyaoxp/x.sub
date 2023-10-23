@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：8 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
+- {name: 距离下次重置剩余：7 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
 - {name: 🇰🇷 韩国首尔|甲骨文 - 一颗机场, server: ora-kr4.cou.gay, port: 24602, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 法国1 - 一颗机场, server: fr1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/fr1?ed=2048', headers: {Host: fr1.cou.gay}}, udp: true}
 - {name: 🇫🇷 法国2 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/fr1?ed=2048', headers: {Host: fr1.cou.gay}}, udp: true}
