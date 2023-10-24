@@ -1,8 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸|高速|优质IP - 大湾区坤厂, server: 154.7.179.5, port: 8080, type: vmess, uuid: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸|流媒体|TikTok - 大湾区坤厂, server: 154.7.179.5, port: 8080, type: vmess, uuid: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸|原生IP|优质IP - 大湾区坤厂, server: 154.7.179.5, port: 8080, type: vmess, uuid: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇭🇰 wap香港ss- - 大湾区坤厂, server: 38.47.120.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
+- {name: 🇺🇸专线|高速|强烈建议 - 大湾区坤厂, server: 110.72.100.83, port: 39111, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇭🇰|流媒体|2倍-中转 - 大湾区坤厂, server: 110.72.100.83, port: 39115, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
