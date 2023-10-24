@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本-东京-02|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 59937, type: trojan, password: ee3f0ead-45a1-4a3c-9ff4-2f8a3c0de496, sni: 15.zhudaidaohang.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 24184, type: trojan, password: ee3f0ead-45a1-4a3c-9ff4-2f8a3c0de496, sni: jgwjp1.zhoushuren.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-05|1X|GPT - 周树人Cloud, server: cs1.zhoushurentaobao.top, port: 24612, type: trojan, password: ee3f0ead-45a1-4a3c-9ff4-2f8a3c0de496, sni: cs1.zhoushurentaobao.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-06|1X|GPT - 周树人Cloud, server: gfriben01.588500.xyz, port: 24622, type: trojan, password: ee3f0ead-45a1-4a3c-9ff4-2f8a3c0de496, sni: gfriben01.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: ee3f0ead-45a1-4a3c-9ff4-2f8a3c0de496, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 59937, type: trojan, password: 0618d9c7-bfb9-47b6-b203-0dfa1f8bdd74, sni: 15.zhudaidaohang.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 24184, type: trojan, password: 0618d9c7-bfb9-47b6-b203-0dfa1f8bdd74, sni: jgwjp1.zhoushuren.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-05|1X|GPT - 周树人Cloud, server: cs1.zhoushurentaobao.top, port: 24612, type: trojan, password: 0618d9c7-bfb9-47b6-b203-0dfa1f8bdd74, sni: cs1.zhoushurentaobao.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-06|1X|GPT - 周树人Cloud, server: gfriben01.588500.xyz, port: 24622, type: trojan, password: 0618d9c7-bfb9-47b6-b203-0dfa1f8bdd74, sni: gfriben01.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: 0618d9c7-bfb9-47b6-b203-0dfa1f8bdd74, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
