@@ -6,3 +6,4 @@ proxies:
 - {name: 🇺🇸专线|流媒体| - 大湾区坤厂, server: 110.72.100.83, port: 39111, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇺🇸专线|北方| - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 39110, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇺🇸专线|南方| - 大湾区坤厂, server: 110.72.100.83, port: 39111, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
+- {name: 🇺🇸专线|广移| - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 39115, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}

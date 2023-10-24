@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 08b912a8-af4e-4354-97d6-6f0c92261811, udp: true}
-- {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 08b912a8-af4e-4354-97d6-6f0c92261811, udp: true}
-- {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 08b912a8-af4e-4354-97d6-6f0c92261811, udp: true}
+- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: d34e42da-eb59-45fd-951f-c1bb9c9cc018, udp: true}
+- {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: d34e42da-eb59-45fd-951f-c1bb9c9cc018, udp: true}
+- {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: d34e42da-eb59-45fd-951f-c1bb9c9cc018, udp: true}
