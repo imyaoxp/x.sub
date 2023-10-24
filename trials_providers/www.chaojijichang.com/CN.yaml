@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 - 超级机场, server: e.superjj.cc, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
-- {name: 🇹🇼 台湾 - 超级机场, server: e.superjj.cc, port: 50011, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
+- {name: 🇭🇰 香港 - 超级机场, server: ep.superjj.cc, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
+- {name: 🇹🇼 台湾 - 超级机场, server: ep.superjj.cc, port: 50011, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
