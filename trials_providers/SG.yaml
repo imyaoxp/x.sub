@@ -7,7 +7,6 @@ proxies:
 - {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
 - {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
 - {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
-- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: js1.76po.com, port: 26480, type: vmess, uuid: 3612c647-4dbe-4cb2-9beb-33bc0e2870f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '[🇸🇬] 打杂的02 x1 - 星河 583', server: v14.583182.xyz, port: 8443, type: vmess, uuid: 260da6e7-906d-4a2e-bd45-bc8025a8009d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v14.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v14.583181.xyz}}, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5c73f3-0290-4d0c-b547-2124fbce1b99, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 59211, type: ss, cipher: chacha20-ietf-poly1305, password: 1f5c73f3-0290-4d0c-b547-2124fbce1b99, udp: true}
@@ -43,8 +42,8 @@ proxies:
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: 62rFlhKjgyksycXE, udp: true}
 - {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: 62rFlhKjgyksycXE, udp: true}
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: 62rFlhKjgyksycXE, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 1d3ab3b2-7119-3702-91fb-2d4772d4ee3c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 1d3ab3b2-7119-3702-91fb-2d4772d4ee3c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: 1173aa4c-7ed4-3c0d-baa8-2f01c73fe5d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: 1173aa4c-7ed4-3c0d-baa8-2f01c73fe5d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 77837aa0-acb8-4b04-99c4-23abe04f205a, udp: true}
