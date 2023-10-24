@@ -10,12 +10,10 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇹🇼 ‍台湾
-  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -24,14 +22,26 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇹🇼 GCP-TW1-20230930 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW2-20230930 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW3-20230930 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network
-  - 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network
+  - 🇺🇸 美国new01（1倍率） - 快狗云
+  - 🇺🇸 美国new01优选（1倍率） - 快狗云
+  - 🇺🇸 美国new02（1倍率） - 快狗云
+  - 🇺🇸 美国new02优选（1倍率） - 快狗云
+  - 🇺🇸 美国new03（1倍率） - 快狗云
+  - 🇺🇸 美国new03优选（1倍率） - 快狗云
+  - 🇺🇸 美国new04（1倍率） - 快狗云
+  - 🇺🇸 美国new04优选（1倍率） - 快狗云
+  - 🇺🇸 美国02（1倍率） - 快狗云
+  - 🇺🇸 美国02 优选（1倍率） - 快狗云
+  - 🇰🇷 韩国01 优选（1倍率） - 快狗云
+  - 🇨🇦 加拿大new01（1倍率） - 快狗云
+  - 🇨🇦 加拿大new01优选（1倍率） - 快狗云
+  - 🇬🇧 英国new01（1倍率） - 快狗云
+  - 🇬🇧 英国new01优选（1倍率） - 快狗云
+  - 🇫🇷 法国new01（1倍率） - 快狗云
+  - 🇫🇷 法国new01优选（1倍率） - 快狗云
+  - 🇩🇪 德国new01（1倍率） - 快狗云
+  - 🇩🇪 德国new01优选（1倍率） - 快狗云
+  - 🇰🇷 韩国01（1倍率） - 快狗云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -47,21 +57,17 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -70,53 +76,68 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇹🇼 ‍台湾
+- name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇹🇼 GCP-TW1-20230930 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW2-20230930 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW3-20230930 - Kangaroo✦Network
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network
+  - 🇺🇸 美国new01（1倍率） - 快狗云
+  - 🇺🇸 美国new01优选（1倍率） - 快狗云
+  - 🇺🇸 美国new02（1倍率） - 快狗云
+  - 🇺🇸 美国new02优选（1倍率） - 快狗云
+  - 🇺🇸 美国new03（1倍率） - 快狗云
+  - 🇺🇸 美国new03优选（1倍率） - 快狗云
+  - 🇺🇸 美国new04（1倍率） - 快狗云
+  - 🇺🇸 美国new04优选（1倍率） - 快狗云
+  - 🇺🇸 美国02（1倍率） - 快狗云
+  - 🇺🇸 美国02 优选（1倍率） - 快狗云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
-  - 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network
+  proxies: &id003
+  - 🇰🇷 韩国01 优选（1倍率） - 快狗云
+  - 🇨🇦 加拿大new01（1倍率） - 快狗云
+  - 🇨🇦 加拿大new01优选（1倍率） - 快狗云
+  - 🇬🇧 英国new01（1倍率） - 快狗云
+  - 🇬🇧 英国new01优选（1倍率） - 快狗云
+  - 🇫🇷 法国new01（1倍率） - 快狗云
+  - 🇫🇷 法国new01优选（1倍率） - 快狗云
+  - 🇩🇪 德国new01（1倍率） - 快狗云
+  - 🇩🇪 德国new01优选（1倍率） - 快狗云
+  - 🇰🇷 韩国01（1倍率） - 快狗云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇹🇼 ‍台湾
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id004
+  proxies: *id003
 proxies:
-- {name: 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW1-20230930 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20230930 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20230930 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
-- {name: 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network, server: jp3.enuotime.com, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network, server: jp4.enuotime.com, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network, server: jp5.enuotime.com, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network, server: jp6.enuotime.com, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp6.enuotime.com}}, udp: true}
+- {name: 🇰🇷 韩国01 优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
+- {name: 🇨🇦 加拿大new01（1倍率） - 快狗云, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
+- {name: 🇨🇦 加拿大new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国new01（1倍率） - 快狗云, server: us-new01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new01.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new01.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国new02（1倍率） - 快狗云, server: us-new02.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new02.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国new02优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new02.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国new03（1倍率） - 快狗云, server: us-new03.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new03.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国new03优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new03.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国new04（1倍率） - 快狗云, server: us-new04.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new04.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国new04优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new04.gujuji.top}}, udp: true}
+- {name: 🇬🇧 英国new01（1倍率） - 快狗云, server: uk-new01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk-new01.gujuji.top}}, udp: true}
+- {name: 🇬🇧 英国new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: uk-new01.gujuji.top}}, udp: true}
+- {name: 🇫🇷 法国new01（1倍率） - 快狗云, server: fr-new01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fr-new01.gujuji.top}}, udp: true}
+- {name: 🇫🇷 法国new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fr-new01.gujuji.top}}, udp: true}
+- {name: 🇩🇪 德国new01（1倍率） - 快狗云, server: de-new01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de-new01.gujuji.top}}, udp: true}
+- {name: 🇩🇪 德国new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de-new01.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国02（1倍率） - 快狗云, server: us-01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-01.gujuji.top}}, udp: true}
+- {name: 🇺🇸 美国02 优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-02.gujuji.top}}, udp: true}
+- {name: 🇰🇷 韩国01（1倍率） - 快狗云, server: kr-01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

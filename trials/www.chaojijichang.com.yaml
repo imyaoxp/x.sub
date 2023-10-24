@@ -10,13 +10,19 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🎏 ‍其他
+  - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -24,14 +30,11 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇹🇼 GCP-TW1-20230930 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW2-20230930 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW3-20230930 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network
-  - 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network
+  - 🇭🇰 香港 - 超级机场
+  - 🇹🇼 台湾 - 超级机场
+  - 🇸🇬 新加坡 - 超级机场
+  - 🇯🇵 日本 - 超级机场
+  - 🇺🇸 美国 - 超级机场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -47,20 +50,26 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🎏 ‍其他
-  - 👆🏻🎏 ‍其他
+  - 🇺🇸 ‍美国
+  - 👆🏻🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -70,53 +79,76 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇹🇼 ‍台湾
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇹🇼 GCP-TW1-20230930 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW2-20230930 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW3-20230930 - Kangaroo✦Network
-- name: 🇯🇵 ‍日本
+  - 🇭🇰 香港 - 超级机场
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network
-- name: 🎏 ‍其他
+  - 🇹🇼 台湾 - 超级机场
+- name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network
+  - 🇭🇰 香港 - 超级机场
+  - 🇹🇼 台湾 - 超级机场
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id005
+  - 🇸🇬 新加坡 - 超级机场
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id006
+  - 🇯🇵 日本 - 超级机场
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id007
+  - 🇺🇸 美国 - 超级机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇹🇼 ‍台湾
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id003
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
 proxies:
-- {name: 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW1-20230930 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20230930 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20230930 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
-- {name: 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network, server: jp3.enuotime.com, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network, server: jp4.enuotime.com, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network, server: jp5.enuotime.com, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network, server: jp6.enuotime.com, port: 443, type: vmess, uuid: 619f4154-bfeb-437c-8fd4-8a4d4745c016, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp6.enuotime.com}}, udp: true}
+- {name: 🇭🇰 香港 - 超级机场, server: e.superjj.cc, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
+- {name: 🇹🇼 台湾 - 超级机场, server: e.superjj.cc, port: 50011, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
+- {name: 🇯🇵 日本 - 超级机场, server: e.superjj.cc, port: 50021, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
+- {name: 🇸🇬 新加坡 - 超级机场, server: e.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
+- {name: 🇺🇸 美国 - 超级机场, server: e.superjj.cc, port: 50041, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -52,9 +52,10 @@ proxies:
 - {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
 - {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
 - {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 107e74ef-7786-46af-a726-4296a1d7e175, udp: true}
-- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: c9eca96b-6014-4a88-9e5f-07076b535608, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: c9eca96b-6014-4a88-9e5f-07076b535608, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: c9eca96b-6014-4a88-9e5f-07076b535608, udp: true}
+- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 30690, type: trojan, password: 3df239d1-20d6-4a62-8c3c-735090710ad4, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 11896, type: trojan, password: 3df239d1-20d6-4a62-8c3c-735090710ad4, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡03|0.1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 3df239d1-20d6-4a62-8c3c-735090710ad4, udp: true}
+- {name: 🇸🇬 新加坡 - 超级机场, server: e.superjj.cc, port: 50031, type: ss, cipher: chacha20-ietf-poly1305, password: 5b2fca8f-07a3-40fc-8c3d-4a940f3b9ae5, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gzdx01.jcnode.top, port: 15035, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 41754, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 21425, type: trojan, password: cca7b36f-092e-405f-adff-93c37e9ff49c, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
