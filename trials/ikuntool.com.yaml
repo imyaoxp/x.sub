@@ -169,22 +169,22 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: 🇺🇸A美国-原生ip - ikunVPN, server: us-two.1234585.xyz, port: 80, type: vmess, uuid: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-two.1234585.xyz}}, udp: true}
-- {name: 🇺🇸B美国-中转 - ikunVPN, server: zfa.1234585.xyz, port: 12968, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇺🇸C美国-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 33752, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇭🇰A香港-中转 - ikunVPN, server: zfa.1234585.xyz, port: 26961, type: vmess, uuid: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfa.1234585.xyz}}, udp: true}
-- {name: 🇭🇰B香港-中转 - ikunVPN, server: zfa.1234585.xyz, port: 10645, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇭🇰C香港-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 36176, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇲🇽B墨西哥-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45419, type: vmess, uuid: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfa.1234585.xyz}}, udp: true}
-- {name: 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
-- {name: 🇹🇼 🇨🇳B台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
-- {name: 🇬🇧A英国-0.5倍率 - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
-- {name: 🇬🇧B英国-0.5倍率 - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇬🇧C英国-0.5倍率 - ikunVPN, server: gb-three.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, udp: true}
-- {name: 🇰🇵A朝鲜 - ikunVPN, server: 104.21.34.30, port: 80, type: vmess, uuid: 3e0a9b47-ece0-46bf-8349-4070a5f66d1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kp.1234585.xyz}}, udp: true}
+- {name: 🇺🇸A美国-原生ip - ikunVPN, server: us-two.1234585.xyz, port: 80, type: vmess, uuid: 97b89038-95b7-450b-b9f2-9ebf70c71a36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-two.1234585.xyz}}, udp: true}
+- {name: 🇺🇸B美国-中转 - ikunVPN, server: zfa.1234585.xyz, port: 12968, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇺🇸C美国-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 33752, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇭🇰A香港-中转 - ikunVPN, server: zfa.1234585.xyz, port: 26961, type: vmess, uuid: 97b89038-95b7-450b-b9f2-9ebf70c71a36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfa.1234585.xyz}}, udp: true}
+- {name: 🇭🇰B香港-中转 - ikunVPN, server: zfa.1234585.xyz, port: 10645, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇭🇰C香港-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 36176, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇲🇽B墨西哥-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45419, type: vmess, uuid: 97b89038-95b7-450b-b9f2-9ebf70c71a36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfa.1234585.xyz}}, udp: true}
+- {name: 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 97b89038-95b7-450b-b9f2-9ebf70c71a36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
+- {name: 🇹🇼 🇨🇳B台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 97b89038-95b7-450b-b9f2-9ebf70c71a36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
+- {name: 🇬🇧A英国-0.5倍率 - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: 97b89038-95b7-450b-b9f2-9ebf70c71a36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
+- {name: 🇬🇧B英国-0.5倍率 - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇬🇧C英国-0.5倍率 - ikunVPN, server: gb-three.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 97b89038-95b7-450b-b9f2-9ebf70c71a36, udp: true}
+- {name: 🇰🇵A朝鲜 - ikunVPN, server: 104.21.34.30, port: 80, type: vmess, uuid: 97b89038-95b7-450b-b9f2-9ebf70c71a36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kp.1234585.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
