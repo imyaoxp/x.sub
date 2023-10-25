@@ -39,9 +39,6 @@ proxy-groups:
   - 🇺🇸 美国堪萨斯3 - 一颗机场
   - 🇺🇸 美国洛杉矶 - 一颗机场
   - 🇰🇷 韩国首尔|甲骨文 - 一颗机场
-  - 🇫🇷 法国1 - 一颗机场
-  - 🇫🇷 法国2 - 一颗机场
-  - 🇫🇷 法国3 - 一颗机场
   - 🇮🇹 意大利1 - 一颗机场
   - 🇮🇹 意大利2 - 一颗机场
   - 🇮🇹 意大利3 - 一颗机场
@@ -138,9 +135,6 @@ proxy-groups:
   tolerance: 50
   proxies: &id006
   - 🇰🇷 韩国首尔|甲骨文 - 一颗机场
-  - 🇫🇷 法国1 - 一颗机场
-  - 🇫🇷 法国2 - 一颗机场
-  - 🇫🇷 法国3 - 一颗机场
   - 🇮🇹 意大利1 - 一颗机场
   - 🇮🇹 意大利2 - 一颗机场
   - 🇮🇹 意大利3 - 一颗机场
@@ -183,9 +177,6 @@ proxies:
 - {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp5.cou.gay, port: 20402, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国首尔|甲骨文 - 一颗机场, server: ora-kr4.cou.gay, port: 24602, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|甲骨文 - 一颗机场, server: ora-sg4.cou.gay, port: 23502, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国1 - 一颗机场, server: fr1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/fr1?ed=2048', headers: {Host: fr1.cou.gay}}, udp: true}
-- {name: 🇫🇷 法国2 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/fr1?ed=2048', headers: {Host: fr1.cou.gay}}, udp: true}
-- {name: 🇫🇷 法国3 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/fr1?ed=2048', headers: {Host: fr1.cou.gay}}, udp: true}
 - {name: 🇮🇹 意大利1 - 一颗机场, server: it1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
 - {name: 🇮🇹 意大利2 - 一颗机场, server: v4.cfnode.eu.org, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
 - {name: 🇮🇹 意大利3 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/it1?ed=2048', headers: {Host: it1.cou.gay}}, udp: true}
