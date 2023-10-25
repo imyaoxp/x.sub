@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇽B墨西哥-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45419, type: vmess, uuid: 33257f7f-f4c2-44d3-8c25-e9bc41ed3bf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfa.1234585.xyz}}, udp: true}
-- {name: 🇬🇧A英国-0.5倍率 - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: 33257f7f-f4c2-44d3-8c25-e9bc41ed3bf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
-- {name: 🇬🇧B英国-0.5倍率 - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 33257f7f-f4c2-44d3-8c25-e9bc41ed3bf4, udp: true}
-- {name: 🇬🇧C英国-4g带宽0.5倍率 - ikunVPN, server: gb-three.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 33257f7f-f4c2-44d3-8c25-e9bc41ed3bf4, udp: true}
-- {name: 🇰🇵A朝鲜 - ikunVPN, server: 104.21.34.30, port: 80, type: vmess, uuid: 33257f7f-f4c2-44d3-8c25-e9bc41ed3bf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kp.1234585.xyz}}, udp: true}
+- {name: 🇲🇽B墨西哥-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45419, type: vmess, uuid: 9ad1d2cb-3ae3-443b-b25a-7fbbc82026ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfa.1234585.xyz}}, udp: true}
+- {name: 🇬🇧A英国-0.5倍率 - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: 9ad1d2cb-3ae3-443b-b25a-7fbbc82026ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
+- {name: 🇬🇧B英国-0.5倍率 - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 9ad1d2cb-3ae3-443b-b25a-7fbbc82026ef, udp: true}
+- {name: 🇬🇧C英国-4g带宽0.5倍率 - ikunVPN, server: gb-three.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 9ad1d2cb-3ae3-443b-b25a-7fbbc82026ef, udp: true}
+- {name: 🇰🇵A朝鲜 - ikunVPN, server: 104.21.34.30, port: 80, type: vmess, uuid: 9ad1d2cb-3ae3-443b-b25a-7fbbc82026ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kp.1234585.xyz}}, udp: true}

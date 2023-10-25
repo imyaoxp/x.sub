@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸A美国-原生ip - ikunVPN, server: us-two.1234585.xyz, port: 80, type: vmess, uuid: 33257f7f-f4c2-44d3-8c25-e9bc41ed3bf4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-two.1234585.xyz}}, udp: true}
-- {name: 🇺🇸B美国-中转 - ikunVPN, server: zfa.1234585.xyz, port: 12968, type: ss, cipher: aes-256-gcm, password: 33257f7f-f4c2-44d3-8c25-e9bc41ed3bf4, udp: true}
-- {name: 🇺🇸C美国-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 33752, type: ss, cipher: aes-256-gcm, password: 33257f7f-f4c2-44d3-8c25-e9bc41ed3bf4, udp: true}
+- {name: 🇺🇸A美国-原生ip - ikunVPN, server: us-two.1234585.xyz, port: 80, type: vmess, uuid: 9ad1d2cb-3ae3-443b-b25a-7fbbc82026ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-two.1234585.xyz}}, udp: true}
+- {name: 🇺🇸B美国-中转 - ikunVPN, server: zfa.1234585.xyz, port: 12968, type: ss, cipher: aes-256-gcm, password: 9ad1d2cb-3ae3-443b-b25a-7fbbc82026ef, udp: true}
+- {name: 🇺🇸C美国-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 33752, type: ss, cipher: aes-256-gcm, password: 9ad1d2cb-3ae3-443b-b25a-7fbbc82026ef, udp: true}
