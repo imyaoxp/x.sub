@@ -1,9 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 8aa071a6-1603-4bf3-bdd6-7252f21c581e, udp: true}
-- {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 8aa071a6-1603-4bf3-bdd6-7252f21c581e, udp: true}
-- {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 8aa071a6-1603-4bf3-bdd6-7252f21c581e, udp: true}
+- {name: 🇸🇬 新加坡L1-广新隧道-解锁 - 快云, server: lpl.xggj.xn--fiqs8s, port: 45914, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬A新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 47735, type: ss, cipher: aes-256-gcm, password: 63f70f61-190b-42ee-b38a-ab39eb5b4fcd, udp: true}
+- {name: 🇸🇬B新加坡-中转 - ikunVPN, server: zfa.1234585.xyz, port: 45543, type: ss, cipher: aes-256-gcm, password: 63f70f61-190b-42ee-b38a-ab39eb5b4fcd, udp: true}
+- {name: 🇸🇬C新加坡-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 12468, type: ss, cipher: aes-256-gcm, password: 63f70f61-190b-42ee-b38a-ab39eb5b4fcd, udp: true}
 - {name: '[🇸🇬] 打杂的02 x1 - 星河 583', server: v14.583182.xyz, port: 8443, type: vmess, uuid: 260da6e7-906d-4a2e-bd45-bc8025a8009d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v14.583181.xyz, network: ws, ws-opts: {path: /, headers: {Host: v14.583181.xyz}}, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: b96a2c0e-f059-4d2d-8d3d-3497c543339a, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 59211, type: ss, cipher: chacha20-ietf-poly1305, password: b96a2c0e-f059-4d2d-8d3d-3497c543339a, udp: true}

@@ -2,9 +2,7 @@
 ---
 proxies:
 - {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 15708, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: zf.zsr-seoul.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 37971, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: manghe.xiaohongshuvpn.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 23378, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: 1.waimaozhan.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 56859, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: 2.waimaozhan.top, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 HK-香港05|流媒体|1X - 周树人Cloud', server: zf.zsr-seoul2.661145.xyz, port: 13256, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: akari-hk-v6-zsr-1.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 56859, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: 2.waimaozhan.top, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud', server: zf.zsr-seoul2.661145.xyz, port: 13256, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: akari-hk-v6-zsr-1.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud', server: zf.zsr-seoul.661145.xyz, port: 23682, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud', server: zf.zsr-seoul2.661145.xyz, port: 50395, type: trojan, password: eb7e9db1-d296-41ae-9c3b-dddc2abbe4c0, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
