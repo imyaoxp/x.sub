@@ -24,9 +24,8 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰-广联-中转 - 大湾区坤厂
   - 🇭🇰-北方高速-首尔转发 - 大湾区坤厂
-  - 🇺🇸专线|高速| - 大湾区坤厂
-  - 🇺🇸专线|ChatGPT| - 大湾区坤厂
-  - 🇺🇸专线|流媒体| - 大湾区坤厂
+  - 🇺🇸专线|广联| - 大湾区坤厂
+  - 🇺🇸流媒体|ChatGPT| - 大湾区坤厂
   - 🇺🇸专线|北方| - 大湾区坤厂
 - name: 🛩️ ‍墙内
   type: select
@@ -76,9 +75,8 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇺🇸专线|高速| - 大湾区坤厂
-  - 🇺🇸专线|ChatGPT| - 大湾区坤厂
-  - 🇺🇸专线|流媒体| - 大湾区坤厂
+  - 🇺🇸专线|广联| - 大湾区坤厂
+  - 🇺🇸流媒体|ChatGPT| - 大湾区坤厂
   - 🇺🇸专线|北方| - 大湾区坤厂
 - name: 👆🏻 ‍指定
   type: select
@@ -92,9 +90,8 @@ proxy-groups:
 proxies:
 - {name: 🇭🇰-广联-中转 - 大湾区坤厂, server: 110.72.100.83, port: 33290, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇭🇰-北方高速-首尔转发 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 37973, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
-- {name: 🇺🇸专线|高速| - 大湾区坤厂, server: 110.72.100.83, port: 39111, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
-- {name: 🇺🇸专线|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 39111, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
-- {name: 🇺🇸专线|流媒体| - 大湾区坤厂, server: 110.72.100.83, port: 39111, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
+- {name: 🇺🇸专线|广联| - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
+- {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇺🇸专线|北方| - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 39110, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
