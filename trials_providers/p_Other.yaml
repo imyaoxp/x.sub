@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：6 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: b96a2c0e-f059-4d2d-8d3d-3497c543339a, udp: true}
+- {name: 距离下次重置剩余：6 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: c7c175fd-c196-45c1-bf23-c3d19e2a645c, udp: true}
 - {name: 距离下次重置剩余：6 天 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 0e6d4b9a-f62a-47d6-b783-03ad50a5cb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: e53e8eab-cd22-34a8-aeab-b86094b4410b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: e53e8eab-cd22-34a8-aeab-b86094b4410b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 130536:czKglO, obfs-param: '7717a130536.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 843454af-dd83-3f46-b402-1d67f83ba4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 843454af-dd83-3f46-b402-1d67f83ba4c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 130539:0V3qSe, obfs-param: 'a1993130539.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 距离下次重置剩余：30 天 - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
 - {name: 官网www. kuaigou.life - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 1b3c312d-01e5-4b5f-8052-5983a7a6a1a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
-- {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 120.241.46.221, port: 61005, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: b.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: b.db-link.in}}, udp: true}
-- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.241.46.221, port: 61051, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: a.db-link.in}}, udp: true}
+- {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 120.241.46.222, port: 61092, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: b.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: b.db-link.in}}, udp: true}
+- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.241.46.222, port: 61011, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: a.db-link.in, network: ws, ws-opts: {path: /db00, headers: {Host: a.db-link.in}}, udp: true}
 - {name: 距离下次重置剩余：19 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 9ce459ff-a3de-4dd9-b93d-d692aeb3070f, udp: true}
 - {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 9ce459ff-a3de-4dd9-b93d-d692aeb3070f, udp: true}
 - {name: 距离下次重置剩余：6 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: f6831eb1-1c55-4de3-a241-09d29c5f8cb6, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
