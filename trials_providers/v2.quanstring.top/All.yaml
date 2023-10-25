@@ -6,3 +6,4 @@ proxies:
 - {name: 🇺🇸专线|广联| - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 52011, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇺🇸专线|北方| - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 39110, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
+- {name: 🇺🇸-直连 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
