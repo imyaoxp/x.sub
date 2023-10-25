@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 71052a57-8d00-4297-a146-e623df6a88cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
-- {name: 🇹🇼 🇨🇳B台湾-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 44444, type: vmess, uuid: 71052a57-8d00-4297-a146-e623df6a88cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xiongda006.daxiongda.top}}, udp: true}
+- {name: 🇹🇼 🇨🇳A台湾-原生ip - ikunVPN, server: tw-one.1234585.xyz, port: 80, type: vmess, uuid: 8aa071a6-1603-4bf3-bdd6-7252f21c581e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw-one.1234585.xyz}}, udp: true}
+- {name: 🇹🇼 🇨🇳B台湾-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 44444, type: vmess, uuid: 8aa071a6-1603-4bf3-bdd6-7252f21c581e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xiongda006.daxiongda.top}}, udp: true}
