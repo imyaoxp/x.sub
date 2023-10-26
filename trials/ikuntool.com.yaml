@@ -45,6 +45,7 @@ proxy-groups:
   - 🇬🇧A英国-0.5倍率 - ikunVPN
   - 🇬🇧B英国-0.5倍率 - ikunVPN
   - 🇬🇧C英国-4g带宽0.5倍率 - ikunVPN
+  - 🇨🇦A加拿大-0.1倍率 - ikunVPN
   - 🇰🇵A朝鲜 - ikunVPN
   - 🇦🇶南极洲 - ikunVPN
 - name: 🛩️ ‍墙内
@@ -147,6 +148,7 @@ proxy-groups:
   - 🇬🇧A英国-0.5倍率 - ikunVPN
   - 🇬🇧B英国-0.5倍率 - ikunVPN
   - 🇬🇧C英国-4g带宽0.5倍率 - ikunVPN
+  - 🇨🇦A加拿大-0.1倍率 - ikunVPN
   - 🇰🇵A朝鲜 - ikunVPN
   - 🇦🇶南极洲 - ikunVPN
 - name: 👆🏻 ‍指定
@@ -186,6 +188,7 @@ proxies:
 - {name: 🇬🇧A英国-0.5倍率 - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: 0ac46de0-6f19-4903-864b-7814f784350c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
 - {name: 🇬🇧B英国-0.5倍率 - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 0ac46de0-6f19-4903-864b-7814f784350c, udp: true}
 - {name: 🇬🇧C英国-4g带宽0.5倍率 - ikunVPN, server: gb-three.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: 0ac46de0-6f19-4903-864b-7814f784350c, udp: true}
+- {name: 🇨🇦A加拿大-0.1倍率 - ikunVPN, server: ca-one.1234585.xyz, port: 443, type: vmess, uuid: 0ac46de0-6f19-4903-864b-7814f784350c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-one.1234585.xyz}}, udp: true}
 - {name: 🇰🇵A朝鲜 - ikunVPN, server: 104.21.34.30, port: 80, type: vmess, uuid: 0ac46de0-6f19-4903-864b-7814f784350c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kp.1234585.xyz}}, udp: true}
 - {name: 🇦🇶南极洲 - ikunVPN, server: 172.67.167.215, port: 80, type: vmess, uuid: 0ac46de0-6f19-4903-864b-7814f784350c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: aq.1234585.xyz}}, udp: true}
 rules:
