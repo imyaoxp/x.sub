@@ -33,7 +33,6 @@ proxy-groups:
   - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国02 - 都是梦
   - 🇺🇸美国03 - 都是梦
-  - 🇺🇸美国04 - 都是梦
   - 🇰🇷韩国01 - 都是梦
   - 🇰🇷韩国02 - 都是梦
   - 🇦🇺澳大利亚01 - 都是梦
@@ -110,7 +109,6 @@ proxy-groups:
   - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国02 - 都是梦
   - 🇺🇸美国03 - 都是梦
-  - 🇺🇸美国04 - 都是梦
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -148,8 +146,7 @@ proxy-groups:
 proxies:
 - {name: 🇺🇸美国01 - 都是梦, server: us2.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 92e20f77-ec9f-419a-99b3-d3a86b219216, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: us3.doushimeng.com, port: 21052, type: ss, cipher: chacha20-ietf-poly1305, password: 92e20f77-ec9f-419a-99b3-d3a86b219216, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 92e20f77-ec9f-419a-99b3-d3a86b219216, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us10.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国04 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 92e20f77-ec9f-419a-99b3-d3a86b219216, udp: true}
+- {name: 🇺🇸美国03 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 92e20f77-ec9f-419a-99b3-d3a86b219216, udp: true}
 - {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22553, type: ss, cipher: chacha20-ietf-poly1305, password: 92e20f77-ec9f-419a-99b3-d3a86b219216, udp: true}
 - {name: 🇰🇷韩国02 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 92e20f77-ec9f-419a-99b3-d3a86b219216, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2.112592.xyz}}, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 92e20f77-ec9f-419a-99b3-d3a86b219216, udp: true}
