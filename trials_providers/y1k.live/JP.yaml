@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp5.cou.gay, port: 20402, type: vmess, uuid: 2b4039d1-bd97-4acc-b13a-6cd44d7654b6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
