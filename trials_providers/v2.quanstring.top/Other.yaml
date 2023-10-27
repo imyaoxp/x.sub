@@ -3,4 +3,5 @@
 proxies:
 - {name: 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 38813, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
+- {name: WePc-4837-SS - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇻🇳 越南鸡-直连 - 大湾区坤厂, server: 103.245.237.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
