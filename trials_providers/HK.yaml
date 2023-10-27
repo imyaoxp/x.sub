@@ -60,12 +60,12 @@ proxies:
 - {name: 🇭🇰 JCBB_香港09【vip1】 - JCBB, server: gzyd.jcnode.top, port: 54088, type: trojan, password: 6fb0ccd7-6615-4f1c-9e48-916cf5a98215, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港10_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 57230, type: trojan, password: 6fb0ccd7-6615-4f1c-9e48-916cf5a98215, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港10【vip1】 - JCBB, server: gzdx.jcnode.top, port: 27753, type: trojan, password: 6fb0ccd7-6615-4f1c-9e48-916cf5a98215, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.susenl.com, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: mhHRqcBzosrW3kbI, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: hk1.susenl.com, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: mhHRqcBzosrW3kbI, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: hk1.susenl.com, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: mhHRqcBzosrW3kbI, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: hk1.susenl.com, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: mhHRqcBzosrW3kbI, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: hk1.susenl.com, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: mhHRqcBzosrW3kbI, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: hk1.susenl.com, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: mhHRqcBzosrW3kbI, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.susenl.com, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: kCfvWsZPwrjdOTlW, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: hk1.susenl.com, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: kCfvWsZPwrjdOTlW, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: hk1.susenl.com, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: kCfvWsZPwrjdOTlW, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: hk1.susenl.com, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: kCfvWsZPwrjdOTlW, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: hk1.susenl.com, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: kCfvWsZPwrjdOTlW, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: hk1.susenl.com, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: kCfvWsZPwrjdOTlW, udp: true}
 - {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: 69f3dd75-fcf0-3986-a2e1-d73c7153dd6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: 69f3dd75-fcf0-3986-a2e1-d73c7153dd6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰-广联-1.5倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
