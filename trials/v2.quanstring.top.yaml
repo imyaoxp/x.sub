@@ -10,12 +10,10 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -26,19 +24,15 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰-广联-1.5倍 - 大湾区坤厂
-  - 🇭🇰-北方-首尔-1.5倍 - 大湾区坤厂
   - 🇸🇬-南方-广联-2倍 - 大湾区坤厂
   - 🇸🇬-北方-首尔-2倍 - 大湾区坤厂
-  - 🇺🇸4837-南方-广联-1倍 - 大湾区坤厂
-  - 🇺🇸4837-北方-首尔-1倍 - 大湾区坤厂
+  - 🇺🇸4837-南方-广联-03倍 - 大湾区坤厂
+  - 🇺🇸4837-北方-首尔-0.3倍 - 大湾区坤厂
   - 🇺🇸9929-北方-日本-1倍 - 大湾区坤厂
   - 🇺🇸-直连 - 大湾区坤厂
   - 🇺🇸流媒体|ChatGPT| - 大湾区坤厂
   - 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂
   - 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂
-  - WePc-4837-SS - 大湾区坤厂
-  - 🇻🇳 越南鸡-直连 - 大湾区坤厂
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -54,10 +48,8 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -77,20 +69,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰-广联-1.5倍 - 大湾区坤厂
-  - 🇭🇰-北方-首尔-1.5倍 - 大湾区坤厂
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id003
+  proxies: &id002
   - 🇸🇬-南方-广联-2倍 - 大湾区坤厂
   - 🇸🇬-北方-首尔-2倍 - 大湾区坤厂
 - name: 🇺🇸 ‍美国
@@ -98,9 +82,9 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
-  - 🇺🇸4837-南方-广联-1倍 - 大湾区坤厂
-  - 🇺🇸4837-北方-首尔-1倍 - 大湾区坤厂
+  proxies: &id003
+  - 🇺🇸4837-南方-广联-03倍 - 大湾区坤厂
+  - 🇺🇸4837-北方-首尔-0.3倍 - 大湾区坤厂
   - 🇺🇸9929-北方-日本-1倍 - 大湾区坤厂
   - 🇺🇸-直连 - 大湾区坤厂
   - 🇺🇸流媒体|ChatGPT| - 大湾区坤厂
@@ -109,40 +93,31 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id004
   - 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂
   - 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂
-  - WePc-4837-SS - 大湾区坤厂
-  - 🇻🇳 越南鸡-直连 - 大湾区坤厂
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id003
+  proxies: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
+  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
+  proxies: *id004
 proxies:
-- {name: 🇺🇸4837-南方-广联-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
-- {name: 🇺🇸4837-北方-首尔-1倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
+- {name: 🇺🇸4837-南方-广联-03倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
+- {name: 🇺🇸4837-北方-首尔-0.3倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇺🇸9929-北方-日本-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇻🇳 越南鸡-首尔-高速 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 38813, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇻🇳 越南鸡-日本-高速 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇸🇬-北方-首尔-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
-- {name: 🇭🇰-广联-1.5倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
-- {name: 🇭🇰-北方-首尔-1.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 37973, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 - {name: 🇺🇸-直连 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
-- {name: WePc-4837-SS - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
-- {name: 🇻🇳 越南鸡-直连 - 大湾区坤厂, server: 103.245.237.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 7dbf88fe-4117-4f36-ba1d-cbb10fdc3e1b, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
