@@ -1,7 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本1 - 一颗机场, server: jp1.cou.gay, port: 443, type: vmess, uuid: 2b4039d1-bd97-4acc-b13a-6cd44d7654b6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jp1?ed=2048', headers: {Host: jp1.cou.gay}}, udp: true}
-- {name: 🇯🇵 日本2 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: 2b4039d1-bd97-4acc-b13a-6cd44d7654b6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jp1?ed=2048', headers: {Host: jp1.cou.gay}}, udp: true}
-- {name: 🇯🇵 日本3 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: 2b4039d1-bd97-4acc-b13a-6cd44d7654b6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/jp1?ed=2048', headers: {Host: jp1.cou.gay}}, udp: true}
 - {name: 🇯🇵 日本东京|甲骨文 - 一颗机场, server: ora-jp5.cou.gay, port: 20402, type: vmess, uuid: 2b4039d1-bd97-4acc-b13a-6cd44d7654b6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
