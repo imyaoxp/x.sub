@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 63082, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
-- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 62004, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
+- {name: 【dabai.in】<<节点购买地址|公益 - 大白, server: 120.241.46.222, port: 61002, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
+- {name: 【db01.in】<<节点购买地址|公益 - 大白, server: 120.241.46.223, port: 61014, type: vmess, uuid: 52d61383-acc4-330a-acc9-23d1bb1de56c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data.cn-db.top}}, udp: true}
