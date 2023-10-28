@@ -66,6 +66,7 @@ proxy-groups:
   - 🇺🇸美国-芝加哥-16|0.1X - 周树人Cloud
   - 🇺🇸美国商宽-纽约-01|1X|GPT - 周树人Cloud
   - 🇺🇸美国商宽-纽约-02|1X|GPT - 周树人Cloud
+  - 🇳🇱 [CT101]-荷兰-0倍率 - 周树人Cloud
   - 🇦🇪阿联酋-迪拜-01|0.1X - 周树人Cloud
   - 🇦🇪阿联酋-迪拜-02|0.1X - 周树人Cloud
   - 🇦🇪阿联酋-迪拜-03|0.1X - 周树人Cloud
@@ -260,6 +261,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id008
+  - 🇳🇱 [CT101]-荷兰-0倍率 - 周树人Cloud
   - 🇦🇪阿联酋-迪拜-01|0.1X - 周树人Cloud
   - 🇦🇪阿联酋-迪拜-02|0.1X - 周树人Cloud
   - 🇦🇪阿联酋-迪拜-03|0.1X - 周树人Cloud
@@ -346,6 +348,7 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
+- {name: '🇳🇱 [CT101]-荷兰-0倍率 - 周树人Cloud', server: zf.zsr-seoul.661145.xyz, port: 10803, type: vmess, uuid: cf3e74e4-701a-43e8-ae6c-268915b65860, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhs1dss99sssssd, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇦🇪阿联酋-迪拜-01|0.1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 55094, type: trojan, password: cf3e74e4-701a-43e8-ae6c-268915b65860, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇦🇪阿联酋-迪拜-02|0.1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 48604, type: trojan, password: cf3e74e4-701a-43e8-ae6c-268915b65860, sni: d1.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇦🇪阿联酋-迪拜-03|0.1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 33812, type: trojan, password: cf3e74e4-701a-43e8-ae6c-268915b65860, sni: d2.zhudaidaohang.com, skip-cert-verify: true, udp: true}
