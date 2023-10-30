@@ -49,10 +49,10 @@ proxies:
 - {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 10444, type: trojan, password: 913ecc8c-ba32-46d9-82bd-de3bf535133b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 49038, type: trojan, password: 913ecc8c-ba32-46d9-82bd-de3bf535133b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24498, type: trojan, password: 913ecc8c-ba32-46d9-82bd-de3bf535133b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.susenl.com, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: 0B5IA6kBIm0oEUc7, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: jp1.susenl.com, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: 0B5IA6kBIm0oEUc7, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: jp1.susenl.com, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: 0B5IA6kBIm0oEUc7, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: jp1.susenl.com, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: 0B5IA6kBIm0oEUc7, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.susenl.com, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: 6ts03FaosKGpMkss, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: jp1.susenl.com, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: 6ts03FaosKGpMkss, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: jp1.susenl.com, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: 6ts03FaosKGpMkss, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: jp1.susenl.com, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: 6ts03FaosKGpMkss, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: 9ce3f9fd-5f7f-3b34-acfd-bca552845c1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: 9ce3f9fd-5f7f-3b34-acfd-bca552845c1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom, server: jp1.boom.skin, port: 30000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 948734:ITYrcu, obfs-param: download.windowsupdate.com, udp: true}
