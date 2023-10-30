@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8715:IvZCj7, obfs-param: 60f148715.download.windowsupdate.com, udp: true}
+- {name: 🇺🇸 AZ美国隧道转移动3 - cloudtu, server: yt201.jdxx1.com, port: 16488, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8717:HbO9su, obfs-param: 88a198717.download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 美国01-Netflix|Disney+|动画疯 - 盛丰, server: us.nodegroups.ink, port: 33208, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02 - 盛丰, server: us.nodegroups.ink, port: 33209, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国03 - 盛丰, server: us.nodegroups.ink, port: 33210, type: vmess, uuid: 4b449371-48ba-3003-aa87-0ca04fe79849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
