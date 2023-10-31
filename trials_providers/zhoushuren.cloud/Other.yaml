@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇦🇪阿联酋-迪拜-01|0.1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 55094, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪阿联酋-迪拜-01|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 55094, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇵🇭菲律宾-马尼拉-01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 20012, type: vmess, uuid: f4690740-2f20-45f8-95a3-daf115454680, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdyFDSFSfdfsd, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇲🇲缅甸-曼德勒-01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 40213, type: vmess, uuid: f4690740-2f20-45f8-95a3-daf115454680, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vfhnr56867, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇰🇭柬埔寨-金边-01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 42014, type: vmess, uuid: f4690740-2f20-45f8-95a3-daf115454680, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cdst45df, headers: {Host: www.apple.com}}, udp: true}
@@ -48,6 +48,7 @@ proxies:
 - {name: 🇮🇳印度-海得拉巴-02|0.1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 16340, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: hdlb-2-129.154.32.0.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇩印尼-雅加达-01|2X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 54525, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: jkjkjkj.91oracle.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇸🇦沙特阿拉伯-吉达-01|0.1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 31930, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: lingche-shate.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺俄罗斯-莫斯科 | 0倍率 |油管专用 - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 52267, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: ruvds.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇱以色列-耶路撒冷-01|0.1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 35058, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: lingche-yelusal.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇨🇭瑞士-苏黎世-01|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 17318, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: 2.ndy588502.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇮🇪爱尔兰-都柏林-01|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 45788, type: trojan, password: f4690740-2f20-45f8-95a3-daf115454680, sni: Ireland-aws-ls-ip-172-26-13-218.zhoushuren.me, skip-cert-verify: true, udp: true}

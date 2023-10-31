@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【使用前请更新订阅】官网|vtoacc.com - V2Link, server: free.v2aff.link, port: 2053, type: vmess, uuid: 0e06df67-c633-4caf-9cf7-5c1e3112741a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
+- {name: 【使用前请更新订阅】官网|vtoacc.com - V2Link, server: free.v2aff.link, port: 2053, type: vmess, uuid: 03f793f6-3fa0-4390-86d7-2ea34c01e0c6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
