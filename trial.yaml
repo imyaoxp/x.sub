@@ -287,6 +287,8 @@ proxy-groups:
   - 🇯🇵 vip1 日本-08 - FastFly
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
+  - 🇯🇵日本-东京-02|0.2X - 周树人Cloud
+  - 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud
   - 🇯🇵日本-东京-07|1X - 周树人Cloud
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
@@ -1202,6 +1204,8 @@ proxy-groups:
   - 🇯🇵 vip1 日本-08 - FastFly
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
+  - 🇯🇵日本-东京-02|0.2X - 周树人Cloud
+  - 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud
   - 🇯🇵日本-东京-07|1X - 周树人Cloud
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
@@ -1772,6 +1776,8 @@ proxies:
 - {name: 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-04|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇲🇴澳门特别行政区-01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 20011, type: vmess, uuid: 51b8b539-b162-4c21-baf7-ca10f9c7360d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy56udfgsd43565hfdfsd, headers: {Host: www.apple.com}}, udp: true}
+- {name: 🇯🇵日本-东京-02|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 13888, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: jgwjpmd1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 38357, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: jgwjpmd2.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇪阿联酋-迪拜-01|0.1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 55094, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇵🇭菲律宾-马尼拉-01|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 20012, type: vmess, uuid: 51b8b539-b162-4c21-baf7-ca10f9c7360d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdyFDSFSfdfsd, headers: {Host: www.apple.com}}, udp: true}

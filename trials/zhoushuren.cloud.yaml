@@ -44,6 +44,8 @@ proxy-groups:
   - 🇸🇬新加坡01|1X|GPT - 周树人Cloud
   - 🇸🇬新加坡02|1X|GPT - 周树人Cloud
   - 🇸🇬新加坡03|0.1X - 周树人Cloud
+  - 🇯🇵日本-东京-02|0.2X - 周树人Cloud
+  - 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud
   - 🇯🇵日本-东京-07|1X - 周树人Cloud
   - 🇺🇸美国-纽约-00|1X - 周树人Cloud
   - 🇺🇸美国-圣何塞-01|1X - 周树人Cloud
@@ -217,6 +219,8 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id006
+  - 🇯🇵日本-东京-02|0.2X - 周树人Cloud
+  - 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud
   - 🇯🇵日本-东京-07|1X - 周树人Cloud
 - name: 🇺🇸 ‍美国
   type: url-test
@@ -365,6 +369,8 @@ proxies:
 - {name: 🇰🇷韩国03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 24089, type: ss, cipher: aes-256-gcm, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, udp: true}
 - {name: 🇰🇷韩国04|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 19458, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: e.longwangtaobao.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷韩国05|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 36034, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: f.longwangtaobao.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 13888, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: jgwjpmd1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 38357, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: jgwjpmd2.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺澳洲-悉尼-01|1X - 周树人Cloud, server: doaozhou.588511.xyz, port: 443, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: doaozhou.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺澳洲-悉尼-02|1X - 周树人Cloud, server: zf.zsr-seoul.661145.xyz, port: 56495, type: trojan, password: 51b8b539-b162-4c21-baf7-ca10f9c7360d, sni: xn1.zhoushuren.me, skip-cert-verify: true, udp: true}
