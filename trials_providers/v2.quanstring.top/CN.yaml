@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰-专线02-2.25倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 282d55d8-da16-4343-90ee-3332934a6d2b, udp: true}
+- {name: 🇭🇰-流媒体02-2.25倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 282d55d8-da16-4343-90ee-3332934a6d2b, udp: true}
