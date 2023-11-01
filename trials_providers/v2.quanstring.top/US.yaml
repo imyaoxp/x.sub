@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸4837-专线02-0.85倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 55a1f960-6211-49a2-be01-12894a2c0aab, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 55a1f960-6211-49a2-be01-12894a2c0aab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸4837-专线02-0.85倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: c4707df6-ac24-49cd-9279-a9c055897f64, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: c4707df6-ac24-49cd-9279-a9c055897f64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
