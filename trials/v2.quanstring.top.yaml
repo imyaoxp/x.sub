@@ -24,6 +24,7 @@ proxy-groups:
   proxies: &id001
   - 🇸🇬-首尔01-2倍 - 大湾区坤厂
   - 🇸🇬-首尔02-2倍 - 大湾区坤厂
+  - 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂
   - 🇺🇸4837-首尔01 - 大湾区坤厂
   - 🇺🇸4837-首尔02 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
@@ -75,6 +76,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id003
+  - 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂
   - 🇺🇸4837-首尔01 - 大湾区坤厂
   - 🇺🇸4837-首尔02 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
@@ -88,6 +90,7 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
+- {name: 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 840bb482-53d2-4a4d-ae7a-575c2708433a, udp: true}
 - {name: 🇺🇸4837-首尔01 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 840bb482-53d2-4a4d-ae7a-575c2708433a, udp: true}
 - {name: 🇺🇸4837-首尔02 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 840bb482-53d2-4a4d-ae7a-575c2708433a, udp: true}
 - {name: 🇸🇬-首尔01-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 840bb482-53d2-4a4d-ae7a-575c2708433a, udp: true}
