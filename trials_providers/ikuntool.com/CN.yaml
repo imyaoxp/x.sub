@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰A香港-即将关闭 - ikunVPN, server: zfa.1234585.xyz, port: 26961, type: vmess, uuid: d4955186-b99b-4393-929d-0e2d04ec8717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zfa.1234585.xyz}}, udp: true}
+- {name: 🇭🇰A香港- 中转 - ikunVPN, server: zfa.1234585.xyz, port: 19577, type: ss, cipher: aes-256-gcm, password: d4955186-b99b-4393-929d-0e2d04ec8717, udp: true}
+- {name: 🇭🇰B香港-中转 - ikunVPN, server: zfa.1234585.xyz, port: 10645, type: ss, cipher: aes-256-gcm, password: d4955186-b99b-4393-929d-0e2d04ec8717, udp: true}
+- {name: 🇭🇰C香港-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 36176, type: ss, cipher: aes-256-gcm, password: d4955186-b99b-4393-929d-0e2d04ec8717, udp: true}
+- {name: 🇹🇼 🇨🇳A台湾-中转 - ikunVPN, server: xiongda006.daxiongda.top, port: 44444, type: vmess, uuid: d4955186-b99b-4393-929d-0e2d04ec8717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: xiongda006.daxiongda.top}}, udp: true}

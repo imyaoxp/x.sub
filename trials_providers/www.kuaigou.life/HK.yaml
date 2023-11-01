@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰香港01-高速中转8倍率 - 快狗云, server: gdcm1.r1u.cn, port: 30582, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
+- {name: 🇭🇰香港02-高速中转8倍率 - 快狗云, server: shcm1.r1u.cn, port: 21797, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}

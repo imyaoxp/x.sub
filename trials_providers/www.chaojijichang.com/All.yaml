@@ -1,0 +1,19 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港 1 - 超级机场, server: sp.superjj.cc, port: 51001, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 超级机场, server: sp.superjj.cc, port: 51002, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 3 - 超级机场, server: sp.superjj.cc, port: 51003, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 4 - 超级机场, server: sp.superjj.cc, port: 51004, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 - 超级机场, server: ep.superjj.cc, port: 52001, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 - 超级机场, server: ep.superjj.cc, port: 52002, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 3 - 超级机场, server: ep.superjj.cc, port: 52003, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 4 - 超级机场, server: ep.superjj.cc, port: 52004, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 - 超级机场, server: sp.superjj.cc, port: 53001, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 - 超级机场, server: sp.superjj.cc, port: 53002, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 3 - 超级机场, server: sp.superjj.cc, port: 53003, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 4 - 超级机场, server: sp.superjj.cc, port: 53004, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 超级机场, server: ep.superjj.cc, port: 54001, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 超级机场, server: ep.superjj.cc, port: 54002, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 3 - 超级机场, server: ep.superjj.cc, port: 54003, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 4 - 超级机场, server: ep.superjj.cc, port: 54004, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
