@@ -44,7 +44,7 @@ proxy-groups:
   - 🇸🇬新加坡01|1X|GPT - 周树人Cloud
   - 🇸🇬新加坡02|1X|GPT - 周树人Cloud
   - 🇸🇬新加坡03|1X - 周树人Cloud
-  - 🇯🇵日本-东京-02|0.2X - 周树人Cloud
+  - 🇯🇵日本-东京-02|1X - 周树人Cloud
   - 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud
   - 🇯🇵日本-东京-07|1X - 周树人Cloud
   - 🇺🇸美国-纽约-00|1X - 周树人Cloud
@@ -215,7 +215,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id006
-  - 🇯🇵日本-东京-02|0.2X - 周树人Cloud
+  - 🇯🇵日本-东京-02|1X - 周树人Cloud
   - 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud
   - 🇯🇵日本-东京-07|1X - 周树人Cloud
 - name: 🇺🇸 ‍美国
@@ -358,7 +358,7 @@ proxies:
 - {name: 🇰🇷韩国03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 24089, type: ss, cipher: aes-256-gcm, password: c665740d-9695-423f-9d29-c0b2d6e53321, udp: true}
 - {name: 🇰🇷韩国04|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 19458, type: trojan, password: c665740d-9695-423f-9d29-c0b2d6e53321, sni: e.longwangtaobao.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷韩国05|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 36034, type: trojan, password: c665740d-9695-423f-9d29-c0b2d6e53321, sni: f.longwangtaobao.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-02|0.2X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 13888, type: trojan, password: c665740d-9695-423f-9d29-c0b2d6e53321, sni: jgwjpmd1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|1X - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 13888, type: trojan, password: c665740d-9695-423f-9d29-c0b2d6e53321, sni: jgwjpmd1.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.661145.xyz, port: 38357, type: trojan, password: c665740d-9695-423f-9d29-c0b2d6e53321, sni: jgwjpmd2.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: c665740d-9695-423f-9d29-c0b2d6e53321, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺澳洲-悉尼-01|1X - 周树人Cloud, server: doaozhou.588511.xyz, port: 443, type: trojan, password: c665740d-9695-423f-9d29-c0b2d6e53321, sni: doaozhou.588511.xyz, skip-cert-verify: true, udp: true}
