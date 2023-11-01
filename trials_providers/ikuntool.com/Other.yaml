@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇬🇧C英国-4g带宽0.5倍率 - ikunVPN, server: gb-three.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: d4955186-b99b-4393-929d-0e2d04ec8717, udp: true}
-- {name: 🇬🇧A英国-0.5倍率 - ikunVPN, server: gb-one.1234585.xyz, port: 80, type: vmess, uuid: d4955186-b99b-4393-929d-0e2d04ec8717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gb-one.1234585.xyz}}, udp: true}
-- {name: 🇬🇧B英国-0.5倍率 - ikunVPN, server: gb-two.1234585.xyz, port: 80, type: ss, cipher: aes-256-gcm, password: d4955186-b99b-4393-929d-0e2d04ec8717, udp: true}
-- {name: 🇨🇦A加拿大-0.1倍率 - ikunVPN, server: ca-one.1234585.xyz, port: 443, type: vmess, uuid: d4955186-b99b-4393-929d-0e2d04ec8717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-one.1234585.xyz}}, udp: true}
-- {name: 🇰🇵朝鲜-金正恩家宽 - ikunVPN, server: 104.21.34.30, port: 80, type: vmess, uuid: d4955186-b99b-4393-929d-0e2d04ec8717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kp.1234585.xyz}}, udp: true}
-- {name: 🇦🇶南极洲 - ikunVPN, server: 104.21.34.30, port: 80, type: vmess, uuid: d4955186-b99b-4393-929d-0e2d04ec8717, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: aq.1234585.xyz}}, udp: true}
