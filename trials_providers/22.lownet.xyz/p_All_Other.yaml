@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: aa-1 - fastest, server: aa.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aa.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: douk.looooooongnet.lol}, udp: true}
+- {name: pp-1 - fastest, server: pp.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: pp.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
