@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 27798, type: trojan, password: df68575f-b29d-4fb7-9b5c-cc94a5216da9, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 56859, type: trojan, password: df68575f-b29d-4fb7-9b5c-cc94a5216da9, sni: 2.waimaozhan.top, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 13257, type: trojan, password: df68575f-b29d-4fb7-9b5c-cc94a5216da9, sni: akari-hk-v6-zsr-1.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 13431, type: trojan, password: df68575f-b29d-4fb7-9b5c-cc94a5216da9, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 50395, type: trojan, password: df68575f-b29d-4fb7-9b5c-cc94a5216da9, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 27798, type: trojan, password: 952cd23a-13a0-4776-928e-7bc7cd148e8f, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 56859, type: trojan, password: 952cd23a-13a0-4776-928e-7bc7cd148e8f, sni: 2.waimaozhan.top, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 13257, type: trojan, password: 952cd23a-13a0-4776-928e-7bc7cd148e8f, sni: akari-hk-v6-zsr-1.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 13431, type: trojan, password: 952cd23a-13a0-4776-928e-7bc7cd148e8f, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 50395, type: trojan, password: 952cd23a-13a0-4776-928e-7bc7cd148e8f, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
