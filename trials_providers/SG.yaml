@@ -7,7 +7,7 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 30641, type: ss, cipher: chacha20-ietf-poly1305, password: 0c2dd390-fe02-4373-97cc-54d70731ab4e, udp: true}
 - {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: gzyd.jcnode.top, port: 20014, type: ss, cipher: chacha20-ietf-poly1305, password: 0c2dd390-fe02-4373-97cc-54d70731ab4e, udp: true}
 - {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: gzdx01.jcnode.top, port: 44773, type: ss, cipher: chacha20-ietf-poly1305, password: 0c2dd390-fe02-4373-97cc-54d70731ab4e, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 645ff3ec-a8b4-3aaa-b72a-f9f40c697d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: dbafb672-aedb-373f-8899-bb0d4d5af1d5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 新加坡 1 - 超级机场, server: sp.superjj.cc, port: 53001, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 - 超级机场, server: sp.superjj.cc, port: 53002, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 3 - 超级机场, server: sp.superjj.cc, port: 53003, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
