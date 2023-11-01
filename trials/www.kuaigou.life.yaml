@@ -10,15 +10,9 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -28,14 +22,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰香港01-高速中转8倍率 - 快狗云
-  - 🇭🇰香港02-高速中转8倍率 - 快狗云
-  - 🇸🇬新加坡02-高速中转8倍率 - 快狗云
-  - 🇸🇬新加坡03-高速中转8倍率 - 快狗云
-  - 🇯🇵日本03-高速中转8倍率 - 快狗云
-  - 🇯🇵日本04-高速中转8倍率 - 快狗云
-  - 🇺🇸美国01-高速中转8倍率 - 快狗云
-  - 🇺🇸美国02-高速中转8倍率 - 快狗云
   - 🇺🇸 美国new01（1倍率） - 快狗云
   - 🇺🇸 美国new01优选（1倍率） - 快狗云
   - 🇺🇸 美国new02（1倍率） - 快狗云
@@ -71,10 +57,8 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -83,11 +67,7 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -96,38 +76,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰香港01-高速中转8倍率 - 快狗云
-  - 🇭🇰香港02-高速中转8倍率 - 快狗云
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇸🇬新加坡02-高速中转8倍率 - 快狗云
-  - 🇸🇬新加坡03-高速中转8倍率 - 快狗云
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇯🇵日本03-高速中转8倍率 - 快狗云
-  - 🇯🇵日本04-高速中转8倍率 - 快狗云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
-  - 🇺🇸美国01-高速中转8倍率 - 快狗云
-  - 🇺🇸美国02-高速中转8倍率 - 快狗云
+  proxies: &id002
   - 🇺🇸 美国new01（1倍率） - 快狗云
   - 🇺🇸 美国new01优选（1倍率） - 快狗云
   - 🇺🇸 美国new02（1倍率） - 快狗云
@@ -143,7 +97,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id006
+  proxies: &id003
   - 🇰🇷 韩国01 优选（1倍率） - 快狗云
   - 🇨🇦 加拿大new01（1倍率） - 快狗云
   - 🇨🇦 加拿大new01优选（1倍率） - 快狗云
@@ -157,30 +111,13 @@ proxy-groups:
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id005
+  proxies: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id006
+  proxies: *id003
 proxies:
-- {name: 🇭🇰香港01-高速中转8倍率 - 快狗云, server: gdcm1.r1u.cn, port: 30582, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
-- {name: 🇭🇰香港02-高速中转8倍率 - 快狗云, server: shcm1.r1u.cn, port: 21797, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
-- {name: 🇯🇵日本03-高速中转8倍率 - 快狗云, server: gdcm1.r1u.cn, port: 20371, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
-- {name: 🇯🇵日本04-高速中转8倍率 - 快狗云, server: shcm1.r1u.cn, port: 27478, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
-- {name: 🇸🇬新加坡02-高速中转8倍率 - 快狗云, server: gdcm1.r1u.cn, port: 24024, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
-- {name: 🇸🇬新加坡03-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 19556, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
-- {name: 🇺🇸美国01-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 52839, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
-- {name: 🇺🇸美国02-高速中转8倍率 - 快狗云, server: wzcmfwqhuifnwq.dfcloud.xyz, port: 14154, type: ss, cipher: chacha20-ietf-poly1305, password: cf74ae10-b1fc-4cb8-9065-3da0801bda62, udp: true}
 - {name: 🇰🇷 韩国01 优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: cf74ae10-b1fc-4cb8-9065-3da0801bda62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
 - {name: 🇨🇦 加拿大new01（1倍率） - 快狗云, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: cf74ae10-b1fc-4cb8-9065-3da0801bda62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
 - {name: 🇨🇦 加拿大new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: cf74ae10-b1fc-4cb8-9065-3da0801bda62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
