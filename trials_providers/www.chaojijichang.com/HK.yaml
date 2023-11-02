@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港 1 - 超级机场, server: sp.superjj.cc, port: 51001, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 超级机场, server: sp.superjj.cc, port: 51002, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 3 - 超级机场, server: sp.superjj.cc, port: 51003, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 4 - 超级机场, server: sp.superjj.cc, port: 51004, type: vmess, uuid: c9e7f2be-9991-4cf4-a7a3-87680910ca6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
