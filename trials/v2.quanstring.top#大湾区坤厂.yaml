@@ -113,17 +113,17 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇺🇸4837-专线02-0.85倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇸🇬-专线01-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇸🇬-专线02-2倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 3bec28e1-65cf-420a-9053-acc57ee73b99, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 3bec28e1-65cf-420a-9053-acc57ee73b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇺🇸4837-专线02-0.85倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇸🇬-专线01-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇸🇬-专线02-2倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: c783170e-84b6-469a-80ee-0020456e07cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
