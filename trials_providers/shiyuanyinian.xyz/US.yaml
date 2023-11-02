@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 35698, type: ss, cipher: chacha20-ietf-poly1305, password: 2c35c30b-a67e-4c44-bbbf-69825b2b1da2, udp: true}
-- {name: 🇺🇸 美国2 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 26217, type: ss, cipher: chacha20-ietf-poly1305, password: 2c35c30b-a67e-4c44-bbbf-69825b2b1da2, udp: true}
-- {name: 🇺🇸 美国3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60004, type: vmess, uuid: 2c35c30b-a67e-4c44-bbbf-69825b2b1da2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇺🇸 美国1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 35698, type: ss, cipher: chacha20-ietf-poly1305, password: 06c091b9-b29d-438f-86ff-56524ec0c050, udp: true}
+- {name: 🇺🇸 美国2 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 26217, type: ss, cipher: chacha20-ietf-poly1305, password: 06c091b9-b29d-438f-86ff-56524ec0c050, udp: true}
+- {name: 🇺🇸 美国3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60004, type: vmess, uuid: 06c091b9-b29d-438f-86ff-56524ec0c050, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}

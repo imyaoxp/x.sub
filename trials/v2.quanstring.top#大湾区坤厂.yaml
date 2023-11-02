@@ -115,18 +115,18 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇺🇸4837-南方-广联-0.85倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇺🇸9929--南方-广联-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇺🇸9929-专线02-1倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇺🇸4837-专线02-0.85倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇸🇬-专线02-2倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 88c5eb07-49c3-4283-8b90-3eddea31f5b7, udp: true}
+- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇺🇸4837-南方-广联-0.85倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇺🇸9929--南方-广联-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇺🇸9929-专线02-1倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇺🇸4837-专线02-0.85倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇸🇬-专线02-2倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: ac9a0383-0266-49fc-9779-f3b1a966bf64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
