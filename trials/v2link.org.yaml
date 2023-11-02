@@ -41,6 +41,7 @@ proxy-groups:
   - 🇭🇰 香港 - 家宽 G - V2Link
   - 🇭🇰 香港 - Netflix - V2Link
   - 🇭🇰 香港 - Disney - V2Link
+  - 🇭🇰 香港 - 10 - V2Link
   - 🇹🇼 台湾 - 家宽 A - V2Link
   - 🇹🇼 台湾 - 彰化 B - V2Link
   - 🇸🇬 新加坡 A - V2Link
@@ -137,6 +138,7 @@ proxy-groups:
   - 🇭🇰 香港 - 家宽 G - V2Link
   - 🇭🇰 香港 - Netflix - V2Link
   - 🇭🇰 香港 - Disney - V2Link
+  - 🇭🇰 香港 - 10 - V2Link
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -160,6 +162,7 @@ proxy-groups:
   - 🇭🇰 香港 - 家宽 G - V2Link
   - 🇭🇰 香港 - Netflix - V2Link
   - 🇭🇰 香港 - Disney - V2Link
+  - 🇭🇰 香港 - 10 - V2Link
   - 🇹🇼 台湾 - 家宽 A - V2Link
   - 🇹🇼 台湾 - 彰化 B - V2Link
 - name: 🇸🇬 ‍新加坡
@@ -254,6 +257,7 @@ proxies:
 - {name: 🇭🇰 香港 - 家宽 G - V2Link, server: host-007.crazyspeed.xyz, port: 30507, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇭🇰 香港 - Netflix - V2Link, server: host-008.crazyspeed.xyz, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇭🇰 香港 - Disney - V2Link, server: host-009.crazyspeed.xyz, port: 30509, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
+- {name: 🇭🇰 香港 - 10 - V2Link, server: host-010.crazyspeed.xyz, port: 30510, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇯🇵 日本 - 东京 R - V2Link, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇯🇵 日本 - 大版 A - V2Link, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇯🇵 日本 - 东京 A - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
