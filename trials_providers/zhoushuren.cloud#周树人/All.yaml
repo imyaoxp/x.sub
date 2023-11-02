@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: '[TJ3]-🇯🇵日本测试-0倍率 - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 56207, type: trojan, password: 7d8fec40-b1c0-4142-8efb-4e23121869f8, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇪阿联酋-迪拜-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 31591, type: trojan, password: 7d8fec40-b1c0-4142-8efb-4e23121869f8, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 27798, type: trojan, password: 7d8fec40-b1c0-4142-8efb-4e23121869f8, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 45470, type: trojan, password: 7d8fec40-b1c0-4142-8efb-4e23121869f8, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
