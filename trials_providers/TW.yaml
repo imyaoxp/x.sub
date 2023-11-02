@@ -1,6 +1,9 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 26f69e0b-404f-4765-b2e6-6f98798b468f, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 26f69e0b-404f-4765-b2e6-6f98798b468f, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 26f69e0b-404f-4765-b2e6-6f98798b468f, udp: true}
 - {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gdct001.jcnode.top, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: 3a917868-19f8-4037-82f5-425bbb5951b6, udp: true}
 - {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gdct003.jcnode.top, port: 46957, type: ss, cipher: chacha20-ietf-poly1305, password: 3a917868-19f8-4037-82f5-425bbb5951b6, udp: true}
 - {name: 🇹🇼 vip1 台湾-03 - FastFly, server: gdct002.jcnode.top, port: 24007, type: ss, cipher: chacha20-ietf-poly1305, password: 3a917868-19f8-4037-82f5-425bbb5951b6, udp: true}
@@ -35,7 +38,7 @@ proxies:
 - {name: 🇹🇼 TW / CM | 移动 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: be4265cb-b6bd-4ef1-bd75-dd28de42d7e6, udp: true}
 - {name: 🇹🇼 TW / CU | 联通 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: be4265cb-b6bd-4ef1-bd75-dd28de42d7e6, udp: true}
 - {name: 🇹🇼 TW / CT | 电信 - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: be4265cb-b6bd-4ef1-bd75-dd28de42d7e6, udp: true}
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: e894401c-d2ba-3e99-8d31-d8674406cd39, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: 0ea6e440-7991-367e-90e5-a44bdd9af04b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 19863b53-9687-4b8b-8a60-821b475772f8, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 19863b53-9687-4b8b-8a60-821b475772f8, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 19863b53-9687-4b8b-8a60-821b475772f8, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
