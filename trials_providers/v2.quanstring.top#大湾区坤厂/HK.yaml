@@ -2,6 +2,5 @@
 ---
 proxies:
 - {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: 24c54d86-0694-4d23-9139-f19687b42ae9, udp: true}
-- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 24c54d86-0694-4d23-9139-f19687b42ae9, udp: true}
 - {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 24c54d86-0694-4d23-9139-f19687b42ae9, udp: true}
 - {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 24c54d86-0694-4d23-9139-f19687b42ae9, udp: true}
