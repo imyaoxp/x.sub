@@ -32,7 +32,7 @@ proxy-groups:
   - TW
   - SG
   - US
-  - Other
+  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -107,7 +107,7 @@ proxy-groups:
   type: url-test
   tolerance: 50
   use: &id007
-  - Other
+  - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -166,11 +166,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  Other:
+  p_All_Other:
     type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/shiyuanyinian.xyz/Other.yaml
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/shiyuanyinian.xyz/p_All_Other.yaml
     interval: 180
-    path: trials_providers/shiyuanyinian.xyz/Other.yaml
+    path: trials_providers/shiyuanyinian.xyz/p_All_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

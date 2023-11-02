@@ -10,11 +10,13 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -26,6 +28,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
+  - 🇹🇼台湾01 - 都是梦
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
@@ -61,8 +64,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -71,9 +76,11 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -84,12 +91,19 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id002
+  - 🇹🇼台湾01 - 都是梦
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id003
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
@@ -98,14 +112,14 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id003
+  proxies: &id004
   - 🇯🇵日本01 - 都是梦
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
+  proxies: &id005
   - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国02 - 都是梦
   - 🇺🇸美国03 - 都是梦
@@ -114,7 +128,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id006
   - 🇰🇷韩国01 - 都是梦
   - 🇰🇷韩国02 - 都是梦
   - 🇦🇺澳大利亚01 - 都是梦
@@ -131,22 +145,26 @@ proxy-groups:
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id004
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
 - {name: 🇺🇸美国01 - 都是梦, server: us2.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 729e5967-7927-4e55-b5be-96dc1fe6434a, udp: true}
-- {name: 🇺🇸美国02 - 都是梦, server: us3.doushimeng.com, port: 21052, type: ss, cipher: chacha20-ietf-poly1305, password: 729e5967-7927-4e55-b5be-96dc1fe6434a, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 729e5967-7927-4e55-b5be-96dc1fe6434a, udp: true}
+- {name: 🇺🇸美国02 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 729e5967-7927-4e55-b5be-96dc1fe6434a, udp: true}
+- {name: 🇺🇸美国03 - 都是梦, server: dl1.doushimeng.com, port: 2095, type: vmess, uuid: 729e5967-7927-4e55-b5be-96dc1fe6434a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾01 - 都是梦, server: dl7.doushimeng.com, port: 2086, type: vmess, uuid: 729e5967-7927-4e55-b5be-96dc1fe6434a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
 - {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22553, type: ss, cipher: chacha20-ietf-poly1305, password: 729e5967-7927-4e55-b5be-96dc1fe6434a, udp: true}
 - {name: 🇰🇷韩国02 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 729e5967-7927-4e55-b5be-96dc1fe6434a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2.112592.xyz}}, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 729e5967-7927-4e55-b5be-96dc1fe6434a, udp: true}

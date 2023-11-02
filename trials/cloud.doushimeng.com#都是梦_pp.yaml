@@ -10,11 +10,13 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -24,6 +26,7 @@ proxy-groups:
   type: url-test
   tolerance: 50
   use: &id001
+  - TW
   - SG
   - JP
   - US
@@ -43,8 +46,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -53,9 +58,11 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -66,42 +73,59 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇹🇼 ‍台湾
   type: url-test
   tolerance: 50
   use: &id002
+  - TW
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  tolerance: 50
+  use: &id003
   - SG
 - name: 🇯🇵 ‍日本
   type: url-test
   tolerance: 50
-  use: &id003
+  use: &id004
   - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 50
-  use: &id004
+  use: &id005
   - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 50
-  use: &id005
+  use: &id006
   - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   use: *id002
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   use: *id003
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id004
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id006
 proxy-providers:
+  TW:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/cloud.doushimeng.com#都是梦/TW.yaml
+    interval: 180
+    path: trials_providers/cloud.doushimeng.com#都是梦/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   SG:
     type: http
     url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/cloud.doushimeng.com#都是梦/SG.yaml
