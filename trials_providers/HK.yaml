@@ -13,10 +13,10 @@ proxies:
 - {name: 🇭🇰 香港 - Netflix - V2Link, server: host-008.crazyspeed.xyz, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇭🇰 香港 - Disney - V2Link, server: host-009.crazyspeed.xyz, port: 30509, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇭🇰 香港 - 家宽 X - V2Link, server: host-010.crazyspeed.xyz, port: 30510, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
-- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
+- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
 - {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 27798, type: trojan, password: f611b273-ca82-459a-be85-19869272283f, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 45470, type: trojan, password: f611b273-ca82-459a-be85-19869272283f, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 48179, type: trojan, password: f611b273-ca82-459a-be85-19869272283f, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
@@ -33,11 +33,11 @@ proxies:
 - {name: 🇭🇰 香港HKT转移动G口5 - cloudtu, server: yt201.jdxx9.com, port: 15890, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 8773:Qz2dHp, obfs-param: 363fd8773.download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19811, type: vmess, uuid: 0c30c24d-b702-374e-b21e-3f69ca80d3bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19812, type: vmess, uuid: 0c30c24d-b702-374e-b21e-3f69ca80d3bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
 - {name: 🇭🇰 Game 香港01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 824, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: 1043a84666.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港02-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 9054, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 1043a84666.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港03-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 9063, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 1043a84666.download.windowsupdate.com}, udp: true}

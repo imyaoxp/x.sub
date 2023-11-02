@@ -172,8 +172,8 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速 - 飞翔吧
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
-  - 🇹🇼 台湾 - 家宽 A - V2Link
-  - 🇹🇼 台湾 - 彰化 B - V2Link
+  - 🇹🇼 台湾 - 家宽 - V2Link
+  - 🇹🇼 台湾 - 流媒体 - V2Link
   - 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud
   - 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud
   - 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud
@@ -218,9 +218,9 @@ proxy-groups:
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
-  - 🇸🇬 新加坡 A - V2Link
-  - 🇸🇬 新加坡 B - V2Link
-  - 🇸🇬 新加坡 C - V2Link
+  - 🇸🇬 新加坡 - Netflix - V2Link
+  - 🇸🇬 新加坡 - Netflix B - V2Link
+  - 🇸🇬 新加坡  - 流媒体 - V2Link
   - 🇸🇬-南方-广联-2倍 - 大湾区坤厂
   - 🇸🇬-专线01-2倍 - 大湾区坤厂
   - 🇸🇬-专线02-2倍 - 大湾区坤厂
@@ -466,6 +466,7 @@ proxy-groups:
   - 🇰🇷 韩国 - 首尔 R - V2Link
   - 🇰🇷 韩国 - 首尔 X - V2Link
   - 🇰🇷 韩国 - 春川 R - V2Link
+  - 🇮🇩 印尼 - 雅加达 - V2Link
   - 🇲🇾 马来西亚 - 吉隆坡 - V2Link
   - 🇨🇦 加拿大 - 多伦多 A - V2Link
   - 🇬🇧 英国 - 伦敦 A - V2Link
@@ -907,8 +908,8 @@ proxy-groups:
   tolerance: 50
   proxies: &id003
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
-  - 🇹🇼 台湾 - 家宽 A - V2Link
-  - 🇹🇼 台湾 - 彰化 B - V2Link
+  - 🇹🇼 台湾 - 家宽 - V2Link
+  - 🇹🇼 台湾 - 流媒体 - V2Link
   - 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud
   - 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud
   - 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud
@@ -1099,8 +1100,8 @@ proxy-groups:
   - 🇭🇰 广港•香港278•高速 - 飞翔吧
   - 🇭🇰 广港•香港279•高速 - 飞翔吧
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
-  - 🇹🇼 台湾 - 家宽 A - V2Link
-  - 🇹🇼 台湾 - 彰化 B - V2Link
+  - 🇹🇼 台湾 - 家宽 - V2Link
+  - 🇹🇼 台湾 - 流媒体 - V2Link
   - 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud
   - 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud
   - 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud
@@ -1152,9 +1153,9 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id005
-  - 🇸🇬 新加坡 A - V2Link
-  - 🇸🇬 新加坡 B - V2Link
-  - 🇸🇬 新加坡 C - V2Link
+  - 🇸🇬 新加坡 - Netflix - V2Link
+  - 🇸🇬 新加坡 - Netflix B - V2Link
+  - 🇸🇬 新加坡  - 流媒体 - V2Link
   - 🇸🇬-南方-广联-2倍 - 大湾区坤厂
   - 🇸🇬-专线01-2倍 - 大湾区坤厂
   - 🇸🇬-专线02-2倍 - 大湾区坤厂
@@ -1418,6 +1419,7 @@ proxy-groups:
   - 🇰🇷 韩国 - 首尔 R - V2Link
   - 🇰🇷 韩国 - 首尔 X - V2Link
   - 🇰🇷 韩国 - 春川 R - V2Link
+  - 🇮🇩 印尼 - 雅加达 - V2Link
   - 🇲🇾 马来西亚 - 吉隆坡 - V2Link
   - 🇨🇦 加拿大 - 多伦多 A - V2Link
   - 🇬🇧 英国 - 伦敦 A - V2Link
@@ -1707,14 +1709,15 @@ proxies:
 - {name: 🇯🇵 日本 - 东京 B - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇯🇵 日本 - 东京 C - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇯🇵 日本 - 东京 D - V2Link, server: host-016.crazyspeed.xyz, port: 30606, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
-- {name: 🇹🇼 台湾 - 家宽 A - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
-- {name: 🇹🇼 台湾 - 彰化 B - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
+- {name: 🇹🇼 台湾 - 家宽 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
+- {name: 🇹🇼 台湾 - 流媒体 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇰🇷 韩国 - 首尔 R - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇰🇷 韩国 - 首尔 X - V2Link, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇰🇷 韩国 - 春川 R - V2Link, server: host-028.crazyspeed.xyz, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
-- {name: 🇸🇬 新加坡 A - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
-- {name: 🇸🇬 新加坡 B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
-- {name: 🇸🇬 新加坡 C - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
+- {name: 🇸🇬 新加坡 - Netflix - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
+- {name: 🇸🇬 新加坡 - Netflix B - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
+- {name: 🇸🇬 新加坡  - 流媒体 - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
+- {name: 🇮🇩 印尼 - 雅加达 - V2Link, server: host-034.crazyspeed.xyz, port: 10354, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇲🇾 马来西亚 - 吉隆坡 - V2Link, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇺🇸 美国 - 凤凰城 - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇺🇸 美国 - 圣何塞 A - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
@@ -1738,17 +1741,17 @@ proxies:
 - {name: 🇮🇱 中东 - 以色列 - V2Link, server: host-058.crazyspeed.xyz, port: 19005, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇸🇪 瑞典 - 斯德哥尔摩 - V2Link, server: host-059.crazyspeed.xyz, port: 19006, type: ss, cipher: chacha20-ietf-poly1305, password: efd4de6a-5cfd-4e5b-8352-84b10f408b6f, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: fcfe4df7-69f0-453f-a7ce-ed229d1a74a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
-- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇺🇸4837-专线02-0.85倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇸🇬-专线01-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇸🇬-专线02-2倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: c783170e-84b6-469a-80ee-0020456e07cb, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: c783170e-84b6-469a-80ee-0020456e07cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇭🇰-南方强烈推荐 - 大湾区坤厂, server: 110.72.100.83, port: 39692, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇺🇸4837-南方-广联-0.3倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇸🇬-南方-广联-2倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇺🇸4837-专线02-0.85倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇸🇬-专线01-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇸🇬-专线02-2倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: xiongda005.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: d4661814-8e2d-4343-a02d-96d52e0589f5, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: d4661814-8e2d-4343-a02d-96d52e0589f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: a5b893dd-b562-3fc9-854b-a54bf3069560, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
 - {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: a5b893dd-b562-3fc9-854b-a54bf3069560, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: a5b893dd-b562-3fc9-854b-a54bf3069560, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
@@ -1890,28 +1893,28 @@ proxies:
 - {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19885, type: vmess, uuid: 0c30c24d-b702-374e-b21e-3f69ca80d3bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19882, type: vmess, uuid: 0c30c24d-b702-374e-b21e-3f69ca80d3bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19881, type: vmess, uuid: 0c30c24d-b702-374e-b21e-3f69ca80d3bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60003, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 38747, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇷🇺 俄罗斯2 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 43540, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇷🇺 俄罗斯3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇷🇺 俄罗斯4 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇷🇺 俄罗斯5 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇺🇸 美国1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 35698, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇺🇸 美国2 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 26217, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇺🇸 美国3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60004, type: vmess, uuid: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇮🇳 印度1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 46513, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇮🇳 印度2 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38809, type: ss, cipher: chacha20-ietf-poly1305, password: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, udp: true}
-- {name: 🇮🇳 印度3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60005, type: vmess, uuid: 8502bcec-a5c5-4fe3-9b46-8ab0a1b636ee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: yinduyindu.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60003, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 38747, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇷🇺 俄罗斯2 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 43540, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇷🇺 俄罗斯3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: f312b004-8926-4e19-b3e8-21d92ddd8c25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇷🇺 俄罗斯4 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: f312b004-8926-4e19-b3e8-21d92ddd8c25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇷🇺 俄罗斯5 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60002, type: vmess, uuid: f312b004-8926-4e19-b3e8-21d92ddd8c25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eluosi45ggg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇺🇸 美国1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 35698, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇺🇸 美国2 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 26217, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇺🇸 美国3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60004, type: vmess, uuid: f312b004-8926-4e19-b3e8-21d92ddd8c25, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇮🇳 印度1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 46513, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇮🇳 印度2 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38809, type: ss, cipher: chacha20-ietf-poly1305, password: f312b004-8926-4e19-b3e8-21d92ddd8c25, udp: true}
+- {name: 🇮🇳 印度3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60005, type: vmess, uuid: f312b004-8926-4e19-b3e8-21d92ddd8c25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: yinduyindu.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
 - {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: 2f513ae0-9a59-4e7e-baa2-43344562a01c, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21402, type: ss, cipher: chacha20-ietf-poly1305, password: 2f513ae0-9a59-4e7e-baa2-43344562a01c, udp: true}
 - {name: 🇰🇷 South Korea - 番茄云, server: kr.fanqiecloud.top, port: 24954, type: ss, cipher: chacha20-ietf-poly1305, password: 2f513ae0-9a59-4e7e-baa2-43344562a01c, udp: true}
