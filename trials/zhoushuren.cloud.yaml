@@ -33,7 +33,7 @@ proxy-groups:
   tolerance: 50
   proxies: &id001
   - 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud
-  - 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud
+  - 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud
   - '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud'
   - '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud'
   - '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud'
@@ -173,7 +173,7 @@ proxy-groups:
   tolerance: 50
   proxies: &id002
   - 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud
-  - 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud
+  - 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud
   - '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud'
   - '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud'
   - '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud'
@@ -194,7 +194,7 @@ proxy-groups:
   tolerance: 50
   proxies: &id004
   - 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud
-  - 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud
+  - 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud
   - '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud'
   - '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud'
   - '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud'
@@ -332,9 +332,9 @@ proxy-groups:
 proxies:
 - {name: 🇦🇪阿联酋-迪拜-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 31591, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 27798, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 56859, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: 2.waimaozhan.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 56859, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 13257, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: akari-hk-v6-zsr-1.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 13431, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 13417, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 50395, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
@@ -348,7 +348,7 @@ proxies:
 - {name: 🇶🇦卡塔尔-多哈-01|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 24017, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdyFDSFSfdfsd, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇰🇵朝鲜-平壤-01|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 41117, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdf34434343ff9999d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇫🇯斐济-苏瓦-01 | 1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 16230, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdyFDjhjhjSFSfdfsd, headers: {Host: www.apple.com}}, udp: true}
-- {name: 🇭🇺匈牙利-布达佩斯-01 | 1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 32151, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdyFDjhjhjSFSfdfsd, headers: {Host: www.apple.com}}, udp: true}
+- {name: 🇭🇺匈牙利-布达佩斯-01 | 1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 32144, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdyFDjhjhjSFSfdfsd, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇪🇬埃及-开罗-01|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 40219, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy99999d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇨🇺古巴-哈瓦那-01|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 18856, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy99999d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇵🇸巴勒斯坦打炮专线-01|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 30711, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy99999d, headers: {Host: www.apple.com}}, udp: true}
@@ -356,11 +356,11 @@ proxies:
 - {name: 🇦🇷阿根廷-布宜诺斯艾利斯-01|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 40022, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdfffffff9999d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇵🇰巴基斯坦-拉瓦尔品第-01|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 36938, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdfffffff9999d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇷🇺俄罗斯-莫斯科 | 0倍率 |油管免广告 - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 38712, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhhhhhhhru999d, headers: {Host: www.apple.com}}, udp: true}
-- {name: 🇺🇦乌克兰-基辅-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 28389, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhsdadasdasdasds99d, headers: {Host: www.apple.com}}, udp: true}
+- {name: 🇺🇦乌克兰-基辅-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 28395, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhsdadasdasdasds99d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇮🇹意大利-米兰-01|1X - 周树人Cloud, server: ipv6-zf3-zsr.661145.xyz, port: 20738, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhsdadasdasdasds99d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇪🇸西班牙-马德里-01|1X - 周树人Cloud, server: ipv6-zf3-zsr.661145.xyz, port: 33136, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhsdadasdasdasds99d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇲🇽墨西哥-克雷塔罗-01|1X - 周树人Cloud, server: ipv6-zf3-zsr.661145.xyz, port: 45554, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhsdadasdasdasds99d, headers: {Host: www.apple.com}}, udp: true}
-- {name: 🇫🇷法国-巴黎-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 14006, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhs12121asds99d, headers: {Host: www.apple.com}}, udp: true}
+- {name: 🇫🇷法国-巴黎-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 14004, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vchhs12121asds99d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇱🇺卢森堡-盧森堡市-01|1X - 周树人Cloud, server: ipv6-zf3-zsr.661145.xyz, port: 29845, type: vmess, uuid: 26474acb-d1a3-4fa1-8872-fda1a724d107, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdfffffff9999d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇰🇷韩国01|1X|GPT - 周树人Cloud, server: jgwsr01.588511.xyz, port: 23453, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: jgwsr01.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷韩国02|1X|GPT - 周树人Cloud, server: jgwsr02.588511.xyz, port: 58850, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: jgwsr02.588511.xyz, skip-cert-verify: true, udp: true}
@@ -370,8 +370,8 @@ proxies:
 - {name: 🇯🇵日本-东京-02|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 13888, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: jgwjpmd1.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 38357, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: jgwjpmd2.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺澳洲-悉尼-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 45793, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: doaozhou.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺澳洲-悉尼-02|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 50256, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: xn1.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺澳洲-悉尼-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 45783, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: doaozhou.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺澳洲-悉尼-02|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 50250, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: xn1.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺澳洲-悉尼-03|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 34479, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: lincha.au-Sydney.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 23491, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 50002, type: trojan, password: 26474acb-d1a3-4fa1-8872-fda1a724d107, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
