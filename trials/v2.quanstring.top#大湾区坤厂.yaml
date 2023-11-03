@@ -114,11 +114,11 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 3425f0e3-86f6-4a23-9a9e-8d7446cd184e, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 3425f0e3-86f6-4a23-9a9e-8d7446cd184e, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 3425f0e3-86f6-4a23-9a9e-8d7446cd184e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇸🇬 Wap-新加坡 - 大湾区坤厂, server: 45.145.154.2, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 3425f0e3-86f6-4a23-9a9e-8d7446cd184e, udp: true}
-- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 3425f0e3-86f6-4a23-9a9e-8d7446cd184e, udp: true}
+- {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 57f8fb59-1cc2-4193-9877-75b4f9855fda, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 57f8fb59-1cc2-4193-9877-75b4f9855fda, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 57f8fb59-1cc2-4193-9877-75b4f9855fda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇸🇬 Wap-新加坡 - 大湾区坤厂, server: 45.145.154.2, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 57f8fb59-1cc2-4193-9877-75b4f9855fda, udp: true}
+- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 57f8fb59-1cc2-4193-9877-75b4f9855fda, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
