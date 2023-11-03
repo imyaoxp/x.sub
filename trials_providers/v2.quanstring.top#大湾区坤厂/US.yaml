@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: ac9a0383-0266-49fc-9779-f3b1a966bf64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 3425f0e3-86f6-4a23-9a9e-8d7446cd184e, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 3425f0e3-86f6-4a23-9a9e-8d7446cd184e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
