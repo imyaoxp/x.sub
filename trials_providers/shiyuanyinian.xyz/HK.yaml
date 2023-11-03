@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: 686a6344-c897-4178-b90f-c35639769cdc, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 686a6344-c897-4178-b90f-c35639769cdc, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 686a6344-c897-4178-b90f-c35639769cdc, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 686a6344-c897-4178-b90f-c35639769cdc, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 686a6344-c897-4178-b90f-c35639769cdc, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: cb2df4df-7ec3-472d-a3b0-b420a81573cb, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: cb2df4df-7ec3-472d-a3b0-b420a81573cb, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: cb2df4df-7ec3-472d-a3b0-b420a81573cb, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: cb2df4df-7ec3-472d-a3b0-b420a81573cb, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: cb2df4df-7ec3-472d-a3b0-b420a81573cb, udp: true}
