@@ -11,12 +11,10 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -27,7 +25,6 @@ proxy-groups:
   tolerance: 50
   proxies: &id001
   - 🇭🇰 Churros-香港 - 大湾区坤厂
-  - 🇸🇬 Wap-新加坡 - 大湾区坤厂
   - 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
   - WePc-4837-SS-稳定 - 大湾区坤厂
@@ -58,9 +55,7 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -76,19 +71,12 @@ proxy-groups:
   tolerance: 50
   proxies: &id002
   - 🇭🇰 Churros-香港 - 大湾区坤厂
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇸🇬 Wap-新加坡 - 大湾区坤厂
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
+  proxies: &id003
   - 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
 - name: 🎏 ‍其他
@@ -96,7 +84,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id004
   - WePc-4837-SS-稳定 - 大湾区坤厂
 - name: 👆🏻 ‍指定
   type: select
@@ -104,21 +92,17 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
+  proxies: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
+  proxies: *id004
 proxies:
-- {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: dbaad40b-8f49-4adb-aea0-d497e83f31ac, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: dbaad40b-8f49-4adb-aea0-d497e83f31ac, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: dbaad40b-8f49-4adb-aea0-d497e83f31ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇸🇬 Wap-新加坡 - 大湾区坤厂, server: 45.145.154.2, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: dbaad40b-8f49-4adb-aea0-d497e83f31ac, udp: true}
-- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: dbaad40b-8f49-4adb-aea0-d497e83f31ac, udp: true}
+- {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 9e8cd7b4-59bf-4460-9e3a-5f3c244454d7, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 9e8cd7b4-59bf-4460-9e3a-5f3c244454d7, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 9e8cd7b4-59bf-4460-9e3a-5f3c244454d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 9e8cd7b4-59bf-4460-9e3a-5f3c244454d7, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
