@@ -53,6 +53,8 @@ proxy-groups:
   - 🇯🇵 日本 04 - V2Link
   - 🇯🇵 日本 05 - V2Link
   - 🇯🇵 日本 06 - V2Link
+  - 🇯🇵 日本 07 - V2Link
+  - 🇯🇵 日本 08 - V2Link
   - 🇺🇸 美国 01 - V2Link
   - 🇺🇸 美国 02 - V2Link
   - 🇺🇸 美国 03 - V2Link
@@ -189,6 +191,8 @@ proxy-groups:
   - 🇯🇵 日本 04 - V2Link
   - 🇯🇵 日本 05 - V2Link
   - 🇯🇵 日本 06 - V2Link
+  - 🇯🇵 日本 07 - V2Link
+  - 🇯🇵 日本 08 - V2Link
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -270,6 +274,8 @@ proxies:
 - {name: 🇯🇵 日本 04 - V2Link, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 657a6893-c1aa-49d7-829d-8a7de089d1d6, udp: true}
 - {name: 🇯🇵 日本 05 - V2Link, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 657a6893-c1aa-49d7-829d-8a7de089d1d6, udp: true}
 - {name: 🇯🇵 日本 06 - V2Link, server: host-016.crazyspeed.xyz, port: 30606, type: ss, cipher: chacha20-ietf-poly1305, password: 657a6893-c1aa-49d7-829d-8a7de089d1d6, udp: true}
+- {name: 🇯🇵 日本 07 - V2Link, server: host-017.crazyspeed.xyz, port: 30807, type: ss, cipher: chacha20-ietf-poly1305, password: 657a6893-c1aa-49d7-829d-8a7de089d1d6, udp: true}
+- {name: 🇯🇵 日本 08 - V2Link, server: host-018.crazyspeed.xyz, port: 30808, type: ss, cipher: chacha20-ietf-poly1305, password: 657a6893-c1aa-49d7-829d-8a7de089d1d6, udp: true}
 - {name: 🇹🇼 台湾 01 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 657a6893-c1aa-49d7-829d-8a7de089d1d6, udp: true}
 - {name: 🇹🇼 台湾 02 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 657a6893-c1aa-49d7-829d-8a7de089d1d6, udp: true}
 - {name: 🇰🇷 韩国 01 - V2Link, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 657a6893-c1aa-49d7-829d-8a7de089d1d6, udp: true}
