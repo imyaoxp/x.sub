@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: ac9a0383-0266-49fc-9779-f3b1a966bf64, udp: true}
