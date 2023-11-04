@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 23491, type: trojan, password: 5c9a20a2-d5bc-4236-bb86-fc4361db1930, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 50002, type: trojan, password: 5c9a20a2-d5bc-4236-bb86-fc4361db1930, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 5c9a20a2-d5bc-4236-bb86-fc4361db1930, udp: true}
+- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 23491, type: trojan, password: 28334894-dbf9-4f0a-88d7-6bc3a25860cb, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 50002, type: trojan, password: 28334894-dbf9-4f0a-88d7-6bc3a25860cb, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 28334894-dbf9-4f0a-88d7-6bc3a25860cb, udp: true}
