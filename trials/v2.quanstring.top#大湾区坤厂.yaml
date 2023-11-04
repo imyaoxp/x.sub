@@ -10,13 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -24,10 +18,10 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 Churros-香港 - 大湾区坤厂
-  - 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂
+  - 🇺🇸-原生IP-0.85倍 - 大湾区坤厂
+  - 🇺🇸-精品线路-1倍 - 大湾区坤厂
+  - 🇺🇸-ChatGPT-流媒体-TikTok-0.85倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
-  - WePc-4837-SS-稳定 - 大湾区坤厂
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -43,18 +37,12 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -64,45 +52,14 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 Churros-香港 - 大湾区坤厂
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂
-  - 🇺🇸-直连-联通推荐 - 大湾区坤厂
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - WePc-4837-SS-稳定 - 大湾区坤厂
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id003
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id004
 proxies:
-- {name: WePc-4837-SS-稳定 - 大湾区坤厂, server: 154.7.179.11, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: d48ad599-f8cd-4290-96f0-70fa2ff3bcc0, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: 154.12.53.143, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: d48ad599-f8cd-4290-96f0-70fa2ff3bcc0, udp: true}
+- {name: 🇺🇸-原生IP-0.85倍 - 大湾区坤厂, server: 154.7.179.11, port: 8080, type: vmess, uuid: d48ad599-f8cd-4290-96f0-70fa2ff3bcc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸-精品线路-1倍 - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: d48ad599-f8cd-4290-96f0-70fa2ff3bcc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-0.85倍 - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: d48ad599-f8cd-4290-96f0-70fa2ff3bcc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: d48ad599-f8cd-4290-96f0-70fa2ff3bcc0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇭🇰 Churros-香港 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: d48ad599-f8cd-4290-96f0-70fa2ff3bcc0, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
