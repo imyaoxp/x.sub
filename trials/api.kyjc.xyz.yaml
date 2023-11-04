@@ -11,13 +11,11 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -33,7 +31,6 @@ proxy-groups:
   - 🇭🇰 香港-杭隧道-解锁 - 快云
   - 🇭🇰 香港3-广港隧道-解锁 - 快云
   - 🇭🇰 香港6-杭港隧道-解锁 - 快云
-  - 🇸🇬 新加坡2-广新隧道-解锁 - 快云
   - 🇯🇵 日本-广日隧道-解锁 - 快云
   - 🇺🇸 美国1-广港隧道-解锁 - 快云
   - 🇺🇸 美国2-苏港隧道-解锁 - 快云
@@ -65,10 +62,8 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -89,26 +84,19 @@ proxy-groups:
   - 🇭🇰 香港-杭隧道-解锁 - 快云
   - 🇭🇰 香港3-广港隧道-解锁 - 快云
   - 🇭🇰 香港6-杭港隧道-解锁 - 快云
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇸🇬 新加坡2-广新隧道-解锁 - 快云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id004
+  proxies: &id003
   - 🇯🇵 日本-广日隧道-解锁 - 快云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id004
   - 🇺🇸 美国1-广港隧道-解锁 - 快云
   - 🇺🇸 美国2-苏港隧道-解锁 - 快云
 - name: 🎏 ‍其他
@@ -116,7 +104,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id006
+  proxies: &id005
   - 🇨🇦 加拿大-厦港隧道-解锁 - 快云
 - name: 👆🏻 ‍指定
   type: select
@@ -124,25 +112,21 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id004
+  proxies: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id005
+  proxies: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id006
+  proxies: *id005
 proxies:
 - {name: 🇺🇸 美国1-广港隧道-解锁 - 快云, server: 120.240.48.247, port: 50333, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国2-苏港隧道-解锁 - 快云, server: js.xn--iiq222b6igvp5c.com, port: 35330, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港7-上港隧道-解锁 - 快云, server: sh.888888.wtf, port: 25924, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港1-广港隧道 - 快云, server: 120.240.48.247, port: 64784, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦 加拿大-厦港隧道-解锁 - 快云, server: hb.xn--iiq222b6igvp5c.com, port: 41198, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡2-广新隧道-解锁 - 快云, server: 120.240.48.247, port: 21476, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-广日隧道-解锁 - 快云, server: gy.xn--iiq222b6igvp5c.com, port: 56597, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-杭隧道-解锁 - 快云, server: hz.sh6678458.top, port: 14511, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3-广港隧道-解锁 - 快云, server: 120.240.48.247, port: 43789, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
