@@ -4,4 +4,7 @@ proxies:
 - {name: 🇺🇸-原生IP-0.85倍 - 大湾区坤厂, server: 154.7.179.11, port: 8080, type: vmess, uuid: ebc82b38-e3e1-4909-8c79-977fd4ddaa78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸-精品线路-1倍 - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: ebc82b38-e3e1-4909-8c79-977fd4ddaa78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸-ChatGPT-流媒体-TikTok-0.85倍 - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: ebc82b38-e3e1-4909-8c79-977fd4ddaa78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸4837-南方-广联-0.85倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: ebc82b38-e3e1-4909-8c79-977fd4ddaa78, udp: true}
+- {name: 🇺🇸9929--南方-广联-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: ebc82b38-e3e1-4909-8c79-977fd4ddaa78, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: ebc82b38-e3e1-4909-8c79-977fd4ddaa78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: ebc82b38-e3e1-4909-8c79-977fd4ddaa78, udp: true}
