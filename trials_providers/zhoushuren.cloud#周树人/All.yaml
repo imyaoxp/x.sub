@@ -1,6 +1,8 @@
 %YAML 1.1
 ---
 proxies:
+- {name: '[CT1]-🇲🇾马来测试-0倍率 - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 56207, type: trojan, password: 0ddea2eb-ba92-4cc2-8e2e-3f34b519cee3, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: '[CT2]-🇻🇳越南测试-0倍率 - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 31187, type: trojan, password: 0ddea2eb-ba92-4cc2-8e2e-3f34b519cee3, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇪阿联酋-迪拜-01|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 31591, type: trojan, password: 0ddea2eb-ba92-4cc2-8e2e-3f34b519cee3, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 27798, type: trojan, password: 0ddea2eb-ba92-4cc2-8e2e-3f34b519cee3, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 45463, type: trojan, password: 0ddea2eb-ba92-4cc2-8e2e-3f34b519cee3, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
