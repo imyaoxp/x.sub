@@ -10,7 +10,13 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
+  - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -18,13 +24,12 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇺🇸-原生IP-0.85倍 - 大湾区坤厂
-  - 🇺🇸-精品线路-1倍 - 大湾区坤厂
-  - 🇺🇸-ChatGPT-流媒体-TikTok-0.85倍 - 大湾区坤厂
-  - 🇺🇸4837-南方-广联-0.85倍 - 大湾区坤厂
-  - 🇺🇸9929--南方-广联-1倍 - 大湾区坤厂
+  - 🇭🇰-专线01-2.5倍 - 大湾区坤厂
+  - 🇸🇬-专线01-2倍 - 大湾区坤厂
+  - 🇺🇸9929-专线01-1倍 - 大湾区坤厂
+  - 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
-  - 🇺🇸流媒体|ChatGPT| - 大湾区坤厂
+  - 🇺🇸4837-广移 - 大湾区坤厂
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -40,13 +45,19 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 👆🏻🇺🇸 ‍美国
+  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
+  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -55,17 +66,49 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id002
+  - 🇭🇰-专线01-2.5倍 - 大湾区坤厂
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id003
+  - 🇸🇬-专线01-2倍 - 大湾区坤厂
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id004
+  - 🇺🇸9929-专线01-1倍 - 大湾区坤厂
+  - 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂
+  - 🇺🇸-直连-联通推荐 - 大湾区坤厂
+  - 🇺🇸4837-广移 - 大湾区坤厂
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id003
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id004
 proxies:
-- {name: 🇺🇸-原生IP-0.85倍 - 大湾区坤厂, server: 154.7.179.11, port: 8080, type: vmess, uuid: bf2d21bd-1617-4a0a-b85e-f261da3813f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸-精品线路-1倍 - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: bf2d21bd-1617-4a0a-b85e-f261da3813f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-0.85倍 - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: bf2d21bd-1617-4a0a-b85e-f261da3813f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸4837-南方-广联-0.85倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
-- {name: 🇺🇸9929--南方-广联-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇺🇸9929-专线01-1倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇸🇬-专线01-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: bf2d21bd-1617-4a0a-b85e-f261da3813f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇺🇸4837-广移 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 32890, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

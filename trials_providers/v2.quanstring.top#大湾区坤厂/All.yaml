@@ -1,10 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸-原生IP-0.85倍 - 大湾区坤厂, server: 154.7.179.11, port: 8080, type: vmess, uuid: bf2d21bd-1617-4a0a-b85e-f261da3813f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸-精品线路-1倍 - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: bf2d21bd-1617-4a0a-b85e-f261da3813f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-0.85倍 - 大湾区坤厂, server: 154.12.53.143, port: 8080, type: vmess, uuid: bf2d21bd-1617-4a0a-b85e-f261da3813f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸4837-南方-广联-0.85倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
-- {name: 🇺🇸9929--南方-广联-1倍 - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇺🇸9929-专线01-1倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇺🇸4837-专线01-0.85倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇸🇬-专线01-2倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇭🇰-专线01-2.5倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: bf2d21bd-1617-4a0a-b85e-f261da3813f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸流媒体|ChatGPT| - 大湾区坤厂, server: 110.72.100.83, port: 42812, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
+- {name: 🇺🇸4837-广移 - 大湾区坤厂, server: lpl.xggj.xn--fiqs8s, port: 32890, type: ss, cipher: chacha20-ietf-poly1305, password: bf2d21bd-1617-4a0a-b85e-f261da3813f4, udp: true}
