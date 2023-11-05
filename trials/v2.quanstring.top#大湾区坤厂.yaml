@@ -99,10 +99,10 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇸🇬-优质专线-2倍 - 大湾区坤厂, server: sh.888888.wtf, port: 39115, type: ss, cipher: chacha20-ietf-poly1305, password: 85218c74-2942-438c-bf72-e16ceafca131, udp: true}
-- {name: 🇭🇰-优质专线-2.5倍 - 大湾区坤厂, server: sh.888888.wtf, port: 40337, type: ss, cipher: chacha20-ietf-poly1305, password: 85218c74-2942-438c-bf72-e16ceafca131, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 85218c74-2942-438c-bf72-e16ceafca131, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: sh.888888.wtf, port: 20492, type: ss, cipher: chacha20-ietf-poly1305, password: 85218c74-2942-438c-bf72-e16ceafca131, udp: true}
+- {name: 🇸🇬-优质专线-2倍 - 大湾区坤厂, server: sh.888888.wtf, port: 39115, type: ss, cipher: chacha20-ietf-poly1305, password: 251e3d34-fa93-41b0-8e92-ea8876e6915c, udp: true}
+- {name: 🇭🇰-优质专线-2.5倍 - 大湾区坤厂, server: sh.888888.wtf, port: 40337, type: ss, cipher: chacha20-ietf-poly1305, password: 251e3d34-fa93-41b0-8e92-ea8876e6915c, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 251e3d34-fa93-41b0-8e92-ea8876e6915c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: sh.888888.wtf, port: 20492, type: ss, cipher: chacha20-ietf-poly1305, password: 251e3d34-fa93-41b0-8e92-ea8876e6915c, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

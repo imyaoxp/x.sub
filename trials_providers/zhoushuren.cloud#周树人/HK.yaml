@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '[CT3]-🇭🇰香港测试-0倍率 - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 29088, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 27798, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 45463, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 48179, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 56859, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 13417, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 50395, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 13257, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: akari-hk-v6-zsr-1.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01 - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 54696, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02 - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 54696, type: trojan, password: 3b9c8077-4e2b-46c9-bda1-6f7a825fb915, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
+- {name: '[CT3]-🇭🇰香港测试-0倍率 - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 29088, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 27798, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 45463, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 48179, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 56859, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud', server: zf.zsr-seoul.588500.xyz, port: 13417, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 50395, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud', server: zf.zsr-seoul2.588500.xyz, port: 13257, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: akari-hk-v6-zsr-1.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01 - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 54696, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02 - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 54696, type: trojan, password: adaeb150-3eae-409e-94f6-3859b012bb98, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
