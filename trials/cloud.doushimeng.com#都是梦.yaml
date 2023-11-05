@@ -39,6 +39,7 @@ proxy-groups:
   - 🇺🇸美国03 - 都是梦
   - 🇰🇷韩国01 - 都是梦
   - 🇰🇷韩国02 - 都是梦
+  - 🇰🇷韩国03 - 都是梦
   - 🇦🇺澳大利亚01 - 都是梦
   - 🇮🇹意大利01 - 都是梦
   - 🇳🇱荷兰01 - 都是梦
@@ -134,6 +135,7 @@ proxy-groups:
   proxies: &id006
   - 🇰🇷韩国01 - 都是梦
   - 🇰🇷韩国02 - 都是梦
+  - 🇰🇷韩国03 - 都是梦
   - 🇦🇺澳大利亚01 - 都是梦
   - 🇮🇹意大利01 - 都是梦
   - 🇳🇱荷兰01 - 都是梦
@@ -172,6 +174,7 @@ proxies:
 - {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 87f06553-e573-47d6-aa6b-f1b113c0ec9f, udp: true}
 - {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22553, type: ss, cipher: chacha20-ietf-poly1305, password: 87f06553-e573-47d6-aa6b-f1b113c0ec9f, udp: true}
 - {name: 🇰🇷韩国02 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 87f06553-e573-47d6-aa6b-f1b113c0ec9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2.112592.xyz}}, udp: true}
+- {name: 🇰🇷韩国03 - 都是梦, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: 87f06553-e573-47d6-aa6b-f1b113c0ec9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2.doushimeng.com}}, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 87f06553-e573-47d6-aa6b-f1b113c0ec9f, udp: true}
 - {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 87f06553-e573-47d6-aa6b-f1b113c0ec9f, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 87f06553-e573-47d6-aa6b-f1b113c0ec9f, udp: true}
