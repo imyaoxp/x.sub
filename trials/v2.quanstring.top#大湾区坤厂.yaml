@@ -29,7 +29,6 @@ proxy-groups:
   - 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂
   - 🇸🇬-专线01-2倍 - 大湾区坤厂
   - 🇸🇬-专线02-2倍 - 大湾区坤厂
-  - 🇺🇸精品稳定-0.5倍 - 大湾区坤厂
   - 🇺🇸优质-专线01-0.85倍 - 大湾区坤厂
   - 🇺🇸优质-专线02-0.85倍 - 大湾区坤厂
   - 🇺🇸精品-专线01-1倍 - 大湾区坤厂
@@ -95,7 +94,6 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇺🇸精品稳定-0.5倍 - 大湾区坤厂
   - 🇺🇸优质-专线01-0.85倍 - 大湾区坤厂
   - 🇺🇸优质-专线02-0.85倍 - 大湾区坤厂
   - 🇺🇸精品-专线01-1倍 - 大湾区坤厂
@@ -115,7 +113,6 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇺🇸精品稳定-0.5倍 - 大湾区坤厂, server: 154.7.181.138, port: 8080, type: vmess, uuid: da0fcb3f-f191-4e9f-bec1-f24fbdd4e4d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸优质-专线01-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: da0fcb3f-f191-4e9f-bec1-f24fbdd4e4d2, udp: true}
 - {name: 🇺🇸优质-专线02-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: da0fcb3f-f191-4e9f-bec1-f24fbdd4e4d2, udp: true}
 - {name: 🇺🇸精品-专线01-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: da0fcb3f-f191-4e9f-bec1-f24fbdd4e4d2, udp: true}
