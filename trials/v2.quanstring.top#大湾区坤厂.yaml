@@ -26,6 +26,7 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰-优质专线-2.5倍 - 大湾区坤厂
   - 🇸🇬-优质专线-2倍 - 大湾区坤厂
+  - 🇺🇸9929-专线01-1倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
   - 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂
 - name: 🛩️ ‍墙内
@@ -84,6 +85,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id004
+  - 🇺🇸9929-专线01-1倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
   - 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂
 - name: 👆🏻 ‍指定
@@ -99,6 +101,7 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
+- {name: 🇺🇸9929-专线01-1倍 - 大湾区坤厂, server: xiongda006.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: a0677147-b797-4ce0-ad88-8a8f29699e36, udp: true}
 - {name: 🇸🇬-优质专线-2倍 - 大湾区坤厂, server: sh.888888.wtf, port: 39115, type: ss, cipher: chacha20-ietf-poly1305, password: a0677147-b797-4ce0-ad88-8a8f29699e36, udp: true}
 - {name: 🇭🇰-优质专线-2.5倍 - 大湾区坤厂, server: sh.888888.wtf, port: 40337, type: ss, cipher: chacha20-ietf-poly1305, password: a0677147-b797-4ce0-ad88-8a8f29699e36, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: a0677147-b797-4ce0-ad88-8a8f29699e36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
