@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸精品-专线01-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: a0677147-b797-4ce0-ad88-8a8f29699e36, udp: true}
-- {name: 🇺🇸精品-专线02-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: a0677147-b797-4ce0-ad88-8a8f29699e36, udp: true}
-- {name: 🇺🇸优质-专线01-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: a0677147-b797-4ce0-ad88-8a8f29699e36, udp: true}
-- {name: 🇺🇸优质-专线02-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: a0677147-b797-4ce0-ad88-8a8f29699e36, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: a0677147-b797-4ce0-ad88-8a8f29699e36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: sh.888888.wtf, port: 20492, type: ss, cipher: chacha20-ietf-poly1305, password: a0677147-b797-4ce0-ad88-8a8f29699e36, udp: true}
+- {name: 🇺🇸精品-专线01-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: dc614d83-b670-4990-afc1-82ced745fe99, udp: true}
+- {name: 🇺🇸精品-专线02-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: dc614d83-b670-4990-afc1-82ced745fe99, udp: true}
+- {name: 🇺🇸优质-专线01-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: dc614d83-b670-4990-afc1-82ced745fe99, udp: true}
+- {name: 🇺🇸优质-专线02-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: dc614d83-b670-4990-afc1-82ced745fe99, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: dc614d83-b670-4990-afc1-82ced745fe99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: sh.888888.wtf, port: 20492, type: ss, cipher: chacha20-ietf-poly1305, password: dc614d83-b670-4990-afc1-82ced745fe99, udp: true}
