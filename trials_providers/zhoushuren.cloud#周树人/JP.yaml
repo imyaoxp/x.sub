@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本-东京-02|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 13888, type: trojan, password: 9094d8c5-a312-4f6e-a69b-dc53deba9db5, sni: jgwjpmd1.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 38357, type: trojan, password: 9094d8c5-a312-4f6e-a69b-dc53deba9db5, sni: jgwjpmd2.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: 9094d8c5-a312-4f6e-a69b-dc53deba9db5, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|1X - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 13888, type: trojan, password: 795970c4-f424-4da5-9342-3972ade6a09d, sni: jgwjpmd1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-04|1X|GPT - 周树人Cloud, server: zf.zsr-seoul2.588500.xyz, port: 38357, type: trojan, password: 795970c4-f424-4da5-9342-3972ade6a09d, sni: jgwjpmd2.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-07|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 14243, type: trojan, password: 795970c4-f424-4da5-9342-3972ade6a09d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
