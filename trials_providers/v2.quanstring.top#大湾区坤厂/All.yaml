@@ -11,5 +11,4 @@ proxies:
 - {name: 🇭🇰-专线02-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 5712e186-ce16-499e-8a34-981d9595d750, udp: true}
 - {name: 🇭🇰-流媒体02-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 5712e186-ce16-499e-8a34-981d9595d750, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 5712e186-ce16-499e-8a34-981d9595d750, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: DV-9929-10T - 大湾区坤厂, server: 154.7.181.138, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 5712e186-ce16-499e-8a34-981d9595d750, udp: true}
 - {name: 🇺🇸-ChatGPT-流媒体-TikTok-稳定 - 大湾区坤厂, server: sh.888888.wtf, port: 20492, type: ss, cipher: chacha20-ietf-poly1305, password: 5712e186-ce16-499e-8a34-981d9595d750, udp: true}
