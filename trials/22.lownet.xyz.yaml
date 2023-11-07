@@ -10,10 +10,8 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -22,9 +20,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇺🇸 us-1 - fastest
-  - aa-1 - fastest
-  - pp-1 - fastest
+  - gg-1 - fastest
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -46,9 +42,7 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
@@ -59,34 +53,21 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇺🇸 us-1 - fastest
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id003
-  - aa-1 - fastest
-  - pp-1 - fastest
+  proxies: &id002
+  - gg-1 - fastest
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id003
+  proxies: *id002
 proxies:
-- {name: aa-1 - fastest, server: aa.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aa.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: douk.looooooongnet.lol}, udp: true}
-- {name: 🇺🇸 us-1 - fastest, server: ss.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ss.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: dous.looooooongnet.lol}, udp: true}
-- {name: pp-1 - fastest, server: pp.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: pp.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+- {name: gg-1 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
