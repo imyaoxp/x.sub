@@ -30,7 +30,7 @@ proxy-groups:
   - 🇭🇰-专线②-2.5倍 - 大湾区坤厂
   - 🇭🇰-流媒体②-2.5倍 - 大湾区坤厂
   - 🇸🇬-专线①-2倍 - 大湾区坤厂
-  - 🇸🇬-专线02-2倍 - 大湾区坤厂
+  - 🇸🇬-专线②-2倍 - 大湾区坤厂
   - 🇺🇸优质①-0.85倍 - 大湾区坤厂
   - 🇺🇸优质②-0.85倍 - 大湾区坤厂
   - 🇺🇸精品①-1倍 - 大湾区坤厂
@@ -91,7 +91,7 @@ proxy-groups:
   tolerance: 50
   proxies: &id003
   - 🇸🇬-专线①-2倍 - 大湾区坤厂
-  - 🇸🇬-专线02-2倍 - 大湾区坤厂
+  - 🇸🇬-专线②-2倍 - 大湾区坤厂
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -133,7 +133,7 @@ proxies:
 - {name: 🇺🇸精品①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: 50f07c06-e929-40b1-ad90-053e9c898669, udp: true}
 - {name: 🇺🇸精品②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: 50f07c06-e929-40b1-ad90-053e9c898669, udp: true}
 - {name: 🇸🇬-专线①-2倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 50f07c06-e929-40b1-ad90-053e9c898669, udp: true}
-- {name: 🇸🇬-专线02-2倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 50f07c06-e929-40b1-ad90-053e9c898669, udp: true}
+- {name: 🇸🇬-专线②-2倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 50f07c06-e929-40b1-ad90-053e9c898669, udp: true}
 - {name: 🇭🇰-专线①-2.5倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 50f07c06-e929-40b1-ad90-053e9c898669, udp: true}
 - {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 50f07c06-e929-40b1-ad90-053e9c898669, udp: true}
 - {name: 🇭🇰-流媒体②-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 50f07c06-e929-40b1-ad90-053e9c898669, udp: true}
