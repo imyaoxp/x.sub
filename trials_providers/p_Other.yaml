@@ -3,7 +3,7 @@
 proxies:
 - {name: 距离下次重置剩余：23 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 1fc96b76-7e36-4f33-bab5-6e751f748ea8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 5712e186-ce16-499e-8a34-981d9595d750, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 131140:DFyUCt, obfs-param: '839fe131140.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 131142:XJrPkk, obfs-param: '60e65131142.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 距离下次重置剩余：23 天 - fastest, server: aa.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aa.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: douk.looooooongnet.lol}, udp: true}
 - {name: 距离下次重置剩余：23 天 - FastFly, server: gdct001.jcnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 774de0af-28cb-4ec9-97ed-f056c63392ce, udp: true}
 - {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
