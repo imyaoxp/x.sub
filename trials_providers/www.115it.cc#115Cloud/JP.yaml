@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-CF-公益-0.5倍率 - 115Cloud, server: www.hugedomains.com, port: 443, type: vmess, uuid: e7026ae7-626a-3964-8d5d-0d066d594701, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-cf-gy.115cloud.link, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: jp-cf-gy.115cloud.link}}, udp: true}
+- {name: 🇯🇵 日本-CF-公益-0.5倍率 - 115Cloud, server: cf.30it.icu, port: 443, type: vmess, uuid: e7026ae7-626a-3964-8d5d-0d066d594701, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-cf-gy.115cloud.link, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: jp-cf-gy.115cloud.link}}, udp: true}
