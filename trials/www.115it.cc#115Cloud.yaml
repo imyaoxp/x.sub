@@ -12,13 +12,11 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -31,7 +29,6 @@ proxy-groups:
   - 🇭🇰 香港-CF-公益-0.5倍率 - 115Cloud
   - 🇭🇰 香港-中转-公益-2倍率 - 115Cloud
   - 🇸🇬 新加坡-中转-公益-2倍率 - 115Cloud
-  - 🇯🇵 日本-CF-公益-0.5倍率 - 115Cloud
   - 🇺🇸 美国-CF-公益-0.5倍率 - 115Cloud
   - 🇺🇸 美国-中转-公益-2倍率 - 115Cloud
   - 🇺🇸 美国-中转-公益02-2倍率 - 115Cloud
@@ -65,10 +62,8 @@ proxy-groups:
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -92,19 +87,12 @@ proxy-groups:
   tolerance: 50
   proxies: &id003
   - 🇸🇬 新加坡-中转-公益-2倍率 - 115Cloud
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇯🇵 日本-CF-公益-0.5倍率 - 115Cloud
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id005
+  proxies: &id004
   - 🇺🇸 美国-CF-公益-0.5倍率 - 115Cloud
   - 🇺🇸 美国-中转-公益-2倍率 - 115Cloud
   - 🇺🇸 美国-中转-公益02-2倍率 - 115Cloud
@@ -113,7 +101,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id006
+  proxies: &id005
   - 🇬🇧 英国-CF-公益-0.5倍率 - 115Cloud
   - 🇬🇧 英国-中转-公益-2倍率 - 115Cloud
 - name: 👆🏻 ‍指定
@@ -125,17 +113,13 @@ proxy-groups:
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id005
+  proxies: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id006
+  proxies: *id005
 proxies:
-- {name: 🇯🇵 日本-CF-公益-0.5倍率 - 115Cloud, server: cf.30it.icu, port: 443, type: vmess, uuid: e7026ae7-626a-3964-8d5d-0d066d594701, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-cf-gy.115cloud.link, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: jp-cf-gy.115cloud.link}}, udp: true}
 - {name: 🇺🇸 美国-CF-公益-0.5倍率 - 115Cloud, server: cf.30it.icu, port: 443, type: vmess, uuid: e7026ae7-626a-3964-8d5d-0d066d594701, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-cf-gy.115cloud.link, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: us-cf-gy.115cloud.link}}, udp: true}
 - {name: 🇬🇧 英国-CF-公益-0.5倍率 - 115Cloud, server: cf.30it.icu, port: 443, type: vmess, uuid: e7026ae7-626a-3964-8d5d-0d066d594701, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uk-cf-gy.115cloud.link, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: uk-cf-gy.115cloud.link}}, udp: true}
 - {name: 🇭🇰 香港-CF-公益-0.5倍率 - 115Cloud, server: cf.30it.icu, port: 443, type: vmess, uuid: e7026ae7-626a-3964-8d5d-0d066d594701, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-cf-gy.115cloud.link, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: hk-cf-gy.115cloud.link}}, udp: true}
