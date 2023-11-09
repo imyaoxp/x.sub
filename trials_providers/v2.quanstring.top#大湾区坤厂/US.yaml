@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸顶级专线①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: f2e19003-b4e9-4a30-8583-11ff3f4a34ee, udp: true}
-- {name: 🇺🇸顶级专线②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: f2e19003-b4e9-4a30-8583-11ff3f4a34ee, udp: true}
-- {name: 🇺🇸优质①-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: f2e19003-b4e9-4a30-8583-11ff3f4a34ee, udp: true}
-- {name: 🇺🇸优质②-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: f2e19003-b4e9-4a30-8583-11ff3f4a34ee, udp: true}
-- {name: 🇺🇸精品①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: f2e19003-b4e9-4a30-8583-11ff3f4a34ee, udp: true}
-- {name: 🇺🇸精品②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: f2e19003-b4e9-4a30-8583-11ff3f4a34ee, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: f2e19003-b4e9-4a30-8583-11ff3f4a34ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸顶级专线①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: b636e98a-b298-4cf5-be2a-6e6e6837cd59, udp: true}
+- {name: 🇺🇸顶级专线②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: b636e98a-b298-4cf5-be2a-6e6e6837cd59, udp: true}
+- {name: 🇺🇸优质①-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: b636e98a-b298-4cf5-be2a-6e6e6837cd59, udp: true}
+- {name: 🇺🇸优质②-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: b636e98a-b298-4cf5-be2a-6e6e6837cd59, udp: true}
+- {name: 🇺🇸精品①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: b636e98a-b298-4cf5-be2a-6e6e6837cd59, udp: true}
+- {name: 🇺🇸精品②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: b636e98a-b298-4cf5-be2a-6e6e6837cd59, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: b636e98a-b298-4cf5-be2a-6e6e6837cd59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}

@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：22 天 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+- {name: 距离下次重置剩余：21 天 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
