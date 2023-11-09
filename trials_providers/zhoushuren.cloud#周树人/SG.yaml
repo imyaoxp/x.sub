@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡01|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 24564, type: trojan, password: dadb836a-f313-479a-93f6-baae5dae9de2, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡02|1X|GPT - 周树人Cloud, server: zf.zsr-seoul.588500.xyz, port: 36735, type: trojan, password: dadb836a-f313-479a-93f6-baae5dae9de2, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡01|GPT - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 50182, type: trojan, password: dadb836a-f313-479a-93f6-baae5dae9de2, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 60322, type: trojan, password: dadb836a-f313-479a-93f6-baae5dae9de2, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: dadb836a-f313-479a-93f6-baae5dae9de2, udp: true}
