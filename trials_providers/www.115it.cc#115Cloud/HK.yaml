@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇭🇰 香港-CF-公益-0.5倍率 - 115Cloud, server: cf.30it.icu, port: 443, type: vmess, uuid: 05e571e3-58a5-3552-acae-b941af3cf25c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk-cf-gy.115cloud.link, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: hk-cf-gy.115cloud.link}}, udp: true}
-- {name: 🇭🇰 香港-中转-公益-2倍率 - 115Cloud, server: hzyd.299c.cc, port: 55670, type: ss, cipher: aes-256-gcm, password: 4mfRZiKroqMyxwBG, udp: true}
+- {name: 🇭🇰 香港-中转-公益-2倍率 - 115Cloud, server: hk-gy.115cloud.link, port: 55670, type: ss, cipher: aes-256-gcm, password: 4mfRZiKroqMyxwBG, udp: true}
