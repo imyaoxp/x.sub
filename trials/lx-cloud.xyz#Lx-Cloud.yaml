@@ -59,7 +59,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 距离下次重置剩余：27 天 - Lx-Cloud
+  - 距离下次重置剩余：26 天 - Lx-Cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -67,7 +67,7 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 距离下次重置剩余：27 天 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 8af71523-e543-475d-b5a6-f53d114cf9ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：26 天 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 8af71523-e543-475d-b5a6-f53d114cf9ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 8af71523-e543-475d-b5a6-f53d114cf9ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
