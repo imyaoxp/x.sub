@@ -60,13 +60,13 @@ proxy-groups:
   - 🇺🇸 美国 03 - V2Link
   - 🇺🇸 美国 04 - V2Link
   - 🇺🇸 美国 05 - V2Link
-  - 🇺🇸 美国 06 - V2Link
   - 双11疯狂购物季，全场5折！2023年11月4日-2023年11月11日 - V2Link
   - 🇰🇷 韩国 01 - V2Link
   - 🇰🇷 韩国 02 - V2Link
   - 🇰🇷 韩国 03 - V2Link
   - 🇮🇩 雅加达 - V2Link
   - 🇲🇾 马来西亚 - V2Link
+  - 🇲🇽 墨西哥 - V2Link
   - 🇨🇦 加拿大 - V2Link
   - 🇬🇧 英国 01 - V2Link
   - 🇬🇧 英国 02 - V2Link
@@ -207,7 +207,6 @@ proxy-groups:
   - 🇺🇸 美国 03 - V2Link
   - 🇺🇸 美国 04 - V2Link
   - 🇺🇸 美国 05 - V2Link
-  - 🇺🇸 美国 06 - V2Link
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -220,6 +219,7 @@ proxy-groups:
   - 🇰🇷 韩国 03 - V2Link
   - 🇮🇩 雅加达 - V2Link
   - 🇲🇾 马来西亚 - V2Link
+  - 🇲🇽 墨西哥 - V2Link
   - 🇨🇦 加拿大 - V2Link
   - 🇬🇧 英国 01 - V2Link
   - 🇬🇧 英国 02 - V2Link
@@ -297,7 +297,7 @@ proxies:
 - {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: cec6430c-5d80-4de2-b18f-79ecabcbb981, udp: true}
 - {name: 🇺🇸 美国 04 - V2Link, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: cec6430c-5d80-4de2-b18f-79ecabcbb981, udp: true}
 - {name: 🇺🇸 美国 05 - V2Link, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: cec6430c-5d80-4de2-b18f-79ecabcbb981, udp: true}
-- {name: 🇺🇸 美国 06 - V2Link, server: host-042.crazyspeed.xyz, port: 16016, type: ss, cipher: chacha20-ietf-poly1305, password: cec6430c-5d80-4de2-b18f-79ecabcbb981, udp: true}
+- {name: 🇲🇽 墨西哥 - V2Link, server: host-042.crazyspeed.xyz, port: 16016, type: ss, cipher: chacha20-ietf-poly1305, password: cec6430c-5d80-4de2-b18f-79ecabcbb981, udp: true}
 - {name: 🇨🇦 加拿大 - V2Link, server: host-041.crazyspeed.xyz, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: cec6430c-5d80-4de2-b18f-79ecabcbb981, udp: true}
 - {name: 🇬🇧 英国 01 - V2Link, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: cec6430c-5d80-4de2-b18f-79ecabcbb981, udp: true}
 - {name: 🇬🇧 英国 02 - V2Link, server: host-044.crazyspeed.xyz, port: 34402, type: ss, cipher: chacha20-ietf-poly1305, password: cec6430c-5d80-4de2-b18f-79ecabcbb981, udp: true}
