@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 21367, type: vmess, uuid: 5f7346b7-ba8f-4f36-bf1e-8067cff6d002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy56udfgsd43565hfdfsd, headers: {Host: www.apple.com}}, udp: true}
