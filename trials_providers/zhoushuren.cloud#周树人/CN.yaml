@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港01|流媒体 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 56052, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 59363, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 59069, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 50933, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力01 - 周树人Cloud', server: hzyd.xn--icty41bzxj.cn, port: 62403, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力02 - 周树人Cloud', server: hzyd.xn--icty41bzxj.cn, port: 50354, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 55707, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 55707, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 56052, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 59363, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 59069, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 50933, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力01 - 周树人Cloud', server: hzyd.xn--icty41bzxj.cn, port: 62403, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力02 - 周树人Cloud', server: hzyd.xn--icty41bzxj.cn, port: 50354, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 55707, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 55707, type: trojan, password: 510d982b-6762-4178-925e-6c6a896fa43d, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
