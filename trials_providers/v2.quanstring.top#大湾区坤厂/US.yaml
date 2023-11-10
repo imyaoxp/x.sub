@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸顶级专线①-0.7倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: dac95891-cd1c-4ef0-a2a1-2ced6a90b968, udp: true}
-- {name: 🇺🇸顶级专线②-0.7倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: dac95891-cd1c-4ef0-a2a1-2ced6a90b968, udp: true}
-- {name: 🇺🇸优质①-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: dac95891-cd1c-4ef0-a2a1-2ced6a90b968, udp: true}
-- {name: 🇺🇸优质②-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: dac95891-cd1c-4ef0-a2a1-2ced6a90b968, udp: true}
-- {name: 🇺🇸精品①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: dac95891-cd1c-4ef0-a2a1-2ced6a90b968, udp: true}
-- {name: 🇺🇸精品②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: dac95891-cd1c-4ef0-a2a1-2ced6a90b968, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: dac95891-cd1c-4ef0-a2a1-2ced6a90b968, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: dac95891-cd1c-4ef0-a2a1-2ced6a90b968, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸顶级专线①-0.7倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: e2843712-30d1-48d7-b0a7-929fa5c4eeb1, udp: true}
+- {name: 🇺🇸顶级专线②-0.7倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: e2843712-30d1-48d7-b0a7-929fa5c4eeb1, udp: true}
+- {name: 🇺🇸优质①-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: e2843712-30d1-48d7-b0a7-929fa5c4eeb1, udp: true}
+- {name: 🇺🇸优质②-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: e2843712-30d1-48d7-b0a7-929fa5c4eeb1, udp: true}
+- {name: 🇺🇸精品①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: e2843712-30d1-48d7-b0a7-929fa5c4eeb1, udp: true}
+- {name: 🇺🇸精品②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: e2843712-30d1-48d7-b0a7-929fa5c4eeb1, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: e2843712-30d1-48d7-b0a7-929fa5c4eeb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: e2843712-30d1-48d7-b0a7-929fa5c4eeb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
