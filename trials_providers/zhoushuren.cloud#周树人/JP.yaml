@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 52299, type: trojan, password: 68c85860-af3d-40e7-95a5-8f60cd15fd9b, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 52299, type: trojan, password: 68c85860-af3d-40e7-95a5-8f60cd15fd9b, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-03 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 48886, type: ss, cipher: aes-256-gcm, password: 68c85860-af3d-40e7-95a5-8f60cd15fd9b, udp: true}
+- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 52299, type: trojan, password: a23a93dc-067c-4424-a802-8b815c3eba0b, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 52299, type: trojan, password: a23a93dc-067c-4424-a802-8b815c3eba0b, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-03 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 48886, type: ss, cipher: aes-256-gcm, password: a23a93dc-067c-4424-a802-8b815c3eba0b, udp: true}
