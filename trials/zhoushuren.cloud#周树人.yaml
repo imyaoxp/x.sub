@@ -220,7 +220,7 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: 🇦🇪阿联酋-迪拜-01 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 51157, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪阿联酋-迪拜-01 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 50548, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港01|流媒体 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 56052, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港02|流媒体 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 59363, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港03|流媒体 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 59069, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
