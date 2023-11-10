@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: 05e571e3-58a5-3552-acae-b941af3cf25c, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-CF-公益-0.5倍率 - 115Cloud, server: uk-cf-gy.115cloud.link, port: 42321, type: trojan, password: 05e571e3-58a5-3552-acae-b941af3cf25c, sni: uk-cf-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-中转-公益-2倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 28413, type: ss, cipher: aes-256-gcm, password: 4mfRZiKroqMyxwBG, udp: true}
+- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: abd0d49f-e564-3a31-a8a0-6e54c3d089e7, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-CF-公益-0.5倍率 - 115Cloud, server: uk-cf-gy.115cloud.link, port: 42321, type: trojan, password: abd0d49f-e564-3a31-a8a0-6e54c3d089e7, sni: uk-cf-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-中转-公益-2倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 28413, type: ss, cipher: aes-256-gcm, password: A734yv9PRbUcF5mY, udp: true}

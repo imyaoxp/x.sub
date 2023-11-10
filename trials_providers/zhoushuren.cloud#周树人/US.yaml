@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 47623, type: trojan, password: 8f621913-d335-412b-9c4d-2908cf166551, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-圣克拉拉-02 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 46235, type: trojan, password: 8f621913-d335-412b-9c4d-2908cf166551, sni: zhengjjs.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-圣克拉拉-03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42593, type: trojan, password: 8f621913-d335-412b-9c4d-2908cf166551, sni: mf9.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯-06 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 23512, type: trojan, password: 8f621913-d335-412b-9c4d-2908cf166551, sni: global-vm.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯-15 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 23512, type: trojan, password: 8f621913-d335-412b-9c4d-2908cf166551, sni: global-vm.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-芝加哥-16 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 65250, type: trojan, password: 8f621913-d335-412b-9c4d-2908cf166551, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 47623, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-圣克拉拉-02 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 46235, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: zhengjjs.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-圣克拉拉-03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42593, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: mf9.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-06 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 23512, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: global-vm.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-15 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 23512, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: global-vm.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-芝加哥-16 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 65250, type: trojan, password: c89b762d-05f7-4a9d-ba66-8e804ed7ddc5, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
