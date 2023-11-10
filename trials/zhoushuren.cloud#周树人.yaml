@@ -56,12 +56,19 @@ proxy-groups:
   - 🇲🇰北马其顿-斯科普里-1 - 周树人Cloud
   - 🇭🇷克罗地亚-萨格勒布-1 - 周树人Cloud
   - 🇱🇮列支敦士登-瓦都茲-1 - 周树人Cloud
+  - 🇦🇱阿尔巴尼亚-地拉那-1 - 周树人Cloud
+  - 🇧🇦波黑-萨拉热窝-1 - 周树人Cloud
+  - 🇧🇪比利时-安特卫普-1 - 周树人Cloud
+  - 🇦🇹奥地利-维也纳-1 - 周树人Cloud
+  - 🇦🇲亚美尼亚-耶烈万-1 - 周树人Cloud
+  - 🇦🇩安道尔-安道尔城-1 - 周树人Cloud
   - 🇬🇷希腊-雅典-1 - 周树人Cloud
   - 🇨🇾塞浦路斯-利马索尔-1 - 周树人Cloud
   - 🇲🇩摩尔多瓦-基希讷乌-1 - 周树人Cloud
   - 🇮🇲马恩岛-1 - 周树人Cloud
   - 🇬🇱格陵兰岛-努克-1 - 周树人Cloud
   - 🇲🇦摩洛哥-拉巴特-1 - 周树人Cloud
+  - 🇧🇬保加利亚-索菲亚-1 - 周树人Cloud
   - 🇮🇸冰岛-雷克亞維克-1 - 周树人Cloud
   - 🇦🇺澳洲-悉尼-02 - 周树人Cloud
   - 🇩🇪德国-法兰克福-01|1X - 周树人Cloud
@@ -197,12 +204,19 @@ proxy-groups:
   - 🇲🇰北马其顿-斯科普里-1 - 周树人Cloud
   - 🇭🇷克罗地亚-萨格勒布-1 - 周树人Cloud
   - 🇱🇮列支敦士登-瓦都茲-1 - 周树人Cloud
+  - 🇦🇱阿尔巴尼亚-地拉那-1 - 周树人Cloud
+  - 🇧🇦波黑-萨拉热窝-1 - 周树人Cloud
+  - 🇧🇪比利时-安特卫普-1 - 周树人Cloud
+  - 🇦🇹奥地利-维也纳-1 - 周树人Cloud
+  - 🇦🇲亚美尼亚-耶烈万-1 - 周树人Cloud
+  - 🇦🇩安道尔-安道尔城-1 - 周树人Cloud
   - 🇬🇷希腊-雅典-1 - 周树人Cloud
   - 🇨🇾塞浦路斯-利马索尔-1 - 周树人Cloud
   - 🇲🇩摩尔多瓦-基希讷乌-1 - 周树人Cloud
   - 🇮🇲马恩岛-1 - 周树人Cloud
   - 🇬🇱格陵兰岛-努克-1 - 周树人Cloud
   - 🇲🇦摩洛哥-拉巴特-1 - 周树人Cloud
+  - 🇧🇬保加利亚-索菲亚-1 - 周树人Cloud
   - 🇮🇸冰岛-雷克亞維克-1 - 周树人Cloud
   - 🇦🇺澳洲-悉尼-02 - 周树人Cloud
   - 🇩🇪德国-法兰克福-01|1X - 周树人Cloud
@@ -257,12 +271,19 @@ proxies:
 - {name: 🇲🇰北马其顿-斯科普里-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 51031, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇷克罗地亚-萨格勒布-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 51047, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇱🇮列支敦士登-瓦都茲-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 45407, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇱阿尔巴尼亚-地拉那-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 16675, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇧🇦波黑-萨拉热窝-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 19312, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇧🇪比利时-安特卫普-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 38925, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇹奥地利-维也纳-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 47557, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇲亚美尼亚-耶烈万-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 28783, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇩安道尔-安道尔城-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 25460, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇬🇷希腊-雅典-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 55623, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇨🇾塞浦路斯-利马索尔-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 19593, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇲🇩摩尔多瓦-基希讷乌-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 10701, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇲马恩岛-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 20722, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇬🇱格陵兰岛-努克-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 48250, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇲🇦摩洛哥-拉巴特-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 45128, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇧🇬保加利亚-索菲亚-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 59675, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇸冰岛-雷克亞維克-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 35757, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺澳洲-悉尼-02 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 52755, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: xn1.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡01|GPT - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 27117, type: trojan, password: d2c9fe69-3cb6-41f3-b67f-ef8e034b893d, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
