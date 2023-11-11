@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇰🇷 首尔 - 大湾区坤厂, server: 64.110.84.240, port: 42423, type: ss, cipher: chacha20-ietf-poly1305, password: 18cc584c-6542-44b4-8fad-eb7f88292efc, udp: true}
-- {name: 🇰🇷-专线②-0.1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 18cc584c-6542-44b4-8fad-eb7f88292efc, udp: true}
-- {name: 🇰🇷-专线①-0.1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 18cc584c-6542-44b4-8fad-eb7f88292efc, udp: true}
