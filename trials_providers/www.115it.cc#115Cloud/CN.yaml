@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港-CF-公益-0.5倍率 - 115Cloud, server: hk-cf-gy.115cloud.link, port: 443, type: vmess, uuid: 80d87a50-4589-3aa1-866c-05aedfd40eb5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: hk-cf-gy.115cloud.link}}, udp: true}
-- {name: 🇭🇰 香港-中转-公益-2倍率 - 115Cloud, server: hk-gy.115cloud.link, port: 55670, type: ss, cipher: aes-256-gcm, password: dRszVMin2X7z8C32, udp: true}
+- {name: 🇭🇰 香港-CF-公益-0.5倍率 - 115Cloud, server: hk-cf-gy.115cloud.link, port: 443, type: vmess, uuid: ba459513-4960-3d27-aa85-bb88fe7d9127, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: hk-cf-gy.115cloud.link}}, udp: true}
+- {name: 🇭🇰 香港-中转-公益-2倍率 - 115Cloud, server: hk-gy.115cloud.link, port: 55670, type: ss, cipher: aes-256-gcm, password: BqATbuNgeGmtQbDk, udp: true}
