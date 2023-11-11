@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：1 天 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 5a9eaa14-9d31-4c90-8c2d-8a241c817586, udp: true}

@@ -28,8 +28,8 @@ proxy-groups:
   - 🇸🇬-专线②-1.75倍 - 大湾区坤厂
   - 🇺🇸顶级专线①-0.7倍 - 大湾区坤厂
   - 🇺🇸顶级专线②-0.7倍 - 大湾区坤厂
-  - 🇺🇸优质①-0.85倍 - 大湾区坤厂
-  - 🇺🇸优质②-0.85倍 - 大湾区坤厂
+  - 🇺🇸原生IP①-0.85倍 - 大湾区坤厂
+  - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区坤厂
   - 🇺🇸精品①-1倍 - 大湾区坤厂
   - 🇺🇸精品②-1倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
@@ -86,8 +86,8 @@ proxy-groups:
   proxies: &id003
   - 🇺🇸顶级专线①-0.7倍 - 大湾区坤厂
   - 🇺🇸顶级专线②-0.7倍 - 大湾区坤厂
-  - 🇺🇸优质①-0.85倍 - 大湾区坤厂
-  - 🇺🇸优质②-0.85倍 - 大湾区坤厂
+  - 🇺🇸原生IP①-0.85倍 - 大湾区坤厂
+  - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区坤厂
   - 🇺🇸精品①-1倍 - 大湾区坤厂
   - 🇺🇸精品②-1倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
@@ -115,8 +115,8 @@ proxies:
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
 - {name: 🇺🇸顶级专线①-0.7倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
 - {name: 🇺🇸顶级专线②-0.7倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
-- {name: 🇺🇸优质①-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
-- {name: 🇺🇸优质②-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
+- {name: 🇺🇸原生IP①-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
+- {name: 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
 - {name: 🇺🇸精品①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
 - {name: 🇺🇸精品②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
 - {name: 🇸🇬-专线①-1.75倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 0f52f90c-cb9a-40b3-9db5-2b4a64479a09, udp: true}
