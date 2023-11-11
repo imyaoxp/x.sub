@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: ce2dbc06-0290-4203-86ca-30cca3b2aaeb, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: ce2dbc06-0290-4203-86ca-30cca3b2aaeb, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: ce2dbc06-0290-4203-86ca-30cca3b2aaeb, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: ce2dbc06-0290-4203-86ca-30cca3b2aaeb, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: ce2dbc06-0290-4203-86ca-30cca3b2aaeb, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: ce2dbc06-0290-4203-86ca-30cca3b2aaeb, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: afd06e60-0f37-46b7-b467-4420a5c74cb6, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: afd06e60-0f37-46b7-b467-4420a5c74cb6, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 31022, type: ss, cipher: chacha20-ietf-poly1305, password: afd06e60-0f37-46b7-b467-4420a5c74cb6, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: afd06e60-0f37-46b7-b467-4420a5c74cb6, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: afd06e60-0f37-46b7-b467-4420a5c74cb6, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: afd06e60-0f37-46b7-b467-4420a5c74cb6, udp: true}
