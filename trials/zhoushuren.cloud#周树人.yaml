@@ -68,6 +68,7 @@ proxy-groups:
   - 🇵🇦巴拿马-巴拿马城-01 - 周树人Cloud
   - 🇨🇷哥斯达黎加-圣荷西-01 - 周树人Cloud
   - 🇺🇾乌拉圭-蒙得维的亚-01 - 周树人Cloud
+  - 🇻🇪委内瑞拉-加拉加斯-01 - 周树人Cloud
   - 🇻🇦梵蒂冈-梵蒂冈城-01 - 周树人Cloud
   - 🇪🇬埃及-开罗-01 - 周树人Cloud
   - 🇦🇷阿根廷-布宜诺斯艾利斯-01 - 周树人Cloud
@@ -110,6 +111,7 @@ proxy-groups:
   - 🇮🇪爱尔兰-都柏林-01|2X - 周树人Cloud
   - 🇸🇪瑞典-斯德哥尔摩-01|2X - 周树人Cloud
   - 🇨🇱智利-圣地亚哥-01|2X - 周树人Cloud
+  - 🇰🇷韩国-首尔-01 - 周树人Cloud
   - 🇲🇴澳门特别行政区-01 - 周树人Cloud
 - name: 🛩️ ‍墙内
   type: select
@@ -248,6 +250,7 @@ proxy-groups:
   - 🇵🇦巴拿马-巴拿马城-01 - 周树人Cloud
   - 🇨🇷哥斯达黎加-圣荷西-01 - 周树人Cloud
   - 🇺🇾乌拉圭-蒙得维的亚-01 - 周树人Cloud
+  - 🇻🇪委内瑞拉-加拉加斯-01 - 周树人Cloud
   - 🇻🇦梵蒂冈-梵蒂冈城-01 - 周树人Cloud
   - 🇪🇬埃及-开罗-01 - 周树人Cloud
   - 🇦🇷阿根廷-布宜诺斯艾利斯-01 - 周树人Cloud
@@ -290,6 +293,7 @@ proxy-groups:
   - 🇮🇪爱尔兰-都柏林-01|2X - 周树人Cloud
   - 🇸🇪瑞典-斯德哥尔摩-01|2X - 周树人Cloud
   - 🇨🇱智利-圣地亚哥-01|2X - 周树人Cloud
+  - 🇰🇷韩国-首尔-01 - 周树人Cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -337,6 +341,7 @@ proxies:
 - {name: 🇵🇦巴拿马-巴拿马城-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 55035, type: ss, cipher: chacha20-ietf-poly1305, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, udp: true}
 - {name: 🇨🇷哥斯达黎加-圣荷西-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 25600, type: ss, cipher: chacha20-ietf-poly1305, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, udp: true}
 - {name: 🇺🇾乌拉圭-蒙得维的亚-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 47447, type: ss, cipher: chacha20-ietf-poly1305, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, udp: true}
+- {name: 🇻🇪委内瑞拉-加拉加斯-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 39171, type: ss, cipher: chacha20-ietf-poly1305, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, udp: true}
 - {name: 🇻🇦梵蒂冈-梵蒂冈城-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 46416, type: vmess, uuid: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy56udfgsd43565hfdfsd, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇪🇬埃及-开罗-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 48723, type: vmess, uuid: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy99999d, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇦🇷阿根廷-布宜诺斯艾利斯-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 33255, type: vmess, uuid: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdfffffff9999d, headers: {Host: www.apple.com}}, udp: true}
@@ -386,6 +391,7 @@ proxies:
 - {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 52299, type: trojan, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 52299, type: trojan, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-03 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 48886, type: ss, cipher: aes-256-gcm, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, udp: true}
+- {name: 🇰🇷韩国-首尔-01 - 周树人Cloud, server: js.xn--icty41bzxj.cn, port: 14381, type: ss, cipher: aes-256-gcm, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, udp: true}
 - {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 31514, type: trojan, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-圣克拉拉-02 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 46397, type: trojan, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, sni: zhengjjs.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-圣克拉拉-03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42593, type: trojan, password: c2ad9f2a-3cb3-47b5-9460-04b197fa9161, sni: mf9.zhoushuren.me, skip-cert-verify: true, udp: true}
