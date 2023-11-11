@@ -123,7 +123,7 @@ proxy-groups:
   proxies: *id005
 proxies:
 - {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: ba459513-4960-3d27-aa85-bb88fe7d9127, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-CF-公益-0.5倍率 - 115Cloud, server: us-cf-gy.115cloud.link, port: 33213, type: trojan, password: ba459513-4960-3d27-aa85-bb88fe7d9127, sni: us-cf-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-CF-公益-0.5倍率 - 115Cloud, server: us-cf-gy.115cloud.link, port: 35522, type: trojan, password: ba459513-4960-3d27-aa85-bb88fe7d9127, sni: us-cf-gy.115cloud.link, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国-CF-公益-0.5倍率 - 115Cloud, server: uk-cf-gy.115cloud.link, port: 42321, type: trojan, password: ba459513-4960-3d27-aa85-bb88fe7d9127, sni: uk-cf-gy.115cloud.link, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-CF-公益-0.5倍率 - 115Cloud, server: hk-cf-gy.115cloud.link, port: 443, type: vmess, uuid: ba459513-4960-3d27-aa85-bb88fe7d9127, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /E6QkCpqXGX5EUZJdAACD, headers: {Host: hk-cf-gy.115cloud.link}}, udp: true}
 - {name: 🇺🇸 美国-中转-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 42492, type: ss, cipher: aes-256-gcm, password: BqATbuNgeGmtQbDk, udp: true}
