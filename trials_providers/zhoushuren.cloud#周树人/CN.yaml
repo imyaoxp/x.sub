@@ -12,5 +12,6 @@ proxies:
 - {name: 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 4891713c-acd5-400f-90cc-390efe3ebb2d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-04|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 4891713c-acd5-400f-90cc-390efe3ebb2d, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 21367, type: ss, cipher: chacha20-ietf-poly1305, password: 4891713c-acd5-400f-90cc-390efe3ebb2d, udp: true}
+- {name: 🇲🇴澳门特别行政区-02|限时1X - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 40833, type: ss, cipher: chacha20-ietf-poly1305, password: 4891713c-acd5-400f-90cc-390efe3ebb2d, udp: true}
 - {name: 🇭🇰 香港01|1X - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 49188, type: trojan, password: 4891713c-acd5-400f-90cc-390efe3ebb2d, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港02 - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 49188, type: trojan, password: 4891713c-acd5-400f-90cc-390efe3ebb2d, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
