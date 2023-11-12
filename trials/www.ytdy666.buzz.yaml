@@ -24,7 +24,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇭🇰 aga香港游戏节点 - cloudtu
   - 🇭🇰 HKT解锁 - cloudtu
@@ -86,8 +86,8 @@ proxy-groups:
 - name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - 🇭🇰 aga香港游戏节点 - cloudtu
   - 🇭🇰 HKT解锁 - cloudtu
@@ -99,8 +99,8 @@ proxy-groups:
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id003
   - 🇯🇵 AZ日本隧道转移动1 - cloudtu
   - 🇯🇵 AZ日本隧道转移动2 - cloudtu
@@ -108,15 +108,15 @@ proxy-groups:
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id004
   - 🇺🇸 AZ美国隧道转移动3 - cloudtu
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id005
   - 🇰🇷 aga韩国游戏节点 - cloudtu
   - 🇦🇿 AZ01转移动-1 - cloudtu

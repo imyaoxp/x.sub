@@ -18,7 +18,7 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id001
   - US
   - p_All_Other
@@ -58,12 +58,12 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇺🇸 ‍美国
   type: url-test
-  tolerance: 50
+  tolerance: 300
   use: &id002
   - US
 - name: 🎏 ‍其他
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id003
   - p_All_Other
 - name: 👆🏻 ‍指定

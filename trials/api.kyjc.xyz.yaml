@@ -26,7 +26,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇭🇰 香港7-上港隧道-解锁 - 快云
   - 🇭🇰 香港1-广港隧道 - 快云
@@ -81,8 +81,8 @@ proxy-groups:
 - name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - 🇭🇰 香港7-上港隧道-解锁 - 快云
   - 🇭🇰 香港1-广港隧道 - 快云
@@ -92,22 +92,22 @@ proxy-groups:
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id003
   - 🇸🇬 新加坡2-杭新隧道-解锁 - 快云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id004
   - 🇯🇵 日本1-上日隧道-解锁 - 快云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id005
   - 🇺🇸 美国1-杭港隧道-解锁 - 快云
   - 🇺🇸 美国2-广港隧道-解锁 - 快云
@@ -115,7 +115,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id006
   - 🇨🇦 加拿大-杭港隧道-解锁 - 快云
 - name: 👆🏻 ‍指定

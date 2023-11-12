@@ -16,7 +16,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 3元机场推荐 - 嫖了么免费机场
   - www.jichang.pro - 嫖了么免费机场

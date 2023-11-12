@@ -16,7 +16,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇭🇰 香港 - sspanel
 - name: 🛩️ ‍墙内

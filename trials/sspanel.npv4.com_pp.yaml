@@ -14,7 +14,7 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id001
   - All
 - name: 🛩️ ‍墙内

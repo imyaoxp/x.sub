@@ -18,7 +18,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 您的客户端不支持 - 养老机场-Reality-Hy-Hy2
 - name: 🛩️ ‍墙内
@@ -57,7 +57,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id002
   - 您的客户端不支持 - 养老机场-Reality-Hy-Hy2
 - name: 👆🏻 ‍指定

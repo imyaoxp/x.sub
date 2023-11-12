@@ -18,7 +18,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - gg-1 - fastest
 - name: 🛩️ ‍墙内
@@ -57,7 +57,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id002
   - gg-1 - fastest
 - name: 👆🏻 ‍指定
