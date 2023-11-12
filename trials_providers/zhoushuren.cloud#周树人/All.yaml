@@ -2,12 +2,12 @@
 ---
 proxies:
 - {name: 🇦🇪阿联酋-迪拜-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 55794, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zj-cm.oracle.edu.kg, port: 15056, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zj-cm.oracle.edu.kg, port: 59103, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zj-cm.oracle.edu.kg, port: 58853, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zj-cm.oracle.edu.kg, port: 65488, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zj-cm.oracle.edu.kg, port: 41452, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 59103, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 58853, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 65488, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: '[主力]🇭🇰 香港DMIT主力01|1X - 周树人Cloud', server: zj-cm.oracle.edu.kg, port: 22176, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: yinhe.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力02 - 周树人Cloud', server: hzyd.xn--icty41bzxj.cn, port: 50354, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力02|1X - 周树人Cloud', server: gz-cu.oracle.edu.kg, port: 58470, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
@@ -80,5 +80,5 @@ proxies:
 - {name: 🇺🇸美国-拉斯维加斯-06 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 40780, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: global-vm.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-拉斯维加斯-15 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 40780, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: global-vm.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-芝加哥-16 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 41423, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 55707, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 55707, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01|1X - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 49188, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02 - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 49188, type: trojan, password: 8032e1e4-fa67-4cf5-ad8e-e9e84e6ec742, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
