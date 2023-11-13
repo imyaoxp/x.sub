@@ -4,8 +4,8 @@ proxies:
 - {name: 🇸🇬 新加坡 01 - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: c8dd75af-9a5f-4830-b295-2987176526eb, udp: true}
 - {name: 🇸🇬 新加坡 02 - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: c8dd75af-9a5f-4830-b295-2987176526eb, udp: true}
 - {name: 🇸🇬 新加坡 03 - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: c8dd75af-9a5f-4830-b295-2987176526eb, udp: true}
-- {name: 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
-- {name: 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: c9448a9a-37a9-4196-b8d9-e62c52c8ff84, udp: true}
+- {name: 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: c9448a9a-37a9-4196-b8d9-e62c52c8ff84, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 1ad4368d-7a62-33d1-87ae-4ee57143ebab, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬新加坡01|GPT - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 27117, type: trojan, password: bf592038-c560-4c14-a259-86b32e517b2d, sni: doxjp01.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 50022, type: trojan, password: bf592038-c560-4c14-a259-86b32e517b2d, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
@@ -13,12 +13,12 @@ proxies:
 - {name: 🇸🇬新加坡04 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 23030, type: ss, cipher: aes-256-gcm, password: bf592038-c560-4c14-a259-86b32e517b2d, udp: true}
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: 0bc81f5d-4859-316c-a65e-d40de262f2bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: 0bc81f5d-4859-316c-a65e-d40de262f2bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: f02f7a24-b2d9-4bb3-b327-3d1c7178d1cd, udp: true}
-- {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: f02f7a24-b2d9-4bb3-b327-3d1c7178d1cd, udp: true}
-- {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: f02f7a24-b2d9-4bb3-b327-3d1c7178d1cd, udp: true}
-- {name: 🇸🇬 新加坡4 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: f02f7a24-b2d9-4bb3-b327-3d1c7178d1cd, udp: true}
-- {name: 🇸🇬 新加坡5 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: f02f7a24-b2d9-4bb3-b327-3d1c7178d1cd, udp: true}
-- {name: 🇸🇬 新加坡6 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: f02f7a24-b2d9-4bb3-b327-3d1c7178d1cd, udp: true}
+- {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 327dc8ee-e011-4127-91a5-0553bf310e71, udp: true}
+- {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 327dc8ee-e011-4127-91a5-0553bf310e71, udp: true}
+- {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 327dc8ee-e011-4127-91a5-0553bf310e71, udp: true}
+- {name: 🇸🇬 新加坡4 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: 327dc8ee-e011-4127-91a5-0553bf310e71, udp: true}
+- {name: 🇸🇬 新加坡5 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: 327dc8ee-e011-4127-91a5-0553bf310e71, udp: true}
+- {name: 🇸🇬 新加坡6 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: 327dc8ee-e011-4127-91a5-0553bf310e71, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 70a9f99b-6225-4164-bcfe-233e0bf034bb, udp: true}
 - {name: 🇸🇬 Singapore 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 70a9f99b-6225-4164-bcfe-233e0bf034bb, udp: true}
 - {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 1891284986.download.windowsupdate.com}, udp: true}
