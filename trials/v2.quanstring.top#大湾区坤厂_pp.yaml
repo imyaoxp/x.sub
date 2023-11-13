@@ -27,7 +27,6 @@ proxy-groups:
   - SG
   - JP
   - US
-  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -85,7 +84,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id005
-  - p_All_Other
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -129,11 +128,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/v2.quanstring.top#大湾区坤厂/p_All_Other.yaml
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/v2.quanstring.top#大湾区坤厂/Other.yaml
     interval: 180
-    path: trials_providers/v2.quanstring.top#大湾区坤厂/p_All_Other.yaml
+    path: trials_providers/v2.quanstring.top#大湾区坤厂/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

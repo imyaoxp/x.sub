@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 01 - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: e3e03305-cb6f-487e-8ef1-ecf03f74b76b, udp: true}
-- {name: 🇸🇬 新加坡 02 - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: e3e03305-cb6f-487e-8ef1-ecf03f74b76b, udp: true}
-- {name: 🇸🇬 新加坡 03 - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: e3e03305-cb6f-487e-8ef1-ecf03f74b76b, udp: true}
+- {name: 🇸🇬 新加坡 01 - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 7a88d6ca-264f-4b27-89f2-91f1b1cdddd4, udp: true}
+- {name: 🇸🇬 新加坡 02 - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 7a88d6ca-264f-4b27-89f2-91f1b1cdddd4, udp: true}
+- {name: 🇸🇬 新加坡 03 - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 7a88d6ca-264f-4b27-89f2-91f1b1cdddd4, udp: true}
