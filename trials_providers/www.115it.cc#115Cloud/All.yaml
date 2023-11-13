@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: ad11765d-a9ad-3962-a546-de34d2246cf3, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其-公益-0.5倍率 - 115Cloud, server: tr-gy.115cloud.link, port: 54621, type: trojan, password: ad11765d-a9ad-3962-a546-de34d2246cf3, sni: tr-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-CF-公益-0.5倍率 - 115Cloud, server: us-cf-gy.115cloud.link, port: 43612, type: trojan, password: ad11765d-a9ad-3962-a546-de34d2246cf3, sni: us-cf-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-中转-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 42492, type: ss, cipher: aes-256-gcm, password: 8eGHkYKSQIzDe9AU, udp: true}
-- {name: 🇺🇸 美国-中转-公益02-2倍率 - 115Cloud, server: us.gy.299c.cc, port: 34534, type: ss, cipher: aes-256-gcm, password: 8eGHkYKSQIzDe9AU, udp: true}
-- {name: 🇸🇬 新加坡-中转-公益-2倍率 - 115Cloud, server: sg-gy.115cloud.link, port: 33333, type: ss, cipher: aes-256-gcm, password: 8eGHkYKSQIzDe9AU, udp: true}
-- {name: 🇬🇧 英国-中转-公益-2倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 28413, type: ss, cipher: aes-256-gcm, password: 8eGHkYKSQIzDe9AU, udp: true}
-- {name: 🇭🇰 香港-中转-公益-2倍率 - 115Cloud, server: hk-gy.115cloud.link, port: 55670, type: ss, cipher: aes-256-gcm, password: 8eGHkYKSQIzDe9AU, udp: true}
+- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: 3b0442be-ddee-3c1c-a184-52f0f2eda7ad, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其-公益-0.5倍率 - 115Cloud, server: tr-gy.115cloud.link, port: 54621, type: trojan, password: 3b0442be-ddee-3c1c-a184-52f0f2eda7ad, sni: tr-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-CF-公益-0.5倍率 - 115Cloud, server: us-cf-gy.115cloud.link, port: 43612, type: trojan, password: 3b0442be-ddee-3c1c-a184-52f0f2eda7ad, sni: us-cf-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-中转-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 42492, type: ss, cipher: aes-256-gcm, password: 2eirZ6h9CKsBZjBU, udp: true}
+- {name: 🇺🇸 美国-中转-公益02-2倍率 - 115Cloud, server: us.gy.299c.cc, port: 34534, type: ss, cipher: aes-256-gcm, password: 2eirZ6h9CKsBZjBU, udp: true}
+- {name: 🇸🇬 新加坡-中转-公益-2倍率 - 115Cloud, server: sg-gy.115cloud.link, port: 33333, type: ss, cipher: aes-256-gcm, password: 2eirZ6h9CKsBZjBU, udp: true}
+- {name: 🇬🇧 英国-中转-公益-2倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 28413, type: ss, cipher: aes-256-gcm, password: 2eirZ6h9CKsBZjBU, udp: true}
+- {name: 🇭🇰 香港-中转-公益-2倍率 - 115Cloud, server: hk-gy.115cloud.link, port: 55670, type: ss, cipher: aes-256-gcm, password: 2eirZ6h9CKsBZjBU, udp: true}
