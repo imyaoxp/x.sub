@@ -29,11 +29,13 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 🇭🇰-专线②-2.5倍 - 大湾区坤厂
-  - 🇸🇬-专线①-1.75倍 - 大湾区坤厂
-  - 🇸🇬-专线②-1.75倍 - 大湾区坤厂
+  - 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区坤厂
+  - 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区坤厂
   - 🇯🇵-专线②-1.2倍 - 大湾区坤厂
   - 🇯🇵-专线①-1.2倍 - 大湾区坤厂
   - 🇯🇵 日本-直连 - 大湾区坤厂
+  - 🇺🇸顶级专线①-0.7倍 - 大湾区坤厂
+  - 🇺🇸顶级专线②-0.7倍 - 大湾区坤厂
   - 🇺🇸原生IP①-0.85倍 - 大湾区坤厂
   - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区坤厂
   - 🇺🇸精品①-1倍 - 大湾区坤厂
@@ -93,8 +95,8 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬-专线①-1.75倍 - 大湾区坤厂
-  - 🇸🇬-专线②-1.75倍 - 大湾区坤厂
+  - 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区坤厂
+  - 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区坤厂
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -110,6 +112,8 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id005
+  - 🇺🇸顶级专线①-0.7倍 - 大湾区坤厂
+  - 🇺🇸顶级专线②-0.7倍 - 大湾区坤厂
   - 🇺🇸原生IP①-0.85倍 - 大湾区坤厂
   - 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区坤厂
   - 🇺🇸精品①-1倍 - 大湾区坤厂
@@ -142,19 +146,21 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇯🇵-专线②-1.2倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇯🇵-专线①-1.2倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇺🇸原生IP①-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇺🇸精品①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇺🇸精品②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇸🇬-专线①-1.75倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇸🇬-专线②-1.75倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇯🇵 日本-直连 - 大湾区坤厂, server: 141.147.162.254, port: 15424, type: ss, cipher: chacha20-ietf-poly1305, password: 6275ff77-e3b2-4f98-9d15-adcba07b9a41, udp: true}
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇯🇵-专线②-1.2倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇯🇵-专线①-1.2倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇺🇸顶级专线①-0.7倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 40631, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇺🇸顶级专线②-0.7倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 29447, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇺🇸原生IP①-0.85倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇺🇸ChatGPT-流媒体②-0.85倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇺🇸精品①-1倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇺🇸精品②-1倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇸🇬-专线（油管无广告）①-1.75倍 - 大湾区坤厂, server: s7.daxiongda.top, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇸🇬-专线（油管无广告）②-1.75倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s8.daxiongda.top, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸-ChatGPT-流媒体-TikTok-1 倍 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇯🇵 日本-直连 - 大湾区坤厂, server: 141.147.162.254, port: 15424, type: ss, cipher: chacha20-ietf-poly1305, password: d9adeee4-c39b-4f34-99fb-31f3f7a1901a, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
