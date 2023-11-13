@@ -11,14 +11,14 @@ proxies:
 - {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 50022, type: trojan, password: 72272bff-7d96-40b8-8216-3a6776d9a79e, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 72272bff-7d96-40b8-8216-3a6776d9a79e, udp: true}
 - {name: 🇸🇬新加坡04 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 23030, type: ss, cipher: aes-256-gcm, password: 72272bff-7d96-40b8-8216-3a6776d9a79e, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: e3515cd0-1944-3cd1-bb62-e5e305f00235, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: e3515cd0-1944-3cd1-bb62-e5e305f00235, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: b8598504-dd85-424c-8816-f0182d23c76d, udp: true}
-- {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: b8598504-dd85-424c-8816-f0182d23c76d, udp: true}
-- {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: b8598504-dd85-424c-8816-f0182d23c76d, udp: true}
-- {name: 🇸🇬 新加坡4 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: b8598504-dd85-424c-8816-f0182d23c76d, udp: true}
-- {name: 🇸🇬 新加坡5 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: b8598504-dd85-424c-8816-f0182d23c76d, udp: true}
-- {name: 🇸🇬 新加坡6 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: b8598504-dd85-424c-8816-f0182d23c76d, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: a3ec8544-d982-3863-86cb-4318b9433902, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: a3ec8544-d982-3863-86cb-4318b9433902, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 23906d5e-2503-49bd-af45-d8c0fbf29b86, udp: true}
+- {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 23906d5e-2503-49bd-af45-d8c0fbf29b86, udp: true}
+- {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 23906d5e-2503-49bd-af45-d8c0fbf29b86, udp: true}
+- {name: 🇸🇬 新加坡4 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: 23906d5e-2503-49bd-af45-d8c0fbf29b86, udp: true}
+- {name: 🇸🇬 新加坡5 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: 23906d5e-2503-49bd-af45-d8c0fbf29b86, udp: true}
+- {name: 🇸🇬 新加坡6 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38982, type: ss, cipher: chacha20-ietf-poly1305, password: 23906d5e-2503-49bd-af45-d8c0fbf29b86, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 20966d37-578b-4048-b230-c351ae8b7bdc, udp: true}
 - {name: 🇸🇬 Singapore 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 20966d37-578b-4048-b230-c351ae8b7bdc, udp: true}
 - {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 1a1d784974.download.windowsupdate.com}, udp: true}
