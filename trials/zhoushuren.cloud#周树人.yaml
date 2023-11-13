@@ -103,6 +103,7 @@ proxy-groups:
   - 🇧🇩孟加拉-达卡-01 - 周树人Cloud
   - 🇧🇳文莱-斯里巴加湾-01 - 周树人Cloud
   - 🇩🇪德国-法兰克福-03 - 周树人Cloud
+  - 🇩🇪德国-法兰克福-04 - 周树人Cloud
   - 🇬🇧英国-斯劳-01|1X - 周树人Cloud
   - 🇬🇧英国-斯劳-02|1X - 周树人Cloud
   - 🇨🇦加拿大-多伦多-01 - 周树人Cloud
@@ -290,6 +291,7 @@ proxy-groups:
   - 🇧🇩孟加拉-达卡-01 - 周树人Cloud
   - 🇧🇳文莱-斯里巴加湾-01 - 周树人Cloud
   - 🇩🇪德国-法兰克福-03 - 周树人Cloud
+  - 🇩🇪德国-法兰克福-04 - 周树人Cloud
   - 🇬🇧英国-斯劳-01|1X - 周树人Cloud
   - 🇬🇧英国-斯劳-02|1X - 周树人Cloud
   - 🇨🇦加拿大-多伦多-01 - 周树人Cloud
@@ -389,6 +391,7 @@ proxies:
 - {name: 🇧🇩孟加拉-达卡-01 - 周树人Cloud, server: js.xn--icty41bzxj.cn, port: 11441, type: ss, cipher: aes-256-gcm, password: e67776b1-9ea6-49e3-b5c0-deda65c9b218, udp: true}
 - {name: 🇧🇳文莱-斯里巴加湾-01 - 周树人Cloud, server: gz-cu.oracle.edu.kg, port: 5915, type: ss, cipher: aes-256-gcm, password: e67776b1-9ea6-49e3-b5c0-deda65c9b218, udp: true}
 - {name: 🇩🇪德国-法兰克福-03 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 28977, type: trojan, password: e67776b1-9ea6-49e3-b5c0-deda65c9b218, sni: 2.ndy588501.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪德国-法兰克福-04 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 29803, type: trojan, password: e67776b1-9ea6-49e3-b5c0-deda65c9b218, sni: 3.ndy588501.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧英国-斯劳-01|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 29678, type: trojan, password: e67776b1-9ea6-49e3-b5c0-deda65c9b218, sni: yingguo1.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧英国-斯劳-02|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42133, type: trojan, password: e67776b1-9ea6-49e3-b5c0-deda65c9b218, sni: yingguoceshi.zhoushuren.pp.ua, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦加拿大-多伦多-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 59373, type: trojan, password: e67776b1-9ea6-49e3-b5c0-deda65c9b218, sni: jianada1.zhoushuren.me, skip-cert-verify: true, udp: true}
