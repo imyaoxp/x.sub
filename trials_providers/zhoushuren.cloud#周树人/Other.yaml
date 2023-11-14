@@ -2,6 +2,9 @@
 ---
 proxies:
 - {name: 🇦🇪阿联酋-迪拜-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 55794, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: 3.zhudaidaohang.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦加拿大-01 - 周树人Cloud, server: suzhoudx.mixi.bio, port: 64145, type: ss, cipher: aes-128-gcm, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, udp: true}
+- {name: 🇬🇧英国-01 - 周树人Cloud, server: suzhoudx.mixi.bio, port: 24791, type: ss, cipher: aes-128-gcm, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, udp: true}
+- {name: 🇦🇺澳洲-01 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 59819, type: ss, cipher: aes-128-gcm, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, udp: true}
 - {name: 🇵🇭菲律宾-马尼拉-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 27075, type: vmess, uuid: 4d022842-605f-4cc9-8d64-4b275f07f7ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdyFDSFSfdfsd, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇲🇲缅甸-曼德勒-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 22919, type: vmess, uuid: 4d022842-605f-4cc9-8d64-4b275f07f7ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vfhnr56867, headers: {Host: www.apple.com}}, udp: true}
 - {name: 🇰🇵朝鲜-平壤-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 18270, type: vmess, uuid: 4d022842-605f-4cc9-8d64-4b275f07f7ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdf34434343ff9999d, headers: {Host: www.apple.com}}, udp: true}
@@ -38,7 +41,6 @@ proxies:
 - {name: 🇲🇦摩洛哥-拉巴特-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 45128, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇧🇬保加利亚-索菲亚-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 59675, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇸冰岛-雷克亞維克-1 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 35757, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺澳洲-悉尼-02 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 52755, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: xn1.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇳🇿新西兰-奥克兰-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 57364, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪德国-法兰克福-01|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42337, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇲🇾马来西亚-新城-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 28518, type: ss, cipher: aes-256-gcm, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, udp: true}
@@ -49,9 +51,6 @@ proxies:
 - {name: 🇧🇳文莱-斯里巴加湾-01 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 15177, type: ss, cipher: aes-256-gcm, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, udp: true}
 - {name: 🇩🇪德国-法兰克福-03 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 28977, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: 2.ndy588501.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪德国-法兰克福-04 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 29803, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: 3.ndy588501.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧英国-斯劳-01|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 29678, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: yingguo1.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧英国-斯劳-02|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42133, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: yingguoceshi.zhoushuren.pp.ua, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦加拿大-多伦多-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 59373, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: jianada1.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷土耳其-伊斯坦布尔-01|2X - 周树人Cloud, server: hb.xn--icty41bzxj.cn, port: 33455, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: trq.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇳🇱荷兰-阿姆斯特丹-01|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 21160, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: dohelan.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳印度-班加罗尔-01|1X - 周树人Cloud, server: doyindu1.zhoushuren.me, port: 34532, type: trojan, password: 4d022842-605f-4cc9-8d64-4b275f07f7ee, sni: doyindu1.zhoushuren.me, skip-cert-verify: true, udp: true}
