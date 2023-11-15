@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵<日本高速>-1.2x - 大湾区坤厂, server: 189SH01.xn--fiqa108dbd596g538d.com, port: 37213, type: ss, cipher: chacha20-ietf-poly1305, password: 81936909-c5e3-46ee-a53c-6e0a5154ef7b, udp: true}
+- {name: 🇯🇵<日本高速>-1.2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: 81936909-c5e3-46ee-a53c-6e0a5154ef7b, udp: true}
 - {name: 🇯🇵<日本>①-1x - 大湾区坤厂, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 81936909-c5e3-46ee-a53c-6e0a5154ef7b, udp: true}
 - {name: 🇯🇵<日本>②-1x - 大湾区坤厂, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 81936909-c5e3-46ee-a53c-6e0a5154ef7b, udp: true}
