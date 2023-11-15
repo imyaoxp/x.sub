@@ -135,18 +135,18 @@ proxies:
 - {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19882, type: vmess, uuid: 94f65146-f259-3454-9d7f-0c0585adfccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19881, type: vmess, uuid: 94f65146-f259-3454-9d7f-0c0585adfccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 您的客户端不支持 - 养老机场-Reality-Hy-Hy2, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 38747, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇷🇺 俄罗斯2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 38747, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇷🇺 俄罗斯3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 38747, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇷🇺 俄罗斯4 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 43540, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇷🇺 俄罗斯5 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 43540, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇷🇺 俄罗斯6 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 43540, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇮🇳 印度1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 46513, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇮🇳 印度2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 46513, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇮🇳 印度3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 46513, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇮🇳 印度4 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38809, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇮🇳 印度5 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38809, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
-- {name: 🇮🇳 印度6 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38809, type: ss, cipher: chacha20-ietf-poly1305, password: 690dc84e-0f50-4db4-a7da-023bc7289462, udp: true}
+- {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 38747, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇷🇺 俄罗斯2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 38747, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇷🇺 俄罗斯3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 38747, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇷🇺 俄罗斯4 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 43540, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇷🇺 俄罗斯5 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 43540, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇷🇺 俄罗斯6 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 43540, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇮🇳 印度1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 46513, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇮🇳 印度2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 46513, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇮🇳 印度3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 46513, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇮🇳 印度4 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38809, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇮🇳 印度5 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38809, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
+- {name: 🇮🇳 印度6 全解锁 - 十元一年, server: cngzdxzz.newbluecloud.top, port: 38809, type: ss, cipher: chacha20-ietf-poly1305, password: a6dbfe50-1ab6-47ea-b47f-18ac133709f9, udp: true}
 - {name: 🇰🇷 South Korea - 番茄云, server: kr.fanqiecloud.top, port: 24954, type: ss, cipher: chacha20-ietf-poly1305, password: c263dc85-f2ca-4e4c-9c8c-37ea7233d807, udp: true}
 - {name: 🇰🇷 South Korea 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: c263dc85-f2ca-4e4c-9c8c-37ea7233d807, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-kr2.fanqiecloud.top}}, udp: true}
 - {name: 🇰🇷 South Korea 3 - 番茄云, server: proxy1.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: c263dc85-f2ca-4e4c-9c8c-37ea7233d807, udp: true}
@@ -229,6 +229,10 @@ proxies:
 - {name: 🇧🇷巴西02 - 都是梦, server: dl2.doushimeng.com, port: 2086, type: vmess, uuid: dc7cbf19-a7e2-4fc2-9788-2dc0fbab018e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西03 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: dc7cbf19-a7e2-4fc2-9788-2dc0fbab018e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-bx4.doushimeng.com}}, udp: true}
 - {name: 🇧🇷巴西04 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: dc7cbf19-a7e2-4fc2-9788-2dc0fbab018e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3.doushimeng.com}}, udp: true}
+- {name: 🇰🇷 韩国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 10270, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
+- {name: 🇮🇳 印度 - 线路一 - SScurl, server: whcm.pangupy.com, port: 47542, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
+- {name: 🇫🇷 法国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 16298, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
+- {name: 🇲🇾 马来西亚 - 线路一 - SScurl, server: whcm.pangupy.com, port: 23430, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gdct001.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
 - {name: 🇻🇳 vip1 越南-02 - FastFly, server: gdct003.jcnode.top, port: 33534, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
 - {name: 🇻🇳 vip1 越南-03 - FastFly, server: gdct002.jcnode.top, port: 23761, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
