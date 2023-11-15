@@ -155,11 +155,11 @@ proxy-groups:
   proxies: *id006
 proxies:
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
-- {name: 🇺🇸<美国高速>0.x - 大湾区坤厂, server: 189SH.xn--fiqa108dbd596g538d.com, port: 50356, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
-- {name: 🇺🇸<美国原生IP>-1x - 大湾区坤厂, server: 189SH.xn--fiqa108dbd596g538d.com, port: 26046, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
-- {name: 🇯🇵<日本高速>-1.2x - 大湾区坤厂, server: 189SH.xn--fiqa108dbd596g538d.com, port: 37213, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
-- {name: 🇸🇬<新加坡高速>1.5x - 大湾区坤厂, server: 189GZ.xn--fiqa108dbd596g538d.com, port: 27608, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
-- {name: 🇸🇬<油管无广告>1.5x - 大湾区坤厂, server: 189GZ.xn--fiqa108dbd596g538d.com, port: 27608, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
+- {name: 🇺🇸<美国高速>0.x - 大湾区坤厂, server: 189SH01.xn--fiqa108dbd596g538d.com, port: 50356, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
+- {name: 🇺🇸<美国原生IP>-1x - 大湾区坤厂, server: 189SH01.xn--fiqa108dbd596g538d.com, port: 26046, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
+- {name: 🇯🇵<日本高速>-1.2x - 大湾区坤厂, server: 189SH01.xn--fiqa108dbd596g538d.com, port: 37213, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
+- {name: 🇸🇬<新加坡高速>1.5x - 大湾区坤厂, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 27608, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
+- {name: 🇸🇬<油管无广告>1.5x - 大湾区坤厂, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 27608, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
 - {name: 🇭🇰<香港高速>-2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
 - {name: 🇯🇵<日本>①-1x - 大湾区坤厂, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
 - {name: 🇯🇵<日本>②-1x - 大湾区坤厂, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
