@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵<日本高速>-1.2x - 大湾区坤厂, server: 189SH.xn--fiqa108dbd596g538d.com, port: 37213, type: ss, cipher: chacha20-ietf-poly1305, password: c5e60c52-623b-480b-be61-081c618468dc, udp: true}
-- {name: 🇯🇵<日本>①-1x - 大湾区坤厂, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: c5e60c52-623b-480b-be61-081c618468dc, udp: true}
-- {name: 🇯🇵<日本>②-1x - 大湾区坤厂, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: c5e60c52-623b-480b-be61-081c618468dc, udp: true}
+- {name: 🇯🇵<日本高速>-1.2x - 大湾区坤厂, server: 189SH.xn--fiqa108dbd596g538d.com, port: 37213, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
+- {name: 🇯🇵<日本>①-1x - 大湾区坤厂, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
+- {name: 🇯🇵<日本>②-1x - 大湾区坤厂, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: f3825d7f-5770-45f9-978d-0edc5ccac01b, udp: true}
