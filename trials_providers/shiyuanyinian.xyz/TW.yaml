@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 879f0fdf-d4e8-46e3-b239-13c8304a5dbf, udp: true}
-- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 879f0fdf-d4e8-46e3-b239-13c8304a5dbf, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 879f0fdf-d4e8-46e3-b239-13c8304a5dbf, udp: true}
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: 114.37.209.44, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 3b654cfc-681e-4a7e-8c5e-ff728b233173, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: 114.37.209.44, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 3b654cfc-681e-4a7e-8c5e-ff728b233173, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: 114.37.209.44, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 3b654cfc-681e-4a7e-8c5e-ff728b233173, udp: true}
