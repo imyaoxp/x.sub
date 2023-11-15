@@ -32,9 +32,10 @@ proxy-groups:
   - 🇭🇰<香港浙江>-2x - 大湾区坤厂
   - 🇭🇰-专线①-2.5倍 - 大湾区坤厂
   - 🇭🇰-专线②-2.5倍 - 大湾区坤厂
-  - 🇸🇬 - 大湾区坤厂
-  - 🇯🇵<日本高速>-1.2x - 大湾区坤厂
-  - 🇯🇵<日本浙江>-1.2x - 大湾区坤厂
+  - 🇸🇬<新加坡>-1x - 大湾区坤厂
+  - 🇸🇬<油管无广告>-1x - 大湾区坤厂
+  - 🇯🇵<日本高速>-1x - 大湾区坤厂
+  - 🇯🇵<日本浙江>-1x - 大湾区坤厂
   - 🇯🇵<日本>①-1x - 大湾区坤厂
   - 🇯🇵<日本>②-1x - 大湾区坤厂
   - 🇺🇸<美国高速>0.8x - 大湾区坤厂
@@ -43,8 +44,6 @@ proxy-groups:
   - 🇺🇸<美国原生IP浙江>-1x - 大湾区坤厂
   - 🇺🇸<原生IP>①-0.85倍 - 大湾区坤厂
   - 🇺🇸<ChatGPT-流媒体>②-0.85倍 - 大湾区坤厂
-  - 🇺🇸<美国>①-1x - 大湾区坤厂
-  - 🇺🇸<美国>②-1x - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
   - 🇺🇸-ChatGPT-1 倍 - 大湾区坤厂
 - name: 🛩️ ‍墙内
@@ -103,15 +102,16 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 - 大湾区坤厂
+  - 🇸🇬<新加坡>-1x - 大湾区坤厂
+  - 🇸🇬<油管无广告>-1x - 大湾区坤厂
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇯🇵<日本高速>-1.2x - 大湾区坤厂
-  - 🇯🇵<日本浙江>-1.2x - 大湾区坤厂
+  - 🇯🇵<日本高速>-1x - 大湾区坤厂
+  - 🇯🇵<日本浙江>-1x - 大湾区坤厂
   - 🇯🇵<日本>①-1x - 大湾区坤厂
   - 🇯🇵<日本>②-1x - 大湾区坤厂
 - name: 🇺🇸 ‍美国
@@ -126,8 +126,6 @@ proxy-groups:
   - 🇺🇸<美国原生IP浙江>-1x - 大湾区坤厂
   - 🇺🇸<原生IP>①-0.85倍 - 大湾区坤厂
   - 🇺🇸<ChatGPT-流媒体>②-0.85倍 - 大湾区坤厂
-  - 🇺🇸<美国>①-1x - 大湾区坤厂
-  - 🇺🇸<美国>②-1x - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
   - 🇺🇸-ChatGPT-1 倍 - 大湾区坤厂
 - name: 🎏 ‍其他
@@ -161,21 +159,20 @@ proxies:
 - {name: 🇺🇸<美国浙江>0.8x - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇺🇸<美国原生IP>-1x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇺🇸<美国原生IP浙江>-1x - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
-- {name: 🇯🇵<日本高速>-1.2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
-- {name: 🇯🇵<日本浙江>-1.2x - 大湾区坤厂, server: 122.237.98.236, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
+- {name: 🇯🇵<日本高速>-1x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
+- {name: 🇯🇵<日本浙江>-1x - 大湾区坤厂, server: 122.237.98.236, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
+- {name: 🇸🇬<新加坡>-1x - 大湾区坤厂, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
+- {name: 🇸🇬<油管无广告>-1x - 大湾区坤厂, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇭🇰<香港高速>-2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇭🇰<香港浙江>-2x - 大湾区坤厂, server: 122.237.98.236, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇯🇵<日本>①-1x - 大湾区坤厂, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇯🇵<日本>②-1x - 大湾区坤厂, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇺🇸<原生IP>①-0.85倍 - 大湾区坤厂, server: s1.956256.xyz, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
-- {name: 🇺🇸<ChatGPT-流媒体>②-0.85倍 - 大湾区坤厂, server: s2.956256.xyz, port: 48995, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
-- {name: 🇺🇸<美国>①-1x - 大湾区坤厂, server: s1.956256.xyz, port: 30544, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
-- {name: 🇺🇸<美国>②-1x - 大湾区坤厂, server: s2.956256.xyz, port: 12517, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
+- {name: 🇺🇸<ChatGPT-流媒体>②-0.85倍 - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇭🇰-专线①-2.5倍 - 大湾区坤厂, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 - {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: bb28e82b-7849-4f51-9f60-e028fa78a082, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸-ChatGPT-1 倍 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: bb28e82b-7849-4f51-9f60-e028fa78a082, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇸🇬 - 大湾区坤厂, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
