@@ -65,9 +65,9 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/22.lownet.xyz/All.yaml
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/tnetvpn.com#飞鸟Reality/All.yaml
     interval: 180
-    path: trials_providers/22.lownet.xyz/All.yaml
+    path: trials_providers/tnetvpn.com#飞鸟Reality/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

@@ -16,11 +16,9 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id001
-  - 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud
+  tolerance: 100
+  use: &id001
+  - All
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -55,20 +53,25 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 距离下次重置剩余：25 天 - Lx-Cloud
+  tolerance: 100
+  use: &id002
+  - All
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id002
-proxies:
-- {name: 距离下次重置剩余：25 天 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 8af71523-e543-475d-b5a6-f53d114cf9ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 Lx-Cloud|禁止倒卖|美国01 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 8af71523-e543-475d-b5a6-f53d114cf9ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  use: *id002
+proxy-providers:
+  All:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/aa.dabai.in/All.yaml
+    interval: 180
+    path: trials_providers/aa.dabai.in/All.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -112,10 +115,9 @@ rules:
 - DOMAIN,j.7.cr,🛩️ ‍墙内
 - DOMAIN,n.7.cr,🛩️ ‍墙内
 - DOMAIN,r.7.cr,🛩️ ‍墙内
-- DOMAIN,dd.al,🛩️ ‍墙内
-- DOMAIN,all.bz,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
+- DOMAIN,api.tsutsu.one,🛩️ ‍墙内
 - DOMAIN,ghproxy.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内

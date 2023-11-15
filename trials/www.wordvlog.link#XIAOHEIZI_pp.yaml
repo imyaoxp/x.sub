@@ -10,15 +10,18 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id001
-  - All
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -40,7 +43,9 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
@@ -51,32 +56,40 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 300
+  use: &id002
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  tolerance: 50
-  use: &id002
+  tolerance: 100
+  use: &id003
   - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id002
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id003
 proxy-providers:
-  All:
+  US:
     type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/lx-cloud.xyz#Lx-Cloud/All.yaml
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/www.wordvlog.link#XIAOHEIZI/US.yaml
     interval: 180
-    path: trials_providers/lx-cloud.xyz#Lx-Cloud/All.yaml
+    path: trials_providers/www.wordvlog.link#XIAOHEIZI/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/lx-cloud.xyz#Lx-Cloud/Other.yaml
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/www.wordvlog.link#XIAOHEIZI/Other.yaml
     interval: 180
-    path: trials_providers/lx-cloud.xyz#Lx-Cloud/Other.yaml
+    path: trials_providers/www.wordvlog.link#XIAOHEIZI/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -124,10 +137,9 @@ rules:
 - DOMAIN,j.7.cr,🛩️ ‍墙内
 - DOMAIN,n.7.cr,🛩️ ‍墙内
 - DOMAIN,r.7.cr,🛩️ ‍墙内
-- DOMAIN,dd.al,🛩️ ‍墙内
-- DOMAIN,all.bz,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
+- DOMAIN,api.tsutsu.one,🛩️ ‍墙内
 - DOMAIN,ghproxy.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内

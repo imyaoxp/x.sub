@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵日本03-高速中转8倍率 - 快狗云, server: gzcmasdjhuiqdhw.dfcloud.xyz, port: 25691, type: ss, cipher: chacha20-ietf-poly1305, password: 434672da-e1b6-41b7-a2d5-97d705be51ad, udp: true}
-- {name: 🇯🇵日本04-高速中转8倍率 - 快狗云, server: gzcmasdjhuiqdhw.dfcloud.xyz, port: 10584, type: ss, cipher: chacha20-ietf-poly1305, password: 434672da-e1b6-41b7-a2d5-97d705be51ad, udp: true}

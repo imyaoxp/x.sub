@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 距离下次重置剩余：15 天 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: ws, ws-opts: {path: /, headers: {Host: gg.looooooongnet.lol}}, udp: true}
-- {name: gg-1 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 57a38383-7973-4be6-af20-e06092844a8f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: ws, ws-opts: {path: /, headers: {Host: gg.looooooongnet.lol}}, udp: true}

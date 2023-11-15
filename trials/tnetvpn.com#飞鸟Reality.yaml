@@ -20,12 +20,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 【双11活动】低至六折活动|公益 - 大白
-  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 【邀请用户】|最高返还40%|移动 - 大白
-  - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
+  - 您的客户端不支持 - 飞鸟Reality🐔场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -64,12 +59,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id002
-  - 【双11活动】低至六折活动|公益 - 大白
-  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 【邀请用户】|最高返还40%|移动 - 大白
-  - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
+  - 您的客户端不支持 - 飞鸟Reality🐔场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -77,12 +67,7 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 【双11活动】低至六折活动|公益 - 大白, server: 112.29.200.11, port: 12130, type: vmess, uuid: 1f63d953-2f1c-357d-81d7-88d752b3236e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 112.29.156.248, port: 62001, type: vmess, uuid: 1f63d953-2f1c-357d-81d7-88d752b3236e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 112.29.156.248, port: 62091, type: vmess, uuid: 1f63d953-2f1c-357d-81d7-88d752b3236e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 112.29.156.248, port: 61001, type: vmess, uuid: 1f63d953-2f1c-357d-81d7-88d752b3236e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 80, type: vmess, uuid: 1f63d953-2f1c-357d-81d7-88d752b3236e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 80, type: vmess, uuid: 1f63d953-2f1c-357d-81d7-88d752b3236e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+- {name: 您的客户端不支持 - 飞鸟Reality🐔场, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
