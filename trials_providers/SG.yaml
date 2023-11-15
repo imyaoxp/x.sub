@@ -4,9 +4,9 @@ proxies:
 - {name: 🇸🇬 新加坡 01 - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 585e6fd0-a1ff-4825-adac-f138a5ed478c, udp: true}
 - {name: 🇸🇬 新加坡 02 - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 585e6fd0-a1ff-4825-adac-f138a5ed478c, udp: true}
 - {name: 🇸🇬 新加坡 03 - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 585e6fd0-a1ff-4825-adac-f138a5ed478c, udp: true}
-- {name: 🇸🇬<新加坡>-1x - 大湾区坤厂, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 1bee3356-568f-4e57-a6b6-98e928977440, udp: true}
-- {name: 🇸🇬<油管无广告>-1x - 大湾区坤厂, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 1bee3356-568f-4e57-a6b6-98e928977440, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 8c2630d7-3970-3a1d-af1d-6a43d8aed35d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: 🇸🇬<新加坡>-1x - 大湾区坤厂, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 09d3a8e4-9d2c-48f0-b5e1-b6257326f56d, udp: true}
+- {name: 🇸🇬<油管无广告>-1x - 大湾区坤厂, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 09d3a8e4-9d2c-48f0-b5e1-b6257326f56d, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 32cd8b12-193a-3501-8f63-351a75c9f079, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 50022, type: trojan, password: 1be207d8-f8a9-4f5d-9d05-57be6521210c, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 1be207d8-f8a9-4f5d-9d05-57be6521210c, udp: true}
 - {name: 🇸🇬新加坡04 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 23030, type: ss, cipher: aes-256-gcm, password: 1be207d8-f8a9-4f5d-9d05-57be6521210c, udp: true}
