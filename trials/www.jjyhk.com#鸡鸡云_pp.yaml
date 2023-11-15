@@ -22,31 +22,12 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港-1/HK | 深联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
-  - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
-  - 🇯🇵 日本/JP | 苏移 - 鸡鸡云
-  - 🇯🇵 日本/JP | 深联 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 苏移 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 沪联 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 上移 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 杭联 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 深联 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 苏移 - 鸡鸡云
-  - 🇸🇰 斯洛伐克中转-电信 - 鸡鸡云
-  - 🇦🇷 阿根廷/AR | 深联 - 鸡鸡云
-  - 🇻🇳 越南/VN | 北联 - 鸡鸡云
-  - 🇩🇪 德国/DE | 北联 - 鸡鸡云
-  - 🇩🇪 德国/DE | 厦联 - 鸡鸡云
-  - 🇸🇪 瑞典/SE | 泸德 - 鸡鸡云
-  - 🇫🇷 法国/FR | 苏移 - 鸡鸡云
-  - 🇫🇷 法国/FR | 深联 - 鸡鸡云
+  use: &id001
+  - HK
+  - JP
+  - US
+  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -87,86 +68,76 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港-1/HK | 深联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 杭联 - 鸡鸡云
-  - 🇭🇰 香港/HK | 沪日 - 鸡鸡云
-  - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
+  use: &id002
+  - HK
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇯🇵 日本/JP | 苏移 - 鸡鸡云
-  - 🇯🇵 日本/JP | 深联 - 鸡鸡云
+  use: &id003
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id004
-  - 🇺🇸 美国-1/US | 苏移 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 沪联 - 鸡鸡云
-  - 🇺🇸 美国-1/US | 上移 - 鸡鸡云
+  use: &id004
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id005
-  - 🇹🇭 泰国/TH | 杭联 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 深联 - 鸡鸡云
-  - 🇹🇭 泰国/TH | 苏移 - 鸡鸡云
-  - 🇸🇰 斯洛伐克中转-电信 - 鸡鸡云
-  - 🇦🇷 阿根廷/AR | 深联 - 鸡鸡云
-  - 🇻🇳 越南/VN | 北联 - 鸡鸡云
-  - 🇩🇪 德国/DE | 北联 - 鸡鸡云
-  - 🇩🇪 德国/DE | 厦联 - 鸡鸡云
-  - 🇸🇪 瑞典/SE | 泸德 - 鸡鸡云
-  - 🇫🇷 法国/FR | 苏移 - 鸡鸡云
-  - 🇫🇷 法国/FR | 深联 - 鸡鸡云
+  use: &id005
+  - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
+  use: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
-proxies:
-- {name: 🇺🇸 美国-1/US | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇺🇸 美国-1/US | 沪联 - 鸡鸡云, server: zj.xn--iiq222b6igvp5c.com, port: 57243, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇺🇸 美国-1/US | 上移 - 鸡鸡云, server: zzshyd1.jjyhk.com, port: 12694, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇭🇰 香港-1/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇭🇰 香港-1/HK | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11191, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇭🇰 香港/HK | 杭联 - 鸡鸡云, server: zzzjlt.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇭🇰 香港/HK | 沪日 - 鸡鸡云, server: zzshdx.jjyhk.com, port: 11917, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇭🇰 香港/HK | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11914, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇯🇵 日本/JP | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇯🇵 日本/JP | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13322, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇹🇭 泰国/TH | 杭联 - 鸡鸡云, server: sz.xn--iiq222b6igvp5c.com, port: 11965, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇹🇭 泰国/TH | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇹🇭 泰国/TH | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇸🇰 斯洛伐克中转-电信 - 鸡鸡云, server: zzgzyd1.jjyhk.com, port: 12412, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇦🇷 阿根廷/AR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇻🇳 越南/VN | 北联 - 鸡鸡云, server: zzbjlt.jjyhk.com, port: 23175, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇩🇪 德国/DE | 北联 - 鸡鸡云, server: zzbjlt.jjyhk.com, port: 34255, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇩🇪 德国/DE | 厦联 - 鸡鸡云, server: hb.xn--iiq222b6igvp5c.com, port: 47553, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇸🇪 瑞典/SE | 泸德 - 鸡鸡云, server: zzhzdx.jjyhk.com, port: 16458, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇫🇷 法国/FR | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
-- {name: 🇫🇷 法国/FR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: 173d6558-9b26-4681-af0c-8b4b24603637, udp: true}
+  use: *id005
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/www.jjyhk.com#鸡鸡云/HK.yaml
+    interval: 180
+    path: trials_providers/www.jjyhk.com#鸡鸡云/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/www.jjyhk.com#鸡鸡云/JP.yaml
+    interval: 180
+    path: trials_providers/www.jjyhk.com#鸡鸡云/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/www.jjyhk.com#鸡鸡云/US.yaml
+    interval: 180
+    path: trials_providers/www.jjyhk.com#鸡鸡云/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_Other:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/www.jjyhk.com#鸡鸡云/p_All_Other.yaml
+    interval: 180
+    path: trials_providers/www.jjyhk.com#鸡鸡云/p_All_Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

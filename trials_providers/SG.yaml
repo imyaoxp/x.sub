@@ -12,8 +12,8 @@ proxies:
 - {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 50022, type: trojan, password: 88e0eb4d-4136-4c76-94ac-3a868e3dfa77, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 88e0eb4d-4136-4c76-94ac-3a868e3dfa77, udp: true}
 - {name: 🇸🇬新加坡04 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 23030, type: ss, cipher: aes-256-gcm, password: 88e0eb4d-4136-4c76-94ac-3a868e3dfa77, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: 94f65146-f259-3454-9d7f-0c0585adfccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: 94f65146-f259-3454-9d7f-0c0585adfccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19841, type: vmess, uuid: 81558405-7500-36c9-b594-43e97160c37c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19842, type: vmess, uuid: 81558405-7500-36c9-b594-43e97160c37c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 879f0fdf-d4e8-46e3-b239-13c8304a5dbf, udp: true}
 - {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 879f0fdf-d4e8-46e3-b239-13c8304a5dbf, udp: true}
 - {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 52747, type: ss, cipher: chacha20-ietf-poly1305, password: 879f0fdf-d4e8-46e3-b239-13c8304a5dbf, udp: true}
@@ -35,12 +35,6 @@ proxies:
 - {name: 🇸🇬新加坡02 - 都是梦, server: proxy1.doushimeng.com, port: 20253, type: ss, cipher: chacha20-ietf-poly1305, password: dc7cbf19-a7e2-4fc2-9788-2dc0fbab018e, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: dc7cbf19-a7e2-4fc2-9788-2dc0fbab018e, udp: true}
 - {name: 🇸🇬 新加坡 - 节点一 - SScurl, server: whcm.pangupy.com, port: 24480, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gdct001.jcnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gdct003.jcnode.top, port: 59211, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: gdct002.jcnode.top, port: 41972, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gdct001.jcnode.top, port: 30641, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: gdct003.jcnode.top, port: 20014, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: gdct002.jcnode.top, port: 44773, type: ss, cipher: chacha20-ietf-poly1305, password: efa66ee3-efcc-4bbd-b0b9-a4e36a2f54b8, udp: true}
 - {name: 🇸🇬 新加坡2-杭新隧道-解锁 - 快云, server: hz.888898.beauty, port: 43667, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gdct002.jcnode.top, port: 15035, type: trojan, password: 5614cc40-b159-4589-9814-b2ab1d40ed97, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gdct001.jcnode.top, port: 41754, type: trojan, password: 5614cc40-b159-4589-9814-b2ab1d40ed97, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
