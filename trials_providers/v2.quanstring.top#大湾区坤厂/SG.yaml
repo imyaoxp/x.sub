@@ -1,6 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬<油管无广告>①-1.2x - 大湾区坤厂, server: s1.956256.xyz, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
-- {name: 🇸🇬<油管无广告>②-1.2x - 大湾区坤厂, server: s2.956256.xyz, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
-- {name: 🇸🇬 - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 20274, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
+- {name: 🇸🇬 - 大湾区坤厂, server: 122.237.98.236, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: bb28e82b-7849-4f51-9f60-e028fa78a082, udp: true}
