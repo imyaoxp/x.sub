@@ -17,11 +17,11 @@ proxies:
 - {name: 🇹🇼 台湾 01 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a16be-67c9-4675-801f-e5758497af47, udp: true}
 - {name: 🇹🇼 台湾 02 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a16be-67c9-4675-801f-e5758497af47, udp: true}
 - {name: 🇹🇼 台湾 03 - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a16be-67c9-4675-801f-e5758497af47, udp: true}
-- {name: 🇭🇰<香港>-2x - 大湾区坤厂, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: c449e967-ea04-4cdb-82e8-51f068002f85, udp: true}
-- {name: 🇭🇰<香港-奈飞>-2x - 大湾区坤厂, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: c449e967-ea04-4cdb-82e8-51f068002f85, udp: true}
-- {name: 🇭🇰<香港高速>-2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: c449e967-ea04-4cdb-82e8-51f068002f85, udp: true}
-- {name: 🇭🇰-专线①-2.5倍 - 大湾区坤厂, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: c449e967-ea04-4cdb-82e8-51f068002f85, udp: true}
-- {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: c449e967-ea04-4cdb-82e8-51f068002f85, udp: true}
+- {name: 🇭🇰<香港>-2x - 大湾区坤厂, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 74a32f8f-14cc-414d-8fc9-3ba697e8f189, udp: true}
+- {name: 🇭🇰<香港-奈飞>-2x - 大湾区坤厂, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 74a32f8f-14cc-414d-8fc9-3ba697e8f189, udp: true}
+- {name: 🇭🇰<香港高速>-2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: 74a32f8f-14cc-414d-8fc9-3ba697e8f189, udp: true}
+- {name: 🇭🇰-专线①-2.5倍 - 大湾区坤厂, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 74a32f8f-14cc-414d-8fc9-3ba697e8f189, udp: true}
+- {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 74a32f8f-14cc-414d-8fc9-3ba697e8f189, udp: true}
 - {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zj-cm.oracle.edu.kg, port: 41452, type: trojan, password: 93b6fdf3-a709-45e1-9d2b-dca77ad6955d, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 59103, type: trojan, password: 93b6fdf3-a709-45e1-9d2b-dca77ad6955d, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 58853, type: trojan, password: 93b6fdf3-a709-45e1-9d2b-dca77ad6955d, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
@@ -57,18 +57,18 @@ proxies:
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 4036cffa-43f3-3521-91e3-3877efeb4a9b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: 4036cffa-43f3-3521-91e3-3877efeb4a9b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 4036cffa-43f3-3521-91e3-3877efeb4a9b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 28856995-60e3-4387-bd8f-b3475cef2acb, udp: true}
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 444eea9a-d278-443b-98d4-ca3e2cac5696, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: b59e8e91-8069-4d1f-a418-527edf624891, udp: true}
 - {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: b59e8e91-8069-4d1f-a418-527edf624891, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
 - {name: 🇹🇼 Taiwan 3 - 番茄云, server: proxy1.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: b59e8e91-8069-4d1f-a418-527edf624891, udp: true}
