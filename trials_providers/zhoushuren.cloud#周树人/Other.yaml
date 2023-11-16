@@ -48,6 +48,7 @@ proxies:
 - {name: 🇳🇿新西兰-奥克兰-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 57364, type: trojan, password: 3a196190-7903-4dc7-a4fe-4ced13c75452, sni: zf.zsr-seoul.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪德国-法兰克福-01|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42337, type: trojan, password: 3a196190-7903-4dc7-a4fe-4ced13c75452, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇳🇵尼泊尔-加德满都-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 46274, type: ss, cipher: aes-256-gcm, password: 3a196190-7903-4dc7-a4fe-4ced13c75452, udp: true}
+- {name: 🇿🇦南非-约翰内斯堡-01 - 周树人Cloud, server: hb.xn--icty41bzxj.cn, port: 59156, type: ss, cipher: aes-256-gcm, password: 3a196190-7903-4dc7-a4fe-4ced13c75452, udp: true}
 - {name: 🇩🇪德国-法兰克福-03 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 28977, type: trojan, password: 3a196190-7903-4dc7-a4fe-4ced13c75452, sni: 2.ndy588501.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪德国-法兰克福-04 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 29803, type: trojan, password: 3a196190-7903-4dc7-a4fe-4ced13c75452, sni: 3.ndy588501.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷土耳其-伊斯坦布尔-01|2X - 周树人Cloud, server: hb.xn--icty41bzxj.cn, port: 33455, type: trojan, password: 3a196190-7903-4dc7-a4fe-4ced13c75452, sni: trq.588500.xyz, skip-cert-verify: true, udp: true}
