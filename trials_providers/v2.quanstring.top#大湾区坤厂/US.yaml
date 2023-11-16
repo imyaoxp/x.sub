@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸<美国高速>0.8x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 38239, type: ss, cipher: chacha20-ietf-poly1305, password: 17ac992d-0a71-4997-af6e-3aba20a9245d, udp: true}
-- {name: 🇺🇸<美国浙江>0.8x - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 17ac992d-0a71-4997-af6e-3aba20a9245d, udp: true}
-- {name: 🇺🇸<美国原生IP>-1x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: 17ac992d-0a71-4997-af6e-3aba20a9245d, udp: true}
-- {name: 🇺🇸<美国原生IP浙江>-1x - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 17ac992d-0a71-4997-af6e-3aba20a9245d, udp: true}
-- {name: 🇺🇸<原生IP>①-0.85倍 - 大湾区坤厂, server: s1.956256.xyz, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 17ac992d-0a71-4997-af6e-3aba20a9245d, udp: true}
-- {name: 🇺🇸<ChatGPT-流媒体>②-0.85倍 - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 17ac992d-0a71-4997-af6e-3aba20a9245d, udp: true}
-- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 17ac992d-0a71-4997-af6e-3aba20a9245d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸-ChatGPT-1 倍 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 17ac992d-0a71-4997-af6e-3aba20a9245d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸<美国高速>0.8x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 38239, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
+- {name: 🇺🇸<美国浙江>0.8x - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
+- {name: 🇺🇸<美国原生IP>-1x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
+- {name: 🇺🇸<美国原生IP浙江>-1x - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
+- {name: 🇺🇸<原生IP>①-0.85倍 - 大湾区坤厂, server: s1.956256.xyz, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
+- {name: 🇺🇸<ChatGPT-流媒体>②-0.85倍 - 大湾区坤厂, server: 122.237.98.236, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
+- {name: 🇺🇸-直连-联通推荐 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 582224ff-c0b1-4ad9-8510-195800f41410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇺🇸-ChatGPT-1 倍 - 大湾区坤厂, server: 74.48.98.249, port: 8080, type: vmess, uuid: 582224ff-c0b1-4ad9-8510-195800f41410, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
