@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬<新加坡>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
-- {name: 🇸🇬<油管无广告>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
-- {name: 🇸🇬<油管无广告>①-1.2x - 大湾区坤厂, server: s1.956256.xyz, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: 582224ff-c0b1-4ad9-8510-195800f41410, udp: true}
+- {name: 🇸🇬<油管无广告>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: c449e967-ea04-4cdb-82e8-51f068002f85, udp: true}
+- {name: 🇸🇬<新加坡>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: c449e967-ea04-4cdb-82e8-51f068002f85, udp: true}
+- {name: 🇸🇬<新加坡-奈飞>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: c449e967-ea04-4cdb-82e8-51f068002f85, udp: true}
