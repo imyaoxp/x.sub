@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: rn-4837 - 大湾区坤厂, server: 125.124.196.171, port: 34524, type: ss, cipher: chacha20-ietf-poly1305, password: 4f878933-e65a-4346-831c-f0b12f9a452a, udp: true}
