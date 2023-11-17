@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰<香港>-2x - 大湾区坤厂, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: a5ecc8a8-ef19-4099-bb3c-58de1196300e, udp: true}
-- {name: 🇭🇰<香港-奈飞>-2x - 大湾区坤厂, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: a5ecc8a8-ef19-4099-bb3c-58de1196300e, udp: true}
-- {name: 🇭🇰<香港高速>-2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: a5ecc8a8-ef19-4099-bb3c-58de1196300e, udp: true}
-- {name: 🇭🇰-专线①-2.5倍 - 大湾区坤厂, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: a5ecc8a8-ef19-4099-bb3c-58de1196300e, udp: true}
-- {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: a5ecc8a8-ef19-4099-bb3c-58de1196300e, udp: true}
+- {name: 🇭🇰<香港>-2x - 大湾区坤厂, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 184fbd64-96e3-492f-85ec-92f1afdce916, udp: true}
+- {name: 🇭🇰<香港-奈飞>-2x - 大湾区坤厂, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 184fbd64-96e3-492f-85ec-92f1afdce916, udp: true}
+- {name: 🇭🇰<香港高速>-2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: 184fbd64-96e3-492f-85ec-92f1afdce916, udp: true}
+- {name: 🇭🇰-专线①-2.5倍 - 大湾区坤厂, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 184fbd64-96e3-492f-85ec-92f1afdce916, udp: true}
+- {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 184fbd64-96e3-492f-85ec-92f1afdce916, udp: true}
