@@ -48,7 +48,6 @@ proxy-groups:
   - 🇺🇸<原生IP>①-0.85倍 - 大湾区坤厂
   - 🇺🇸-直连-联通推荐 - 大湾区坤厂
   - 🇺🇸-ChatGPT-1 倍 - 大湾区坤厂
-  - rn-4837 - 大湾区坤厂
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -139,7 +138,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id006
-  - rn-4837 - 大湾区坤厂
+  - 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -159,7 +158,7 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: rn-4837 - 大湾区坤厂, server: 125.124.196.171, port: 34524, type: ss, cipher: chacha20-ietf-poly1305, password: 4f878933-e65a-4346-831c-f0b12f9a452a, udp: true}
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 4f878933-e65a-4346-831c-f0b12f9a452a, udp: true}
 - {name: 🇯🇵<日本专线>-0.8x - 大湾区坤厂, server: 125.124.196.171, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: 4f878933-e65a-4346-831c-f0b12f9a452a, udp: true}
 - {name: 🇺🇸<美国高速专线>-0.5x - 大湾区坤厂, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 4f878933-e65a-4346-831c-f0b12f9a452a, udp: true}
 - {name: 🇺🇸<美国-奈飞>0.5x - 大湾区坤厂, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 4f878933-e65a-4346-831c-f0b12f9a452a, udp: true}
