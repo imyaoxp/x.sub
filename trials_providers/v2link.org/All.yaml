@@ -30,7 +30,6 @@ proxies:
 - {name: 🇸🇬 新加坡 01 - V2Link, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: e2529fa6-a419-4ecd-ae8a-88ac726c8195, udp: true}
 - {name: 🇸🇬 新加坡 02 - V2Link, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: e2529fa6-a419-4ecd-ae8a-88ac726c8195, udp: true}
 - {name: 🇸🇬 新加坡 03 - V2Link, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: e2529fa6-a419-4ecd-ae8a-88ac726c8195, udp: true}
-- {name: 🇲🇾 马来西亚 - V2Link, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: e2529fa6-a419-4ecd-ae8a-88ac726c8195, udp: true}
 - {name: 🇺🇸 美国 01 - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: e2529fa6-a419-4ecd-ae8a-88ac726c8195, udp: true}
 - {name: 🇺🇸 美国 02 - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: e2529fa6-a419-4ecd-ae8a-88ac726c8195, udp: true}
 - {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: e2529fa6-a419-4ecd-ae8a-88ac726c8195, udp: true}
