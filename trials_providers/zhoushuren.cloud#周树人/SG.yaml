@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡05 - 周树人Cloud, server: hb.xn--icty41bzxj.cn, port: 42574, type: ss, cipher: aes-256-gcm, password: ab16ff62-3735-4ec0-9130-52b82bdcad9a, udp: true}
-- {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: ab16ff62-3735-4ec0-9130-52b82bdcad9a, udp: true}
-- {name: 🇸🇬新加坡04 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 23030, type: ss, cipher: aes-256-gcm, password: ab16ff62-3735-4ec0-9130-52b82bdcad9a, udp: true}
-- {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 50022, type: trojan, password: ab16ff62-3735-4ec0-9130-52b82bdcad9a, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡05 - 周树人Cloud, server: hb.xn--icty41bzxj.cn, port: 42574, type: ss, cipher: aes-256-gcm, password: 89a50d27-6457-45db-8f2b-59e4182ff758, udp: true}
+- {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 89a50d27-6457-45db-8f2b-59e4182ff758, udp: true}
+- {name: 🇸🇬新加坡04 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 23030, type: ss, cipher: aes-256-gcm, password: 89a50d27-6457-45db-8f2b-59e4182ff758, udp: true}
+- {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 50022, type: trojan, password: 89a50d27-6457-45db-8f2b-59e4182ff758, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
