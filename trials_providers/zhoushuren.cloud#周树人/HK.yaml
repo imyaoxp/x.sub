@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zj-cm.oracle.edu.kg, port: 41452, type: trojan, password: b8413077-d6f0-424c-9a48-45c9d8ae2d40, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 59103, type: trojan, password: b8413077-d6f0-424c-9a48-45c9d8ae2d40, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 58853, type: trojan, password: b8413077-d6f0-424c-9a48-45c9d8ae2d40, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 65488, type: trojan, password: b8413077-d6f0-424c-9a48-45c9d8ae2d40, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: '[主力]🇭🇰 HK-香港05|流媒体 - 周树人Cloud', server: zj.xn--icty41bzxj.cn, port: 44603, type: ss, cipher: chacha20-ietf-poly1305, password: b8413077-d6f0-424c-9a48-45c9d8ae2d40, udp: true}
-- {name: '[主力]🇭🇰 香港DMIT主力02 - 周树人Cloud', server: zj.xn--icty41bzxj.cn, port: 16312, type: trojan, password: b8413077-d6f0-424c-9a48-45c9d8ae2d40, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 49187, type: trojan, password: b8413077-d6f0-424c-9a48-45c9d8ae2d40, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 49187, type: trojan, password: b8413077-d6f0-424c-9a48-45c9d8ae2d40, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|1X - 周树人Cloud, server: zj-cm.oracle.edu.kg, port: 41452, type: trojan, password: 53cc53e4-2b8a-4d2c-898c-296c92e508de, sni: akhk1.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 59103, type: trojan, password: 53cc53e4-2b8a-4d2c-898c-296c92e508de, sni: akhk2.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 58853, type: trojan, password: 53cc53e4-2b8a-4d2c-898c-296c92e508de, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 65488, type: trojan, password: 53cc53e4-2b8a-4d2c-898c-296c92e508de, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: '[主力]🇭🇰 HK-香港05|流媒体 - 周树人Cloud', server: zj.xn--icty41bzxj.cn, port: 44603, type: ss, cipher: chacha20-ietf-poly1305, password: 53cc53e4-2b8a-4d2c-898c-296c92e508de, udp: true}
+- {name: '[主力]🇭🇰 香港DMIT主力02 - 周树人Cloud', server: zj.xn--icty41bzxj.cn, port: 16312, type: trojan, password: 53cc53e4-2b8a-4d2c-898c-296c92e508de, sni: DMIT_HK_ZSR2.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 49187, type: trojan, password: 53cc53e4-2b8a-4d2c-898c-296c92e508de, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02 - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 49187, type: trojan, password: 53cc53e4-2b8a-4d2c-898c-296c92e508de, sni: 1.ca58850.eu.org, skip-cert-verify: true, udp: true}
