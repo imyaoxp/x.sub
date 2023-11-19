@@ -10,9 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -20,11 +18,13 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 【邀请用户】|最高返还40%|移动 - 大白
-  - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
+  - 🇭🇰 香港|【dabai.in】<<节点购买地址|公益 - 大白
+  - 🇭🇰 香港|【db01.in】<<节点购买地址|公益 - 大白
+  - 🇭🇰 香港|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
+  - 🇭🇰 香港|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
+  - 🇭🇰 香港|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
+  - 🇭🇰 香港|【邀请用户】|最高返还40%|移动 - 大白
+  - 🇭🇰 香港|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -46,8 +46,6 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🎏 ‍其他
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -57,29 +55,17 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id002
-  - 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白
-  - 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白
-  - 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白
-  - 【邀请用户】|最高返还40%|移动 - 大白
-  - 【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id002
 proxies:
-- {name: 【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 112.29.156.248, port: 64002, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: 【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 112.29.156.248, port: 63004, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
-- {name: 【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 112.29.156.248, port: 61013, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
-- {name: 【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 80, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
-- {name: '【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 80, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【dabai.in】<<节点购买地址|公益 - 大白, server: 112.29.156.248, port: 63002, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【db01.in】<<节点购买地址|公益 - 大白, server: 112.29.156.248, port: 61013, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【付费用户】油管秒开4K/8K|更多地区接入|公益 - 大白, server: 112.29.156.248, port: 64002, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【免费用户】油管稳2K@30/限速稳720P|公益 - 大白, server: 112.29.156.248, port: 63004, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-3.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-3.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【提供套餐】免费/按量不限时/不按量限时|公益 - 大白, server: 112.29.156.248, port: 61013, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-2.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-2.cn-db.top}}, udp: true}
+- {name: 🇭🇰 香港|【邀请用户】|最高返还40%|移动 - 大白, server: sd.db-link.in, port: 80, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: cache-hk-1.cn-db.top}}, udp: true}
+- {name: '🇭🇰 香港|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|移动 - 大白', server: sd.db-link.in, port: 80, type: vmess, uuid: 89da7d0b-cd90-3095-9216-cb4f2d176283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-hk-1.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: data-hk-1.cn-db.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
