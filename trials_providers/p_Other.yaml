@@ -1,15 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 131868:9C0WnP, obfs-param: '99f3f131868.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 请使用clash Meta内核的客户端 - 养老机场-Reality-Hy-Hy2, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：11 天 - FastFly, server: gdct001.jcnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: e4a83d31-9936-4232-b6d2-d39d25ac65ef, udp: true}
 - {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：11 天 - FastFly, server: gdct001.jcnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: e4a83d31-9936-4232-b6d2-d39d25ac65ef, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 131867:njMute, obfs-param: 'ca7af131867.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 请使用clash Meta内核的客户端 - 飞鸟Reality🐔场, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 新网址：sockboom.id - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
-- {name: 请使用clash Meta内核的客户端 - 养老机场-Reality-Hy-Hy2, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 【官网】 vtoacc.com 公告节点 - 更快节点请选择向下 - V2Link, server: free.v2aff.link, port: 2053, type: vmess, uuid: e2529fa6-a419-4ecd-ae8a-88ac726c8195, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
 - {name: 距离下次重置剩余：11 天 - JCBB, server: gdct003.jcnode.top, port: 56102, type: trojan, password: 106f551e-b0af-4a6d-9b44-67986425bd19, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.jcnode.top, port: 56102, type: trojan, password: 106f551e-b0af-4a6d-9b44-67986425bd19, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
+- {name: 新网址：sockboom.id - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
