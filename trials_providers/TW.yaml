@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾01 - 都是梦, server: proxy1.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: e09dd332-63e8-434e-9f3d-b26df68b1831, udp: true}
-- {name: 🇹🇼台湾02 - 都是梦, server: dl-tw.doushimeng.com, port: 80, type: vmess, uuid: e09dd332-63e8-434e-9f3d-b26df68b1831, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
-- {name: 🇹🇼台湾03 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: e09dd332-63e8-434e-9f3d-b26df68b1831, udp: true}
+- {name: 🇹🇼台湾01 - 都是梦, server: proxy1.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 8a16f441-3e43-4fce-a436-29da027df2a1, udp: true}
+- {name: 🇹🇼台湾02 - 都是梦, server: dl-tw.doushimeng.com, port: 80, type: vmess, uuid: 8a16f441-3e43-4fce-a436-29da027df2a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾03 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 8a16f441-3e43-4fce-a436-29da027df2a1, udp: true}
 - {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19821, type: vmess, uuid: 7ecc7f62-5b2a-3782-ae88-af97006ea25a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 7ecc7f62-5b2a-3782-ae88-af97006ea25a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gdct001.theyydsnode.top, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: 91e0a935-aa8e-400e-8e6f-72d7e962d4c3, udp: true}
@@ -43,23 +43,23 @@ proxies:
 - {name: 🇹🇼 TW / 台湾 | 华南 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 817427d5-6e95-4880-b53b-4ae769184d1f, udp: true}
 - {name: 🇹🇼 TW / 台湾 | 混合 - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: aes-256-gcm, password: 817427d5-6e95-4880-b53b-4ae769184d1f, udp: true}
 - {name: 🇹🇼 台湾 - 节点一 - SScurl, server: whcm.pangupy.com, port: 11207, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
-- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: 22607b05-9c42-4787-8734-230745d01cbb, udp: true}
-- {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 22607b05-9c42-4787-8734-230745d01cbb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
-- {name: 🇹🇼 Taiwan 3 - 番茄云, server: proxy1.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: 22607b05-9c42-4787-8734-230745d01cbb, udp: true}
+- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: e8ba47a3-a6bf-4ea5-8d1b-0d0a0955c17f, udp: true}
+- {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: e8ba47a3-a6bf-4ea5-8d1b-0d0a0955c17f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
+- {name: 🇹🇼 Taiwan 3 - 番茄云, server: proxy1.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: e8ba47a3-a6bf-4ea5-8d1b-0d0a0955c17f, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-01|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: df6a6e15-5468-4517-abcf-aa986ab91a89, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-03|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: df6a6e15-5468-4517-abcf-aa986ab91a89, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-04|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: df6a6e15-5468-4517-abcf-aa986ab91a89, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-02|1X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: df6a6e15-5468-4517-abcf-aa986ab91a89, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾-台北市-01 - 周树人Cloud, server: hzyd.xn--icty41bzxj.cn, port: 17630, type: ss, cipher: aes-256-gcm, password: df6a6e15-5468-4517-abcf-aa986ab91a89, udp: true}
-- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇹🇼 台湾 01 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: fc29120d-c5ba-4c24-b11b-d7ab124f4c17, udp: true}
-- {name: 🇹🇼 台湾 02 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: fc29120d-c5ba-4c24-b11b-d7ab124f4c17, udp: true}
-- {name: 🇹🇼 台湾 03 - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: fc29120d-c5ba-4c24-b11b-d7ab124f4c17, udp: true}
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇹🇼 台湾 01 - V2Link, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 664a40aa-8ff3-41f3-b4f7-1b1743e60b71, udp: true}
+- {name: 🇹🇼 台湾 02 - V2Link, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 664a40aa-8ff3-41f3-b4f7-1b1743e60b71, udp: true}
+- {name: 🇹🇼 台湾 03 - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 664a40aa-8ff3-41f3-b4f7-1b1743e60b71, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 02e3085169.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 02e3085169.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 02e3085169.download.windowsupdate.com}, udp: true}

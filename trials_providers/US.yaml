@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: e09dd332-63e8-434e-9f3d-b26df68b1831, udp: true}
-- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: e09dd332-63e8-434e-9f3d-b26df68b1831, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-uss.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 22853, type: ss, cipher: chacha20-ietf-poly1305, password: e09dd332-63e8-434e-9f3d-b26df68b1831, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 8a16f441-3e43-4fce-a436-29da027df2a1, udp: true}
+- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 8a16f441-3e43-4fce-a436-29da027df2a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-uss.doushimeng.com}}, udp: true}
+- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 22853, type: ss, cipher: chacha20-ietf-poly1305, password: 8a16f441-3e43-4fce-a436-29da027df2a1, udp: true}
 - {name: 🇺🇸 美国-1/US | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇺🇸 美国-1/US | 沪联 - 鸡鸡云, server: zj.xn--iiq222b6igvp5c.com, port: 57243, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇺🇸 美国-1/US | 上移 - 鸡鸡云, server: zzshyd1.jjyhk.com, port: 12694, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
@@ -66,10 +66,10 @@ proxies:
 - {name: 🇺🇸CF-US-01v6 - XIAOHEIZI 網絡加速, server: de-cdn.ikuan.dev, port: 2086, type: vmess, uuid: eec3e17d-b6aa-4e95-8aa1-30436e286fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /update.microsoft.com, headers: {Host: us01-v6.freenode.pro}}, udp: true}
 - {name: 🇺🇸CF-Phoenix-03 - XIAOHEIZI 網絡加速, server: cdnikuan2.ikuan.dev, port: 2095, type: vmess, uuid: eec3e17d-b6aa-4e95-8aa1-30436e286fac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/cloudvideo?ed=1024', headers: {Host: de-data-02.ikuan.dev}}, udp: true}
 - {name: 🇺🇸 美国 - 线路一 - SScurl, server: whcm.pangupy.com, port: 42452, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
-- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: 22607b05-9c42-4787-8734-230745d01cbb, udp: true}
-- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: 22607b05-9c42-4787-8734-230745d01cbb, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: f63b7459-ef93-338a-b7d5-b0b9e77c4f3b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: f63b7459-ef93-338a-b7d5-b0b9e77c4f3b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: e8ba47a3-a6bf-4ea5-8d1b-0d0a0955c17f, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: e8ba47a3-a6bf-4ea5-8d1b-0d0a0955c17f, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 3155cfaf-abdd-3133-8da0-831f6e4770bb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 3155cfaf-abdd-3133-8da0-831f6e4770bb, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
 - {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 31514, type: trojan, password: df6a6e15-5468-4517-abcf-aa986ab91a89, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-圣克拉拉-03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42593, type: trojan, password: df6a6e15-5468-4517-abcf-aa986ab91a89, sni: mf9.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-拉斯维加斯-06 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 40780, type: trojan, password: df6a6e15-5468-4517-abcf-aa986ab91a89, sni: global-vm.661145.xyz, skip-cert-verify: true, udp: true}
@@ -77,12 +77,12 @@ proxies:
 - {name: 🇺🇸美国-芝加哥-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 23068, type: ss, cipher: aes-256-gcm, password: df6a6e15-5468-4517-abcf-aa986ab91a89, udp: true}
 - {name: 🇺🇸美国-圣克拉拉-02 - 周树人Cloud, server: suzhoudx.mixi.bio, port: 57478, type: ss, cipher: aes-256-gcm, password: df6a6e15-5468-4517-abcf-aa986ab91a89, udp: true}
 - {name: 🇺🇸美国-芝加哥-16 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 41423, type: trojan, password: df6a6e15-5468-4517-abcf-aa986ab91a89, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国1 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 54395, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇺🇸 美国2 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 54395, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇺🇸 美国3 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 54395, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇺🇸 美国4 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 39405, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇺🇸 美国5 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 39405, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
-- {name: 🇺🇸 美国6 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 39405, type: ss, cipher: chacha20-ietf-poly1305, password: ee99a43d-ec33-4ae5-a86d-299cc389f045, udp: true}
+- {name: 🇺🇸 美国1 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 54395, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇺🇸 美国2 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 54395, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇺🇸 美国3 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 54395, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇺🇸 美国4 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 39405, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇺🇸 美国5 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 39405, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
+- {name: 🇺🇸 美国6 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 39405, type: ss, cipher: chacha20-ietf-poly1305, password: 05999be9-0688-452e-94a5-2340a8f2fbce, udp: true}
 - {name: 🇺🇸 美国 凤凰城101 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 10443, type: trojan, password: b0f060cc-d44b-3950-ab98-bbc689e8b8cd, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
 - {name: 🇺🇸 美国 凤凰城102 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 20443, type: trojan, password: b0f060cc-d44b-3950-ab98-bbc689e8b8cd, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
 - {name: 🇺🇸 美国 凤凰城103 - 墙了个墙, server: pxvip101.qlgq1.pw, port: 30443, type: trojan, password: b0f060cc-d44b-3950-ab98-bbc689e8b8cd, sni: pxvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: pxvip101}, udp: true}
@@ -101,11 +101,11 @@ proxies:
 - {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 969634:WhbqGW, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 3 - CC - SockBoom, server: us3.edge.boom.skin, port: 42001, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 969634:WhbqGW, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 4 - CC - SockBoom, server: us4.edge.boom.skin, port: 43000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 969634:WhbqGW, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇺🇸 美国 01 - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: fc29120d-c5ba-4c24-b11b-d7ab124f4c17, udp: true}
-- {name: 🇺🇸 美国 02 - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: fc29120d-c5ba-4c24-b11b-d7ab124f4c17, udp: true}
-- {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: fc29120d-c5ba-4c24-b11b-d7ab124f4c17, udp: true}
-- {name: 🇺🇸 美国 04 - V2Link, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: fc29120d-c5ba-4c24-b11b-d7ab124f4c17, udp: true}
-- {name: 🇺🇸 美国 05 - V2Link, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: fc29120d-c5ba-4c24-b11b-d7ab124f4c17, udp: true}
+- {name: 🇺🇸 美国 01 - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: 664a40aa-8ff3-41f3-b4f7-1b1743e60b71, udp: true}
+- {name: 🇺🇸 美国 02 - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: 664a40aa-8ff3-41f3-b4f7-1b1743e60b71, udp: true}
+- {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 664a40aa-8ff3-41f3-b4f7-1b1743e60b71, udp: true}
+- {name: 🇺🇸 美国 04 - V2Link, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 664a40aa-8ff3-41f3-b4f7-1b1743e60b71, udp: true}
+- {name: 🇺🇸 美国 05 - V2Link, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 664a40aa-8ff3-41f3-b4f7-1b1743e60b71, udp: true}
 - {name: 🇺🇸 Game 美国01-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9873, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 02e3085169.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国02-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 821, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 02e3085169.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 903, type: ss, cipher: aes-128-gcm, password: ay2l23ud1, plugin: obfs, plugin-opts: {mode: http, host: 02e3085169.download.windowsupdate.com}, udp: true}
