@@ -11,10 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -25,6 +27,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 🇭🇰 香港-中转-公益-2倍率 - 115Cloud
+  - 🇸🇬 新加坡-中转-公益-2倍率 - 115Cloud
   - 🇺🇸 美国-中转-公益-2倍率 - 115Cloud
   - 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud
   - 🇬🇧 英国-中转-公益-2倍率 - 115Cloud
@@ -55,7 +58,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
+  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -71,19 +76,26 @@ proxy-groups:
   tolerance: 100
   proxies: &id002
   - 🇭🇰 香港-中转-公益-2倍率 - 115Cloud
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇸🇬 新加坡-中转-公益-2倍率 - 115Cloud
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id003
+  proxies: &id004
   - 🇺🇸 美国-中转-公益-2倍率 - 115Cloud
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id004
+  proxies: &id005
   - 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud
   - 🇬🇧 英国-中转-公益-2倍率 - 115Cloud
 - name: 👆🏻 ‍指定
@@ -92,14 +104,18 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id004
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id005
 proxies:
 - {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: 3a330a44-6652-304f-8e2f-422b1fce8f45, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-中转-公益-2倍率 - 115Cloud, server: sg-gy.115cloud.link, port: 33333, type: ss, cipher: aes-256-gcm, password: atMboCCFf0OTgMAN, udp: true}
 - {name: 🇺🇸 美国-中转-公益-2倍率 - 115Cloud, server: us-gy-02.115cloud.link, port: 34534, type: ss, cipher: aes-256-gcm, password: atMboCCFf0OTgMAN, udp: true}
 - {name: 🇬🇧 英国-中转-公益-2倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 28413, type: ss, cipher: aes-256-gcm, password: atMboCCFf0OTgMAN, udp: true}
 - {name: 🇭🇰 香港-中转-公益-2倍率 - 115Cloud, server: hk-gy.115cloud.link, port: 55670, type: ss, cipher: aes-256-gcm, password: atMboCCFf0OTgMAN, udp: true}
