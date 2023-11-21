@@ -51,7 +51,6 @@ proxy-groups:
   - 🇧🇷巴西01 - 都是梦
   - 🇧🇷巴西02 - 都是梦
   - 🇧🇷巴西03 - 都是梦
-  - 🇧🇷巴西04 - 都是梦
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -147,7 +146,6 @@ proxy-groups:
   - 🇧🇷巴西01 - 都是梦
   - 🇧🇷巴西02 - 都是梦
   - 🇧🇷巴西03 - 都是梦
-  - 🇧🇷巴西04 - 都是梦
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -190,7 +188,6 @@ proxies:
 - {name: 🇧🇷巴西01 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: ac809f78-460f-41b5-b7d8-53c43e1ee6f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1s.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西02 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: ac809f78-460f-41b5-b7d8-53c43e1ee6f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2s.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西03 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: ac809f78-460f-41b5-b7d8-53c43e1ee6f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3s.doushimeng.com}}, udp: true}
-- {name: 🇧🇷巴西04 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: ac809f78-460f-41b5-b7d8-53c43e1ee6f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-bx44.doushimeng.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
