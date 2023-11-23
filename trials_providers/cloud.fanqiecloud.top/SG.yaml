@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 5bd11106-c740-448b-9c65-1bb5cf01ee8f, udp: true}
-- {name: 🇸🇬 Singapore 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 5bd11106-c740-448b-9c65-1bb5cf01ee8f, udp: true}
+- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: d47c547e-f19e-4c9b-b417-0045eb12b6ee, udp: true}
+- {name: 🇸🇬 Singapore 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: d47c547e-f19e-4c9b-b417-0045eb12b6ee, udp: true}
