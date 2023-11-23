@@ -33,6 +33,7 @@ proxies:
 - {name: 🇷🇺俄罗斯-莫斯科-01 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 36449, type: ss, cipher: chacha20-ietf-poly1305, password: 51cfdfb3-3559-4f28-994f-7a48a318c0da, udp: true}
 - {name: 🇺🇦乌克兰-基辅-01 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 48887, type: ss, cipher: chacha20-ietf-poly1305, password: 51cfdfb3-3559-4f28-994f-7a48a318c0da, udp: true}
 - {name: 🇲🇪黑山-波德戈里察-1 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 21583, type: ss, cipher: chacha20-ietf-poly1305, password: 51cfdfb3-3559-4f28-994f-7a48a318c0da, udp: true}
+- {name: 🇹🇬多哥-洛美-1|4X - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 25098, type: ss, cipher: chacha20-ietf-poly1305, password: 51cfdfb3-3559-4f28-994f-7a48a318c0da, udp: true}
 - {name: 🇱🇺卢森堡-盧森堡市-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 22082, type: ss, cipher: chacha20-ietf-poly1305, password: 51cfdfb3-3559-4f28-994f-7a48a318c0da, udp: true}
 - {name: 🇫🇷法国-巴黎-01 - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 22081, type: ss, cipher: chacha20-ietf-poly1305, password: 51cfdfb3-3559-4f28-994f-7a48a318c0da, udp: true}
 - {name: 🇻🇦梵蒂冈-梵蒂冈城-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 46416, type: vmess, uuid: 51cfdfb3-3559-4f28-994f-7a48a318c0da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vcfdy56udfgsd43565hfdfsd, headers: {Host: www.apple.com}}, udp: true}
