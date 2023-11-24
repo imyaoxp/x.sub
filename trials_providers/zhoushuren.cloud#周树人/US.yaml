@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 31514, type: trojan, password: 77b11d97-d672-426d-9500-99fa98802c9c, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-圣克拉拉-03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42593, type: trojan, password: 77b11d97-d672-426d-9500-99fa98802c9c, sni: mf9.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-芝加哥-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 23068, type: ss, cipher: aes-256-gcm, password: 77b11d97-d672-426d-9500-99fa98802c9c, udp: true}
-- {name: 🇺🇸美国-圣克拉拉-02 - 周树人Cloud, server: suzhoudx.mixi.bio, port: 57478, type: ss, cipher: aes-256-gcm, password: 77b11d97-d672-426d-9500-99fa98802c9c, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯-05 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 40780, type: ss, cipher: aes-256-gcm, password: 77b11d97-d672-426d-9500-99fa98802c9c, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯-06 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 40780, type: ss, cipher: aes-256-gcm, password: 77b11d97-d672-426d-9500-99fa98802c9c, udp: true}
-- {name: 🇺🇸美国-芝加哥-04 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 41423, type: trojan, password: 77b11d97-d672-426d-9500-99fa98802c9c, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 31514, type: trojan, password: 2c417f64-e7ec-4db1-b75a-2584c1cc6ecc, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-圣克拉拉-03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42593, type: trojan, password: 2c417f64-e7ec-4db1-b75a-2584c1cc6ecc, sni: mf9.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-芝加哥-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 23068, type: ss, cipher: aes-256-gcm, password: 2c417f64-e7ec-4db1-b75a-2584c1cc6ecc, udp: true}
+- {name: 🇺🇸美国-圣克拉拉-02 - 周树人Cloud, server: suzhoudx.mixi.bio, port: 57478, type: ss, cipher: aes-256-gcm, password: 2c417f64-e7ec-4db1-b75a-2584c1cc6ecc, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-05 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 40780, type: ss, cipher: aes-256-gcm, password: 2c417f64-e7ec-4db1-b75a-2584c1cc6ecc, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-06 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 40780, type: ss, cipher: aes-256-gcm, password: 2c417f64-e7ec-4db1-b75a-2584c1cc6ecc, udp: true}
+- {name: 🇺🇸美国-芝加哥-04 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 41423, type: trojan, password: 2c417f64-e7ec-4db1-b75a-2584c1cc6ecc, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
