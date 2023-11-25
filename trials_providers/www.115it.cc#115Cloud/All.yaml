@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: 3b7c44c4-b330-31de-90b3-bf80e2824d54, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-公益-0.5倍率 - 115Cloud, server: us-gy.115cloud.link, port: 38860, type: trojan, password: 3b7c44c4-b330-31de-90b3-bf80e2824d54, sni: us-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 38860, type: trojan, password: 3b7c44c4-b330-31de-90b3-bf80e2824d54, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: d3936ccc-3612-32ba-9e73-2166069e318e, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-公益-0.5倍率 - 115Cloud, server: us-gy.115cloud.link, port: 38860, type: trojan, password: d3936ccc-3612-32ba-9e73-2166069e318e, sni: us-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 38860, type: trojan, password: d3936ccc-3612-32ba-9e73-2166069e318e, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
