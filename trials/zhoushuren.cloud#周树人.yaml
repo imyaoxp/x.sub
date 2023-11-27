@@ -444,7 +444,7 @@ proxies:
 - {name: 🇸🇪瑞典-斯德哥尔摩-01|2X - 周树人Cloud, server: sz.xn--icty41bzxj.cn, port: 37484, type: trojan, password: 26db97ce-5843-463b-a6de-af5666429517, sni: aws-se-zsr-ip-172-26-16-185.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇨🇱智利-圣地亚哥-01|2X - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 52299, type: trojan, password: 26db97ce-5843-463b-a6de-af5666429517, sni: 1.ndy588502.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 24123, type: trojan, password: 26db97ce-5843-463b-a6de-af5666429517, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 24311, type: trojan, password: 26db97ce-5843-463b-a6de-af5666429517, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 34311, type: trojan, password: 26db97ce-5843-463b-a6de-af5666429517, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇩印尼-雅加达-01 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 17912, type: trojan, password: 26db97ce-5843-463b-a6de-af5666429517, sni: jkjkjkj.91oracle.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-03 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 59930, type: ss, cipher: aes-256-gcm, password: 26db97ce-5843-463b-a6de-af5666429517, udp: true}
 - {name: 🇰🇷韩国-首尔-01 - 周树人Cloud, server: bj.xn--icty41bzxj.cn, port: 21206, type: ss, cipher: aes-256-gcm, password: 26db97ce-5843-463b-a6de-af5666429517, udp: true}
