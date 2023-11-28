@@ -86,10 +86,10 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: 918c9e2b-30ae-3a2e-afa0-ded90272ffcc, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-公益-0.5倍率 - 115Cloud, server: us-gy.115cloud.link, port: 38860, type: trojan, password: 918c9e2b-30ae-3a2e-afa0-ded90272ffcc, sni: us-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 35860, type: trojan, password: 918c9e2b-30ae-3a2e-afa0-ded90272ffcc, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-公益-0.5倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 52560, type: trojan, password: 918c9e2b-30ae-3a2e-afa0-ded90272ffcc, sni: uk-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: 7966a500-cf8a-344c-b228-1c1f707ddba3, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-公益-0.5倍率 - 115Cloud, server: us-gy.115cloud.link, port: 38860, type: trojan, password: 7966a500-cf8a-344c-b228-1c1f707ddba3, sni: us-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 35860, type: trojan, password: 7966a500-cf8a-344c-b228-1c1f707ddba3, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-公益-0.5倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 52560, type: trojan, password: 7966a500-cf8a-344c-b228-1c1f707ddba3, sni: uk-gy.115cloud.link, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
