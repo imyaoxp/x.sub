@@ -2,3 +2,4 @@
 ---
 proxies:
 - {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: 4cc87083-34ce-3877-9818-6a2f9f52bc1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国丨洛杉矶 - Tannel中继网络服务, server: www.zztannel.com, port: 62014, type: vmess, uuid: 4cc87083-34ce-3877-9818-6a2f9f52bc1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
