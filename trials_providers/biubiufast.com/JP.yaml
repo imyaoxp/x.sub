@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: a1fef223-8beb-4ba3-8c5a-9dc0677e2c72, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: a1fef223-8beb-4ba3-8c5a-9dc0677e2c72, udp: true}
-- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: a1fef223-8beb-4ba3-8c5a-9dc0677e2c72, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: afbf7e5d-0f68-4316-bf49-afdac9d6b877, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: afbf7e5d-0f68-4316-bf49-afdac9d6b877, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: afbf7e5d-0f68-4316-bf49-afdac9d6b877, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
