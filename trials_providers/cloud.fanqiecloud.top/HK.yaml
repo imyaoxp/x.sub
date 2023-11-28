@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: fbeca35f-5f84-42f5-8b86-6b785f7b9163, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: fbeca35f-5f84-42f5-8b86-6b785f7b9163, udp: true}
+- {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 21d84fb7-d946-48cb-939f-034adc1ff4a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: 21d84fb7-d946-48cb-939f-034adc1ff4a5, udp: true}
