@@ -10,7 +10,11 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -19,6 +23,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 🇭🇰 香港 - sspanel
+  - 🇺🇸 美国 - sspanel
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -34,12 +39,16 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -49,10 +58,31 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港 - sspanel
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id003
+  - 🇺🇸 美国 - sspanel
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id003
 proxies:
+- {name: 🇺🇸 美国 - sspanel, server: mg27.npv4.com, port: 443, type: trojan, password: fa572b8c-17c0-3b8d-95ed-30c86e3fc632, sni: mg27.npv4.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 - sspanel, server: xg107.npv4.com, port: 443, type: trojan, password: fa572b8c-17c0-3b8d-95ed-30c86e3fc632, sni: xg107.npv4.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
