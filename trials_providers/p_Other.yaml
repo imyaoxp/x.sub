@@ -10,5 +10,5 @@ proxies:
 - {name: 请使用clash Meta内核的客户端 - 飞鸟Reality🐔场, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.id - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 请使用clash Meta内核的客户端 - 养老机场-Reality-Hy-Hy2, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：1 天 - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: a344a06d-b3f3-4819-bcd2-e6e317b0708c, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: a344a06d-b3f3-4819-bcd2-e6e317b0708c, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：1 天 - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: a6da171b-e3b1-47a8-add8-a197d61db644, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: a6da171b-e3b1-47a8-add8-a197d61db644, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
