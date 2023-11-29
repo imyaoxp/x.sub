@@ -35,20 +35,27 @@ proxy-groups:
   - 🇭🇰 香港 / 华南｜HK - 小白云
   - 🇭🇰 香港 / 华东｜HK - 小白云
   - 🇭🇰 香港 / 备用｜HK - 小白云
+  - 🇭🇰 HK｜Overseas users - 小白云
   - 🇹🇼 台湾 / 华东｜TW - 小白云
   - 🇹🇼 台湾 / 华南｜TW - 小白云
+  - 🇹🇼 TW｜Overseas users - 小白云
   - 🇸🇬 新加坡 / 华南｜SG - 小白云
   - 🇸🇬 新加坡 / 华东｜SG - 小白云
+  - 🇸🇬 SG｜Overseas users - 小白云
   - 🇯🇵 日本 / 华东｜JP - 小白云
   - 🇯🇵 日本 / 华南｜JP - 小白云
   - 🇯🇵 日本 / 备用｜JP - 小白云
+  - 🇯🇵 JP｜Overseas user - 小白云
   - 🇺🇸 美国 / 华东｜US - 小白云
   - 🇺🇸 美国 / 华南｜US - 小白云
   - 🇺🇸 美国 / 备用｜US - 小白云
   - 🇺🇸 美国 / 华东 | 原生 - 小白云
   - 🇺🇸 美国 / 华南 | 原生 - 小白云
+  - 🇺🇸 US｜Overseas users - 小白云
   - 🇰🇷 韩国 / 华东｜KR - 小白云
   - 🇰🇷 韩国 / 华南｜KR - 小白云
+  - 🇰🇷 韩国 / 华东 | 原生 - 小白云
+  - 🇰🇷 韩国 / 华南 | 原生 - 小白云
   - 🇻🇳 越南 / 华东 | 原生 - 小白云
   - 🇻🇳 越南 / 华南 | 原生 - 小白云
   - 🇲🇾 马来 / 华南 | 原生 - 小白云
@@ -57,9 +64,17 @@ proxy-groups:
   - 🇬🇧 英国 / 华南 | 原生 - 小白云
   - 🇩🇪 德国 / 华南 | 原生 - 小白云
   - 🇩🇪 德国 / 华东 | 原生 - 小白云
+  - 🇫🇷 法国 / 华南 | 原生 - 小白云
   - 🇫🇷 法国 / 华东 | 原生 - 小白云
+  - 🇰🇷 KR｜Overseas users - 小白云
+  - 🇻🇳 VN｜Overseas users - 小白云
+  - MAS｜Overseas users - 小白云
+  - 🇬🇧 UK｜Overseas users - 小白云
+  - GER｜Overseas users - 小白云
+  - 🇫🇷 FR｜Overseas users - 小白云
   - 🇲🇴 澳门 / 华南｜MO - 小白云
   - 🇲🇴 澳门 / 华东｜MO - 小白云
+  - 🇲🇴 MO｜Overseas users - 小白云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -115,6 +130,7 @@ proxy-groups:
   - 🇭🇰 香港 / 华南｜HK - 小白云
   - 🇭🇰 香港 / 华东｜HK - 小白云
   - 🇭🇰 香港 / 备用｜HK - 小白云
+  - 🇭🇰 HK｜Overseas users - 小白云
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -123,6 +139,7 @@ proxy-groups:
   proxies: &id003
   - 🇹🇼 台湾 / 华东｜TW - 小白云
   - 🇹🇼 台湾 / 华南｜TW - 小白云
+  - 🇹🇼 TW｜Overseas users - 小白云
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -132,10 +149,13 @@ proxy-groups:
   - 🇭🇰 香港 / 华南｜HK - 小白云
   - 🇭🇰 香港 / 华东｜HK - 小白云
   - 🇭🇰 香港 / 备用｜HK - 小白云
+  - 🇭🇰 HK｜Overseas users - 小白云
   - 🇹🇼 台湾 / 华东｜TW - 小白云
   - 🇹🇼 台湾 / 华南｜TW - 小白云
+  - 🇹🇼 TW｜Overseas users - 小白云
   - 🇲🇴 澳门 / 华南｜MO - 小白云
   - 🇲🇴 澳门 / 华东｜MO - 小白云
+  - 🇲🇴 MO｜Overseas users - 小白云
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -144,6 +164,7 @@ proxy-groups:
   proxies: &id005
   - 🇸🇬 新加坡 / 华南｜SG - 小白云
   - 🇸🇬 新加坡 / 华东｜SG - 小白云
+  - 🇸🇬 SG｜Overseas users - 小白云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -153,6 +174,7 @@ proxy-groups:
   - 🇯🇵 日本 / 华东｜JP - 小白云
   - 🇯🇵 日本 / 华南｜JP - 小白云
   - 🇯🇵 日本 / 备用｜JP - 小白云
+  - 🇯🇵 JP｜Overseas user - 小白云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -164,6 +186,7 @@ proxy-groups:
   - 🇺🇸 美国 / 备用｜US - 小白云
   - 🇺🇸 美国 / 华东 | 原生 - 小白云
   - 🇺🇸 美国 / 华南 | 原生 - 小白云
+  - 🇺🇸 US｜Overseas users - 小白云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -172,6 +195,8 @@ proxy-groups:
   proxies: &id008
   - 🇰🇷 韩国 / 华东｜KR - 小白云
   - 🇰🇷 韩国 / 华南｜KR - 小白云
+  - 🇰🇷 韩国 / 华东 | 原生 - 小白云
+  - 🇰🇷 韩国 / 华南 | 原生 - 小白云
   - 🇻🇳 越南 / 华东 | 原生 - 小白云
   - 🇻🇳 越南 / 华南 | 原生 - 小白云
   - 🇲🇾 马来 / 华南 | 原生 - 小白云
@@ -180,7 +205,14 @@ proxy-groups:
   - 🇬🇧 英国 / 华南 | 原生 - 小白云
   - 🇩🇪 德国 / 华南 | 原生 - 小白云
   - 🇩🇪 德国 / 华东 | 原生 - 小白云
+  - 🇫🇷 法国 / 华南 | 原生 - 小白云
   - 🇫🇷 法国 / 华东 | 原生 - 小白云
+  - 🇰🇷 KR｜Overseas users - 小白云
+  - 🇻🇳 VN｜Overseas users - 小白云
+  - MAS｜Overseas users - 小白云
+  - 🇬🇧 UK｜Overseas users - 小白云
+  - GER｜Overseas users - 小白云
+  - 🇫🇷 FR｜Overseas users - 小白云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -225,6 +257,8 @@ proxies:
 - {name: 🇲🇴 澳门 / 华东｜MO - 小白云, server: mo2.iepl.cooc.icu, port: 35614, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 - {name: 🇺🇸 美国 / 华东 | 原生 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 - {name: 🇺🇸 美国 / 华南 | 原生 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇰🇷 韩国 / 华东 | 原生 - 小白云, server: kr3.iepl.cooc.icu, port: 35609, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇰🇷 韩国 / 华南 | 原生 - 小白云, server: kr4.iepl.cooc.icu, port: 35610, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 - {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 - {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 - {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
@@ -233,7 +267,20 @@ proxies:
 - {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 - {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 - {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 - {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇭🇰 HK｜Overseas users - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇯🇵 JP｜Overseas user - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇺🇸 US｜Overseas users - 小白云, server: 154.9.249.29, port: 35881, type: ss, cipher: aes-256-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇸🇬 SG｜Overseas users - 小白云, server: sg.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
+- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 1f0c4d50-781c-4286-9382-0780e0d9c7fa, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
