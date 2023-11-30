@@ -26,10 +26,10 @@ proxies:
 - {name: 🇫🇷 法国/FR | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇫🇷 法国/FR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: 68130e87-d710-40d0-a9a0-f1854a7f6ce0, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: 376774d1-f668-307a-9659-156933fcdde0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 376774d1-f668-307a-9659-156933fcdde0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 376774d1-f668-307a-9659-156933fcdde0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 376774d1-f668-307a-9659-156933fcdde0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: abba9106-1867-306b-8cb6-a23d73b30ec3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: abba9106-1867-306b-8cb6-a23d73b30ec3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: abba9106-1867-306b-8cb6-a23d73b30ec3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: abba9106-1867-306b-8cb6-a23d73b30ec3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gdct001.theyydsnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 914eee10-6773-4c07-a3aa-466c9e098901, udp: true}
 - {name: 🇻🇳 vip1 越南-02 - FastFly, server: gdct003.theyydsnode.top, port: 33534, type: ss, cipher: chacha20-ietf-poly1305, password: 914eee10-6773-4c07-a3aa-466c9e098901, udp: true}
 - {name: 🇻🇳 vip1 越南-03 - FastFly, server: shcm002.theyydsnode.top, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: 914eee10-6773-4c07-a3aa-466c9e098901, udp: true}
@@ -188,18 +188,18 @@ proxies:
 - {name: 🇨🇱智利-圣地亚哥-01|2X - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 52299, type: trojan, password: c722da12-aa7f-4b8c-b51e-f67aed745db5, sni: 1.ndy588502.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷韩国-首尔-01 - 周树人Cloud, server: bj.xn--icty41bzxj.cn, port: 21206, type: ss, cipher: aes-256-gcm, password: c722da12-aa7f-4b8c-b51e-f67aed745db5, udp: true}
 - {name: 🇮🇩印尼-雅加达-02 - 周树人Cloud, server: zj.xn--icty41bzxj.cn, port: 10540, type: ss, cipher: aes-256-gcm, password: c722da12-aa7f-4b8c-b51e-f67aed745db5, udp: true}
-- {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇷🇺 俄罗斯2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇷🇺 俄罗斯3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇷🇺 俄罗斯4 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇷🇺 俄罗斯5 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇷🇺 俄罗斯6 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇮🇳 印度1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇮🇳 印度2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇮🇳 印度3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇮🇳 印度4 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 10548, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇮🇳 印度5 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 10548, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
-- {name: 🇮🇳 印度6 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 10548, type: ss, cipher: chacha20-ietf-poly1305, password: 710cdadf-b144-4ae8-9e89-add98b90cee5, udp: true}
+- {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇷🇺 俄罗斯2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇷🇺 俄罗斯3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇷🇺 俄罗斯4 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇷🇺 俄罗斯5 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇷🇺 俄罗斯6 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇮🇳 印度1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇮🇳 印度2 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇮🇳 印度3 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇮🇳 印度4 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 10548, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇮🇳 印度5 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 10548, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
+- {name: 🇮🇳 印度6 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 10548, type: ss, cipher: chacha20-ietf-poly1305, password: c7b071e2-e629-42d7-a7c4-dde603e88bee, udp: true}
 - {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 10443, type: trojan, password: c3ca85f6-1096-3100-b3f8-6906ced6814a, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
 - {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 20443, type: trojan, password: c3ca85f6-1096-3100-b3f8-6906ced6814a, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
 - {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 30443, type: trojan, password: c3ca85f6-1096-3100-b3f8-6906ced6814a, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
