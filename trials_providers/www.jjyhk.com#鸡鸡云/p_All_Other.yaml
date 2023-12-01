@@ -1,14 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇭 泰国/TH | 杭联 - 鸡鸡云, server: sz.xn--iiq222b6igvp5c.com, port: 11965, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇹🇭 泰国/TH | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇹🇭 泰国/TH | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇸🇰 斯洛伐克中转-电信 - 鸡鸡云, server: zzgzyd1.jjyhk.com, port: 12412, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇦🇷 阿根廷/AR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇻🇳 越南/VN | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 28182, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇩🇪 德国/DE | 北联 - 鸡鸡云, server: zzbjlt.jjyhk.com, port: 34255, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇩🇪 德国/DE | 厦联 - 鸡鸡云, server: hb.xn--iiq222b6igvp5c.com, port: 47553, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇸🇪 瑞典/SE | 泸德 - 鸡鸡云, server: zzhzdx.jjyhk.com, port: 16458, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇫🇷 法国/FR | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇫🇷 法国/FR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 21348, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
