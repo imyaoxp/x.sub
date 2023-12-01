@@ -33,7 +33,6 @@ proxy-groups:
   - 🇭🇰 香港/HK | 苏移 - 鸡鸡云
   - 🇯🇵 日本/JP | 苏移 - 鸡鸡云
   - 🇯🇵 日本/JP | 广移 - 鸡鸡云
-  - 🇺🇸 美国/US | 上移 - 鸡鸡云
   - 🇺🇸 洛杉矶/US | 广移 - 鸡鸡云
   - 🇹🇭 泰国/TH | 杭联 - 鸡鸡云
   - 🇹🇭 泰国/TH | 深联 - 鸡鸡云
@@ -109,7 +108,6 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id004
-  - 🇺🇸 美国/US | 上移 - 鸡鸡云
   - 🇺🇸 洛杉矶/US | 广移 - 鸡鸡云
 - name: 🎏 ‍其他
   type: url-test
@@ -155,7 +153,6 @@ proxies:
 - {name: 🇹🇭 泰国/TH | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇹🇭 泰国/TH | 苏移 - 鸡鸡云, server: zzjsyd.jjyhk.com, port: 11915, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇸🇰 斯洛伐克中转-电信 - 鸡鸡云, server: zzgzyd1.jjyhk.com, port: 12412, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
-- {name: 🇺🇸 美国/US | 上移 - 鸡鸡云, server: zzshyd1.jjyhk.com, port: 39669, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇦🇷 阿根廷/AR | 深联 - 鸡鸡云, server: zzszlt.jjyhk.com, port: 13334, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇻🇳 越南/VN | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 28182, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 🇩🇪 德国/DE | 北联 - 鸡鸡云, server: zzbjlt.jjyhk.com, port: 34255, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
