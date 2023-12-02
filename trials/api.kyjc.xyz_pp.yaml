@@ -9,8 +9,6 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - 🎏 ‍其他
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: 🛩️ ‍墙内
   type: select
@@ -32,8 +30,6 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🎏 ‍其他
-  - 👆🏻🎏 ‍其他
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -42,24 +38,7 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 100
-  use: &id001
-  - Other
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id001
-proxy-providers:
-  Other:
-    type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/api.kyjc.xyz/Other.yaml
-    interval: 180
-    path: trials_providers/api.kyjc.xyz/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+proxy-providers: {}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
