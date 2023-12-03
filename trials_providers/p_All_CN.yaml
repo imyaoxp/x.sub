@@ -4,6 +4,6 @@ proxies:
 - {name: 🇲🇴 澳门 / 华南｜MO - 小白云, server: mo1.iepl.cooc.icu, port: 35613, type: ss, cipher: aes-128-gcm, password: 5703fcff-0e8d-464e-8705-3dd7d82b291a, udp: true}
 - {name: 🇲🇴 澳门 / 华东｜MO - 小白云, server: mo2.iepl.cooc.icu, port: 35614, type: ss, cipher: aes-128-gcm, password: 5703fcff-0e8d-464e-8705-3dd7d82b291a, udp: true}
 - {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 5703fcff-0e8d-464e-8705-3dd7d82b291a, udp: true}
-- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 21367, type: ss, cipher: chacha20-ietf-poly1305, password: 07049afa-766f-4a23-acc3-34bc857b7fc4, udp: true}
-- {name: 🇲🇴澳门特别行政区-02|限时1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 52761, type: ss, cipher: chacha20-ietf-poly1305, password: 07049afa-766f-4a23-acc3-34bc857b7fc4, udp: true}
-- {name: 🇨🇳 🇨🇳中国-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 16971, type: ss, cipher: chacha20-ietf-poly1305, password: 07049afa-766f-4a23-acc3-34bc857b7fc4, udp: true}
+- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 21367, type: ss, cipher: chacha20-ietf-poly1305, password: cd5ee9e2-5079-4b76-9fe2-e58ede44ab9b, udp: true}
+- {name: 🇲🇴澳门特别行政区-02|限时1X - 周树人Cloud, server: zhejiangyidong.mixi.bio, port: 52761, type: ss, cipher: chacha20-ietf-poly1305, password: cd5ee9e2-5079-4b76-9fe2-e58ede44ab9b, udp: true}
+- {name: 🇨🇳 🇨🇳中国-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 16971, type: ss, cipher: chacha20-ietf-poly1305, password: cd5ee9e2-5079-4b76-9fe2-e58ede44ab9b, udp: true}
