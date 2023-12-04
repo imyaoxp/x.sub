@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 978002e0-af23-4c07-b8f7-f56e2438a851, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 978002e0-af23-4c07-b8f7-f56e2438a851, udp: true}
-- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: expone.divland.xyz, port: 33100, type: trojan, password: 978002e0-af23-4c07-b8f7-f56e2438a851, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 5d47e60a-6ff6-4645-b1d5-c3c1c45977d2, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 5d47e60a-6ff6-4645-b1d5-c3c1c45977d2, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: expone.divland.xyz, port: 33100, type: trojan, password: 5d47e60a-6ff6-4645-b1d5-c3c1c45977d2, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
