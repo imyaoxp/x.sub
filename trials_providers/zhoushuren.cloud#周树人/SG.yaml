@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 50022, type: trojan, password: 2ea2f8de-74fb-42cc-a4a5-276c1c2e133e, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: 2ea2f8de-74fb-42cc-a4a5-276c1c2e133e, udp: true}
+- {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 50022, type: trojan, password: bdac6ae5-5128-4fab-95c4-e06ccd83c813, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: bdac6ae5-5128-4fab-95c4-e06ccd83c813, udp: true}
