@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: a8e0bd8b-dc25-42d8-aa48-be48749d787d, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: a8e0bd8b-dc25-42d8-aa48-be48749d787d, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: a8e0bd8b-dc25-42d8-aa48-be48749d787d, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: d63030a2-d3d5-4e6c-91ce-b796aacd63a5, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: d63030a2-d3d5-4e6c-91ce-b796aacd63a5, udp: true}
+- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: d63030a2-d3d5-4e6c-91ce-b796aacd63a5, udp: true}
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 35e8e451-1624-3481-9134-737378f7170e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: 35e8e451-1624-3481-9134-737378f7170e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gdct001.theyydsnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: 878110de-5c4b-41bb-b1c4-efdffa054a62, udp: true}
@@ -26,8 +26,8 @@ proxies:
 - {name: 🇸🇬<新加坡>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇸🇬<新加坡-奈飞>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇸🇬 新加坡 - 节点一 - SScurl, server: whcm.pangupy.com, port: 24480, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
-- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 77d7a919-321e-4f5f-a8d5-aadc09a18f5c, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 59488aae-c0dc-32b9-ad52-01adbda9682d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 971254ee-d25b-448f-862c-dc64ac9b3eb7, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 674c1958-e256-33e2-b642-5cea7c47868e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬新加坡02|GPT - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 50022, type: trojan, password: c2ba06e9-b73a-4e53-b3e0-12ec4d0e5d81, sni: zsr-do-sg-03.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡03|1X - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 42140, type: ss, cipher: aes-256-gcm, password: c2ba06e9-b73a-4e53-b3e0-12ec4d0e5d81, udp: true}
 - {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 28439, type: ss, cipher: chacha20-ietf-poly1305, password: c7dbacc7-3d56-42fa-9a78-dd2383536b27, udp: true}
