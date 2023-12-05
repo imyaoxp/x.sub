@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港01|流媒体|gpt - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 37009, type: ss, cipher: chacha20-ietf-poly1305, password: f29b4f53-d0bf-4238-8af9-13863fcbfe66, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|gpt - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 44128, type: ss, cipher: chacha20-ietf-poly1305, password: f29b4f53-d0bf-4238-8af9-13863fcbfe66, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|gpt - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 54304, type: trojan, password: f29b4f53-d0bf-4238-8af9-13863fcbfe66, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|gpt - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 37886, type: trojan, password: f29b4f53-d0bf-4238-8af9-13863fcbfe66, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港05|流媒体 - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 44603, type: ss, cipher: chacha20-ietf-poly1305, password: f29b4f53-d0bf-4238-8af9-13863fcbfe66, udp: true}
-- {name: 🇭🇰 HK-香港06|流媒体 - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 44603, type: ss, cipher: chacha20-ietf-poly1305, password: f29b4f53-d0bf-4238-8af9-13863fcbfe66, udp: true}
-- {name: 🇭🇰 HK-香港07|流媒体|gpt - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 23789, type: ss, cipher: chacha20-ietf-poly1305, password: f29b4f53-d0bf-4238-8af9-13863fcbfe66, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|gpt - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 37009, type: ss, cipher: chacha20-ietf-poly1305, password: d37e2240-6a6f-4662-bdf0-3174925bf225, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|gpt - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 44128, type: ss, cipher: chacha20-ietf-poly1305, password: d37e2240-6a6f-4662-bdf0-3174925bf225, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|gpt - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 54304, type: trojan, password: d37e2240-6a6f-4662-bdf0-3174925bf225, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|gpt - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 37886, type: trojan, password: d37e2240-6a6f-4662-bdf0-3174925bf225, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港05|流媒体 - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 44603, type: ss, cipher: chacha20-ietf-poly1305, password: d37e2240-6a6f-4662-bdf0-3174925bf225, udp: true}
+- {name: 🇭🇰 HK-香港06|流媒体 - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 44603, type: ss, cipher: chacha20-ietf-poly1305, password: d37e2240-6a6f-4662-bdf0-3174925bf225, udp: true}
+- {name: 🇭🇰 HK-香港07|流媒体|gpt - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 23789, type: ss, cipher: chacha20-ietf-poly1305, password: d37e2240-6a6f-4662-bdf0-3174925bf225, udp: true}
