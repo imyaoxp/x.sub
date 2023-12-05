@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 21367, type: ss, cipher: chacha20-ietf-poly1305, password: 60bb48c5-6d93-4452-83e3-b1a722292705, udp: true}
-- {name: 🇲🇴澳门特别行政区-02 - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 28988, type: ss, cipher: chacha20-ietf-poly1305, password: 60bb48c5-6d93-4452-83e3-b1a722292705, udp: true}
-- {name: 🇨🇳 🇨🇳中国-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 16971, type: ss, cipher: chacha20-ietf-poly1305, password: 60bb48c5-6d93-4452-83e3-b1a722292705, udp: true}
+- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 21367, type: ss, cipher: chacha20-ietf-poly1305, password: c2ba06e9-b73a-4e53-b3e0-12ec4d0e5d81, udp: true}
+- {name: 🇲🇴澳门特别行政区-02 - 周树人Cloud, server: e346.xn--icty41bzxj.cn, port: 28988, type: ss, cipher: chacha20-ietf-poly1305, password: c2ba06e9-b73a-4e53-b3e0-12ec4d0e5d81, udp: true}
+- {name: 🇨🇳 🇨🇳中国-01 - 周树人Cloud, server: dahuguangs.xn--icty41bzxj.cn, port: 16971, type: ss, cipher: chacha20-ietf-poly1305, password: c2ba06e9-b73a-4e53-b3e0-12ec4d0e5d81, udp: true}
