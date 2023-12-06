@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 24123, type: trojan, password: e801a22a-93d3-455c-ae41-2cb509c83aa7, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 34311, type: trojan, password: e801a22a-93d3-455c-ae41-2cb509c83aa7, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-03|GPT - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 59930, type: ss, cipher: aes-256-gcm, password: e801a22a-93d3-455c-ae41-2cb509c83aa7, udp: true}
+- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 24123, type: trojan, password: b93738e1-fef7-4476-870c-cbf7beb1a080, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 34311, type: trojan, password: b93738e1-fef7-4476-870c-cbf7beb1a080, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-03|GPT - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 59930, type: ss, cipher: aes-256-gcm, password: b93738e1-fef7-4476-870c-cbf7beb1a080, udp: true}
