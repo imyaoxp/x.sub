@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾家宽-彰化-1|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 44c3a25d-a112-406b-bac4-bb2f19180d49, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 44c3a25d-a112-406b-bac4-bb2f19180d49, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 44c3a25d-a112-406b-bac4-bb2f19180d49, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 44c3a25d-a112-406b-bac4-bb2f19180d49, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾-台北市-01|GPT - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 53188, type: ss, cipher: aes-256-gcm, password: 44c3a25d-a112-406b-bac4-bb2f19180d49, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-1|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 811270c8-88d0-4971-8b6a-60030f4d4b90, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 811270c8-88d0-4971-8b6a-60030f4d4b90, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 811270c8-88d0-4971-8b6a-60030f4d4b90, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 811270c8-88d0-4971-8b6a-60030f4d4b90, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾-台北市-01|GPT - 周树人Cloud, server: a6.xn--icty41bzxj.cn, port: 53188, type: ss, cipher: aes-256-gcm, password: 811270c8-88d0-4971-8b6a-60030f4d4b90, udp: true}
