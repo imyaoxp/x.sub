@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国 | 直连 - BIUBIU FAST 加速器, server: dg5.biubiufast.quest, port: 5203, type: trojan, password: ee85f216-9cde-44d7-988f-586856771b28, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: ee85f216-9cde-44d7-988f-586856771b28, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: ee85f216-9cde-44d7-988f-586856771b28, udp: true}
 - {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: ee85f216-9cde-44d7-988f-586856771b28, udp: true}
