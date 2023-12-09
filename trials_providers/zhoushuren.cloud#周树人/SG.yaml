@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬新加坡01|GPT - 周树人Cloud, server: adazzp.infois.top, port: 13047, type: ss, cipher: aes-256-gcm, password: 8e6ca801-f968-4e40-880e-d0827c619d29, udp: true}
-- {name: 🇸🇬新加坡02 - 周树人Cloud, server: adazzp.infois.top, port: 24313, type: ss, cipher: aes-256-gcm, password: 8e6ca801-f968-4e40-880e-d0827c619d29, udp: true}
-- {name: 🇸🇬新加坡03 - 周树人Cloud, server: adazzp.infois.top, port: 54867, type: ss, cipher: aes-256-gcm, password: 8e6ca801-f968-4e40-880e-d0827c619d29, udp: true}
+- {name: 🇸🇬新加坡01|GPT - 周树人Cloud, server: adazzp.infois.top, port: 13047, type: ss, cipher: aes-256-gcm, password: 71741a96-a343-4fc5-bf46-5c128fc067a6, udp: true}
+- {name: 🇸🇬新加坡02 - 周树人Cloud, server: adazzp.infois.top, port: 24313, type: ss, cipher: aes-256-gcm, password: 71741a96-a343-4fc5-bf46-5c128fc067a6, udp: true}
+- {name: 🇸🇬新加坡03 - 周树人Cloud, server: adazzp.infois.top, port: 23008, type: ss, cipher: aes-256-gcm, password: 71741a96-a343-4fc5-bf46-5c128fc067a6, udp: true}
+- {name: 🇸🇬新加坡04 - 周树人Cloud, server: adazzp.infois.top, port: 29294, type: ss, cipher: aes-256-gcm, password: 71741a96-a343-4fc5-bf46-5c128fc067a6, udp: true}
