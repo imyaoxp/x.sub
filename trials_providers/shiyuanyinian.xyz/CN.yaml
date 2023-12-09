@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: b3bb63cd-2efc-41a3-9ecb-9f191625943b, udp: true}
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz.passwalls.com, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 1c404e4c-07a4-4b77-88b8-55315d7c6243, udp: true}
