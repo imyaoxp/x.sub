@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 26c6bb6d-1df5-41ea-9f06-7b95080fe5f5, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 26c6bb6d-1df5-41ea-9f06-7b95080fe5f5, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 26c6bb6d-1df5-41ea-9f06-7b95080fe5f5, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 26c6bb6d-1df5-41ea-9f06-7b95080fe5f5, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 26c6bb6d-1df5-41ea-9f06-7b95080fe5f5, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 26c6bb6d-1df5-41ea-9f06-7b95080fe5f5, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03a635-21ac-4923-840d-26c5d79e4cb1, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03a635-21ac-4923-840d-26c5d79e4cb1, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03a635-21ac-4923-840d-26c5d79e4cb1, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03a635-21ac-4923-840d-26c5d79e4cb1, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03a635-21ac-4923-840d-26c5d79e4cb1, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03a635-21ac-4923-840d-26c5d79e4cb1, udp: true}
