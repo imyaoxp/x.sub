@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 08c9fea5-c1d7-4247-8ae6-40bc37771ef0, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 08c9fea5-c1d7-4247-8ae6-40bc37771ef0, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 08c9fea5-c1d7-4247-8ae6-40bc37771ef0, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 08c9fea5-c1d7-4247-8ae6-40bc37771ef0, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 08c9fea5-c1d7-4247-8ae6-40bc37771ef0, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 08c9fea5-c1d7-4247-8ae6-40bc37771ef0, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: c9c7b6d7-b068-4da7-b88d-56fc9e3b8d23, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: c9c7b6d7-b068-4da7-b88d-56fc9e3b8d23, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: c9c7b6d7-b068-4da7-b88d-56fc9e3b8d23, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: c9c7b6d7-b068-4da7-b88d-56fc9e3b8d23, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: c9c7b6d7-b068-4da7-b88d-56fc9e3b8d23, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: c9c7b6d7-b068-4da7-b88d-56fc9e3b8d23, udp: true}
