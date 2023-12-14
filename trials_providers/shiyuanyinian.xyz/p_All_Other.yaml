@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: f499b407-08ee-4aaa-b896-654f962d2598, udp: true}
 - {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: f499b407-08ee-4aaa-b896-654f962d2598, udp: true}
 - {name: 🇷🇺 俄罗斯2 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: f499b407-08ee-4aaa-b896-654f962d2598, udp: true}
 - {name: 🇷🇺 俄罗斯3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: f499b407-08ee-4aaa-b896-654f962d2598, udp: true}
