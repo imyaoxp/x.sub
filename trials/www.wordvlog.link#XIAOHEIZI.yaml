@@ -100,17 +100,17 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: too.st/5U2 - XIAOHEIZI 網絡加速, server: de-cdn.ikuan.dev, port: 2052, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoftvideo/HEAC?ed=2048', headers: {Host: de05-v6.ikuan.dev}}, udp: true}
-- {name: 🇺🇸US-LosAngeles2(Unmetered) - XIAOHEIZI 網絡加速, server: cdnikuan.ikuan.dev, port: 8880, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoft?ed=1024', headers: {Host: losangeles.freenode.pro}}, udp: true}
-- {name: 🇺🇸US-LosAngeles5(Unmetered) - XIAOHEIZI 網絡加速, server: freenodecdn.ikuan.dev, port: 8880, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoft?ed=1024', headers: {Host: losangeles.freenode.pro}}, udp: true}
-- {name: 🇺🇸US-LosAngeles3(Unmetered) - XIAOHEIZI 網絡加速, server: cdnikuan3.ikuan.dev, port: 8880, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoft?ed=1024', headers: {Host: losangeles.freenode.pro}}, udp: true}
-- {name: 🇺🇸US-LosAngeles4(Unmetered) - XIAOHEIZI 網絡加速, server: cdnikuancdnikuan.ikuan.dev, port: 8880, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoft?ed=1024', headers: {Host: losangeles.freenode.pro}}, udp: true}
-- {name: 🇺🇸US-Draper-3 - XIAOHEIZI 網絡加速, server: cdnikuancdnikuan.ikuan.dev, port: 8080, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/Onlinemedicallearningvideos/HEAC*?ed=2048', headers: {Host: usopenvz3-52026022940dc1234123455cf1.freenode.pro}}, udp: true}
-- {name: 🇺🇸US-Draper-2 - XIAOHEIZI 網絡加速, server: cdnikuancdnikuan.ikuan.dev, port: 2052, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/Onlinemedicallearningvideos/HEAC*?ed=2048', headers: {Host: usopenvz2-10726022940b71234123487d70001.freenode.pro}}, udp: true}
-- {name: 🇺🇸CF-Draper-02 - XIAOHEIZI 網絡加速, server: freenodecdn.ikuan.dev, port: 2095, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/cloudvideo?ed=1024', headers: {Host: de-data-02.ikuan.dev}}, udp: true}
-- {name: 🇬🇧CF-UK-01 - XIAOHEIZI 網絡加速, server: lon01.freenode.pro, port: 443, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: lon01.freenode.pro, network: ws, ws-opts: {path: /update.microsoft.com, headers: {Host: lon01.freenode.pro}}, udp: true}
-- {name: 🇺🇸CF-US-01v6 - XIAOHEIZI 網絡加速, server: cewcastlecdn2111.ikuan.dev, port: 2086, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/update.microsoft.com?ed=2048', headers: {Host: us01-v6.freenode.pro}}, udp: true}
-- {name: 🇺🇸CF-Draper-03 - XIAOHEIZI 網絡加速, server: cdnikuancdnikuan.ikuan.dev, port: 2095, type: vmess, uuid: dc6ba7b7-f729-49ee-b666-9f4162055a5f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/cloudvideo?ed=1024', headers: {Host: de-data-02.ikuan.dev}}, udp: true}
+- {name: too.st/5U2 - XIAOHEIZI 網絡加速, server: de-cdn.ikuan.dev, port: 2052, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoftvideo/HEAC?ed=2048', headers: {Host: de05-v6.ikuan.dev}}, udp: true}
+- {name: 🇺🇸US-LosAngeles2(Unmetered) - XIAOHEIZI 網絡加速, server: cdnikuan.ikuan.dev, port: 8880, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoft?ed=1024', headers: {Host: losangeles.freenode.pro}}, udp: true}
+- {name: 🇺🇸US-LosAngeles5(Unmetered) - XIAOHEIZI 網絡加速, server: freenodecdn.ikuan.dev, port: 8880, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoft?ed=1024', headers: {Host: losangeles.freenode.pro}}, udp: true}
+- {name: 🇺🇸US-LosAngeles3(Unmetered) - XIAOHEIZI 網絡加速, server: cdnikuan3.ikuan.dev, port: 8880, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoft?ed=1024', headers: {Host: losangeles.freenode.pro}}, udp: true}
+- {name: 🇺🇸US-LosAngeles4(Unmetered) - XIAOHEIZI 網絡加速, server: cdnikuancdnikuan.ikuan.dev, port: 8880, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoft?ed=1024', headers: {Host: losangeles.freenode.pro}}, udp: true}
+- {name: 🇺🇸US-Draper-3 - XIAOHEIZI 網絡加速, server: cdnikuancdnikuan.ikuan.dev, port: 8080, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/Onlinemedicallearningvideos/HEAC*?ed=2048', headers: {Host: usopenvz3-52026022940dc1234123455cf1.freenode.pro}}, udp: true}
+- {name: 🇺🇸US-Draper-2 - XIAOHEIZI 網絡加速, server: cdnikuancdnikuan.ikuan.dev, port: 2052, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/Onlinemedicallearningvideos/HEAC*?ed=2048', headers: {Host: usopenvz2-10726022940b71234123487d70001.freenode.pro}}, udp: true}
+- {name: 🇺🇸CF-Draper-02 - XIAOHEIZI 網絡加速, server: freenodecdn.ikuan.dev, port: 2095, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/cloudvideo?ed=1024', headers: {Host: de-data-02.ikuan.dev}}, udp: true}
+- {name: 🇬🇧CF-UK-01 - XIAOHEIZI 網絡加速, server: lon01.freenode.pro, port: 443, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: lon01.freenode.pro, network: ws, ws-opts: {path: /update.microsoft.com, headers: {Host: lon01.freenode.pro}}, udp: true}
+- {name: 🇺🇸CF-US-01v6 - XIAOHEIZI 網絡加速, server: cewcastlecdn2111.ikuan.dev, port: 2086, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/update.microsoft.com?ed=2048', headers: {Host: us01-v6.freenode.pro}}, udp: true}
+- {name: 🇺🇸CF-Draper-03 - XIAOHEIZI 網絡加速, server: cdnikuancdnikuan.ikuan.dev, port: 2095, type: vmess, uuid: f9c70f84-5997-41fe-a0a9-54d26a35a830, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/cloudvideo?ed=1024', headers: {Host: de-data-02.ikuan.dev}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -587,6 +587,7 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
+- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -1851,6 +1852,7 @@ rules:
 - DOMAIN-SUFFIX,tumbex.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,twdvd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,unsplash.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,buzzsprout.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,eu,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk,✈️ ‍起飞
 - DOMAIN-SUFFIX,jp,✈️ ‍起飞
@@ -2257,6 +2259,7 @@ rules:
 - DOMAIN-SUFFIX,babylonbee.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,backchina.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,backtotiananmen.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bad.news,✈️ ‍起飞
 - DOMAIN-SUFFIX,badiucao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,badjojo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,badoo.com,✈️ ‍起飞
@@ -3998,6 +4001,7 @@ rules:
 - DOMAIN-SUFFIX,info-graf.fr,✈️ ‍起飞
 - DOMAIN-SUFFIX,informer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,initiativesforchina.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,inkbunny.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,inkui.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,inmediahk.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,innermongolia.org,✈️ ‍起飞
@@ -4466,6 +4470,7 @@ rules:
 - DOMAIN-SUFFIX,matrix.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,matsushimakaede.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,matters.news,✈️ ‍起飞
+- DOMAIN-SUFFIX,matters.town,✈️ ‍起飞
 - DOMAIN-SUFFIX,mattwilcox.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,maturejp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mayimayi.com,✈️ ‍起飞
@@ -6986,6 +6991,7 @@ rules:
 - DOMAIN-SUFFIX,sb-cd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,xnxx-cdn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ypncdn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,fanbox.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,amplitude.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hockeyapp.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,readdle.com,✈️ ‍起飞
@@ -7051,6 +7057,7 @@ rules:
 - DOMAIN-SUFFIX,zhenguanyu.biz,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhenguanyu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,snapdrop.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,tebex.io,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cn,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--fiqs8s,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--55qx5d,🛩️ ‍墙内
@@ -7098,6 +7105,7 @@ rules:
 - DOMAIN-SUFFIX,aliyuncdn.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyuncs.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyundrive.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,aliyundrive.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amap.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,autonavi.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dingtalk.com,🛩️ ‍墙内
@@ -7371,6 +7379,7 @@ rules:
 - DOMAIN-SUFFIX,biqudu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,biquge.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bitauto.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,bosszhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,c-ctrip.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,camera360.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cdnmama.com,🛩️ ‍墙内
@@ -7574,6 +7583,7 @@ rules:
 - DOMAIN-SUFFIX,zhaopin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhihu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhimg.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,zhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhongsou.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
