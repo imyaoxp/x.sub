@@ -4,7 +4,7 @@ proxies:
 - {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: cca5aa32-7154-37af-8bdf-b389961ae8b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: cca5aa32-7154-37af-8bdf-b389961ae8b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 79cecd09-fa64-4100-83f9-25eea36781f2, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 79cecd09-fa64-4100-83f9-25eea36781f2, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 21552, type: ss, cipher: chacha20-ietf-poly1305, password: 79cecd09-fa64-4100-83f9-25eea36781f2, udp: true}
 - {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 79cecd09-fa64-4100-83f9-25eea36781f2, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: da9d81bf-9bc4-4295-bd6f-18541d42963f, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: shcm002.theyydsnode.top, port: 51031, type: trojan, password: b1dbfcd4-ad51-4953-ab3a-064a6aeef993, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -16,12 +16,12 @@ proxies:
 - {name: 🇸🇬<油管无广告>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇸🇬<新加坡>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇸🇬<新加坡-奈飞>-1x - 大湾区坤厂, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
-- {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 28439, type: ss, cipher: chacha20-ietf-poly1305, password: 715d372d-325d-458f-b431-527d128a0983, udp: true}
-- {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 49017, type: ss, cipher: chacha20-ietf-poly1305, password: 715d372d-325d-458f-b431-527d128a0983, udp: true}
-- {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 715d372d-325d-458f-b431-527d128a0983, udp: true}
-- {name: 🇸🇬 新加坡4 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 715d372d-325d-458f-b431-527d128a0983, udp: true}
-- {name: 🇸🇬 新加坡5 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 715d372d-325d-458f-b431-527d128a0983, udp: true}
-- {name: 🇸🇬 新加坡6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: 715d372d-325d-458f-b431-527d128a0983, udp: true}
+- {name: 🇸🇬 新加坡1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 28439, type: ss, cipher: chacha20-ietf-poly1305, password: bdda3f5f-a52f-431b-a32f-3064f8a440f7, udp: true}
+- {name: 🇸🇬 新加坡2 全解锁 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 49017, type: ss, cipher: chacha20-ietf-poly1305, password: bdda3f5f-a52f-431b-a32f-3064f8a440f7, udp: true}
+- {name: 🇸🇬 新加坡3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: bdda3f5f-a52f-431b-a32f-3064f8a440f7, udp: true}
+- {name: 🇸🇬 新加坡4 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: bdda3f5f-a52f-431b-a32f-3064f8a440f7, udp: true}
+- {name: 🇸🇬 新加坡5 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: bdda3f5f-a52f-431b-a32f-3064f8a440f7, udp: true}
+- {name: 🇸🇬 新加坡6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61000, type: ss, cipher: chacha20-ietf-poly1305, password: bdda3f5f-a52f-431b-a32f-3064f8a440f7, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 51101351-8472-316e-ab50-8357c083e1ea, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: 51101351-8472-316e-ab50-8357c083e1ea, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 30443, type: trojan, password: 51101351-8472-316e-ab50-8357c083e1ea, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
