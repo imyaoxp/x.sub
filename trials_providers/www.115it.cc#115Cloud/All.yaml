@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: f3c492f0-7af8-3681-b64e-5fb7704e9792, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-公益-0.5倍率 - 115Cloud, server: de-gy.115cloud.link, port: 35681, type: trojan, password: f3c492f0-7af8-3681-b64e-5fb7704e9792, sni: de-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-公益02-0.5倍率 - 115Cloud, server: cf-ip.115cloud.link, port: 2052, type: vmess, uuid: f3c492f0-7af8-3681-b64e-5fb7704e9792, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: de-cf-gy.115cloud.link, network: ws, ws-opts: {path: /Edwhmayc, headers: {Host: de-cf-gy.115cloud.link}}, udp: true}
-- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 13889, type: trojan, password: f3c492f0-7af8-3681-b64e-5fb7704e9792, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-公益-0.5倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 52560, type: trojan, password: f3c492f0-7af8-3681-b64e-5fb7704e9792, sni: uk-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国-公益-0.5倍率 - 115Cloud, server: kr-gy.115cloud.link, port: 22122, type: trojan, password: f3c492f0-7af8-3681-b64e-5fb7704e9792, sni: kr-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 33233, type: ss, cipher: aes-256-gcm, password: DIt5u2lKa6t8vfkW, udp: true}
+- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: 01fabeeb-41dc-3207-9c6f-f7a9cfb00237, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-公益-0.5倍率 - 115Cloud, server: de-gy.115cloud.link, port: 35681, type: trojan, password: 01fabeeb-41dc-3207-9c6f-f7a9cfb00237, sni: de-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-公益02-0.5倍率 - 115Cloud, server: cf-ip.115cloud.link, port: 2052, type: vmess, uuid: 01fabeeb-41dc-3207-9c6f-f7a9cfb00237, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: de-cf-gy.115cloud.link, network: ws, ws-opts: {path: /Edwhmayc, headers: {Host: de-cf-gy.115cloud.link}}, udp: true}
+- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 13889, type: trojan, password: 01fabeeb-41dc-3207-9c6f-f7a9cfb00237, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-公益-0.5倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 52560, type: trojan, password: 01fabeeb-41dc-3207-9c6f-f7a9cfb00237, sni: uk-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国-公益-0.5倍率 - 115Cloud, server: kr-gy.115cloud.link, port: 22122, type: trojan, password: 01fabeeb-41dc-3207-9c6f-f7a9cfb00237, sni: kr-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 33233, type: ss, cipher: aes-256-gcm, password: Bla5Aa7k8tsh7CIq, udp: true}
