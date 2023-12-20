@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 10e9ac84-4312-3e82-9d33-288503a0a271, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 10e9ac84-4312-3e82-9d33-288503a0a271, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 10e9ac84-4312-3e82-9d33-288503a0a271, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 10e9ac84-4312-3e82-9d33-288503a0a271, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: b0563133-84f4-3ffa-9da5-5e5b2c42ecbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: b0563133-84f4-3ffa-9da5-5e5b2c42ecbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: b0563133-84f4-3ffa-9da5-5e5b2c42ecbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: b0563133-84f4-3ffa-9da5-5e5b2c42ecbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1(TCP) - 麻雀加速器 Sparrow, server: b11.ntbq.dynu.net, port: 5643, type: vmess, uuid: cd8fd89b-096f-49a0-afe4-908734e32a99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: cd8fd89b-096f-49a0-afe4-908734e32a99, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: cd8fd89b-096f-49a0-afe4-908734e32a99, udp: true}
@@ -19,10 +19,10 @@ proxies:
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: b43fe9c8-b100-3c4f-8f38-7ed007100b98, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62003, type: vmess, uuid: b43fe9c8-b100-3c4f-8f38-7ed007100b98, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62015, type: vmess, uuid: b43fe9c8-b100-3c4f-8f38-7ed007100b98, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 4a157182-8c33-4abc-b43a-9ddb3d206050, udp: true}
-- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 4a157182-8c33-4abc-b43a-9ddb3d206050, udp: true}
-- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 4a157182-8c33-4abc-b43a-9ddb3d206050, udp: true}
-- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: gzcmasdjhuiqdhw.dfcloud.xyz, port: 32102, type: trojan, password: 4a157182-8c33-4abc-b43a-9ddb3d206050, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 1bae4ba0-87c1-4242-943f-10e1c138d783, udp: true}
+- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 1bae4ba0-87c1-4242-943f-10e1c138d783, udp: true}
+- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 1bae4ba0-87c1-4242-943f-10e1c138d783, udp: true}
+- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: gzcmasdjhuiqdhw.dfcloud.xyz, port: 32102, type: trojan, password: 1bae4ba0-87c1-4242-943f-10e1c138d783, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 aga香港游戏节点 - cloudtu, server: yt201.jdxx9.com, port: 16385, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9786:cSKZJT, obfs-param: b03e19786.download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 HKT解锁 - cloudtu, server: yt201.jdxx9.com, port: 16390, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9786:cSKZJT, obfs-param: b03e19786.download.windowsupdate.com, udp: true}
 - {name: 🇭🇰 香港HKT转移动G口1 - cloudtu, server: yt201.jdxx9.com, port: 15886, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9786:cSKZJT, obfs-param: b03e19786.download.windowsupdate.com, udp: true}
@@ -59,18 +59,18 @@ proxies:
 - {name: 🇭🇰<香港高速>-2x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇭🇰-专线①-2.5倍 - 大湾区坤厂, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇭🇰-专线②-2.5倍 - 大湾区坤厂, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
-- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 05e93459-0462-4993-aab4-25de3c8bff95, udp: true}
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: gz-vvv-sz-dnm.newbluecloud.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 418d917e-4f44-44f2-b2bd-73908e977382, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 10443, type: trojan, password: 8c842f1a-0a9f-3f74-97d9-5f7795d29355, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
 - {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 20443, type: trojan, password: 8c842f1a-0a9f-3f74-97d9-5f7795d29355, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
 - {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq1.pw, port: 30443, type: trojan, password: 8c842f1a-0a9f-3f74-97d9-5f7795d29355, sni: hkvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
