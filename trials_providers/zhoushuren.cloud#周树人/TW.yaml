@@ -1,8 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾家宽-彰化-1|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: b1ac4fc1-1365-46fe-b0ea-012eb30d7dc2, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: b1ac4fc1-1365-46fe-b0ea-012eb30d7dc2, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: b1ac4fc1-1365-46fe-b0ea-012eb30d7dc2, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: b1ac4fc1-1365-46fe-b0ea-012eb30d7dc2, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾-台北市-01|GPT - 周树人Cloud, server: adazzp.infois.top, port: 13304, type: ss, cipher: aes-256-gcm, password: b1ac4fc1-1365-46fe-b0ea-012eb30d7dc2, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-1|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 835909a6-40b8-4d3b-baaa-cd4b87c8edee, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 835909a6-40b8-4d3b-baaa-cd4b87c8edee, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 835909a6-40b8-4d3b-baaa-cd4b87c8edee, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 835909a6-40b8-4d3b-baaa-cd4b87c8edee, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾-台北市-01|GPT - 周树人Cloud, server: adazzp.infois.top, port: 13304, type: ss, cipher: aes-256-gcm, password: 835909a6-40b8-4d3b-baaa-cd4b87c8edee, udp: true}
+- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: adazzp.infois.top, port: 35289, type: ss, cipher: aes-256-gcm, password: 835909a6-40b8-4d3b-baaa-cd4b87c8edee, udp: true}
