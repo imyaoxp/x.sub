@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: adazzp.infois.top, port: 56239, type: ss, cipher: chacha20-ietf-poly1305, password: 24e279b7-bfc7-4bfc-80bb-52f9d8f01a76, udp: true}
-- {name: 🇲🇴澳门特别行政区-02 - 周树人Cloud, server: adazzp.infois.top, port: 29467, type: ss, cipher: chacha20-ietf-poly1305, password: 24e279b7-bfc7-4bfc-80bb-52f9d8f01a76, udp: true}
-- {name: 🇨🇳 🇨🇳中国-01 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 14620, type: ss, cipher: chacha20-ietf-poly1305, password: 24e279b7-bfc7-4bfc-80bb-52f9d8f01a76, udp: true}
+- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: adazzp.infois.top, port: 56239, type: ss, cipher: chacha20-ietf-poly1305, password: c199696c-a60d-4ca2-acdf-0367f685d604, udp: true}
+- {name: 🇲🇴澳门特别行政区-02 - 周树人Cloud, server: adazzp.infois.top, port: 29467, type: ss, cipher: chacha20-ietf-poly1305, password: c199696c-a60d-4ca2-acdf-0367f685d604, udp: true}
+- {name: 🇨🇳 🇨🇳中国-01 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 14620, type: ss, cipher: chacha20-ietf-poly1305, password: c199696c-a60d-4ca2-acdf-0367f685d604, udp: true}
