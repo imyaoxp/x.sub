@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 8ca0795c-2ad4-3055-b091-ce5d2b885cf2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 8ca0795c-2ad4-3055-b091-ce5d2b885cf2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: f2d37b94-50da-32d3-bf72-bc23a50d11d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: f2d37b94-50da-32d3-bf72-bc23a50d11d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: 7990cc9b-8ffc-3c9b-aa04-16f01c8917f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 3d0e0e49-3676-4c8f-8682-3eb11f5ec637, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 3d0e0e49-3676-4c8f-8682-3eb11f5ec637, udp: true}
-- {name: 🇯🇵 日本|高速日本SS4（会员） - BIUBIU FAST 加速器, server: one.gz.bbcc.cyou, port: 43201, type: ss, cipher: chacha20-ietf-poly1305, password: 3d0e0e49-3676-4c8f-8682-3eb11f5ec637, udp: true}
-- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: gzcmasdjhuiqdhw.dfcloud.xyz, port: 32101, type: trojan, password: 3d0e0e49-3676-4c8f-8682-3eb11f5ec637, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 1b0eba52-25f9-4064-8a6f-66f16b20f8c6, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 1b0eba52-25f9-4064-8a6f-66f16b20f8c6, udp: true}
+- {name: 🇯🇵 日本|高速日本SS4（会员） - BIUBIU FAST 加速器, server: one.gz.bbcc.cyou, port: 43201, type: ss, cipher: chacha20-ietf-poly1305, password: 1b0eba52-25f9-4064-8a6f-66f16b20f8c6, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: gzcmasdjhuiqdhw.dfcloud.xyz, port: 32101, type: trojan, password: 1b0eba52-25f9-4064-8a6f-66f16b20f8c6, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 AZ日本隧道转移动1 - cloudtu, server: yt201.jdxx9.com, port: 16486, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9786:cSKZJT, obfs-param: b03e19786.download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 AZ日本隧道转移动2 - cloudtu, server: yt201.jdxx9.com, port: 16487, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9786:cSKZJT, obfs-param: b03e19786.download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 AZ日本隧道转移动4 - cloudtu, server: yt201.jdxx9.com, port: 16489, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9786:cSKZJT, obfs-param: b03e19786.download.windowsupdate.com, udp: true}
