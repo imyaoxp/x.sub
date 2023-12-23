@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 54367, type: trojan, password: 4e2176c4-8549-41ec-8dab-f345d4786dd1, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 54367, type: trojan, password: 4e2176c4-8549-41ec-8dab-f345d4786dd1, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-04|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23948, type: ss, cipher: aes-256-gcm, password: 4e2176c4-8549-41ec-8dab-f345d4786dd1, udp: true}
-- {name: 🇯🇵日本-东京-05|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23949, type: ss, cipher: aes-256-gcm, password: 4e2176c4-8549-41ec-8dab-f345d4786dd1, udp: true}
-- {name: 🇯🇵日本-东京-06|NTT PC - 周树人Cloud, server: adazzp.infois.top, port: 39318, type: ss, cipher: aes-256-gcm, password: 4e2176c4-8549-41ec-8dab-f345d4786dd1, udp: true}
+- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 54367, type: trojan, password: 5f031328-67c9-4885-b037-9a24905d5739, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 54367, type: trojan, password: 5f031328-67c9-4885-b037-9a24905d5739, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-04|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23948, type: ss, cipher: aes-256-gcm, password: 5f031328-67c9-4885-b037-9a24905d5739, udp: true}
+- {name: 🇯🇵日本-东京-05|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23949, type: ss, cipher: aes-256-gcm, password: 5f031328-67c9-4885-b037-9a24905d5739, udp: true}
+- {name: 🇯🇵日本-东京-06|NTT PC - 周树人Cloud, server: adazzp.infois.top, port: 39318, type: ss, cipher: aes-256-gcm, password: 5f031328-67c9-4885-b037-9a24905d5739, udp: true}
