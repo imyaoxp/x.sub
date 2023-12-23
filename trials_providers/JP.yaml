@@ -88,12 +88,12 @@ proxies:
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: gdct001.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 8a222e59-1e24-45e5-9043-0a75911cc862, udp: true}
 - {name: 🇯🇵 vip1 日本-07 - FastFly, server: gdct003.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 8a222e59-1e24-45e5-9043-0a75911cc862, udp: true}
 - {name: 🇯🇵 vip1 日本-08 - FastFly, server: shcm002.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 8a222e59-1e24-45e5-9043-0a75911cc862, udp: true}
-- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 48964, type: trojan, password: 24180317-5818-4e17-8f7b-12c4f02e0929, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 24311, type: trojan, password: 24180317-5818-4e17-8f7b-12c4f02e0929, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-03|GPT - 周树人Cloud, server: adazzp.infois.top, port: 30961, type: ss, cipher: aes-256-gcm, password: 24180317-5818-4e17-8f7b-12c4f02e0929, udp: true}
-- {name: 🇯🇵日本-东京-04|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23948, type: ss, cipher: aes-256-gcm, password: 24180317-5818-4e17-8f7b-12c4f02e0929, udp: true}
-- {name: 🇯🇵日本-东京-05|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23949, type: ss, cipher: aes-256-gcm, password: 24180317-5818-4e17-8f7b-12c4f02e0929, udp: true}
-- {name: 🇯🇵日本-东京-06|NTT PC - 周树人Cloud, server: adazzp.infois.top, port: 39318, type: ss, cipher: aes-256-gcm, password: 24180317-5818-4e17-8f7b-12c4f02e0929, udp: true}
+- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 48964, type: trojan, password: fdece4e2-daaf-4cc6-8655-c87809062858, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 24311, type: trojan, password: fdece4e2-daaf-4cc6-8655-c87809062858, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-03|GPT - 周树人Cloud, server: adazzp.infois.top, port: 30961, type: ss, cipher: aes-256-gcm, password: fdece4e2-daaf-4cc6-8655-c87809062858, udp: true}
+- {name: 🇯🇵日本-东京-04|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23948, type: ss, cipher: aes-256-gcm, password: fdece4e2-daaf-4cc6-8655-c87809062858, udp: true}
+- {name: 🇯🇵日本-东京-05|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23949, type: ss, cipher: aes-256-gcm, password: fdece4e2-daaf-4cc6-8655-c87809062858, udp: true}
+- {name: 🇯🇵日本-东京-06|NTT PC - 周树人Cloud, server: adazzp.infois.top, port: 39318, type: ss, cipher: aes-256-gcm, password: fdece4e2-daaf-4cc6-8655-c87809062858, udp: true}
 - {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: ff797ce6-8ae6-43ba-a707-4f41c67307ec, udp: true}
 - {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: ff797ce6-8ae6-43ba-a707-4f41c67307ec, udp: true}
 - {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: ff797ce6-8ae6-43ba-a707-4f41c67307ec, udp: true}
