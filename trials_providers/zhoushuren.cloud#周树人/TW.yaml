@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾家宽-彰化-1|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: e867e603-bdee-46dc-a1ca-2c85955f79d9, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: e867e603-bdee-46dc-a1ca-2c85955f79d9, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: e867e603-bdee-46dc-a1ca-2c85955f79d9, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: e867e603-bdee-46dc-a1ca-2c85955f79d9, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: adazzp.infois.top, port: 35289, type: ss, cipher: aes-256-gcm, password: e867e603-bdee-46dc-a1ca-2c85955f79d9, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-1|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: e29cc699-b99b-4142-a34e-d982bfc980c4, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: e29cc699-b99b-4142-a34e-d982bfc980c4, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: e29cc699-b99b-4142-a34e-d982bfc980c4, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: e29cc699-b99b-4142-a34e-d982bfc980c4, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: adazzp.infois.top, port: 35289, type: ss, cipher: aes-256-gcm, password: e29cc699-b99b-4142-a34e-d982bfc980c4, udp: true}
