@@ -53,16 +53,16 @@ proxies:
 - {name: 🇸🇬 新加坡 05 - V2Link, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
 - {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12001, type: vmess, uuid: 8417d9ae-4ac2-3657-b149-50057482c379, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12002, type: vmess, uuid: 8417d9ae-4ac2-3657-b149-50057482c379, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gdct001.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 303f162e-8387-4f5c-80cc-44143c464918, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gdct003.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 303f162e-8387-4f5c-80cc-44143c464918, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: shcm002.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 303f162e-8387-4f5c-80cc-44143c464918, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gdct001.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 303f162e-8387-4f5c-80cc-44143c464918, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: gdct003.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 303f162e-8387-4f5c-80cc-44143c464918, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: shcm002.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 303f162e-8387-4f5c-80cc-44143c464918, udp: true}
-- {name: 🇸🇬新加坡01|GPT - 周树人Cloud, server: adazzp.infois.top, port: 13047, type: ss, cipher: aes-256-gcm, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
-- {name: 🇸🇬新加坡02 - 周树人Cloud, server: adazzp.infois.top, port: 24313, type: ss, cipher: aes-256-gcm, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
-- {name: 🇸🇬新加坡03 - 周树人Cloud, server: adazzp.infois.top, port: 23008, type: ss, cipher: aes-256-gcm, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
-- {name: 🇸🇬新加坡04 - 周树人Cloud, server: adazzp.infois.top, port: 29294, type: ss, cipher: aes-256-gcm, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gdct001.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 232b89d0-1dfb-4aa9-bdea-a136589300dc, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gdct003.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 232b89d0-1dfb-4aa9-bdea-a136589300dc, udp: true}
+- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: shcm002.theyydsnode.top, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 232b89d0-1dfb-4aa9-bdea-a136589300dc, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gdct001.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 232b89d0-1dfb-4aa9-bdea-a136589300dc, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: gdct003.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 232b89d0-1dfb-4aa9-bdea-a136589300dc, udp: true}
+- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: shcm002.theyydsnode.top, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 232b89d0-1dfb-4aa9-bdea-a136589300dc, udp: true}
+- {name: 🇸🇬新加坡01|GPT - 周树人Cloud, server: adazzp.infois.top, port: 13047, type: ss, cipher: aes-256-gcm, password: 94174145-284f-47f4-8311-570f915bc1d1, udp: true}
+- {name: 🇸🇬新加坡02 - 周树人Cloud, server: adazzp.infois.top, port: 24313, type: ss, cipher: aes-256-gcm, password: 94174145-284f-47f4-8311-570f915bc1d1, udp: true}
+- {name: 🇸🇬新加坡03 - 周树人Cloud, server: adazzp.infois.top, port: 23008, type: ss, cipher: aes-256-gcm, password: 94174145-284f-47f4-8311-570f915bc1d1, udp: true}
+- {name: 🇸🇬新加坡04 - 周树人Cloud, server: adazzp.infois.top, port: 29294, type: ss, cipher: aes-256-gcm, password: 94174145-284f-47f4-8311-570f915bc1d1, udp: true}
 - {name: 🇸🇬 新加坡 / 华南｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 437cb106-acc7-4d52-b914-b3eca28484bc, udp: true}
 - {name: 🇸🇬 新加坡 / 华东｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 437cb106-acc7-4d52-b914-b3eca28484bc, udp: true}
 - {name: 🇸🇬 SG｜Overseas users - 小白云, server: sg.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 437cb106-acc7-4d52-b914-b3eca28484bc, udp: true}
