@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: a31552d8-0b23-4a18-b8b4-8c1f9397c71e, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: a31552d8-0b23-4a18-b8b4-8c1f9397c71e, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: a31552d8-0b23-4a18-b8b4-8c1f9397c71e, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: a31552d8-0b23-4a18-b8b4-8c1f9397c71e, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: a31552d8-0b23-4a18-b8b4-8c1f9397c71e, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: a31552d8-0b23-4a18-b8b4-8c1f9397c71e, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 40680, type: ss, cipher: chacha20-ietf-poly1305, password: 6f44b22b-d392-40cc-ad02-981a92f6a0b7, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 6f44b22b-d392-40cc-ad02-981a92f6a0b7, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 6f44b22b-d392-40cc-ad02-981a92f6a0b7, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 6f44b22b-d392-40cc-ad02-981a92f6a0b7, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 6f44b22b-d392-40cc-ad02-981a92f6a0b7, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 6f44b22b-d392-40cc-ad02-981a92f6a0b7, udp: true}
