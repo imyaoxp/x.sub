@@ -1,22 +1,22 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港00|主力大带宽 - 周树人Cloud, server: adazzp.infois.top, port: 51526, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇭🇰 HK-香港01|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 9995, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇭🇰 HK-香港01|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 19999, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 41607, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 41608, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 30060, type: trojan, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 30061, type: trojan, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 57747, type: trojan, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 57748, type: trojan, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港05|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇭🇰 HK-香港05|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 33621, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: adazzp.infois.top, port: 56239, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: adazzp.infois.top, port: 35289, type: ss, cipher: aes-256-gcm, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
-- {name: 🇨🇳中国-01|油管免广告 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 14620, type: ss, cipher: chacha20-ietf-poly1305, password: f47bcaa6-649d-4f92-9358-dfc78ef6c7f4, udp: true}
+- {name: 🇭🇰 HK-香港00|主力大带宽 - 周树人Cloud, server: adazzp.infois.top, port: 51526, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 9995, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 19999, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 41607, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 41608, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 30060, type: trojan, password: 8e977028-6338-4a64-a350-94419b615c22, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 30061, type: trojan, password: 8e977028-6338-4a64-a350-94419b615c22, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 57747, type: trojan, password: 8e977028-6338-4a64-a350-94419b615c22, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 57748, type: trojan, password: 8e977028-6338-4a64-a350-94419b615c22, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港05|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇭🇰 HK-香港05|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 33621, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: adazzp.infois.top, port: 56239, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8e977028-6338-4a64-a350-94419b615c22, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8e977028-6338-4a64-a350-94419b615c22, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8e977028-6338-4a64-a350-94419b615c22, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 8e977028-6338-4a64-a350-94419b615c22, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: adazzp.infois.top, port: 35289, type: ss, cipher: aes-256-gcm, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
+- {name: 🇨🇳中国-01|油管免广告 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 14620, type: ss, cipher: chacha20-ietf-poly1305, password: 8e977028-6338-4a64-a350-94419b615c22, udp: true}
