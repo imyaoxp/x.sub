@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国-拉斯维加斯-05|gpt - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 43473, type: ss, cipher: aes-256-gcm, password: fb7a2e32-b760-4479-befe-b7c2f2b06217, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯-06|gpt - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 43473, type: ss, cipher: aes-256-gcm, password: fb7a2e32-b760-4479-befe-b7c2f2b06217, udp: true}
-- {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 55388, type: trojan, password: fb7a2e32-b760-4479-befe-b7c2f2b06217, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-芝加哥-04 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 58671, type: trojan, password: fb7a2e32-b760-4479-befe-b7c2f2b06217, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-05|gpt - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 43473, type: ss, cipher: aes-256-gcm, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-06|gpt - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 43473, type: ss, cipher: aes-256-gcm, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, udp: true}
+- {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 55388, type: trojan, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-芝加哥-04 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 58671, type: trojan, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
