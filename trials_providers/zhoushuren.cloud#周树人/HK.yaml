@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港00|主力大带宽 - 周树人Cloud, server: adazzp.infois.top, port: 51526, type: ss, cipher: chacha20-ietf-poly1305, password: 18386427-9344-4fc3-9811-2e0725e33281, udp: true}
-- {name: '[测试]🇭🇰 HK-香港00|主力大带宽 - 周树人Cloud', server: gzyd.nasa.lol, port: 46225, type: ss, cipher: chacha20-ietf-poly1305, password: 18386427-9344-4fc3-9811-2e0725e33281, udp: true}
-- {name: 🇭🇰 HK-香港01|流媒体|gpt-A组 - 周树人Cloud, server: shyd.nasa.lol, port: 10521, type: ss, cipher: chacha20-ietf-poly1305, password: 18386427-9344-4fc3-9811-2e0725e33281, udp: true}
-- {name: 🇭🇰 HK-香港01|流媒体|gpt-B组 - 周树人Cloud, server: shyd.nasa.lol, port: 24431, type: ss, cipher: chacha20-ietf-poly1305, password: 18386427-9344-4fc3-9811-2e0725e33281, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|gpt-A组 - 周树人Cloud, server: shyd.nasa.lol, port: 47053, type: ss, cipher: chacha20-ietf-poly1305, password: 18386427-9344-4fc3-9811-2e0725e33281, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|gpt-B组 - 周树人Cloud, server: shyd.nasa.lol, port: 19827, type: ss, cipher: chacha20-ietf-poly1305, password: 18386427-9344-4fc3-9811-2e0725e33281, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 30060, type: trojan, password: 18386427-9344-4fc3-9811-2e0725e33281, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 30061, type: trojan, password: 18386427-9344-4fc3-9811-2e0725e33281, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 57747, type: trojan, password: 18386427-9344-4fc3-9811-2e0725e33281, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 57748, type: trojan, password: 18386427-9344-4fc3-9811-2e0725e33281, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK-香港05|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: 18386427-9344-4fc3-9811-2e0725e33281, udp: true}
-- {name: 🇭🇰 HK-香港05|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 33621, type: ss, cipher: chacha20-ietf-poly1305, password: 18386427-9344-4fc3-9811-2e0725e33281, udp: true}
+- {name: 🇭🇰 HK-香港00|主力大带宽 - 周树人Cloud, server: adazzp.infois.top, port: 51526, type: ss, cipher: chacha20-ietf-poly1305, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, udp: true}
+- {name: '[测试]🇭🇰 HK-香港00|主力大带宽 - 周树人Cloud', server: gzyd.nasa.lol, port: 46225, type: ss, cipher: chacha20-ietf-poly1305, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|gpt-A组 - 周树人Cloud, server: shyd.nasa.lol, port: 10521, type: ss, cipher: chacha20-ietf-poly1305, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|gpt-B组 - 周树人Cloud, server: shyd.nasa.lol, port: 24431, type: ss, cipher: chacha20-ietf-poly1305, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|gpt-A组 - 周树人Cloud, server: shyd.nasa.lol, port: 47053, type: ss, cipher: chacha20-ietf-poly1305, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|gpt-B组 - 周树人Cloud, server: shyd.nasa.lol, port: 19827, type: ss, cipher: chacha20-ietf-poly1305, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 30060, type: trojan, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 30061, type: trojan, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, sni: akhk3.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 57747, type: trojan, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 57748, type: trojan, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, sni: akhk4.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK-香港05|流媒体|gpt-A组 - 周树人Cloud, server: adazzp.infois.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, udp: true}
+- {name: 🇭🇰 HK-香港05|流媒体|gpt-B组 - 周树人Cloud, server: adazzp.infois.top, port: 33621, type: ss, cipher: chacha20-ietf-poly1305, password: 4464a32c-f2dc-4d64-b8cd-bd446ce026cf, udp: true}
