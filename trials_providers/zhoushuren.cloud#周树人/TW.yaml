@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: adazzp.infois.top, port: 35289, type: ss, cipher: aes-256-gcm, password: cdc89d76-bdd7-4586-97e8-44f22ae761f2, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: 189216ea-38a5-4804-8303-c904c7a99a19, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 189216ea-38a5-4804-8303-c904c7a99a19, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 189216ea-38a5-4804-8303-c904c7a99a19, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 189216ea-38a5-4804-8303-c904c7a99a19, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 189216ea-38a5-4804-8303-c904c7a99a19, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: adazzp.infois.top, port: 35289, type: ss, cipher: aes-256-gcm, password: 189216ea-38a5-4804-8303-c904c7a99a19, udp: true}
