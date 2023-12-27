@@ -50,9 +50,8 @@ proxy-groups:
   - 🇸🇬新加坡04 - 周树人Cloud
   - 🇯🇵日本-东京-01|直连 - 周树人Cloud
   - 🇯🇵日本-东京-02|直连 - 周树人Cloud
+  - 🇯🇵日本-东京-03|GPT - 周树人Cloud
   - 🇯🇵日本-东京-04|GPT - 周树人Cloud
-  - 🇯🇵日本-东京-05|GPT - 周树人Cloud
-  - 🇯🇵日本-东京-06|NTT PC - 周树人Cloud
   - 🇺🇸美国-拉斯维加斯-05|gpt - 周树人Cloud
   - 🇺🇸美国-拉斯维加斯-06|gpt - 周树人Cloud
   - 🇺🇸美国-纽约-00 - 周树人Cloud
@@ -225,9 +224,8 @@ proxy-groups:
   proxies: &id006
   - 🇯🇵日本-东京-01|直连 - 周树人Cloud
   - 🇯🇵日本-东京-02|直连 - 周树人Cloud
+  - 🇯🇵日本-东京-03|GPT - 周树人Cloud
   - 🇯🇵日本-东京-04|GPT - 周树人Cloud
-  - 🇯🇵日本-东京-05|GPT - 周树人Cloud
-  - 🇯🇵日本-东京-06|NTT PC - 周树人Cloud
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -343,9 +341,8 @@ proxies:
 - {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 35289, type: ss, cipher: aes-256-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
 - {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 44367, type: trojan, password: 4d9de4bd-6911-4b4c-915e-beba96787161, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 44367, type: trojan, password: 4d9de4bd-6911-4b4c-915e-beba96787161, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-04|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23948, type: ss, cipher: aes-256-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
-- {name: 🇯🇵日本-东京-05|GPT - 周树人Cloud, server: adazzp.infois.top, port: 23949, type: ss, cipher: aes-256-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
-- {name: 🇯🇵日本-东京-06|NTT PC - 周树人Cloud, server: adazzp.infois.top, port: 39318, type: ss, cipher: aes-256-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
+- {name: 🇯🇵日本-东京-03|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 37974, type: ss, cipher: chacha20-ietf-poly1305, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
+- {name: 🇯🇵日本-东京-04|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 24990, type: ss, cipher: aes-256-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
 - {name: 🇨🇦加拿大-蒙特利尔-01 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 22915, type: ss, cipher: aes-128-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
 - {name: 🇨🇦加拿大-蒙特利尔-02 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 22915, type: ss, cipher: aes-128-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
 - {name: 🇸🇬新加坡01|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31852, type: ss, cipher: aes-256-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
@@ -359,7 +356,7 @@ proxies:
 - {name: 🇺🇸美国-纽约-00 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 55388, type: trojan, password: 4d9de4bd-6911-4b4c-915e-beba96787161, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国-芝加哥-04 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 58671, type: trojan, password: 4d9de4bd-6911-4b4c-915e-beba96787161, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺澳洲-01 - 周树人Cloud, server: shyd.nasa.lol, port: 48739, type: ss, cipher: aes-128-gcm, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
-- {name: 🇨🇳中国-01|油管免广告 - 周树人Cloud, server: gzdx.nmslsbgfw.top, port: 14620, type: ss, cipher: chacha20-ietf-poly1305, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
+- {name: 🇨🇳中国-01|油管免广告 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 15499, type: ss, cipher: chacha20-ietf-poly1305, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
 - {name: 🇩🇪德国-法兰克福-01|公益服|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 37182, type: ss, cipher: chacha20-ietf-poly1305, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
 - {name: 🇮🇳印度-公益服|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 13479, type: ss, cipher: chacha20-ietf-poly1305, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
 - {name: 🇫🇷法国-巴黎-01 - 周树人Cloud, server: sclt.nmslsbgfw.top, port: 42955, type: ss, cipher: chacha20-ietf-poly1305, password: 4d9de4bd-6911-4b4c-915e-beba96787161, udp: true}
