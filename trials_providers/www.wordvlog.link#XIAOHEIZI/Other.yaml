@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: too.st/5U2 - XIAOHEIZI 網絡加速, server: de-cdn.ikuan.dev, port: 2052, type: vmess, uuid: 4d8e9e7f-0b8f-495b-9a80-8a241a4ca695, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoftvideo/HEAC?ed=2048', headers: {Host: de05-v6.ikuan.dev}}, udp: true}
-- {name: 🇬🇧CF-UK-01 - XIAOHEIZI 網絡加速, server: lon01.freenode.pro, port: 443, type: vmess, uuid: 4d8e9e7f-0b8f-495b-9a80-8a241a4ca695, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: lon01.freenode.pro, network: ws, ws-opts: {path: /update.microsoft.com, headers: {Host: lon01.freenode.pro}}, udp: true}
+- {name: too.st/5U2 - XIAOHEIZI 網絡加速, server: de-cdn.ikuan.dev, port: 2052, type: vmess, uuid: 018555a0-8df8-4244-8054-22a5ad12f283, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/microsoftvideo/HEAC?ed=2048', headers: {Host: de05-v6.ikuan.dev}}, udp: true}
+- {name: 🇬🇧CF-UK-01 - XIAOHEIZI 網絡加速, server: lon01.freenode.pro, port: 443, type: vmess, uuid: 018555a0-8df8-4244-8054-22a5ad12f283, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: lon01.freenode.pro, network: ws, ws-opts: {path: /update.microsoft.com, headers: {Host: lon01.freenode.pro}}, udp: true}

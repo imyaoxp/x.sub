@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: 86b2c3a0-f335-4340-bd60-67c5dcc13924, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 86b2c3a0-f335-4340-bd60-67c5dcc13924, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 86b2c3a0-f335-4340-bd60-67c5dcc13924, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 86b2c3a0-f335-4340-bd60-67c5dcc13924, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 86b2c3a0-f335-4340-bd60-67c5dcc13924, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: 992f401c-3832-42fc-93c6-22709751c4cd, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 992f401c-3832-42fc-93c6-22709751c4cd, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 992f401c-3832-42fc-93c6-22709751c4cd, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 992f401c-3832-42fc-93c6-22709751c4cd, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 992f401c-3832-42fc-93c6-22709751c4cd, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
