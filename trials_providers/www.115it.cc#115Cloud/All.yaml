@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: f94cbda8-5d1e-34c7-945d-57cbad2a6a4a, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-公益-0.5倍率 - 115Cloud, server: de-gy.115cloud.link, port: 35681, type: trojan, password: f94cbda8-5d1e-34c7-945d-57cbad2a6a4a, sni: de-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-公益02-0.5倍率 - 115Cloud, server: cf-ip.115cloud.link, port: 2052, type: vmess, uuid: f94cbda8-5d1e-34c7-945d-57cbad2a6a4a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: de-cf-gy.115cloud.link, network: ws, ws-opts: {path: /Edwhmayc, headers: {Host: de-cf-gy.115cloud.link}}, udp: true}
-- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 23314, type: trojan, password: f94cbda8-5d1e-34c7-945d-57cbad2a6a4a, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-公益-0.5倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 52560, type: trojan, password: f94cbda8-5d1e-34c7-945d-57cbad2a6a4a, sni: uk-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 33233, type: ss, cipher: aes-256-gcm, password: ytuiN2yCH6naJKrv, udp: true}
+- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: be67aebf-7540-3ab2-8d08-3188e56e6394, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-公益-0.5倍率 - 115Cloud, server: de-gy.115cloud.link, port: 35681, type: trojan, password: be67aebf-7540-3ab2-8d08-3188e56e6394, sni: de-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-公益02-0.5倍率 - 115Cloud, server: cf-ip.115cloud.link, port: 2052, type: vmess, uuid: be67aebf-7540-3ab2-8d08-3188e56e6394, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: de-cf-gy.115cloud.link, network: ws, ws-opts: {path: /Edwhmayc, headers: {Host: de-cf-gy.115cloud.link}}, udp: true}
+- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 23317, type: trojan, password: be67aebf-7540-3ab2-8d08-3188e56e6394, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-公益-0.5倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 52560, type: trojan, password: be67aebf-7540-3ab2-8d08-3188e56e6394, sni: uk-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 33233, type: ss, cipher: aes-256-gcm, password: rZnF63EPOFc1n14k, udp: true}

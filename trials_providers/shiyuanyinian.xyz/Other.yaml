@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇷🇺 俄罗斯2 - 十元一年, server: happyhaha.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇷🇺 俄罗斯3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇷🇺 俄罗斯4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇷🇺 俄罗斯5 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇷🇺 俄罗斯6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇮🇳 印度1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇮🇳 印度2 全解锁 - 十元一年, server: happyhaha.top, port: 10548, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇮🇳 印度3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61006, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇮🇳 印度4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇮🇳 印度5 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61006, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
-- {name: 🇮🇳 印度6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: f1172507-f596-4cc0-ac8c-57a8a65a0370, udp: true}
+- {name: 🇷🇺 俄罗斯1 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 48812, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇷🇺 俄罗斯2 - 十元一年, server: happyhaha.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇷🇺 俄罗斯3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇷🇺 俄罗斯4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇷🇺 俄罗斯5 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇷🇺 俄罗斯6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇮🇳 印度1 全解锁 - 十元一年, server: cnshdxzz.newbluecloud.top, port: 12045, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇮🇳 印度2 全解锁 - 十元一年, server: happyhaha.top, port: 10548, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇮🇳 印度3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61006, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇮🇳 印度4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇮🇳 印度5 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61006, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
+- {name: 🇮🇳 印度6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: e4f70ded-35ee-48f2-b8dd-527332ec3cd3, udp: true}
