@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: a555b73c-d0e6-45ef-a54f-94e066ec114c, udp: true}
-- {name: 🇩🇪德国01 - 都是梦, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: a555b73c-d0e6-45ef-a54f-94e066ec114c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss2.doushimeng.com}}, udp: true}
-- {name: 🇳🇱荷兰01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: a555b73c-d0e6-45ef-a54f-94e066ec114c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nlsss2.nicehand.top}}, udp: true}
-- {name: 待启用 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: a555b73c-d0e6-45ef-a54f-94e066ec114c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1ss0.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西01 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: a555b73c-d0e6-45ef-a54f-94e066ec114c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss0.nicehand.top}}, udp: true}
+- {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: ae48d640-e660-408a-9397-c7aa16852935, udp: true}
+- {name: 🇩🇪德国01 - 都是梦, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: ae48d640-e660-408a-9397-c7aa16852935, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss2.doushimeng.com}}, udp: true}
+- {name: 🇳🇱荷兰01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: ae48d640-e660-408a-9397-c7aa16852935, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nlsss2.nicehand.top}}, udp: true}
+- {name: 待启用 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: ae48d640-e660-408a-9397-c7aa16852935, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1ss0.nicehand.top}}, udp: true}
+- {name: 🇧🇷巴西01 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: ae48d640-e660-408a-9397-c7aa16852935, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss0.nicehand.top}}, udp: true}
