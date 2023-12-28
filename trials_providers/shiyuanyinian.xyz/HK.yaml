@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: 5a897a33-003f-4ab8-9649-8fbc39b58102, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 5a897a33-003f-4ab8-9649-8fbc39b58102, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 5a897a33-003f-4ab8-9649-8fbc39b58102, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 5a897a33-003f-4ab8-9649-8fbc39b58102, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 5a897a33-003f-4ab8-9649-8fbc39b58102, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 5a897a33-003f-4ab8-9649-8fbc39b58102, udp: true}
-- {name: 🇭🇰 香港临时 全解锁 - 十元一年, server: xiangganglinshi.shiyuanyinian.xyz, port: 4590, type: vmess, uuid: 5a897a33-003f-4ab8-9649-8fbc39b58102, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xiangganglinshi.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: xiangganglinshi.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: c42db182-2594-4c0c-a0eb-234528ee6732, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: c42db182-2594-4c0c-a0eb-234528ee6732, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: c42db182-2594-4c0c-a0eb-234528ee6732, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: c42db182-2594-4c0c-a0eb-234528ee6732, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: c42db182-2594-4c0c-a0eb-234528ee6732, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: c42db182-2594-4c0c-a0eb-234528ee6732, udp: true}
+- {name: 🇭🇰 香港临时 全解锁 - 十元一年, server: xiangganglinshi.shiyuanyinian.xyz, port: 4590, type: vmess, uuid: c42db182-2594-4c0c-a0eb-234528ee6732, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xiangganglinshi.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: xiangganglinshi.shiyuanyinian.xyz}}, udp: true}
