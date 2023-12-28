@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本临时1 全解锁 - 十元一年, server: Linode20231228JP.shiyuanyinian.xyz, port: 4587, type: vmess, uuid: a5d1be49-e440-4c34-bfe4-aadbbed50d08, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Linode20231228JP.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: Linode20231228JP.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇯🇵 日本临时2 全解锁 - 十元一年, server: Azure20231228JP.shiyuanyinian.xyz, port: 4588, type: vmess, uuid: a5d1be49-e440-4c34-bfe4-aadbbed50d08, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Azure20231228JP.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: Azure20231228JP.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇯🇵 日本临时1 全解锁 - 十元一年, server: Linode20231228JP.shiyuanyinian.xyz, port: 4587, type: vmess, uuid: 6de893da-277a-4659-9b96-d63a0f1e76f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Linode20231228JP.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: Linode20231228JP.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇯🇵 日本临时2 全解锁 - 十元一年, server: Azure20231228JP.shiyuanyinian.xyz, port: 4588, type: vmess, uuid: 6de893da-277a-4659-9b96-d63a0f1e76f3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Azure20231228JP.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: Azure20231228JP.shiyuanyinian.xyz}}, udp: true}
