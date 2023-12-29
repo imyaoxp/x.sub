@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 23320, type: trojan, password: 850f92ff-e553-379d-8c41-0b0bfee9fad4, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 33233, type: ss, cipher: aes-256-gcm, password: vEIgthLn6FsVFazg, udp: true}
+- {name: 🇺🇸 美国-公益02-0.5倍率 - 115Cloud, server: us-gy02.115cloud.link, port: 23212, type: trojan, password: db8cdd89-8eee-3e49-9f2b-f366519da286, sni: us-gy02.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-公益-2倍率 - 115Cloud, server: us-gy.115cloud.link, port: 33233, type: ss, cipher: aes-256-gcm, password: teBqb72vWBad0kqi, udp: true}
