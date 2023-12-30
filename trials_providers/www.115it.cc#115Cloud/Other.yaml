@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: f1f3709c-e459-3b76-b9db-b86c1f72f178, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-公益-0.5倍率 - 115Cloud, server: de-gy.115cloud.link, port: 35681, type: trojan, password: f1f3709c-e459-3b76-b9db-b86c1f72f178, sni: de-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-公益02-0.5倍率 - 115Cloud, server: cf-ip.115cloud.link, port: 2052, type: vmess, uuid: f1f3709c-e459-3b76-b9db-b86c1f72f178, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: de-cf-gy.115cloud.link, network: ws, ws-opts: {path: /Edwhmayc, headers: {Host: de-cf-gy.115cloud.link}}, udp: true}
-- {name: 🇬🇧 英国-公益-0.5倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 52560, type: trojan, password: f1f3709c-e459-3b76-b9db-b86c1f72f178, sni: uk-gy.115cloud.link, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国01-联通 - 115Cloud, server: de.zz.lt.nodes.homes, port: 20601, type: ss, cipher: aes-256-gcm, password: sSkJvhlzF7E75Pp6, udp: true}
+- {name: 🇮🇸 冰岛-公益-0.5倍率 - 115Cloud, server: is-gy.115cloud.link, port: 38860, type: trojan, password: 464d64ee-472e-3755-b023-aeef4681e0d8, sni: is-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-公益-0.5倍率 - 115Cloud, server: de-gy.115cloud.link, port: 35681, type: trojan, password: 464d64ee-472e-3755-b023-aeef4681e0d8, sni: de-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-公益02-0.5倍率 - 115Cloud, server: cf-ip.115cloud.link, port: 2052, type: vmess, uuid: 464d64ee-472e-3755-b023-aeef4681e0d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: de-cf-gy.115cloud.link, network: ws, ws-opts: {path: /Edwhmayc, headers: {Host: de-cf-gy.115cloud.link}}, udp: true}
+- {name: 🇬🇧 英国-公益-0.5倍率 - 115Cloud, server: uk-gy.115cloud.link, port: 52560, type: trojan, password: 464d64ee-472e-3755-b023-aeef4681e0d8, sni: uk-gy.115cloud.link, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国01-联通 - 115Cloud, server: de.zz.lt.nodes.homes, port: 20601, type: ss, cipher: aes-256-gcm, password: fghCyoXA1SjIeM2H, udp: true}
