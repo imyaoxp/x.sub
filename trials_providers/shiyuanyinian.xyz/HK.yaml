@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: faead380-0793-456b-90fa-07baaf2b13dd, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: faead380-0793-456b-90fa-07baaf2b13dd, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: faead380-0793-456b-90fa-07baaf2b13dd, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: faead380-0793-456b-90fa-07baaf2b13dd, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: faead380-0793-456b-90fa-07baaf2b13dd, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: faead380-0793-456b-90fa-07baaf2b13dd, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: 2bc7abbb-0b79-4fae-8373-1233dedbaa4b, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 2bc7abbb-0b79-4fae-8373-1233dedbaa4b, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 2bc7abbb-0b79-4fae-8373-1233dedbaa4b, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 2bc7abbb-0b79-4fae-8373-1233dedbaa4b, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 2bc7abbb-0b79-4fae-8373-1233dedbaa4b, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 2bc7abbb-0b79-4fae-8373-1233dedbaa4b, udp: true}
