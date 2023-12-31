@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 距离下次重置剩余：1 天 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 12f7d7cb-21df-4d8d-b2cf-a1271271dad7, udp: true}
 - {name: 🇷🇺 俄罗斯1 - 十元一年, server: happyhaha.top, port: 27374, type: ss, cipher: chacha20-ietf-poly1305, password: 12f7d7cb-21df-4d8d-b2cf-a1271271dad7, udp: true}
 - {name: 🇷🇺 俄罗斯2 - 十元一年, server: happyhaha.top, port: 26769, type: ss, cipher: chacha20-ietf-poly1305, password: 12f7d7cb-21df-4d8d-b2cf-a1271271dad7, udp: true}
 - {name: 🇷🇺 俄罗斯3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61003, type: ss, cipher: chacha20-ietf-poly1305, password: 12f7d7cb-21df-4d8d-b2cf-a1271271dad7, udp: true}
