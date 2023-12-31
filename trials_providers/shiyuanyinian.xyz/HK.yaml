@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: f1ef34a9-6569-4848-8b75-71487c68cb4e, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: f1ef34a9-6569-4848-8b75-71487c68cb4e, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: f1ef34a9-6569-4848-8b75-71487c68cb4e, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: f1ef34a9-6569-4848-8b75-71487c68cb4e, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: f1ef34a9-6569-4848-8b75-71487c68cb4e, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: f1ef34a9-6569-4848-8b75-71487c68cb4e, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: 3c73ef26-f2e2-4b37-9039-29cc94213944, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 3c73ef26-f2e2-4b37-9039-29cc94213944, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 3c73ef26-f2e2-4b37-9039-29cc94213944, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 3c73ef26-f2e2-4b37-9039-29cc94213944, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 3c73ef26-f2e2-4b37-9039-29cc94213944, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 3c73ef26-f2e2-4b37-9039-29cc94213944, udp: true}
