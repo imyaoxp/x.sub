@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: 12a59def-ed67-40ad-a194-c113ee95dffa, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 12a59def-ed67-40ad-a194-c113ee95dffa, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 12a59def-ed67-40ad-a194-c113ee95dffa, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 12a59def-ed67-40ad-a194-c113ee95dffa, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 12a59def-ed67-40ad-a194-c113ee95dffa, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 12a59def-ed67-40ad-a194-c113ee95dffa, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: 9cd3d7a7-128c-4b34-b182-aa389b7a72fe, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 9cd3d7a7-128c-4b34-b182-aa389b7a72fe, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 9cd3d7a7-128c-4b34-b182-aa389b7a72fe, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 9cd3d7a7-128c-4b34-b182-aa389b7a72fe, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 9cd3d7a7-128c-4b34-b182-aa389b7a72fe, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 9cd3d7a7-128c-4b34-b182-aa389b7a72fe, udp: true}
