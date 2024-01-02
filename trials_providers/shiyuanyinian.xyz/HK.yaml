@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: 8c50996b-3fab-4c28-8ee3-01125006ab59, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 8c50996b-3fab-4c28-8ee3-01125006ab59, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 8c50996b-3fab-4c28-8ee3-01125006ab59, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 8c50996b-3fab-4c28-8ee3-01125006ab59, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 8c50996b-3fab-4c28-8ee3-01125006ab59, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 8c50996b-3fab-4c28-8ee3-01125006ab59, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: 4934d46f-c075-405e-8279-56f686af8214, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: 4934d46f-c075-405e-8279-56f686af8214, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 4934d46f-c075-405e-8279-56f686af8214, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 4934d46f-c075-405e-8279-56f686af8214, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 4934d46f-c075-405e-8279-56f686af8214, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: 4934d46f-c075-405e-8279-56f686af8214, udp: true}
