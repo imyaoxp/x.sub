@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本超高速1 全解锁 - 十元一年, server: Linode20231228JP.shiyuanyinian.xyz, port: 4587, type: vmess, uuid: 88cc063a-acf6-4b0b-9ff0-c43ad4677e05, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Linode20231228JP.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: Linode20231228JP.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇯🇵 日本超高速2 全解锁 - 十元一年, server: linjp2023-12-29.shiyuanyinian.xyz, port: 4588, type: vmess, uuid: 88cc063a-acf6-4b0b-9ff0-c43ad4677e05, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: linjp2023-12-29.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: linjp2023-12-29.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇯🇵 日本超高速1 全解锁 - 十元一年, server: Linode20231228JP.shiyuanyinian.xyz, port: 4587, type: vmess, uuid: 3c0b4039-39e8-4408-9240-cf49b02b4bcc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: Linode20231228JP.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: Linode20231228JP.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇯🇵 日本超高速2 全解锁 - 十元一年, server: linjp2023-12-29.shiyuanyinian.xyz, port: 4588, type: vmess, uuid: 3c0b4039-39e8-4408-9240-cf49b02b4bcc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: linjp2023-12-29.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: linjp2023-12-29.shiyuanyinian.xyz}}, udp: true}
