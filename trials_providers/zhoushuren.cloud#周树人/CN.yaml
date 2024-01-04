@@ -1,17 +1,17 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港00|公益服0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇭🇰 HK-香港01|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 28589, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31185, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 42997, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 28845, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇭🇰 HK-香港05|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 35289, type: ss, cipher: aes-256-gcm, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
-- {name: 🇨🇳中国-01|油管免广告 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 11259, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff804e8-a2a7-40e0-a0a5-78e4abd55b88, udp: true}
+- {name: 🇭🇰 HK-香港00|公益服0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 28589, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31185, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 42997, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 28845, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇭🇰 HK-香港05|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-03|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾家宽-彰化-04|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼台湾-台北市-02|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 35289, type: ss, cipher: aes-256-gcm, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
+- {name: 🇨🇳中国-01|油管免广告 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 11259, type: ss, cipher: chacha20-ietf-poly1305, password: 2a1a61ab-3c8a-4715-b7a4-f30ca2c97d68, udp: true}
