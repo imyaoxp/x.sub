@@ -3,8 +3,8 @@
 proxies:
 - {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - 快云, server: lpl.xggj.xn--fiqs8s, port: 29865, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ 距离下次重置剩余：27 天 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: f8aa38ee-dc51-4939-a50e-e0fbad1328d9, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: f8aa38ee-dc51-4939-a50e-e0fbad1328d9, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ 距离下次重置剩余：27 天 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 0c0b92af-b5ba-4441-a223-bdfa404c3622, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 0c0b92af-b5ba-4441-a223-bdfa404c3622, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: ℹ 新网址：sockboom.buzz - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 官网  https://luonan.me/ - LONAN, server: 1.1.11, port: 50000, type: vmess, uuid: cdbcf025-bcfd-4930-9155-e3381aaa28fd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
