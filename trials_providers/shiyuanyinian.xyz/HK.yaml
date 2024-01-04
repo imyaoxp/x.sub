@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: f27066a8-a464-428b-b1ea-d35f18381ae4, udp: true}
-- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: f27066a8-a464-428b-b1ea-d35f18381ae4, udp: true}
-- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: f27066a8-a464-428b-b1ea-d35f18381ae4, udp: true}
-- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: f27066a8-a464-428b-b1ea-d35f18381ae4, udp: true}
-- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: f27066a8-a464-428b-b1ea-d35f18381ae4, udp: true}
-- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: f27066a8-a464-428b-b1ea-d35f18381ae4, udp: true}
+- {name: 🇭🇰 香港1 - 十元一年, server: happyhaha.top, port: 30684, type: ss, cipher: chacha20-ietf-poly1305, password: fe35264a-6e8e-476c-b10a-6bb69d863631, udp: true}
+- {name: 🇭🇰 香港2 - 十元一年, server: happyhaha.top, port: 35441, type: ss, cipher: chacha20-ietf-poly1305, password: fe35264a-6e8e-476c-b10a-6bb69d863631, udp: true}
+- {name: 🇭🇰 香港3 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: fe35264a-6e8e-476c-b10a-6bb69d863631, udp: true}
+- {name: 🇭🇰 香港4 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: fe35264a-6e8e-476c-b10a-6bb69d863631, udp: true}
+- {name: 🇭🇰 香港5 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: fe35264a-6e8e-476c-b10a-6bb69d863631, udp: true}
+- {name: 🇭🇰 香港6 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: fe35264a-6e8e-476c-b10a-6bb69d863631, udp: true}
