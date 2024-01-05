@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: e8c31d12-7b5b-4680-9749-7a0b1b770457, udp: true}
-- {name: 🇨🇳中国-01|油管免广告 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 11259, type: ss, cipher: chacha20-ietf-poly1305, password: e8c31d12-7b5b-4680-9749-7a0b1b770457, udp: true}
-- {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: e4ead654-3870-476b-b27b-980817ab4646, udp: true}
+- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: 95c49a4f-d0de-49da-a3ce-9e7d3b1751e6, udp: true}
+- {name: 🇨🇳中国-01|油管免广告 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 11259, type: ss, cipher: chacha20-ietf-poly1305, password: 95c49a4f-d0de-49da-a3ce-9e7d3b1751e6, udp: true}
+- {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: f6f10f63-e6a6-4364-8750-ede7497f79fe, udp: true}
