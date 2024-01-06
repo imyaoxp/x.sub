@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国1 全解锁 - 十元一年, server: happyhaha.top, port: 51190, type: ss, cipher: chacha20-ietf-poly1305, password: d8fecc3e-5b5a-462c-a1b2-2d7cb402d4aa, udp: true}
-- {name: 🇺🇸 美国2 全解锁 - 十元一年, server: happyhaha.top, port: 54395, type: ss, cipher: chacha20-ietf-poly1305, password: d8fecc3e-5b5a-462c-a1b2-2d7cb402d4aa, udp: true}
-- {name: 🇺🇸 美国3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: d8fecc3e-5b5a-462c-a1b2-2d7cb402d4aa, udp: true}
-- {name: 🇺🇸 美国4 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: d8fecc3e-5b5a-462c-a1b2-2d7cb402d4aa, udp: true}
-- {name: 🇺🇸 美国5 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: d8fecc3e-5b5a-462c-a1b2-2d7cb402d4aa, udp: true}
-- {name: 🇺🇸 美国6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: d8fecc3e-5b5a-462c-a1b2-2d7cb402d4aa, udp: true}
-- {name: 🇺🇸 美国超高速 全解锁 - 十元一年, server: azus2024-1-4.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: d8fecc3e-5b5a-462c-a1b2-2d7cb402d4aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: azus2024-1-4.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: azus2024-1-4.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇺🇸 美国1 全解锁 - 十元一年, server: happyhaha.top, port: 51190, type: ss, cipher: chacha20-ietf-poly1305, password: e746ecbc-229f-4fbf-8546-30c5ea960b40, udp: true}
+- {name: 🇺🇸 美国2 全解锁 - 十元一年, server: happyhaha.top, port: 54395, type: ss, cipher: chacha20-ietf-poly1305, password: e746ecbc-229f-4fbf-8546-30c5ea960b40, udp: true}
+- {name: 🇺🇸 美国3 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: e746ecbc-229f-4fbf-8546-30c5ea960b40, udp: true}
+- {name: 🇺🇸 美国4 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61005, type: ss, cipher: chacha20-ietf-poly1305, password: e746ecbc-229f-4fbf-8546-30c5ea960b40, udp: true}
+- {name: 🇺🇸 美国5 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: e746ecbc-229f-4fbf-8546-30c5ea960b40, udp: true}
+- {name: 🇺🇸 美国6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 61004, type: ss, cipher: chacha20-ietf-poly1305, password: e746ecbc-229f-4fbf-8546-30c5ea960b40, udp: true}
+- {name: 🇺🇸 美国超高速 全解锁 - 十元一年, server: azus2024-1-4.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: e746ecbc-229f-4fbf-8546-30c5ea960b40, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: azus2024-1-4.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: azus2024-1-4.fly64jfgwhale.xyz}}, udp: true}
