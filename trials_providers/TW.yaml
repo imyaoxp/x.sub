@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 023e5b1d-2104-3fde-bf4f-8128c50af194, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 023e5b1d-2104-3fde-bf4f-8128c50af194, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 9da58ed7-9fe7-31e2-8cf3-280f8b4c181c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 9da58ed7-9fe7-31e2-8cf3-280f8b4c181c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1(SS) - 麻雀加速器 Sparrow, server: b11.ntbq.dynu.net, port: 6543, type: ss, cipher: chacha20-ietf-poly1305, password: 2e70709a-51c3-43de-b99a-a74651765c64, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: 2e70709a-51c3-43de-b99a-a74651765c64, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 2e70709a-51c3-43de-b99a-a74651765c64, udp: true}
@@ -23,12 +23,12 @@ proxies:
 - {name: 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 47557, type: trojan, password: 417fdc55-3e48-4dc5-8924-64ce14d638fb, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 47557, type: trojan, password: 417fdc55-3e48-4dc5-8924-64ce14d638fb, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 47557, type: trojan, password: 417fdc55-3e48-4dc5-8924-64ce14d638fb, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: c90fc709-06eb-454d-9dc3-d92274693663, udp: true}
-- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: c90fc709-06eb-454d-9dc3-d92274693663, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: c90fc709-06eb-454d-9dc3-d92274693663, udp: true}
-- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: c90fc709-06eb-454d-9dc3-d92274693663, udp: true}
-- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: c90fc709-06eb-454d-9dc3-d92274693663, udp: true}
-- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: c90fc709-06eb-454d-9dc3-d92274693663, udp: true}
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 220aec26-cdd1-4131-b11b-97d648d1622d, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 220aec26-cdd1-4131-b11b-97d648d1622d, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 220aec26-cdd1-4131-b11b-97d648d1622d, udp: true}
+- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 220aec26-cdd1-4131-b11b-97d648d1622d, udp: true}
+- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 220aec26-cdd1-4131-b11b-97d648d1622d, udp: true}
+- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 220aec26-cdd1-4131-b11b-97d648d1622d, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: a011e86817.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: a011e86817.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: a011e86817.download.windowsupdate.com}, udp: true}
@@ -65,12 +65,12 @@ proxies:
 - {name: 🇹🇼 台湾 03 - V2Link, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
 - {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14099, type: vmess, uuid: deecbe57-6a17-3d55-bca8-819bf27bad82, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇹🇼 V4-4008|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14000, type: vmess, uuid: deecbe57-6a17-3d55-bca8-819bf27bad82, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gdct001.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 626d2719-2262-4eb1-9237-80668545e30b, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gdct003.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 626d2719-2262-4eb1-9237-80668545e30b, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: shcm002.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 626d2719-2262-4eb1-9237-80668545e30b, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gdct001.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 626d2719-2262-4eb1-9237-80668545e30b, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gdct003.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 626d2719-2262-4eb1-9237-80668545e30b, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: shcm002.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 626d2719-2262-4eb1-9237-80668545e30b, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gdct001.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: f9390acb-45fb-4d08-93b1-afd90db31ef3, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gdct003.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: f9390acb-45fb-4d08-93b1-afd90db31ef3, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: shcm002.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: f9390acb-45fb-4d08-93b1-afd90db31ef3, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gdct001.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: f9390acb-45fb-4d08-93b1-afd90db31ef3, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gdct003.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: f9390acb-45fb-4d08-93b1-afd90db31ef3, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: shcm002.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: f9390acb-45fb-4d08-93b1-afd90db31ef3, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58858, type: ss, cipher: chacha20-ietf-poly1305, password: bc15fcda-16cb-4f09-9375-a803e58f65ad, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-01|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: bc15fcda-16cb-4f09-9375-a803e58f65ad, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-02|0.5X|GPT - 周树人Cloud, server: zsr.tw.hinet.661145.xyz, port: 58850, type: trojan, password: bc15fcda-16cb-4f09-9375-a803e58f65ad, sni: zsr.tw.hinet.661145.xyz, skip-cert-verify: true, udp: true}
