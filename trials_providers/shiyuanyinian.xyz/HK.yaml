@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: baaafeab-6a3a-426b-9ec3-00d535782886, udp: true}
-- {name: 🇭🇰 香港-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34549, type: ss, cipher: chacha20-ietf-poly1305, password: baaafeab-6a3a-426b-9ec3-00d535782886, udp: true}
-- {name: 🇭🇰 香港-just100M-1 - 十元一年, server: justhk.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: baaafeab-6a3a-426b-9ec3-00d535782886, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: justhk.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: justhk.fly64jfgwhale.xyz}}, udp: true}
-- {name: 🇭🇰 香港-just100M-2 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61021, type: vmess, uuid: baaafeab-6a3a-426b-9ec3-00d535782886, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: justhk.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇭🇰 香港-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 41a1032a-f11d-43ef-8fc0-0d1165b7f7e1, udp: true}
+- {name: 🇭🇰 香港-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34549, type: ss, cipher: chacha20-ietf-poly1305, password: 41a1032a-f11d-43ef-8fc0-0d1165b7f7e1, udp: true}
+- {name: 🇭🇰 香港-just100M-1 - 十元一年, server: justhk.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 41a1032a-f11d-43ef-8fc0-0d1165b7f7e1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: justhk.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: justhk.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇭🇰 香港-just100M-2 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61021, type: vmess, uuid: 41a1032a-f11d-43ef-8fc0-0d1165b7f7e1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: justhk.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
