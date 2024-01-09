@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, udp: true}
-- {name: 🇭🇰 香港-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34549, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, udp: true}
-- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, udp: true}
-- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, udp: true}
-- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, udp: true}
-- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, udp: true}
-- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, udp: true}
-- {name: 🇭🇰 香港-just100M-1 - 十元一年, server: justhk.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: justhk.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: justhk.fly64jfgwhale.xyz}}, udp: true}
-- {name: 🇭🇰 香港-just100M-2 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61021, type: vmess, uuid: 6fa30612-5101-44a8-bc77-6d9ecbb00b16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: justhk.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇭🇰 香港-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 047dc01f-fec4-4d5a-bc61-3aab56636864, udp: true}
+- {name: 🇭🇰 香港-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34549, type: ss, cipher: chacha20-ietf-poly1305, password: 047dc01f-fec4-4d5a-bc61-3aab56636864, udp: true}
+- {name: 🇹🇼 台湾1 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 047dc01f-fec4-4d5a-bc61-3aab56636864, udp: true}
+- {name: 🇹🇼 台湾2 全解锁 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 047dc01f-fec4-4d5a-bc61-3aab56636864, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 047dc01f-fec4-4d5a-bc61-3aab56636864, udp: true}
+- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 047dc01f-fec4-4d5a-bc61-3aab56636864, udp: true}
+- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 047dc01f-fec4-4d5a-bc61-3aab56636864, udp: true}
+- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 047dc01f-fec4-4d5a-bc61-3aab56636864, udp: true}
+- {name: 🇭🇰 香港-just100M-1 - 十元一年, server: justhk.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 047dc01f-fec4-4d5a-bc61-3aab56636864, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: justhk.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: justhk.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇭🇰 香港-just100M-2 - 十元一年, server: twzz1.shiyuanyinian.xyz, port: 61021, type: vmess, uuid: 047dc01f-fec4-4d5a-bc61-3aab56636864, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: justhk.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz1.shiyuanyinian.xyz}}, udp: true}
