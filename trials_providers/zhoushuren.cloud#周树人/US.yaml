@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国-拉斯维加斯-01|公益服|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 28213, type: ss, cipher: aes-256-gcm, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯-02|gpt - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15969, type: ss, cipher: aes-256-gcm, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯-03|gpt - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15969, type: ss, cipher: aes-256-gcm, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-纽约 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 19931, type: trojan, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国-凤凰城-01 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9256, type: ss, cipher: chacha20-ietf-poly1305, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-凤凰城-02 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 49918, type: ss, cipher: chacha20-ietf-poly1305, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-凤凰城-03 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 44053, type: ss, cipher: chacha20-ietf-poly1305, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-凤凰城-04 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 27368, type: ss, cipher: chacha20-ietf-poly1305, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-丹佛|流媒体-GPT|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30066, type: ss, cipher: chacha20-ietf-poly1305, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-临时使用 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 10094, type: ss, cipher: chacha20-ietf-poly1305, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, udp: true}
-- {name: 🇺🇸美国-芝加哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 3633, type: trojan, password: 0e4edb03-41ec-4600-9e9f-4c7ceac84dc4, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-01|公益服|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 28213, type: ss, cipher: aes-256-gcm, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-02|gpt - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15969, type: ss, cipher: aes-256-gcm, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯-03|gpt - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15969, type: ss, cipher: aes-256-gcm, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-纽约 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 19931, type: trojan, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, sni: 1.ca58851.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-凤凰城-01 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9256, type: ss, cipher: chacha20-ietf-poly1305, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-凤凰城-02 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 49918, type: ss, cipher: chacha20-ietf-poly1305, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-凤凰城-03 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 44053, type: ss, cipher: chacha20-ietf-poly1305, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-凤凰城-04 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 27368, type: ss, cipher: chacha20-ietf-poly1305, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-丹佛|流媒体-GPT|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30066, type: ss, cipher: chacha20-ietf-poly1305, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-临时使用 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 10094, type: ss, cipher: chacha20-ietf-poly1305, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, udp: true}
+- {name: 🇺🇸美国-芝加哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 3633, type: trojan, password: 2db90d3b-271a-47f0-8991-f3525b534e6f, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
