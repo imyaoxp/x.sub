@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-香港00|公益服0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: a44f7e49-46ae-4f36-92d1-b30620b8b6d8, udp: true}
-- {name: 🇭🇰 HK-免流|非80|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 49584, type: vmess, uuid: a44f7e49-46ae-4f36-92d1-b30620b8b6d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-- {name: 🇭🇰 HK-香港01|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: a44f7e49-46ae-4f36-92d1-b30620b8b6d8, udp: true}
-- {name: 🇭🇰 HK-香港02|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: a44f7e49-46ae-4f36-92d1-b30620b8b6d8, udp: true}
-- {name: 🇭🇰 HK-香港03|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: a44f7e49-46ae-4f36-92d1-b30620b8b6d8, udp: true}
-- {name: 🇭🇰 HK-香港04|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: a44f7e49-46ae-4f36-92d1-b30620b8b6d8, udp: true}
-- {name: 🇭🇰 HK-香港05|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: a44f7e49-46ae-4f36-92d1-b30620b8b6d8, udp: true}
-- {name: 🇭🇰 HK-香港06|流媒体|gpt|0.5x - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: a44f7e49-46ae-4f36-92d1-b30620b8b6d8, udp: true}
+- {name: 🇭🇰 HK-香港00|公益服0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: f1be8bdd-1c3f-4a5e-87b3-793dd9ef83d9, udp: true}
+- {name: 🇭🇰 HK-免流|非80|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 49584, type: vmess, uuid: f1be8bdd-1c3f-4a5e-87b3-793dd9ef83d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+- {name: 🇭🇰 HK-香港01|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: f1be8bdd-1c3f-4a5e-87b3-793dd9ef83d9, udp: true}
+- {name: 🇭🇰 HK-香港02|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: f1be8bdd-1c3f-4a5e-87b3-793dd9ef83d9, udp: true}
+- {name: 🇭🇰 HK-香港03|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: f1be8bdd-1c3f-4a5e-87b3-793dd9ef83d9, udp: true}
+- {name: 🇭🇰 HK-香港04|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: f1be8bdd-1c3f-4a5e-87b3-793dd9ef83d9, udp: true}
+- {name: 🇭🇰 HK-香港05|流媒体|gpt - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: f1be8bdd-1c3f-4a5e-87b3-793dd9ef83d9, udp: true}
+- {name: 🇭🇰 HK-香港06|流媒体|gpt|0.5x - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: f1be8bdd-1c3f-4a5e-87b3-793dd9ef83d9, udp: true}
