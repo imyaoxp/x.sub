@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60006, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}

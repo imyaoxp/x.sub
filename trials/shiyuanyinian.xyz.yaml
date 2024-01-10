@@ -15,6 +15,7 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
@@ -22,6 +23,7 @@ proxy-groups:
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -46,6 +48,7 @@ proxy-groups:
   - 🇯🇵 日本超高速1 全解锁 - 十元一年
   - 🇯🇵 日本超高速2 全解锁 - 十元一年
   - 🇯🇵 日本超高速3 全解锁 - 十元一年
+  - 🇺🇸 美国-中华电信 - 十元一年
   - 邀请好友返利65% - 十元一年
   - fast3.shiyuanyinian.xyz - 十元一年
   - 🇷🇺 俄罗斯-上海电信 - 十元一年
@@ -54,6 +57,12 @@ proxy-groups:
   - 🇮🇪 爱尔兰超高速1 全解锁 - 十元一年
   - 🇮🇪 爱尔兰超高速2 全解锁 - 十元一年
   - 🇮🇪 爱尔兰超高速3 全解锁 - 十元一年
+  - 🇨🇦 加拿大-中华电信 - 十元一年
+  - 🇦🇺 澳大利亚-中华电信 - 十元一年
+  - 🇬🇧 英国-中华电信 - 十元一年
+  - 🇳🇱 荷兰-中华电信 - 十元一年
+  - 🇩🇪 德国-中华电信 - 十元一年
+  - 🇮🇳 印度-中华电信 - 十元一年
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -81,7 +90,9 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
@@ -154,12 +165,19 @@ proxy-groups:
   - 🇯🇵 日本超高速1 全解锁 - 十元一年
   - 🇯🇵 日本超高速2 全解锁 - 十元一年
   - 🇯🇵 日本超高速3 全解锁 - 十元一年
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸 美国-中华电信 - 十元一年
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id007
+  proxies: &id008
   - 邀请好友返利65% - 十元一年
   - fast3.shiyuanyinian.xyz - 十元一年
   - 🇷🇺 俄罗斯-上海电信 - 十元一年
@@ -168,6 +186,12 @@ proxy-groups:
   - 🇮🇪 爱尔兰超高速1 全解锁 - 十元一年
   - 🇮🇪 爱尔兰超高速2 全解锁 - 十元一年
   - 🇮🇪 爱尔兰超高速3 全解锁 - 十元一年
+  - 🇨🇦 加拿大-中华电信 - 十元一年
+  - 🇦🇺 澳大利亚-中华电信 - 十元一年
+  - 🇬🇧 英国-中华电信 - 十元一年
+  - 🇳🇱 荷兰-中华电信 - 十元一年
+  - 🇩🇪 德国-中华电信 - 十元一年
+  - 🇮🇳 印度-中华电信 - 十元一年
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -186,34 +210,44 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 邀请好友返利65% - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: fast3.shiyuanyinian.xyz - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇭🇰 香港-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇭🇰 香港-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34549, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇭🇰 香港-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇷🇺 俄罗斯-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34394, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇷🇺 俄罗斯-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34249, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇷🇺 俄罗斯-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60002, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇹🇼 台湾-中华电信-1 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 1000, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz4.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-2 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 1001, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz4.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-3 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 1002, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz4.shiyuanyinian.xyz}}, udp: true}
-- {name: 🇸🇬 新加坡-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34334, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇸🇬 新加坡-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34219, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇸🇬 新加坡-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60003, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 97908c10-67a0-4e9f-b143-6145ec7738b7, udp: true}
-- {name: 🇯🇵 日本超高速1 全解锁 - 十元一年, server: AZ-2024-1-4-jp1.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: AZ-2024-1-4-jp1.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: AZ-2024-1-4-jp1.fly64jfgwhale.xyz}}, udp: true}
-- {name: 🇯🇵 日本超高速2 全解锁 - 十元一年, server: AZ-2024-1-4-jp2.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: AZ-2024-1-4-jp2.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: AZ-2024-1-4-jp2.fly64jfgwhale.xyz}}, udp: true}
-- {name: 🇯🇵 日本超高速3 全解锁 - 十元一年, server: do-2024-1-6-jp3.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: do-2024-1-6-jp3.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: do-2024-1-6-jp3.fly64jfgwhale.xyz}}, udp: true}
-- {name: 🇮🇪 爱尔兰超高速1 全解锁 - 十元一年, server: az-2024-1-6-ie1.fly64jfgwhale.xyz, port: 4590, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: az-2024-1-6-ie1.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: az-2024-1-6-ie1.fly64jfgwhale.xyz}}, udp: true}
-- {name: 🇮🇪 爱尔兰超高速2 全解锁 - 十元一年, server: az-2024-1-5-IE2.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: az-2024-1-5-IE2.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: az-2024-1-5-IE2.fly64jfgwhale.xyz}}, udp: true}
-- {name: 🇮🇪 爱尔兰超高速3 全解锁 - 十元一年, server: az-2024-1-5-IE3.fly64jfgwhale.xyz, port: 2544, type: vmess, uuid: 97908c10-67a0-4e9f-b143-6145ec7738b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: az-2024-1-5-IE3.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: az-2024-1-5-IE3.fly64jfgwhale.xyz}}, udp: true}
+- {name: 邀请好友返利65% - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: fast3.shiyuanyinian.xyz - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇭🇰 香港-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇭🇰 香港-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34549, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇭🇰 香港-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇷🇺 俄罗斯-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34394, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇷🇺 俄罗斯-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34249, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇷🇺 俄罗斯-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60002, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇹🇼 台湾-中华电信-1 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 1000, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz4.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-2 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 1001, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz4.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-3 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 1002, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /, headers: {Host: twzz4.shiyuanyinian.xyz}}, udp: true}
+- {name: 🇸🇬 新加坡-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34334, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇸🇬 新加坡-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34219, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇸🇬 新加坡-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60003, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇯🇵 日本超高速1 全解锁 - 十元一年, server: AZ-2024-1-4-jp1.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: AZ-2024-1-4-jp1.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: AZ-2024-1-4-jp1.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇯🇵 日本超高速2 全解锁 - 十元一年, server: AZ-2024-1-4-jp2.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: AZ-2024-1-4-jp2.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: AZ-2024-1-4-jp2.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇯🇵 日本超高速3 全解锁 - 十元一年, server: do-2024-1-6-jp3.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: do-2024-1-6-jp3.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: do-2024-1-6-jp3.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇮🇪 爱尔兰超高速1 全解锁 - 十元一年, server: az-2024-1-6-ie1.fly64jfgwhale.xyz, port: 4590, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: az-2024-1-6-ie1.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: az-2024-1-6-ie1.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇮🇪 爱尔兰超高速2 全解锁 - 十元一年, server: az-2024-1-5-IE2.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: az-2024-1-5-IE2.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: az-2024-1-5-IE2.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇮🇪 爱尔兰超高速3 全解锁 - 十元一年, server: az-2024-1-5-IE3.fly64jfgwhale.xyz, port: 2544, type: vmess, uuid: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: az-2024-1-5-IE3.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: az-2024-1-5-IE3.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇨🇦 加拿大-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60004, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇦🇺 澳大利亚-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60005, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇺🇸 美国-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60006, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇬🇧 英国-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60007, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇳🇱 荷兰-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60008, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇩🇪 德国-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60009, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
+- {name: 🇮🇳 印度-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60010, type: ss, cipher: chacha20-ietf-poly1305, password: 06606c46-62f5-44f4-bfbe-f11ed0e0c362, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
