@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 35222, type: trojan, password: 956a1f0a-db80-4fa5-ad2e-54cf02525c37, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 35222, type: trojan, password: 956a1f0a-db80-4fa5-ad2e-54cf02525c37, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本-东京-03|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25028, type: ss, cipher: chacha20-ietf-poly1305, password: 956a1f0a-db80-4fa5-ad2e-54cf02525c37, udp: true}
+- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 35222, type: trojan, password: 786bbf8b-873b-46f4-ad58-f96e63e35224, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 35222, type: trojan, password: 786bbf8b-873b-46f4-ad58-f96e63e35224, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-03|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25028, type: ss, cipher: chacha20-ietf-poly1305, password: 786bbf8b-873b-46f4-ad58-f96e63e35224, udp: true}
