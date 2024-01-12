@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 2ac3042d-a3f3-4fc1-8e95-dbaea0190178, udp: true}
-- {name: 🇺🇸 美国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31651, type: ss, cipher: chacha20-ietf-poly1305, password: 2ac3042d-a3f3-4fc1-8e95-dbaea0190178, udp: true}
-- {name: 🇺🇸 美国-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60006, type: ss, cipher: chacha20-ietf-poly1305, password: 2ac3042d-a3f3-4fc1-8e95-dbaea0190178, udp: true}
+- {name: 🇺🇸 美国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: d640630d-2fa0-40bd-b167-1f284f1168b1, udp: true}
+- {name: 🇺🇸 美国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31651, type: ss, cipher: chacha20-ietf-poly1305, password: d640630d-2fa0-40bd-b167-1f284f1168b1, udp: true}
+- {name: 🇺🇸 美国-中华电信 - 十元一年, server: twzz4.shiyuanyinian.xyz, port: 60006, type: ss, cipher: chacha20-ietf-poly1305, password: d640630d-2fa0-40bd-b167-1f284f1168b1, udp: true}
