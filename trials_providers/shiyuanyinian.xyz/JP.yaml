@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本超高速3 全解锁 - 十元一年, server: do-2024-1-6-jp3.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 6708acad-49b0-4e7a-89c1-2342a7b79057, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: do-2024-1-6-jp3.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: do-2024-1-6-jp3.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇯🇵 日本超高速3 全解锁 - 十元一年, server: do-2024-1-6-jp3.fly64jfgwhale.xyz, port: 4589, type: vmess, uuid: 32166d41-326f-4d7d-bfd0-879671a6a15a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: do-2024-1-6-jp3.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: do-2024-1-6-jp3.fly64jfgwhale.xyz}}, udp: true}
