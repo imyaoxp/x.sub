@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本超高速-灵车线路 - 十元一年, server: do-2024-1-6-jp3.fly64jfgwhale.xyz, port: 45899, type: vmess, uuid: 6ec9e6cc-6197-4b88-94d3-1b7923961533, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: do-2024-1-6-jp3.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: do-2024-1-6-jp3.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇯🇵 日本超高速-灵车线路 - 十元一年, server: do-2024-1-6-jp3.fly64jfgwhale.xyz, port: 45899, type: vmess, uuid: e0f9bba1-60f1-4365-9b29-055b0ea8150b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: do-2024-1-6-jp3.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: do-2024-1-6-jp3.fly64jfgwhale.xyz}}, udp: true}
