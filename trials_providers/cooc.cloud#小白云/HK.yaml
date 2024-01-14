@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 / 华南｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 1d1e9315-5cca-43eb-8a1b-3880261a8916, udp: true}
-- {name: 🇭🇰 香港 / 华东｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 1d1e9315-5cca-43eb-8a1b-3880261a8916, udp: true}
-- {name: 🇭🇰 香港 / 备用｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 1d1e9315-5cca-43eb-8a1b-3880261a8916, udp: true}
-- {name: 🇭🇰 海外用户｜HK - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 1d1e9315-5cca-43eb-8a1b-3880261a8916, udp: true}
+- {name: 🇭🇰 香港 / 华南｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 3ddc4f34-4118-480e-b010-7562c3d84c7a, udp: true}
+- {name: 🇭🇰 香港 / 华东｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 3ddc4f34-4118-480e-b010-7562c3d84c7a, udp: true}
+- {name: 🇭🇰 香港 / 备用｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 3ddc4f34-4118-480e-b010-7562c3d84c7a, udp: true}
+- {name: 🇭🇰 海外用户｜HK - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 3ddc4f34-4118-480e-b010-7562c3d84c7a, udp: true}
