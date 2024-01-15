@@ -12,6 +12,8 @@ proxies:
 - {name: 🇰🇵朝鲜-平壤-01 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 17319, type: ss, cipher: aes-256-gcm, password: af208133-80f0-42f0-b813-4d8de90b63cc, udp: true}
 - {name: 🇹🇷土耳其-伊斯坦布尔-01|1X|GPT - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21721, type: trojan, password: af208133-80f0-42f0-b813-4d8de90b63cc, sni: trq.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇳🇿新西兰-奥克兰 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27276, type: ss, cipher: aes-256-gcm, password: af208133-80f0-42f0-b813-4d8de90b63cc, udp: true}
+- {name: 🇰🇿哈萨克斯坦-阿拉木图 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 11976, type: ss, cipher: aes-256-gcm, password: af208133-80f0-42f0-b813-4d8de90b63cc, udp: true}
+- {name: 🇰🇪肯尼亚共和国-奈洛比|3X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 46947, type: ss, cipher: aes-256-gcm, password: af208133-80f0-42f0-b813-4d8de90b63cc, udp: true}
 - {name: 🇳🇱荷兰-阿姆斯特丹 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13993, type: ss, cipher: aes-256-gcm, password: af208133-80f0-42f0-b813-4d8de90b63cc, udp: true}
 - {name: 🇱🇺卢森堡-公益服|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33968, type: ss, cipher: chacha20-ietf-poly1305, password: af208133-80f0-42f0-b813-4d8de90b63cc, udp: true}
 - {name: 🇬🇧英国-伦敦-01 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52478, type: ss, cipher: aes-256-gcm, password: af208133-80f0-42f0-b813-4d8de90b63cc, udp: true}
