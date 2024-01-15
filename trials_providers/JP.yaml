@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: f0725822-b1c4-3063-8be8-e1ee9d9734d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: f0725822-b1c4-3063-8be8-e1ee9d9734d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 6a15990a-8c2d-3a7a-be04-10db8f44349f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 6a15990a-8c2d-3a7a-be04-10db8f44349f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: d11f7e45-b90c-3180-ba5f-4fa1d465d5cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: b1b1d7e0-07ee-4a84-856f-1aa430f590fa, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: b1b1d7e0-07ee-4a84-856f-1aa430f590fa, udp: true}
@@ -11,7 +11,7 @@ proxies:
 - {name: 🇯🇵 AZ日本隧道转移动2 - cloudtu, server: yt201.jdxx9.com, port: 16487, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9786:cSKZJT, obfs-param: b03e19786.download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 AZ日本隧道转移动4 - cloudtu, server: yt201.jdxx9.com, port: 16489, type: ssr, cipher: chacha20-ietf, password: nk0hfn6pb2s, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 9786:cSKZJT, obfs-param: b03e19786.download.windowsupdate.com, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 476f3ee0-014e-418a-bc0c-54fd86f9d2fd, udp: true}
-- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 7d063cb4-be02-483e-852a-d0bd94b1dfc5, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: f9555fb4-14e8-446e-9015-bc309bbd14b7, udp: true}
 - {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10327, type: trojan, password: f1b7c3e6-415a-4552-badf-8ab803b9eb39, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10327, type: trojan, password: f1b7c3e6-415a-4552-badf-8ab803b9eb39, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10327, type: trojan, password: f1b7c3e6-415a-4552-badf-8ab803b9eb39, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -69,8 +69,8 @@ proxies:
 - {name: 🇯🇵 Vip2-4.扬州-日本D | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21052, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133217:CfXbun, obfs-param: '513dd133217.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇯🇵 Vip2-4.江苏-日本A | 倍率x2 - 糖果, server: cnczu01.tangguo.pro, port: 21096, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133217:CfXbun, obfs-param: '513dd133217.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇯🇵 Vip2-4.江苏-日本B | 倍率x2 - 糖果, server: cnczu01.tangguo.pro, port: 21102, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133217:CfXbun, obfs-param: '513dd133217.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 4c9395c9-2ea3-3c28-9788-c91dbb8e5a6e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 4c9395c9-2ea3-3c28-9788-c91dbb8e5a6e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 8152a048-8515-3ab6-ada1-7212424ec693, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 8152a048-8515-3ab6-ada1-7212424ec693, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
 - {name: 🇯🇵 日本 01 - V2Link, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
 - {name: 🇯🇵 日本 02 - V2Link, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
 - {name: 🇯🇵 日本 03 - V2Link, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
@@ -87,12 +87,13 @@ proxies:
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: gdct001.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 3f9cea89-fb64-41f2-abe5-ac6a7a6bd9f2, udp: true}
 - {name: 🇯🇵 vip1 日本-07 - FastFly, server: gdct003.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 3f9cea89-fb64-41f2-abe5-ac6a7a6bd9f2, udp: true}
 - {name: 🇯🇵 vip1 日本-08 - FastFly, server: shcm002.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 3f9cea89-fb64-41f2-abe5-ac6a7a6bd9f2, udp: true}
-- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 35222, type: trojan, password: 172f6294-f0a5-44db-b434-e340f8bafa5c, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本-东京-01|直连 - 周树人Cloud, server: awsjp1.588511.xyz, port: 39123, type: trojan, password: 172f6294-f0a5-44db-b434-e340f8bafa5c, sni: awsjp1.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-02|直连 - 周树人Cloud, server: awsjp2.588511.xyz, port: 33422, type: trojan, password: 172f6294-f0a5-44db-b434-e340f8bafa5c, sni: awsjp2.588511.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵日本-东京-03|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25028, type: ss, cipher: chacha20-ietf-poly1305, password: 172f6294-f0a5-44db-b434-e340f8bafa5c, udp: true}
-- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 28a1f948-7e5d-4950-a44c-21651eb7d9e5, udp: true}
-- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 28a1f948-7e5d-4950-a44c-21651eb7d9e5, udp: true}
-- {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 28a1f948-7e5d-4950-a44c-21651eb7d9e5, udp: true}
-- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 28a1f948-7e5d-4950-a44c-21651eb7d9e5, udp: true}
+- {name: 🇯🇵日本-大阪 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22416, type: ss, cipher: aes-256-gcm, password: 172f6294-f0a5-44db-b434-e340f8bafa5c, udp: true}
+- {name: 🇯🇵 日本 / 华东｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 807f75a2-0936-4a3b-8868-c417f0149e8f, udp: true}
+- {name: 🇯🇵 日本 / 华南｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 807f75a2-0936-4a3b-8868-c417f0149e8f, udp: true}
+- {name: 🇯🇵 日本 / 备用｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: aes-256-gcm, password: 807f75a2-0936-4a3b-8868-c417f0149e8f, udp: true}
+- {name: 🇯🇵 JP｜Overseas users - 小白云, server: jp.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 807f75a2-0936-4a3b-8868-c417f0149e8f, udp: true}
 - {name: 🇯🇵 日本 - 线路一 - SScurl, server: whcm.pangupy.com, port: 45623, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
 - {name: 🇯🇵 日本/JP | 广移 - 鸡鸡云, server: zzgzyd.jjyhk.com, port: 42383, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}

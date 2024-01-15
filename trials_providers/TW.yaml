@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: f0725822-b1c4-3063-8be8-e1ee9d9734d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: f0725822-b1c4-3063-8be8-e1ee9d9734d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 6a15990a-8c2d-3a7a-be04-10db8f44349f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 6a15990a-8c2d-3a7a-be04-10db8f44349f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1(SS) - 麻雀加速器 Sparrow, server: b11.ntbq.dynu.net, port: 6543, type: ss, cipher: chacha20-ietf-poly1305, password: 328a09ac-02a6-4b3e-871c-2f0e0c644d82, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: 328a09ac-02a6-4b3e-871c-2f0e0c644d82, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 328a09ac-02a6-4b3e-871c-2f0e0c644d82, udp: true}
@@ -72,7 +72,8 @@ proxies:
 - {name: 🇹🇼 vip1 台湾-08 - FastFly, server: shcm002.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 3f9cea89-fb64-41f2-abe5-ac6a7a6bd9f2, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18189, type: ss, cipher: chacha20-ietf-poly1305, password: 172f6294-f0a5-44db-b434-e340f8bafa5c, udp: true}
 - {name: 🇹🇼台湾-台北市-01|GPT|0.6X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31318, type: ss, cipher: aes-256-gcm, password: 172f6294-f0a5-44db-b434-e340f8bafa5c, udp: true}
-- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 28a1f948-7e5d-4950-a44c-21651eb7d9e5, udp: true}
-- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 28a1f948-7e5d-4950-a44c-21651eb7d9e5, udp: true}
-- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 28a1f948-7e5d-4950-a44c-21651eb7d9e5, udp: true}
+- {name: 🇹🇼台湾-台北市-02 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22417, type: ss, cipher: aes-256-gcm, password: 172f6294-f0a5-44db-b434-e340f8bafa5c, udp: true}
+- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 807f75a2-0936-4a3b-8868-c417f0149e8f, udp: true}
+- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 807f75a2-0936-4a3b-8868-c417f0149e8f, udp: true}
+- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 807f75a2-0936-4a3b-8868-c417f0149e8f, udp: true}
 - {name: 🇹🇼 台湾 - 节点一 - SScurl, server: whcm.pangupy.com, port: 11207, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
