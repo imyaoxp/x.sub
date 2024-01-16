@@ -15,7 +15,7 @@ proxies:
 - {name: 🇰🇿哈萨克斯坦-阿拉木图 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 11976, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇰🇪肯尼亚共和国-奈洛比|3X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 46947, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇳🇱荷兰-阿姆斯特丹 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13993, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
-- {name: 🇱🇺卢森堡-公益服|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33968, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
+- {name: 🇱🇺卢森堡-公益服|下载节点|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33968, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇬🇧英国-伦敦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52478, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇮🇪爱尔兰-都柏林|1.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40486, type: trojan, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, sni: Ireland-aws-ls-ip-172-26-13-218.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇨🇭瑞士-苏黎世|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30103, type: trojan, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, sni: 2.ndy588502.eu.org, skip-cert-verify: true, udp: true}
@@ -29,6 +29,7 @@ proxies:
 - {name: 🇸🇴索马里-摩加迪沙|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27250, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇪🇬埃及-开罗|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 17325, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇦🇷阿根廷-布宜诺斯艾利斯|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31651, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
+- {name: 🇬🇶赤道几内亚|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18965, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇿🇦南非-约翰内斯堡-01 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13705, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇳🇬尼日利亚-拉哥斯 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33477, type: ss, cipher: aes-256-gcm, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇹🇬多哥-洛美|5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13497, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
@@ -67,3 +68,8 @@ proxies:
 - {name: 🇮🇷伊朗-德黑兰 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 59009, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇸🇾叙利亚-大马士革 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 31316, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
 - {name: 🇮🇶伊拉克-巴格达 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6896, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
+- {name: 🇲🇹马耳他共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9117, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
+- {name: 🇧🇦波斯尼亚和黑塞哥维那 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30904, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
+- {name: 🇱🇮列支敦斯登 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12931, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
+- {name: 🇦🇿阿塞拜疆 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 22733, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
+- {name: 🇬🇪格鲁吉亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 31713, type: ss, cipher: chacha20-ietf-poly1305, password: 66c39421-3225-4207-8c0e-ebe8f1e27022, udp: true}
