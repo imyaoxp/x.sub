@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国超高速-灵车线路 - 十元一年, server: dous-2024-1-10.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: 50bfb375-58b1-4884-a390-06dab801183e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dous-2024-1-10.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: dous-2024-1-10.fly64jfgwhale.xyz}}, udp: true}
-- {name: 🇺🇸 美国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 50bfb375-58b1-4884-a390-06dab801183e, udp: true}
-- {name: 🇺🇸 美国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31651, type: ss, cipher: chacha20-ietf-poly1305, password: 50bfb375-58b1-4884-a390-06dab801183e, udp: true}
-- {name: 🇺🇸 美国-中华电信 - 十元一年, server: tw.passwallwall.shop, port: 60006, type: ss, cipher: chacha20-ietf-poly1305, password: 50bfb375-58b1-4884-a390-06dab801183e, udp: true}
+- {name: 🇺🇸 美国超高速-灵车线路 - 十元一年, server: dous-2024-1-10.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: fb8e05ae-4d25-48e2-98eb-0215799f0695, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dous-2024-1-10.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /, headers: {Host: dous-2024-1-10.fly64jfgwhale.xyz}}, udp: true}
+- {name: 🇺🇸 美国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: fb8e05ae-4d25-48e2-98eb-0215799f0695, udp: true}
+- {name: 🇺🇸 美国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31651, type: ss, cipher: chacha20-ietf-poly1305, password: fb8e05ae-4d25-48e2-98eb-0215799f0695, udp: true}
+- {name: 🇺🇸 美国-中华电信 - 十元一年, server: tw.passwallwall.shop, port: 60006, type: ss, cipher: chacha20-ietf-poly1305, password: fb8e05ae-4d25-48e2-98eb-0215799f0695, udp: true}
