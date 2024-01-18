@@ -36,7 +36,7 @@ proxies:
 - {name: 🇪🇪爱沙尼亚-塔林|GPT - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 48763, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
 - {name: 🇬🇭加纳 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16654, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
 - {name: 🇲🇽墨西哥-墨西哥城 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40643, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
-- {name: 🇲🇽墨西哥-家宽-克雷塔罗 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 24168, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
+- {name: 🇲🇽墨西哥|家宽-克雷塔罗 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 24168, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
 - {name: 🇵🇰巴基斯坦|1.4X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31249, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
 - {name: 🇨🇴哥伦比亚-波哥大 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16852, type: ss, cipher: aes-256-gcm, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
 - {name: 🇨🇱智利-圣地亚哥|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 45687, type: trojan, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, sni: 1.ndy588502.eu.org, skip-cert-verify: true, udp: true}
@@ -79,3 +79,4 @@ proxies:
 - {name: 🇦🇮安圭拉 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38709, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
 - {name: 🇧🇳文莱达鲁萨兰国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38711, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
 - {name: 🇱🇰斯里兰卡 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 23819, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
+- {name: 🇨🇾塞浦路斯|家宽-利马索尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32860, type: ss, cipher: chacha20-ietf-poly1305, password: 452fb4d8-861a-46ba-88c1-d19d1e4d8c3f, udp: true}
