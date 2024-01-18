@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾-中华电信-1 - 十元一年, server: tw2.passwallwall.shop, port: 9989, type: vmess, uuid: 1016dd77-81d3-43fd-9a02-2e4192be294c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-2 - 十元一年, server: tw2.passwallwall.shop, port: 9956, type: vmess, uuid: 1016dd77-81d3-43fd-9a02-2e4192be294c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-3 - 十元一年, server: tw2.passwallwall.shop, port: 9945, type: vmess, uuid: 1016dd77-81d3-43fd-9a02-2e4192be294c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 1016dd77-81d3-43fd-9a02-2e4192be294c, udp: true}
-- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 1016dd77-81d3-43fd-9a02-2e4192be294c, udp: true}
-- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 1016dd77-81d3-43fd-9a02-2e4192be294c, udp: true}
-- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 1016dd77-81d3-43fd-9a02-2e4192be294c, udp: true}
+- {name: 🇹🇼 台湾-中华电信-1 - 十元一年, server: tw2.passwallwall.shop, port: 9989, type: vmess, uuid: 22a3097a-575c-4dbd-ad7c-c96b89ef8bd0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-2 - 十元一年, server: tw2.passwallwall.shop, port: 9956, type: vmess, uuid: 22a3097a-575c-4dbd-ad7c-c96b89ef8bd0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-3 - 十元一年, server: tw2.passwallwall.shop, port: 9945, type: vmess, uuid: 22a3097a-575c-4dbd-ad7c-c96b89ef8bd0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: twzz4.shiyuanyinian.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 台湾3 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 22a3097a-575c-4dbd-ad7c-c96b89ef8bd0, udp: true}
+- {name: 🇹🇼 台湾4 全解锁 - 十元一年, server: twzz2.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 22a3097a-575c-4dbd-ad7c-c96b89ef8bd0, udp: true}
+- {name: 🇹🇼 台湾5 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60000, type: ss, cipher: chacha20-ietf-poly1305, password: 22a3097a-575c-4dbd-ad7c-c96b89ef8bd0, udp: true}
+- {name: 🇹🇼 台湾6 全解锁 - 十元一年, server: twzz3.shiyuanyinian.xyz, port: 60001, type: ss, cipher: chacha20-ietf-poly1305, password: 22a3097a-575c-4dbd-ad7c-c96b89ef8bd0, udp: true}
