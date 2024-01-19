@@ -23,7 +23,9 @@ proxies:
 - {name: 🇯🇵日本-大阪 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22416, type: ss, cipher: aes-256-gcm, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇰🇷韩国-首尔 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25027, type: ss, cipher: aes-256-gcm, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇰🇷韩国-春川 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 44293, type: ss, cipher: aes-256-gcm, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
+- {name: 🇨🇦加拿大-蒙特利尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16191, type: ss, cipher: aes-128-gcm, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇨🇦加拿大-温哥华 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 2237, type: ss, cipher: aes-128-gcm, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
+- {name: 🇨🇦加拿大-哈利法克斯 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58604, type: ss, cipher: aes-128-gcm, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇸🇬新加坡01 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31852, type: ss, cipher: aes-256-gcm, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇸🇬新加坡02 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 46639, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇸🇬新加坡03 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 46639, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
