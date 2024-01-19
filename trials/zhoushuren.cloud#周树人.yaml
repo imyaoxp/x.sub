@@ -76,6 +76,7 @@ proxy-groups:
   - 🇲🇲缅甸联邦共和国|1.5X - 周树人Cloud
   - 🇲🇾马来西亚-新城 - 周树人Cloud
   - 🇰🇵朝鲜-平壤|1.7X - 周树人Cloud
+  - 🇲🇾马来西亚|家宽-吉隆坡 - 周树人Cloud
   - 🇹🇷土耳其-伊斯坦布尔|0.3X - 周树人Cloud
   - 🇳🇿新西兰-奥克兰 - 周树人Cloud
   - 🇰🇿哈萨克斯坦-阿拉木图 - 周树人Cloud
@@ -83,6 +84,7 @@ proxy-groups:
   - 🇳🇱荷兰-阿姆斯特丹 - 周树人Cloud
   - 🇱🇺卢森堡-公益服|下载节点|0.5X - 周树人Cloud
   - 🇬🇧英国-伦敦 - 周树人Cloud
+  - 🇬🇧英国-考文垂 - 周树人Cloud
   - 🇮🇪爱尔兰-都柏林|1.5X - 周树人Cloud
   - 🇨🇭瑞士-苏黎世|2X - 周树人Cloud
   - 🇺🇦乌克兰-基辅-|0.5X - 周树人Cloud
@@ -310,6 +312,7 @@ proxy-groups:
   - 🇲🇲缅甸联邦共和国|1.5X - 周树人Cloud
   - 🇲🇾马来西亚-新城 - 周树人Cloud
   - 🇰🇵朝鲜-平壤|1.7X - 周树人Cloud
+  - 🇲🇾马来西亚|家宽-吉隆坡 - 周树人Cloud
   - 🇹🇷土耳其-伊斯坦布尔|0.3X - 周树人Cloud
   - 🇳🇿新西兰-奥克兰 - 周树人Cloud
   - 🇰🇿哈萨克斯坦-阿拉木图 - 周树人Cloud
@@ -317,6 +320,7 @@ proxy-groups:
   - 🇳🇱荷兰-阿姆斯特丹 - 周树人Cloud
   - 🇱🇺卢森堡-公益服|下载节点|0.5X - 周树人Cloud
   - 🇬🇧英国-伦敦 - 周树人Cloud
+  - 🇬🇧英国-考文垂 - 周树人Cloud
   - 🇮🇪爱尔兰-都柏林|1.5X - 周树人Cloud
   - 🇨🇭瑞士-苏黎世|2X - 周树人Cloud
   - 🇺🇦乌克兰-基辅-|0.5X - 周树人Cloud
@@ -462,6 +466,7 @@ proxies:
 - {name: 🇲🇲缅甸联邦共和国|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 43072, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
 - {name: 🇲🇾马来西亚-新城 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31316, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
 - {name: 🇰🇵朝鲜-平壤|1.7X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 17319, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
+- {name: 🇲🇾马来西亚|家宽-吉隆坡 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 42759, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
 - {name: 🇹🇷土耳其-伊斯坦布尔|0.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21721, type: trojan, password: c19a5609-6174-47b1-a792-cb81cafb65bf, sni: trq.588500.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇳🇿新西兰-奥克兰 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27276, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
 - {name: 🇰🇿哈萨克斯坦-阿拉木图 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 11976, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
@@ -469,6 +474,7 @@ proxies:
 - {name: 🇳🇱荷兰-阿姆斯特丹 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 41376, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
 - {name: 🇱🇺卢森堡-公益服|下载节点|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33968, type: ss, cipher: chacha20-ietf-poly1305, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
 - {name: 🇬🇧英国-伦敦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52478, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
+- {name: 🇬🇧英国-考文垂 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 35358, type: ss, cipher: aes-256-gcm, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
 - {name: 🇮🇪爱尔兰-都柏林|1.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40486, type: trojan, password: c19a5609-6174-47b1-a792-cb81cafb65bf, sni: Ireland-aws-ls-ip-172-26-13-218.zhoushuren.me, skip-cert-verify: true, udp: true}
 - {name: 🇨🇭瑞士-苏黎世|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30103, type: trojan, password: c19a5609-6174-47b1-a792-cb81cafb65bf, sni: 2.ndy588502.eu.org, skip-cert-verify: true, udp: true}
 - {name: 🇺🇦乌克兰-基辅-|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50543, type: ss, cipher: chacha20-ietf-poly1305, password: c19a5609-6174-47b1-a792-cb81cafb65bf, udp: true}
