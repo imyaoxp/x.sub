@@ -113,7 +113,7 @@ proxy-groups:
   - 🇧🇿伯利兹-贝尔莫潘 - 周树人Cloud
   - 🇦🇫阿富汗-喀布尔 - 周树人Cloud
   - 🇶🇦卡塔尔-多哈 - 周树人Cloud
-  - 🇦🇱阿尔巴尼亚-地拉那 - 周树人Cloud
+  - 🇦🇱阿尔巴尼亚 - 周树人Cloud
   - 🇧🇹不丹-廷布 - 周树人Cloud
   - 🇻🇦梵蒂冈城国 - 周树人Cloud
   - 🇻🇪委内瑞拉 - 周树人Cloud
@@ -150,6 +150,7 @@ proxy-groups:
   - 🇲🇰北马其顿 - 周树人Cloud
   - 🇲🇦摩洛哥 - 周树人Cloud
   - 🇲🇨摩纳哥 - 周树人Cloud
+  - 🇧🇪比利时-布鲁塞尔 - 周树人Cloud
   - 🇲🇴澳门特别行政区-01 - 周树人Cloud
   - 🇲🇴澳门特别行政区-02|0.8X - 周树人Cloud
   - 🇨🇳中国|油管免广告 - 周树人Cloud
@@ -341,7 +342,7 @@ proxy-groups:
   - 🇧🇿伯利兹-贝尔莫潘 - 周树人Cloud
   - 🇦🇫阿富汗-喀布尔 - 周树人Cloud
   - 🇶🇦卡塔尔-多哈 - 周树人Cloud
-  - 🇦🇱阿尔巴尼亚-地拉那 - 周树人Cloud
+  - 🇦🇱阿尔巴尼亚 - 周树人Cloud
   - 🇧🇹不丹-廷布 - 周树人Cloud
   - 🇻🇦梵蒂冈城国 - 周树人Cloud
   - 🇻🇪委内瑞拉 - 周树人Cloud
@@ -378,6 +379,7 @@ proxy-groups:
   - 🇲🇰北马其顿 - 周树人Cloud
   - 🇲🇦摩洛哥 - 周树人Cloud
   - 🇲🇨摩纳哥 - 周树人Cloud
+  - 🇧🇪比利时-布鲁塞尔 - 周树人Cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -487,7 +489,7 @@ proxies:
 - {name: 🇧🇿伯利兹-贝尔莫潘 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 2366, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇦🇫阿富汗-喀布尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 23124, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇶🇦卡塔尔-多哈 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 44259, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
-- {name: 🇦🇱阿尔巴尼亚-地拉那 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 25492, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
+- {name: 🇦🇱阿尔巴尼亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 25492, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇧🇹不丹-廷布 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25026, type: ss, cipher: aes-256-gcm, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇻🇦梵蒂冈城国 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 28405, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇻🇪委内瑞拉 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 10951, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
@@ -524,6 +526,7 @@ proxies:
 - {name: 🇲🇰北马其顿 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15786, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇲🇦摩洛哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 49164, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 - {name: 🇲🇨摩纳哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50967, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
+- {name: 🇧🇪比利时-布鲁塞尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 42505, type: ss, cipher: chacha20-ietf-poly1305, password: f2e8ffbb-69de-43f0-aa9f-4cb79ad9ae31, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
