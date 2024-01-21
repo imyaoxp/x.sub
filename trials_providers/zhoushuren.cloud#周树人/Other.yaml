@@ -47,6 +47,7 @@ proxies:
 - {name: 🇮🇩印尼|家宽-雅加达 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 36860, type: ss, cipher: aes-256-gcm, password: c839c555-32db-43e2-8ac0-f1586427a09c, udp: true}
 - {name: 🇨🇴哥伦比亚-波哥大 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16852, type: ss, cipher: aes-256-gcm, password: c839c555-32db-43e2-8ac0-f1586427a09c, udp: true}
 - {name: 🇨🇱智利-圣地亚哥|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 45687, type: trojan, password: c839c555-32db-43e2-8ac0-f1586427a09c, sni: 1.ndy588502.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇳🇵尼泊尔|家宽-加德满都 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45506, type: ss, cipher: aes-256-gcm, password: c839c555-32db-43e2-8ac0-f1586427a09c, udp: true}
 - {name: 🇦🇪阿联酋-迪拜 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45058, type: ss, cipher: aes-256-gcm, password: c839c555-32db-43e2-8ac0-f1586427a09c, udp: true}
 - {name: 🇧🇸巴哈马 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 35854, type: ss, cipher: chacha20-ietf-poly1305, password: c839c555-32db-43e2-8ac0-f1586427a09c, udp: true}
 - {name: 🇮🇲马恩岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12248, type: ss, cipher: chacha20-ietf-poly1305, password: c839c555-32db-43e2-8ac0-f1586427a09c, udp: true}
