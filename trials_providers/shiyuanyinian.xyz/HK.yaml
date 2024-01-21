@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: 74664404-5f42-4c84-b719-b3f076144a8b, udp: true}
-- {name: 🇭🇰 香港-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34549, type: ss, cipher: chacha20-ietf-poly1305, password: 74664404-5f42-4c84-b719-b3f076144a8b, udp: true}
-- {name: 🇭🇰 香港-中华电信 - 十元一年, server: tw3.passwallwall.shop, port: 20002, type: vmess, uuid: 74664404-5f42-4c84-b719-b3f076144a8b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇭🇰 香港-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34364, type: ss, cipher: chacha20-ietf-poly1305, password: e23425b9-82ab-47bb-819c-ffb15c648923, udp: true}
+- {name: 🇭🇰 香港-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34549, type: ss, cipher: chacha20-ietf-poly1305, password: e23425b9-82ab-47bb-819c-ffb15c648923, udp: true}
+- {name: 🇭🇰 香港-中华电信 - 十元一年, server: tw3.passwallwall.shop, port: 20002, type: vmess, uuid: e23425b9-82ab-47bb-819c-ffb15c648923, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
