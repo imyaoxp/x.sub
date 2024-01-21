@@ -168,6 +168,7 @@ proxy-groups:
   - 🇻🇬英属维尔京群岛 - 周树人Cloud
   - 🇴🇲阿曼苏丹国 - 周树人Cloud
   - 🇦🇴安哥拉共和国 - 周树人Cloud
+  - 🇧🇭巴林 - 周树人Cloud
   - 🇲🇴澳门特别行政区-01 - 周树人Cloud
   - 🇲🇴澳门特别行政区-02|0.8X - 周树人Cloud
   - 🇨🇳中国|油管免广告 - 周树人Cloud
@@ -414,6 +415,7 @@ proxy-groups:
   - 🇻🇬英属维尔京群岛 - 周树人Cloud
   - 🇴🇲阿曼苏丹国 - 周树人Cloud
   - 🇦🇴安哥拉共和国 - 周树人Cloud
+  - 🇧🇭巴林 - 周树人Cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -578,6 +580,7 @@ proxies:
 - {name: 🇻🇬英属维尔京群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 34805, type: ss, cipher: chacha20-ietf-poly1305, password: cafc85a8-72a0-4e32-9991-8f5fbbcb0a4e, udp: true}
 - {name: 🇴🇲阿曼苏丹国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58981, type: ss, cipher: chacha20-ietf-poly1305, password: cafc85a8-72a0-4e32-9991-8f5fbbcb0a4e, udp: true}
 - {name: 🇦🇴安哥拉共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50463, type: ss, cipher: chacha20-ietf-poly1305, password: cafc85a8-72a0-4e32-9991-8f5fbbcb0a4e, udp: true}
+- {name: 🇧🇭巴林 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52926, type: ss, cipher: chacha20-ietf-poly1305, password: cafc85a8-72a0-4e32-9991-8f5fbbcb0a4e, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
