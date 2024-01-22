@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 距离下次重置剩余：9 天 - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 0120c858-bcde-48d0-bc2b-7b3e736b2ce0, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: ℹ 距离下次重置剩余：9 天 - JCBB, server: shcm002.theyydsnode.top, port: 10658, type: ss, cipher: chacha20-ietf-poly1305, password: 0120c858-bcde-48d0-bc2b-7b3e736b2ce0, udp: true}
 - {name: ℹ JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 0120c858-bcde-48d0-bc2b-7b3e736b2ce0, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
