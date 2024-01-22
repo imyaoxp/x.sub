@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: bbe76d73-c464-32ea-9688-e36d7218e2a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: bbe76d73-c464-32ea-9688-e36d7218e2a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 184b1cb8-fc56-399e-8376-b232d2167ae4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 184b1cb8-fc56-399e-8376-b232d2167ae4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: 37165ef6-820c-4428-87ec-1f782ca9442e, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 37165ef6-820c-4428-87ec-1f782ca9442e, udp: true}
 - {name: 🇹🇼 TW-板桥2-2(TCP) - 麻雀加速器 Sparrow, server: nb22.ntbq.dynu.net, port: 12002, type: vmess, uuid: 37165ef6-820c-4428-87ec-1f782ca9442e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -20,9 +20,9 @@ proxies:
 - {name: 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 47557, type: trojan, password: 0120c858-bcde-48d0-bc2b-7b3e736b2ce0, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 47557, type: trojan, password: 0120c858-bcde-48d0-bc2b-7b3e736b2ce0, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 47557, type: trojan, password: 0120c858-bcde-48d0-bc2b-7b3e736b2ce0, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾-中华电信-1 - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 0dc1b65e-2133-49ed-8d5e-49b82bcc65ed, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-2 - 十元一年, server: tw3.passwallwall.shop, port: 45687, type: vmess, uuid: 0dc1b65e-2133-49ed-8d5e-49b82bcc65ed, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-3 - 十元一年, server: tw3.passwallwall.shop, port: 45688, type: vmess, uuid: 0dc1b65e-2133-49ed-8d5e-49b82bcc65ed, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-1 - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: dd65a9be-c5b1-4edd-a3aa-118d5226ed03, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-2 - 十元一年, server: tw3.passwallwall.shop, port: 45687, type: vmess, uuid: dd65a9be-c5b1-4edd-a3aa-118d5226ed03, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-3 - 十元一年, server: tw3.passwallwall.shop, port: 45688, type: vmess, uuid: dd65a9be-c5b1-4edd-a3aa-118d5226ed03, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 9f1fe87439.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 9f1fe87439.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 9f1fe87439.download.windowsupdate.com}, udp: true}
@@ -68,7 +68,7 @@ proxies:
 - {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18189, type: ss, cipher: chacha20-ietf-poly1305, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
 - {name: 🇹🇼台湾-台北市-01|0.6X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31318, type: ss, cipher: aes-256-gcm, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
 - {name: 🇹🇼台湾-台北市-02 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22417, type: ss, cipher: aes-256-gcm, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
-- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: d897c5cf-c696-4152-aa3b-6729f3f33870, udp: true}
-- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: d897c5cf-c696-4152-aa3b-6729f3f33870, udp: true}
-- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: d897c5cf-c696-4152-aa3b-6729f3f33870, udp: true}
+- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 0b935b00-a280-4b68-bcf4-b0a9cf2eab33, udp: true}
+- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 0b935b00-a280-4b68-bcf4-b0a9cf2eab33, udp: true}
+- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 0b935b00-a280-4b68-bcf4-b0a9cf2eab33, udp: true}
 - {name: 🇹🇼 台湾 - 节点一 - SScurl, server: whcm.pangupy.com, port: 11207, type: ss, cipher: chacha20-ietf-poly1305, password: 1b1b4699-9208-44b7-a111-64c0e14107d5, udp: true}
