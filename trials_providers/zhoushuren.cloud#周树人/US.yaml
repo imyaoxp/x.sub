@@ -9,6 +9,6 @@ proxies:
 - {name: 🇺🇸美国-凤凰城-02 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50250, type: ss, cipher: chacha20-ietf-poly1305, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
 - {name: 🇺🇸美国-凤凰城-03 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 47442, type: ss, cipher: chacha20-ietf-poly1305, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
 - {name: 🇺🇸美国-凤凰城-04 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38968, type: ss, cipher: chacha20-ietf-poly1305, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
-- {name: 🇺🇸美国-丹佛|下载节点|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38697, type: ss, cipher: chacha20-ietf-poly1305, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
+- {name: 🇺🇸美国-丹佛|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38697, type: ss, cipher: chacha20-ietf-poly1305, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
 - {name: 🇺🇸美国-俄勒冈|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 44275, type: ss, cipher: chacha20-ietf-poly1305, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, udp: true}
 - {name: 🇺🇸美国-芝加哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40830, type: trojan, password: 2c3d1d79-abf5-4f2d-beb0-44ad6982c8f9, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
