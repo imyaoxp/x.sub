@@ -181,6 +181,7 @@ proxy-groups:
   - 🇳🇴挪威 - 周树人Cloud
   - 🇮🇱以色列-耶路撒冷 - 周树人Cloud
   - 🇵🇸巴勒斯坦 - 周树人Cloud
+  - 🇵🇹葡萄牙 - 周树人Cloud
   - 🇲🇴澳门特别行政区-01 - 周树人Cloud
   - 🇲🇴澳门特别行政区-02|0.8X - 周树人Cloud
   - 🇨🇳中国|油管免广告 - 周树人Cloud
@@ -440,6 +441,7 @@ proxy-groups:
   - 🇳🇴挪威 - 周树人Cloud
   - 🇮🇱以色列-耶路撒冷 - 周树人Cloud
   - 🇵🇸巴勒斯坦 - 周树人Cloud
+  - 🇵🇹葡萄牙 - 周树人Cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -617,6 +619,7 @@ proxies:
 - {name: 🇳🇴挪威 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 36118, type: ss, cipher: chacha20-ietf-poly1305, password: 75b0b0a1-d5f4-4a27-accd-bc205e6a2adc, udp: true}
 - {name: 🇮🇱以色列-耶路撒冷 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31420, type: ss, cipher: chacha20-ietf-poly1305, password: 75b0b0a1-d5f4-4a27-accd-bc205e6a2adc, udp: true}
 - {name: 🇵🇸巴勒斯坦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 17825, type: ss, cipher: chacha20-ietf-poly1305, password: 75b0b0a1-d5f4-4a27-accd-bc205e6a2adc, udp: true}
+- {name: 🇵🇹葡萄牙 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32646, type: ss, cipher: chacha20-ietf-poly1305, password: 75b0b0a1-d5f4-4a27-accd-bc205e6a2adc, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
