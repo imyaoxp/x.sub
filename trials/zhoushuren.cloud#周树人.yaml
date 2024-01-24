@@ -52,6 +52,7 @@ proxy-groups:
   - 🇸🇬新加坡02 - 周树人Cloud
   - 🇸🇬新加坡03 - 周树人Cloud
   - 🇸🇬新加坡04 - 周树人Cloud
+  - 🇸🇬新加坡05 - 周树人Cloud
   - 🇯🇵日本-东京 - 周树人Cloud
   - 🇯🇵日本-大阪 - 周树人Cloud
   - 🇺🇸美国-拉斯维加斯-01|公益服|0.5X - 周树人Cloud
@@ -65,7 +66,6 @@ proxy-groups:
   - 🇺🇸美国-丹佛|0.5X - 周树人Cloud
   - 🇺🇸美国-俄勒冈|0.5X - 周树人Cloud
   - 🇺🇸美国-芝加哥 - 周树人Cloud
-  - 🇲🇴澳门特别行政区-01 - 周树人Cloud
   - 🇲🇴澳门特别行政区-02|0.8X - 周树人Cloud
   - 🇨🇳中国|油管免广告 - 周树人Cloud
   - 🇰🇷韩国-首尔 - 周树人Cloud
@@ -99,7 +99,8 @@ proxy-groups:
   - 🇺🇦乌克兰-基辅-|0.5X - 周树人Cloud
   - 🇩🇪德国-法兰克福-02 - 周树人Cloud
   - 🇮🇳印度-公益服|0.5X - 周树人Cloud
-  - 🇧🇷巴西-公益服|0.5X - 周树人Cloud
+  - 🇧🇷巴西-1|0.5X - 周树人Cloud
+  - 🇧🇷巴西-2|0.5X - 周树人Cloud
   - 🇸🇪瑞典-斯德哥尔摩-01|2X - 周树人Cloud
   - 🇰🇭柬埔寨-金边-1|1.5X - 周树人Cloud
   - 🇵🇭菲律宾-马尼拉-1|1.5X - 周树人Cloud
@@ -189,6 +190,7 @@ proxy-groups:
   - 🇦🇽奥兰群岛 - 周树人Cloud
   - 🇰🇮基里巴斯|1.3X - 周树人Cloud
   - 🇹🇻图瓦卢|1.3X - 周树人Cloud
+  - 🇭🇺匈牙利 - 周树人Cloud
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -285,7 +287,6 @@ proxy-groups:
   - 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud
   - 🇹🇼台湾-台北市-01|0.6X - 周树人Cloud
   - 🇹🇼台湾-台北市-02 - 周树人Cloud
-  - 🇲🇴澳门特别行政区-01 - 周树人Cloud
   - 🇲🇴澳门特别行政区-02|0.8X - 周树人Cloud
   - 🇨🇳中国|油管免广告 - 周树人Cloud
 - name: 🇸🇬 ‍新加坡
@@ -298,6 +299,7 @@ proxy-groups:
   - 🇸🇬新加坡02 - 周树人Cloud
   - 🇸🇬新加坡03 - 周树人Cloud
   - 🇸🇬新加坡04 - 周树人Cloud
+  - 🇸🇬新加坡05 - 周树人Cloud
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -360,7 +362,8 @@ proxy-groups:
   - 🇺🇦乌克兰-基辅-|0.5X - 周树人Cloud
   - 🇩🇪德国-法兰克福-02 - 周树人Cloud
   - 🇮🇳印度-公益服|0.5X - 周树人Cloud
-  - 🇧🇷巴西-公益服|0.5X - 周树人Cloud
+  - 🇧🇷巴西-1|0.5X - 周树人Cloud
+  - 🇧🇷巴西-2|0.5X - 周树人Cloud
   - 🇸🇪瑞典-斯德哥尔摩-01|2X - 周树人Cloud
   - 🇰🇭柬埔寨-金边-1|1.5X - 周树人Cloud
   - 🇵🇭菲律宾-马尼拉-1|1.5X - 周树人Cloud
@@ -450,6 +453,7 @@ proxy-groups:
   - 🇦🇽奥兰群岛 - 周树人Cloud
   - 🇰🇮基里巴斯|1.3X - 周树人Cloud
   - 🇹🇻图瓦卢|1.3X - 周树人Cloud
+  - 🇭🇺匈牙利 - 周树人Cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -488,7 +492,6 @@ proxies:
 - {name: 🇭🇰香港07 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇭🇰香港08|0.2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50006, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇭🇰香港09 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
-- {name: 🇲🇴澳门特别行政区-01 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇲🇴澳门特别行政区-02|0.8X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25029, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇹🇼台湾家宽-彰化-00|0.5X|GPT - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18189, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇹🇼台湾-台北市-01|0.6X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31318, type: ss, cipher: aes-256-gcm, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
@@ -503,7 +506,8 @@ proxies:
 - {name: 🇸🇬新加坡01 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31852, type: ss, cipher: aes-256-gcm, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇸🇬新加坡02 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 46639, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇸🇬新加坡03 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 46639, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
-- {name: 🇸🇬新加坡04 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12957, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
+- {name: 🇸🇬新加坡04 - 周树人Cloud, server: gdcm.nasa.lol, port: 38272, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
+- {name: 🇸🇬新加坡05 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 12957, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇮🇹意大利-米兰 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 3552, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇺🇸美国-拉斯维加斯-01|公益服|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 47561, type: ss, cipher: aes-256-gcm, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇺🇸美国-拉斯维加斯-02|gpt - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 19846, type: ss, cipher: aes-256-gcm, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
@@ -542,7 +546,8 @@ proxies:
 - {name: 🇺🇦乌克兰-基辅-|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50543, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇩🇪德国-法兰克福-02 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21323, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇮🇳印度-公益服|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 13479, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
-- {name: 🇧🇷巴西-公益服|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 35664, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
+- {name: 🇧🇷巴西-1|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 35664, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
+- {name: 🇧🇷巴西-2|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 8835, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇸🇪瑞典-斯德哥尔摩-01|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 49835, type: trojan, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, sni: aws-se-zsr-ip-172-26-16-185.661145.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇰🇭柬埔寨-金边-1|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 38323, type: ss, cipher: aes-128-gcm, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇵🇭菲律宾-马尼拉-1|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 26469, type: ss, cipher: aes-128-gcm, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
@@ -632,6 +637,7 @@ proxies:
 - {name: 🇦🇽奥兰群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15103, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇰🇮基里巴斯|1.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13228, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 - {name: 🇹🇻图瓦卢|1.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9464, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
+- {name: 🇭🇺匈牙利 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 14011, type: ss, cipher: chacha20-ietf-poly1305, password: f74ec26b-fd6a-4c4c-9240-9e34f103c8f2, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
