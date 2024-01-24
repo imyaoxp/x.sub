@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本超高速-灵车线路 - 十元一年, server: GROUPLO8LYX.fly64jfgwhale.xyz, port: 45911, type: vmess, uuid: 7e1caa29-5ff7-41aa-830b-99973b42fbcc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: GROUPLO8LYX.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 日本超高速-灵车线路 - 十元一年, server: GROUPLO8LYX.fly64jfgwhale.xyz, port: 45911, type: vmess, uuid: 2dbfe58b-e42c-48d2-a3d6-c3746aebc65d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: GROUPLO8LYX.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
