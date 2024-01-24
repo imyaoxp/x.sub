@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡超高速-灵车线路 - 十元一年, server: 2024-1-17-sg.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: 16763367-3d53-4b98-aa94-ffa0a7a604e3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 2024-1-17-sg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇸🇬 新加坡-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34334, type: ss, cipher: chacha20-ietf-poly1305, password: 16763367-3d53-4b98-aa94-ffa0a7a604e3, udp: true}
-- {name: 🇸🇬 新加坡-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34219, type: ss, cipher: chacha20-ietf-poly1305, password: 16763367-3d53-4b98-aa94-ffa0a7a604e3, udp: true}
+- {name: 🇸🇬 新加坡超高速-灵车线路 - 十元一年, server: 2024-1-17-sg.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: 26acaed7-1280-481a-a90b-e84e3c9e2d9f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 2024-1-17-sg.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇸🇬 新加坡-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 34334, type: ss, cipher: chacha20-ietf-poly1305, password: 26acaed7-1280-481a-a90b-e84e3c9e2d9f, udp: true}
+- {name: 🇸🇬 新加坡-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 34219, type: ss, cipher: chacha20-ietf-poly1305, password: 26acaed7-1280-481a-a90b-e84e3c9e2d9f, udp: true}
