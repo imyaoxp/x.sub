@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: ℹ 🏳️‍⚧️官网:zsr-1.b-cdn.net|谨防倒卖 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
 - {name: 🇰🇷韩国-首尔 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25027, type: ss, cipher: aes-256-gcm, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
 - {name: 🇰🇷韩国-春川 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 44293, type: ss, cipher: aes-256-gcm, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
 - {name: 🇨🇦加拿大-蒙特利尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16191, type: ss, cipher: aes-128-gcm, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
@@ -120,5 +121,4 @@ proxies:
 - {name: 🇵🇸巴勒斯坦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 17825, type: ss, cipher: chacha20-ietf-poly1305, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
 - {name: 🇵🇹葡萄牙 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32646, type: ss, cipher: chacha20-ietf-poly1305, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
 - {name: 🇦🇽奥兰群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15103, type: ss, cipher: chacha20-ietf-poly1305, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
-- {name: 🇰🇮基里巴斯|1.3X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 26636, type: ss, cipher: chacha20-ietf-poly1305, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
 - {name: 🇹🇻图瓦卢|1.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9464, type: ss, cipher: chacha20-ietf-poly1305, password: 4ba302a9-fc0c-4f25-b18f-b92c40aafd18, udp: true}
