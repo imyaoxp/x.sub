@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 2fa3cf75-e772-301e-9a25-b6e56609d996, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 2fa3cf75-e772-301e-9a25-b6e56609d996, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: eb6dae0c-6923-35a4-a22b-dfd174458ce3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: eb6dae0c-6923-35a4-a22b-dfd174458ce3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: 8a852ffb-d894-35dd-8f81-41ee0dfee7fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 55a2c652-ebe4-4cce-a64f-87375dbf38a9, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 55a2c652-ebe4-4cce-a64f-87375dbf38a9, udp: true}
@@ -22,7 +22,7 @@ proxies:
 - {name: 🇯🇵<日本高速>-1x - 大湾区坤厂, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇯🇵<日本>①-1x - 大湾区坤厂, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇯🇵<日本>②-1x - 大湾区坤厂, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
-- {name: 🇯🇵 日本超高速-灵车线路 - 十元一年, server: GROUPLO8LYX.fly64jfgwhale.xyz, port: 45911, type: vmess, uuid: 082407d9-6f93-488d-bf5b-8f198fb762f2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: GROUPLO8LYX.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 日本超高速-灵车线路 - 十元一年, server: GROUPLO8LYX.fly64jfgwhale.xyz, port: 45911, type: vmess, uuid: 9cbf0150-089a-45f4-b983-cbaee4b75198, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: GROUPLO8LYX.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
 - {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 10443, type: trojan, password: 6f9452ae-b123-3444-9b54-e6a57b7d0480, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 20443, type: trojan, password: 6f9452ae-b123-3444-9b54-e6a57b7d0480, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq1.pw, port: 30443, type: trojan, password: 6f9452ae-b123-3444-9b54-e6a57b7d0480, sni: jpvip102.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
