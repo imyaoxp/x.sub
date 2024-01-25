@@ -1,127 +1,127 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 🏳️‍⚧️官网:zsr-1.b-cdn.net|谨防倒卖 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇰🇷韩国-首尔 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25027, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇰🇷韩国-春川 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 44293, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇦加拿大-蒙特利尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16191, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇦加拿大-温哥华 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 2237, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇦加拿大-哈利法克斯 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58604, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇹意大利-米兰 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 3552, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇺澳大利亚-珀斯 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27601, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇺澳大利亚-阿德莱德 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27602, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇺澳大利亚-布里斯班 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27603, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇺澳大利亚-悉尼 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27604, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇩🇪德国-法兰克福-01|公益服|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 37182, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇻🇳越南-河内市-1 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31317, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇫🇷法国-巴黎 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 26433, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇲缅甸联邦共和国|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 43072, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇻🇳越南-河内市-2 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30057, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇾马来西亚-新城 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31316, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇰🇵朝鲜-平壤|1.7X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 17319, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇾马来西亚|家宽-吉隆坡 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 42759, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇹🇷土耳其-伊斯坦布尔|0.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21721, type: trojan, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, sni: trq.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇳🇿新西兰-奥克兰 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27276, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇰🇿哈萨克斯坦-阿拉木图 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 11976, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇰🇪肯尼亚|家宽-奈洛比|3X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 46947, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇳🇱荷兰-阿姆斯特丹 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 41376, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇱🇺卢森堡-公益服|下载节点|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33968, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇬🇧英国-伦敦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52478, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇬🇧英国-考文垂 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 35358, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇪爱尔兰-都柏林|1.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40486, type: trojan, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, sni: Ireland-aws-ls-ip-172-26-13-218.zhoushuren.me, skip-cert-verify: true, udp: true}
-- {name: 🇨🇭瑞士-苏黎世|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30103, type: trojan, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, sni: 2.ndy588502.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇺🇦乌克兰-基辅-|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50543, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇩🇪德国-法兰克福-02 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21323, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇳印度-公益服|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 13479, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇷巴西-1|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 35664, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇷巴西-2|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 8835, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇸🇪瑞典-斯德哥尔摩-01|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 49835, type: trojan, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, sni: aws-se-zsr-ip-172-26-16-185.661145.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇰🇭柬埔寨-金边-1|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 38323, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇵🇭菲律宾-马尼拉-1|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 26469, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇰🇭柬埔寨-金边-2|1.3X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30058, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇸🇴索马里-摩加迪沙|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27250, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇪🇬埃及-开罗|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 17325, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇷阿根廷-布宜诺斯艾利斯|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31651, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇬🇶赤道几内亚|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18965, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇿🇦南非-约翰内斯堡-01|1.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13705, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇿🇦南非-约翰内斯堡-02|1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 47092, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇩孟加拉国-达卡 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 22926, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇳🇬尼日利亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33477, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇹🇬多哥共和国|5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13497, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇪🇪爱沙尼亚-塔林|GPT - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 48763, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇬🇭加纳 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16654, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇽墨西哥-墨西哥城 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40643, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇽墨西哥|家宽-克雷塔罗 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 24168, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇵🇰巴基斯坦|1.4X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31249, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇩印尼|家宽-雅加达 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 36860, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇴哥伦比亚-波哥大 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16852, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇱智利-圣地亚哥|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 45687, type: trojan, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, sni: 1.ndy588502.eu.org, skip-cert-verify: true, udp: true}
-- {name: 🇳🇵尼泊尔|家宽-加德满都 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45506, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇪阿联酋-迪拜 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45058, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇸巴哈马 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 35854, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇲马恩岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12248, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇵🇦巴拿马 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 29304, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇵🇦巴拿马|家宽-巴拿马城 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58131, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇷哥斯达黎加 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6632, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇹🇭泰国-曼谷|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 43599, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇿伯利兹-贝尔莫潘 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 2366, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇫阿富汗-喀布尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 23124, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇶🇦卡塔尔-多哈 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 44259, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇱阿尔巴尼亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 25492, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇹不丹-廷布 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25026, type: ss, cipher: aes-256-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇻🇦梵蒂冈城国 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 28405, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇻🇪委内瑞拉 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 10951, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇺古巴共和国|1.4X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20946, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇾白俄罗斯|家宽-明斯克市 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 29343, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇷🇺俄罗斯-圣彼得堡 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58646, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇷🇺俄罗斯-莫斯科 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 8108, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇴玻利维亚-苏克雷 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21366, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇬🇱格陵兰岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 27197, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇪🇨厄瓜多尔|家宽-基多 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21475, type: ss, cipher: aes-128-gcm, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇸冰岛-雷克亞維克 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32252, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇿🇼津巴布韦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 43112, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇰库克群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50529, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇰🇾开曼群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 54742, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇬🇺关岛-阿加尼亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 41040, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇹🇰托克劳群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6980, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇶南极洲科考站 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 28978, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇬刚果（布）-布拉扎维 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 7966, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇩刚果（金）-金沙萨 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30384, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇷伊朗-德黑兰 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 59009, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇸🇾叙利亚-大马士革 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 31316, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇶伊拉克-巴格达 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6896, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇹马耳他共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9117, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇦波斯尼亚和黑塞哥维那 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30904, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇱🇮列支敦斯登 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12931, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇿阿塞拜疆 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 22733, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇬🇪格鲁吉亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 31713, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇫🇮芬兰-赫尔辛基 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52494, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇾🇪也门共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6480, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇮安圭拉 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38709, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇳文莱达鲁萨兰国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38711, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇱🇰斯里兰卡 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 23819, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇾塞浦路斯|家宽-利马索尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32860, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇺🇾乌拉圭东岸共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 54400, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇭🇷克罗地亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 56559, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇰北马其顿 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15786, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇦摩洛哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 49164, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇨摩纳哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50967, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇪比利时-布鲁塞尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 42505, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇼荷属阿鲁巴国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 23822, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇲百慕大 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21954, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇻🇬英属维尔京群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 34805, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇴🇲阿曼苏丹国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58981, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇴安哥拉共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50463, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇧🇭巴林 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52926, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇵🇷波多黎各 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 1573, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇵🇪秘鲁 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 34773, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇨🇿捷克共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12520, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇲🇩摩尔多瓦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 17385, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇳🇴挪威 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 36118, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇮🇱以色列-耶路撒冷 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31420, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇵🇸巴勒斯坦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 17825, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇵🇹葡萄牙 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32646, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇦🇽奥兰群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15103, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇰🇮基里巴斯|1.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13228, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇹🇻图瓦卢|1.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9464, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
-- {name: 🇭🇺匈牙利 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 14011, type: ss, cipher: chacha20-ietf-poly1305, password: 6ca7e10a-11f4-4f17-a020-0bea4afecaa1, udp: true}
+- {name: ℹ 🏳️‍⚧️官网:zsr-1.b-cdn.net|谨防倒卖 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇰🇷韩国-首尔 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25027, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇰🇷韩国-春川 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 44293, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇦加拿大-蒙特利尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16191, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇦加拿大-温哥华 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 2237, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇦加拿大-哈利法克斯 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58604, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇹意大利-米兰 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 3552, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇺澳大利亚-珀斯 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27601, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇺澳大利亚-阿德莱德 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27602, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇺澳大利亚-布里斯班 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27603, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇺澳大利亚-悉尼 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27604, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇩🇪德国-法兰克福-01|公益服|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 37182, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇻🇳越南-河内市-1 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31317, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇫🇷法国-巴黎 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 26433, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇲缅甸联邦共和国|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 43072, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇻🇳越南-河内市-2 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30057, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇾马来西亚-新城 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31316, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇰🇵朝鲜-平壤|1.7X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 17319, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇾马来西亚|家宽-吉隆坡 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 42759, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇹🇷土耳其-伊斯坦布尔|0.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21721, type: trojan, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, sni: trq.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇳🇿新西兰-奥克兰 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27276, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇰🇿哈萨克斯坦-阿拉木图 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 11976, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇰🇪肯尼亚|家宽-奈洛比|3X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 46947, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇳🇱荷兰-阿姆斯特丹 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 41376, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇱🇺卢森堡-公益服|下载节点|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33968, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇬🇧英国-伦敦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52478, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇬🇧英国-考文垂 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 35358, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇪爱尔兰-都柏林|1.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40486, type: trojan, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, sni: Ireland-aws-ls-ip-172-26-13-218.zhoushuren.me, skip-cert-verify: true, udp: true}
+- {name: 🇨🇭瑞士-苏黎世|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30103, type: trojan, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, sni: 2.ndy588502.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇺🇦乌克兰-基辅-|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50543, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇩🇪德国-法兰克福-02 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21323, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇳印度-公益服|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 13479, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇷巴西-1|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 35664, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇷巴西-2|0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 8835, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇸🇪瑞典-斯德哥尔摩-01|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 49835, type: trojan, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, sni: aws-se-zsr-ip-172-26-16-185.661145.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇰🇭柬埔寨-金边-1|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 38323, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇵🇭菲律宾-马尼拉-1|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 26469, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇰🇭柬埔寨-金边-2|1.3X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30058, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇸🇴索马里-摩加迪沙|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 27250, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇪🇬埃及-开罗|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 17325, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇷阿根廷-布宜诺斯艾利斯|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31651, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇬🇶赤道几内亚|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 18965, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇿🇦南非-约翰内斯堡-01|1.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13705, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇿🇦南非-约翰内斯堡-02|1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 47092, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇩孟加拉国-达卡 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 22926, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇳🇬尼日利亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 33477, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇹🇬多哥共和国|5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13497, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇪🇪爱沙尼亚-塔林|GPT - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 48763, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇬🇭加纳 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16654, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇽墨西哥-墨西哥城 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40643, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇽墨西哥|家宽-克雷塔罗 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 24168, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇵🇰巴基斯坦|1.4X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31249, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇩印尼|家宽-雅加达 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 36860, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇴哥伦比亚-波哥大 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16852, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇱智利-圣地亚哥|2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 45687, type: trojan, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, sni: 1.ndy588502.eu.org, skip-cert-verify: true, udp: true}
+- {name: 🇳🇵尼泊尔|家宽-加德满都 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45506, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇪阿联酋-迪拜 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45058, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇸巴哈马 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 35854, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇲马恩岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12248, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇵🇦巴拿马 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 29304, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇵🇦巴拿马|家宽-巴拿马城 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58131, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇷哥斯达黎加 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6632, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇹🇭泰国-曼谷|1.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 43599, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇿伯利兹-贝尔莫潘 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 2366, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇫阿富汗-喀布尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 23124, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇶🇦卡塔尔-多哈 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 44259, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇱阿尔巴尼亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 25492, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇹不丹-廷布 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25026, type: ss, cipher: aes-256-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇻🇦梵蒂冈城国 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 28405, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇻🇪委内瑞拉 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 10951, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇺古巴共和国|1.4X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20946, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇾白俄罗斯|家宽-明斯克市 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 29343, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇷🇺俄罗斯-圣彼得堡 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58646, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇷🇺俄罗斯-莫斯科 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 8108, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇴玻利维亚-苏克雷 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21366, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇬🇱格陵兰岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 27197, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇪🇨厄瓜多尔|家宽-基多 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21475, type: ss, cipher: aes-128-gcm, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇸冰岛-雷克亞維克 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32252, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇿🇼津巴布韦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 43112, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇰库克群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50529, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇰🇾开曼群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 54742, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇬🇺关岛-阿加尼亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 41040, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇹🇰托克劳群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6980, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇶南极洲科考站 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 28978, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇬刚果（布）-布拉扎维 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 7966, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇩刚果（金）-金沙萨 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30384, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇷伊朗-德黑兰 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 59009, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇸🇾叙利亚-大马士革 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 31316, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇶伊拉克-巴格达 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6896, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇹马耳他共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9117, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇦波斯尼亚和黑塞哥维那 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 30904, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇱🇮列支敦斯登 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12931, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇿阿塞拜疆 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 22733, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇬🇪格鲁吉亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 31713, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇫🇮芬兰-赫尔辛基 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52494, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇾🇪也门共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 6480, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇮安圭拉 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38709, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇳文莱达鲁萨兰国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38711, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇱🇰斯里兰卡 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 23819, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇾塞浦路斯|家宽-利马索尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32860, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇺🇾乌拉圭东岸共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 54400, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇭🇷克罗地亚 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 56559, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇰北马其顿 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15786, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇦摩洛哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 49164, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇨摩纳哥 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50967, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇪比利时-布鲁塞尔 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 42505, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇼荷属阿鲁巴国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 23822, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇲百慕大 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 21954, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇻🇬英属维尔京群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 34805, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇴🇲阿曼苏丹国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 58981, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇴安哥拉共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50463, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇧🇭巴林 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 52926, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇵🇷波多黎各 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 1573, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇵🇪秘鲁 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 34773, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇨🇿捷克共和国 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 12520, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇲🇩摩尔多瓦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 17385, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇳🇴挪威 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 36118, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇮🇱以色列-耶路撒冷 - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31420, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇵🇸巴勒斯坦 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 17825, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇵🇹葡萄牙 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 32646, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇦🇽奥兰群岛 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 15103, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇰🇮基里巴斯|1.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 13228, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇹🇻图瓦卢|1.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 9464, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
+- {name: 🇭🇺匈牙利 - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 14011, type: ss, cipher: chacha20-ietf-poly1305, password: 0423c5f0-5242-458d-954a-bb8c5ef88bb9, udp: true}
