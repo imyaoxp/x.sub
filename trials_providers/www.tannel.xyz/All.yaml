@@ -5,4 +5,3 @@ proxies:
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: 97713b71-0433-34e8-9b91-f34c28e8f907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: 97713b71-0433-34e8-9b91-f34c28e8f907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62003, type: vmess, uuid: 97713b71-0433-34e8-9b91-f34c28e8f907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62015, type: vmess, uuid: 97713b71-0433-34e8-9b91-f34c28e8f907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
