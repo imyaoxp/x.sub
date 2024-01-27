@@ -15,7 +15,6 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
@@ -23,7 +22,6 @@ proxy-groups:
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -36,6 +34,8 @@ proxy-groups:
   - 🇭🇰 俄罗斯-香港中转 - 十元一年
   - 🇭🇰 新加坡-香港中转 - 十元一年
   - 🇭🇰 加拿大-香港中转 - 十元一年
+  - 🇭🇰 澳大利亚-香港中转 - 十元一年
+  - 🇭🇰 美国-香港中转 - 十元一年
   - 🇹🇼 台湾-中华电信-1 - 十元一年
   - 🇹🇼 台湾-中华电信-2 - 十元一年
   - 🇹🇼 台湾-中华电信-3 - 十元一年
@@ -43,22 +43,22 @@ proxy-groups:
   - 🇹🇼 俄罗斯-台湾中转 - 十元一年
   - 🇹🇼 新加坡-台湾中转 - 十元一年
   - 🇹🇼 加拿大-台湾中转 - 十元一年
+  - 🇹🇼 澳大利亚-台湾中转 - 十元一年
+  - 🇹🇼 美国-台湾中转 - 十元一年
   - 🇸🇬 香港-新加坡中转 - 十元一年
   - 🇸🇬 俄罗斯-新加坡中转 - 十元一年
   - 🇸🇬 新加坡-新加坡中转 - 十元一年
+  - 🇸🇬 加拿大-新加坡中转 - 十元一年
+  - 🇸🇬 澳大利亚-新加坡中转 - 十元一年
+  - 🇸🇬 美国-新加坡中转 - 十元一年
   - 🇯🇵 香港-日本中转 - 十元一年
   - 🇯🇵 俄罗斯-日本中转 - 十元一年
   - 🇯🇵 新加坡-日本中转 - 十元一年
   - 🇯🇵 加拿大-日本中转 - 十元一年
-  - 🇯🇵 加拿大-日本中转 - 十元一年 2
-  - 🇺🇸 美国超高速-灵车线路 - 十元一年
-  - 🇺🇸 美国-上海电信 - 十元一年
-  - 🇺🇸 美国-广州电信 - 十元一年
+  - 🇯🇵 澳大利亚-日本中转 - 十元一年
+  - 🇯🇵 美国-日本中转 - 十元一年
   - 邀请好友返利65% - 十元一年
   - go.shiyuanyinian.xyz - 十元一年
-  - 🇦🇺 澳大利亚超高速-灵车线路 - 十元一年
-  - 🇦🇺 澳大利亚-上海电信 - 十元一年
-  - 🇦🇺 澳大利亚-广州电信 - 十元一年
   - 🇬🇧 英国-上海电信 - 十元一年
   - 🇬🇧 英国-广州电信 - 十元一年
   - 🇳🇱 荷兰-上海电信 - 十元一年
@@ -95,9 +95,7 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
@@ -124,6 +122,8 @@ proxy-groups:
   - 🇭🇰 俄罗斯-香港中转 - 十元一年
   - 🇭🇰 新加坡-香港中转 - 十元一年
   - 🇭🇰 加拿大-香港中转 - 十元一年
+  - 🇭🇰 澳大利亚-香港中转 - 十元一年
+  - 🇭🇰 美国-香港中转 - 十元一年
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -137,6 +137,8 @@ proxy-groups:
   - 🇹🇼 俄罗斯-台湾中转 - 十元一年
   - 🇹🇼 新加坡-台湾中转 - 十元一年
   - 🇹🇼 加拿大-台湾中转 - 十元一年
+  - 🇹🇼 澳大利亚-台湾中转 - 十元一年
+  - 🇹🇼 美国-台湾中转 - 十元一年
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -147,6 +149,8 @@ proxy-groups:
   - 🇭🇰 俄罗斯-香港中转 - 十元一年
   - 🇭🇰 新加坡-香港中转 - 十元一年
   - 🇭🇰 加拿大-香港中转 - 十元一年
+  - 🇭🇰 澳大利亚-香港中转 - 十元一年
+  - 🇭🇰 美国-香港中转 - 十元一年
   - 🇹🇼 台湾-中华电信-1 - 十元一年
   - 🇹🇼 台湾-中华电信-2 - 十元一年
   - 🇹🇼 台湾-中华电信-3 - 十元一年
@@ -154,6 +158,8 @@ proxy-groups:
   - 🇹🇼 俄罗斯-台湾中转 - 十元一年
   - 🇹🇼 新加坡-台湾中转 - 十元一年
   - 🇹🇼 加拿大-台湾中转 - 十元一年
+  - 🇹🇼 澳大利亚-台湾中转 - 十元一年
+  - 🇹🇼 美国-台湾中转 - 十元一年
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -163,6 +169,9 @@ proxy-groups:
   - 🇸🇬 香港-新加坡中转 - 十元一年
   - 🇸🇬 俄罗斯-新加坡中转 - 十元一年
   - 🇸🇬 新加坡-新加坡中转 - 十元一年
+  - 🇸🇬 加拿大-新加坡中转 - 十元一年
+  - 🇸🇬 澳大利亚-新加坡中转 - 十元一年
+  - 🇸🇬 美国-新加坡中转 - 十元一年
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -173,27 +182,16 @@ proxy-groups:
   - 🇯🇵 俄罗斯-日本中转 - 十元一年
   - 🇯🇵 新加坡-日本中转 - 十元一年
   - 🇯🇵 加拿大-日本中转 - 十元一年
-  - 🇯🇵 加拿大-日本中转 - 十元一年 2
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国超高速-灵车线路 - 十元一年
-  - 🇺🇸 美国-上海电信 - 十元一年
-  - 🇺🇸 美国-广州电信 - 十元一年
+  - 🇯🇵 澳大利亚-日本中转 - 十元一年
+  - 🇯🇵 美国-日本中转 - 十元一年
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
+  proxies: &id007
   - 邀请好友返利65% - 十元一年
   - go.shiyuanyinian.xyz - 十元一年
-  - 🇦🇺 澳大利亚超高速-灵车线路 - 十元一年
-  - 🇦🇺 澳大利亚-上海电信 - 十元一年
-  - 🇦🇺 澳大利亚-广州电信 - 十元一年
   - 🇬🇧 英国-上海电信 - 十元一年
   - 🇬🇧 英国-广州电信 - 十元一年
   - 🇳🇱 荷兰-上海电信 - 十元一年
@@ -221,49 +219,48 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id007
 proxies:
-- {name: 邀请好友返利65% - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
-- {name: go.shiyuanyinian.xyz - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-1 - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-2 - 十元一年, server: tw3.passwallwall.shop, port: 45687, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇹🇼 台湾-中华电信-3 - 十元一年, server: tw3.passwallwall.shop, port: 45688, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇺🇸 美国超高速-灵车线路 - 十元一年, server: dous-2024-1-10.fly64jfgwhale.xyz, port: 45911, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: dous-2024-1-10.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇦🇺 澳大利亚超高速-灵车线路 - 十元一年, server: doau-2023-8-7.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: doau-2023-8-7.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇹🇼 香港-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 10000, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇭🇰 香港-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 10000, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇯🇵 香港-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 10000, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇸🇬 香港-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 10000, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇹🇼 俄罗斯-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 54673, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--1tq374c79r.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇭🇰 俄罗斯-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 11338, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--1tq374c79r.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇯🇵 俄罗斯-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 56097, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--1tq374c79r.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇸🇬 俄罗斯-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 45746, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--1tq374c79r.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇹🇼 新加坡-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 19708, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfro4i67o.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇭🇰 新加坡-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 65012, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfro4i67o.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇯🇵 新加坡-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 27122, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfro4i67o.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇸🇬 新加坡-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 57408, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfro4i67o.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇹🇼 加拿大-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 42432, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfru5m85i.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇭🇰 加拿大-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 61511, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfru5m85i.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇯🇵 加拿大-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 55822, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfru5m85i.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇯🇵 加拿大-日本中转 - 十元一年 2, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 50301, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfru5m85i.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇦🇺 澳大利亚-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇦🇺 澳大利亚-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 35411, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇺🇸 美国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇺🇸 美国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31651, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇬🇧 英国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31599, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇬🇧 英国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 38411, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇳🇱 荷兰-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇳🇱 荷兰-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇩🇪 德国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 35511, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇩🇪 德国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 35651, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇮🇳 印度-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 35571, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇮🇳 印度-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31541, type: ss, cipher: chacha20-ietf-poly1305, password: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, udp: true}
-- {name: 🇮🇳 印度-中华电信 - 十元一年, server: tw3.passwallwall.shop, port: 20000, type: vmess, uuid: 8e8e1955-d80b-43aa-a4aa-4d5bec4468c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--wlru4x.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 邀请好友返利65% - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
+- {name: go.shiyuanyinian.xyz - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-1 - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-2 - 十元一年, server: tw3.passwallwall.shop, port: 45687, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 台湾-中华电信-3 - 十元一年, server: tw3.passwallwall.shop, port: 45688, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 香港-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 10000, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇭🇰 香港-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 10000, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 香港-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 10000, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇸🇬 香港-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 10000, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 俄罗斯-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 54673, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--1tq374c79r.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇭🇰 俄罗斯-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 11338, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--1tq374c79r.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 俄罗斯-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 56097, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--1tq374c79r.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇸🇬 俄罗斯-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 45746, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--1tq374c79r.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 新加坡-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 19708, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfro4i67o.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇭🇰 新加坡-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 65012, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfro4i67o.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 新加坡-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 27122, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfro4i67o.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇸🇬 新加坡-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 57408, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfro4i67o.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 加拿大-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 42432, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfru5m85i.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇭🇰 加拿大-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 61511, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfru5m85i.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 加拿大-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 55822, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfru5m85i.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇸🇬 加拿大-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 50301, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--yfru5m85i.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 澳大利亚-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 22974, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--jlqp0go1hw9y.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇭🇰 澳大利亚-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 37514, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--jlqp0go1hw9y.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 澳大利亚-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 49352, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--jlqp0go1hw9y.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇸🇬 澳大利亚-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 55257, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--jlqp0go1hw9y.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇹🇼 美国-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 31375, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--vcsx75g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇭🇰 美国-香港中转 - 十元一年, server: xn--fiq239enzwwri.fly64jfgwhale.xyz, port: 52196, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--vcsx75g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 美国-日本中转 - 十元一年, server: xn--fiq019cb2aw78h.fly64jfgwhale.xyz, port: 42138, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--vcsx75g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇸🇬 美国-新加坡中转 - 十元一年, server: xn--fiq41ilyeu1rnh3c.fly64jfgwhale.xyz, port: 45515, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--vcsx75g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇬🇧 英国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31599, type: ss, cipher: chacha20-ietf-poly1305, password: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, udp: true}
+- {name: 🇬🇧 英国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 38411, type: ss, cipher: chacha20-ietf-poly1305, password: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, udp: true}
+- {name: 🇳🇱 荷兰-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, udp: true}
+- {name: 🇳🇱 荷兰-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, udp: true}
+- {name: 🇩🇪 德国-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 35511, type: ss, cipher: chacha20-ietf-poly1305, password: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, udp: true}
+- {name: 🇩🇪 德国-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 35651, type: ss, cipher: chacha20-ietf-poly1305, password: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, udp: true}
+- {name: 🇮🇳 印度-上海电信 - 十元一年, server: happynewcloud-shanghaidianxinzhixian.fly64jfgwhale.xyz, port: 35571, type: ss, cipher: chacha20-ietf-poly1305, password: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, udp: true}
+- {name: 🇮🇳 印度-广州电信 - 十元一年, server: happynewcloud-guangzhoudianxin-1.fly64jfgwhale.xyz, port: 31541, type: ss, cipher: chacha20-ietf-poly1305, password: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, udp: true}
+- {name: 🇮🇳 印度-中华电信 - 十元一年, server: tw3.passwallwall.shop, port: 20000, type: vmess, uuid: 01ae22f2-0e34-4e24-b02c-6dc42e18bd56, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--wlru4x.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
