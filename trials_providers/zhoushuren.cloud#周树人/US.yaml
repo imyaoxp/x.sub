@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国-拉斯维加斯01 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 47561, type: ss, cipher: aes-256-gcm, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯02 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 19846, type: ss, cipher: aes-256-gcm, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-拉斯维加斯03 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 19846, type: ss, cipher: aes-256-gcm, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-纽约 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 7739, type: ss, cipher: aes-256-gcm, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-凤凰城01 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16569, type: ss, cipher: chacha20-ietf-poly1305, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-凤凰城02 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50250, type: ss, cipher: chacha20-ietf-poly1305, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-凤凰城03 US | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 26793, type: ss, cipher: chacha20-ietf-poly1305, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-迈阿密 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 29470, type: ss, cipher: chacha20-ietf-poly1305, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-丹佛 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38697, type: ss, cipher: chacha20-ietf-poly1305, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-俄勒冈 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 44275, type: ss, cipher: chacha20-ietf-poly1305, password: f2be1637-69ef-46de-a353-ae21305f2331, udp: true}
-- {name: 🇺🇸美国-芝加哥 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40830, type: trojan, password: f2be1637-69ef-46de-a353-ae21305f2331, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯01 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 47561, type: ss, cipher: aes-256-gcm, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯02 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 19846, type: ss, cipher: aes-256-gcm, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-拉斯维加斯03 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 19846, type: ss, cipher: aes-256-gcm, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-纽约 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 7739, type: ss, cipher: aes-256-gcm, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-凤凰城01 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 16569, type: ss, cipher: chacha20-ietf-poly1305, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-凤凰城02 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50250, type: ss, cipher: chacha20-ietf-poly1305, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-凤凰城03 US | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 26793, type: ss, cipher: chacha20-ietf-poly1305, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-迈阿密 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 29470, type: ss, cipher: chacha20-ietf-poly1305, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-丹佛 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38697, type: ss, cipher: chacha20-ietf-poly1305, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-俄勒冈 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 44275, type: ss, cipher: chacha20-ietf-poly1305, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, udp: true}
+- {name: 🇺🇸美国-芝加哥 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40830, type: trojan, password: 388f4043-49eb-4fa3-a48d-4f9f6441ce63, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
