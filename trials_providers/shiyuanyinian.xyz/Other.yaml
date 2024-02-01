@@ -1,6 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 邀请好友返利65% - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 87079f28-655e-4f0b-b51b-c0cbd28ce4fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
-- {name: TG群每日抽奖：t.me/shiyuanyinian - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 87079f28-655e-4f0b-b51b-c0cbd28ce4fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
-- {name: go.shiyuanyinian.xyz - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 87079f28-655e-4f0b-b51b-c0cbd28ce4fa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
+- {name: 邀请好友返利65% - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 2f6fb540-9e08-4bd1-9075-20b06af6f7eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}
+- {name: go.shiyuanyinian.xyz - 十元一年, server: tw3.passwallwall.shop, port: 1548, type: vmess, uuid: 2f6fb540-9e08-4bd1-9075-20b06af6f7eb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw3.passwallwall.shop, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: azure.com}}, udp: true}

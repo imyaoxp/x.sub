@@ -26,8 +26,8 @@ proxies:
 - {name: 🇺🇸美国-丹佛 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38697, type: ss, cipher: chacha20-ietf-poly1305, password: bbe0af6c-20ab-4b0f-9500-10e893e04caf, udp: true}
 - {name: 🇺🇸美国-俄勒冈 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 44275, type: ss, cipher: chacha20-ietf-poly1305, password: bbe0af6c-20ab-4b0f-9500-10e893e04caf, udp: true}
 - {name: 🇺🇸美国-芝加哥 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40830, type: trojan, password: bbe0af6c-20ab-4b0f-9500-10e893e04caf, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: 5b608034-b833-3675-abac-a1699a369abc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: 5b608034-b833-3675-abac-a1699a369abc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: 5482a2af-3759-38b3-97c0-f0c73a4a87c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: 5482a2af-3759-38b3-97c0-f0c73a4a87c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 01 - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
 - {name: 🇺🇸 美国 02 - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
 - {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
@@ -53,15 +53,15 @@ proxies:
 - {name: 🇺🇸 美国 / 华东 | 家宽 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: 76d24a1e-399d-4f8f-9fcf-2a295a170232, udp: true}
 - {name: 🇺🇸 美国 / 华南 | 家宽 - 小白云, server: usa5.iepl.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 76d24a1e-399d-4f8f-9fcf-2a295a170232, udp: true}
 - {name: 🇺🇸 US｜Overseas users - 小白云, server: 154.9.249.29, port: 35881, type: ss, cipher: aes-256-gcm, password: 76d24a1e-399d-4f8f-9fcf-2a295a170232, udp: true}
-- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 48560, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 48560, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 48560, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10658, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10658, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10658, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26681, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26681, type: trojan, password: c548cd53-e495-4a76-8d93-2c6655eafcd8, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 48560, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 48560, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 48560, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10658, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10658, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10658, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26681, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26681, type: trojan, password: 7469ff59-933e-442f-91bf-d7618e918a4b, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸<美国高速专线>-0.5x - 大湾区坤厂, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇺🇸<美国-奈飞>0.5x - 大湾区坤厂, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
 - {name: 🇺🇸<ChatGPT-流媒体>②-0.85倍 - 大湾区坤厂, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
@@ -116,7 +116,7 @@ proxies:
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gdct001.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7e126116-3a52-44f6-bf25-fc714d35a256, udp: true}
 - {name: 🇺🇸 vip1 美国-12 - FastFly, server: gdct003.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7e126116-3a52-44f6-bf25-fc714d35a256, udp: true}
 - {name: 🇺🇸 vip1 美国-13 - FastFly, server: shcm002.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7e126116-3a52-44f6-bf25-fc714d35a256, udp: true}
-- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: 254f4b3e-5f31-4dba-8a2c-1f2f2884276e, udp: true}
-- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 35662, type: ss, cipher: chacha20-ietf-poly1305, password: 254f4b3e-5f31-4dba-8a2c-1f2f2884276e, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: 6cb9d2d3-7db2-4329-b152-659892de8016, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 35662, type: ss, cipher: chacha20-ietf-poly1305, password: 6cb9d2d3-7db2-4329-b152-659892de8016, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: c32e7aa6-87a4-423e-a3ac-3bdd3422e192, udp: true}
 - {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 32103, type: trojan, password: c32e7aa6-87a4-423e-a3ac-3bdd3422e192, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
