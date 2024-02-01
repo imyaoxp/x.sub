@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴澳门02 MO | 0.8X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25029, type: ss, cipher: chacha20-ietf-poly1305, password: 0b47c5c0-f06c-4fae-ad4b-0242a600324c, udp: true}
-- {name: 🇨🇳中国 CN | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 37099, type: ss, cipher: chacha20-ietf-poly1305, password: 0b47c5c0-f06c-4fae-ad4b-0242a600324c, udp: true}
+- {name: 🇲🇴澳门01 MO | 2X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: c4576551-e6bc-49ac-a7df-6164409e01c7, udp: true}
+- {name: 🇲🇴澳门02 MO | 0.8X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25029, type: ss, cipher: chacha20-ietf-poly1305, password: c4576551-e6bc-49ac-a7df-6164409e01c7, udp: true}
