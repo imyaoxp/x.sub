@@ -26,8 +26,8 @@ proxies:
 - {name: 🇺🇸美国-丹佛 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 38697, type: ss, cipher: chacha20-ietf-poly1305, password: e524694e-86fc-453d-8d75-35fcebc1329f, udp: true}
 - {name: 🇺🇸美国-俄勒冈 US | 0.5X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 44275, type: ss, cipher: chacha20-ietf-poly1305, password: e524694e-86fc-453d-8d75-35fcebc1329f, udp: true}
 - {name: 🇺🇸美国-芝加哥 US | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 40830, type: trojan, password: e524694e-86fc-453d-8d75-35fcebc1329f, sni: lingche-zhijiage.588500.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: 2fb27e9b-25b2-3cbf-9fb5-b98bac158066, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: 2fb27e9b-25b2-3cbf-9fb5-b98bac158066, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: dd28e1f7-8da2-31e2-8202-e8ff4714cb32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: dd28e1f7-8da2-31e2-8202-e8ff4714cb32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 01 - V2Link, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
 - {name: 🇺🇸 美国 02 - V2Link, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
 - {name: 🇺🇸 美国 03 - V2Link, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: dcadcb2a-e9ea-47c8-8b19-9a6bc34e886f, udp: true}
@@ -116,7 +116,7 @@ proxies:
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gdct001.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 41ddeebc-6fbc-4f86-a6f8-75664d713bed, udp: true}
 - {name: 🇺🇸 vip1 美国-12 - FastFly, server: gdct003.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 41ddeebc-6fbc-4f86-a6f8-75664d713bed, udp: true}
 - {name: 🇺🇸 vip1 美国-13 - FastFly, server: shcm002.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 41ddeebc-6fbc-4f86-a6f8-75664d713bed, udp: true}
-- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: bf2c6556-fe62-480a-b907-47a65a30a3a1, udp: true}
-- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 35662, type: ss, cipher: chacha20-ietf-poly1305, password: bf2c6556-fe62-480a-b907-47a65a30a3a1, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 37e95559-a458-4d78-baaf-4dbe2cfd84d3, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 32103, type: trojan, password: 37e95559-a458-4d78-baaf-4dbe2cfd84d3, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: 5a3b6863-8020-47d7-bd3d-4842d29e9351, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 35662, type: ss, cipher: chacha20-ietf-poly1305, password: 5a3b6863-8020-47d7-bd3d-4842d29e9351, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 3dc60778-5225-4975-8424-6f417e30052b, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 32103, type: trojan, password: 3dc60778-5225-4975-8424-6f417e30052b, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
