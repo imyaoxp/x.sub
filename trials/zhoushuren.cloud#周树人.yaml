@@ -45,7 +45,8 @@ proxy-groups:
   - 🇭🇰香港07 HK | 1X - 周树人Cloud
   - 🇭🇰香港08 HK | 0.2X - 周树人Cloud
   - 🇭🇰香港09 HK | 1X - 周树人Cloud
-  - 🇹🇼台湾家宽 TW | 1X - 周树人Cloud
+  - 🇹🇼台湾家宽01 TW | 1X - 周树人Cloud
+  - 🇹🇼台湾家宽02 TW | 1X - 周树人Cloud
   - 🇹🇼台湾02 TW | 0.6X - 周树人Cloud
   - 🇹🇼台湾03 TW | 1X - 周树人Cloud
   - 🇸🇬新加坡01 SG | 1X - 周树人Cloud
@@ -276,7 +277,8 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼台湾家宽 TW | 1X - 周树人Cloud
+  - 🇹🇼台湾家宽01 TW | 1X - 周树人Cloud
+  - 🇹🇼台湾家宽02 TW | 1X - 周树人Cloud
   - 🇹🇼台湾02 TW | 0.6X - 周树人Cloud
   - 🇹🇼台湾03 TW | 1X - 周树人Cloud
 - name: 🇨🇳 ‍中国
@@ -298,7 +300,8 @@ proxy-groups:
   - 🇭🇰香港07 HK | 1X - 周树人Cloud
   - 🇭🇰香港08 HK | 0.2X - 周树人Cloud
   - 🇭🇰香港09 HK | 1X - 周树人Cloud
-  - 🇹🇼台湾家宽 TW | 1X - 周树人Cloud
+  - 🇹🇼台湾家宽01 TW | 1X - 周树人Cloud
+  - 🇹🇼台湾家宽02 TW | 1X - 周树人Cloud
   - 🇹🇼台湾02 TW | 0.6X - 周树人Cloud
   - 🇹🇼台湾03 TW | 1X - 周树人Cloud
   - 🇲🇴澳门01 MO | 2X - 周树人Cloud
@@ -522,7 +525,8 @@ proxies:
 - {name: 🇭🇰香港09 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
 - {name: 🇲🇴澳门01 MO | 2X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
 - {name: 🇲🇴澳门02 MO | 0.8X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25029, type: ss, cipher: chacha20-ietf-poly1305, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
-- {name: 🇹🇼台湾家宽 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
+- {name: 🇹🇼台湾家宽01 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
+- {name: 🇹🇼台湾家宽02 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 23489, type: ss, cipher: chacha20-ietf-poly1305, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
 - {name: 🇹🇼台湾02 TW | 0.6X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31318, type: ss, cipher: aes-256-gcm, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
 - {name: 🇹🇼台湾03 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22417, type: ss, cipher: aes-256-gcm, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
 - {name: 🇯🇵日本-东京 JP | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25028, type: ss, cipher: chacha20-ietf-poly1305, password: 29026e90-1494-4141-8582-fbd90e2508d4, udp: true}
