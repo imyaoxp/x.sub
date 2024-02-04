@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼台湾家宽 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: 514986f6-cb3f-4ca2-bb8d-1759719ea1a4, udp: true}
-- {name: 🇹🇼台湾02 TW | 0.6X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31318, type: ss, cipher: aes-256-gcm, password: 514986f6-cb3f-4ca2-bb8d-1759719ea1a4, udp: true}
-- {name: 🇹🇼台湾03 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22417, type: ss, cipher: aes-256-gcm, password: 514986f6-cb3f-4ca2-bb8d-1759719ea1a4, udp: true}
+- {name: 🇹🇼台湾家宽 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: 35fd2590-e157-40d6-ae3f-731ca4839c73, udp: true}
+- {name: 🇹🇼台湾02 TW | 0.6X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31318, type: ss, cipher: aes-256-gcm, password: 35fd2590-e157-40d6-ae3f-731ca4839c73, udp: true}
+- {name: 🇹🇼台湾03 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22417, type: ss, cipher: aes-256-gcm, password: 35fd2590-e157-40d6-ae3f-731ca4839c73, udp: true}
