@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本-东京 JP | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25028, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇯🇵日本-大阪 JP | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22416, type: ss, cipher: aes-256-gcm, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
+- {name: 🇯🇵日本-东京 JP | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25028, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇯🇵日本-大阪 JP | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22416, type: ss, cipher: aes-256-gcm, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}

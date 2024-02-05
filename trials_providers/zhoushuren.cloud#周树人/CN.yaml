@@ -1,23 +1,23 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰香港-实验性 HK | 0.2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 1117, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港-公益服 HK | 0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰HK-免流-1|非80|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 49584, type: vmess, uuid: 5104a3e2-13f8-4820-95b2-7a5274300d79, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-- {name: 🇭🇰HK-免流-2|非80|0.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 14981, type: vmess, uuid: 5104a3e2-13f8-4820-95b2-7a5274300d79, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
-- {name: 🇭🇰香港01 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港02 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港03 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港04 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港05 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港06 HK | 0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港07 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港08 HK | 0.2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50006, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇭🇰香港09 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇲🇴澳门01 MO | 2X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇲🇴澳门02 MO | 0.8X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25029, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇹🇼台湾家宽01 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇹🇼台湾家宽02 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 23489, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇹🇼台湾02 TW | 0.6X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31318, type: ss, cipher: aes-256-gcm, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇹🇼台湾03 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22417, type: ss, cipher: aes-256-gcm, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
-- {name: 🇨🇳中国 CN | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 37099, type: ss, cipher: chacha20-ietf-poly1305, password: 5104a3e2-13f8-4820-95b2-7a5274300d79, udp: true}
+- {name: 🇭🇰香港-实验性 HK | 0.2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 1117, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港-公益服 HK | 0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 33620, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰HK-免流-1|非80|0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 49584, type: vmess, uuid: dac27310-baca-4783-a217-bc64c6cec64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+- {name: 🇭🇰HK-免流-2|非80|0.3X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 14981, type: vmess, uuid: dac27310-baca-4783-a217-bc64c6cec64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gw.alicdn.com}}, udp: true}
+- {name: 🇭🇰香港01 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港02 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港03 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港04 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 45024, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港05 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港06 HK | 0.5X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港07 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港08 HK | 0.2X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 50006, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇭🇰香港09 HK | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 39960, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇲🇴澳门01 MO | 2X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 20796, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇲🇴澳门02 MO | 0.8X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 25029, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇹🇼台湾家宽01 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇹🇼台湾家宽02 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 23489, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇹🇼台湾02 TW | 0.6X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 31318, type: ss, cipher: aes-256-gcm, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇹🇼台湾03 TW | 1X - 周树人Cloud, server: sijiache.nmslsbgfw.top, port: 22417, type: ss, cipher: aes-256-gcm, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
+- {name: 🇨🇳中国 CN | 1X - 周树人Cloud, server: shdxsjc.nmslsbgfw.top, port: 37099, type: ss, cipher: chacha20-ietf-poly1305, password: dac27310-baca-4783-a217-bc64c6cec64e, udp: true}
