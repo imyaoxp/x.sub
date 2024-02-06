@@ -116,7 +116,7 @@ proxies:
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gdct001.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: f5e296dc-ed98-4eee-b4cf-aad5f626db28, udp: true}
 - {name: 🇺🇸 vip1 美国-12 - FastFly, server: gdct003.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: f5e296dc-ed98-4eee-b4cf-aad5f626db28, udp: true}
 - {name: 🇺🇸 vip1 美国-13 - FastFly, server: shcm002.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: f5e296dc-ed98-4eee-b4cf-aad5f626db28, udp: true}
-- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: 136e7d85-4e5a-41a8-a909-9a84e1acc9ae, udp: true}
-- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 35662, type: ss, cipher: chacha20-ietf-poly1305, password: 136e7d85-4e5a-41a8-a909-9a84e1acc9ae, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: d69ffbcd-1f7c-46dc-8702-79efcb134e98, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 35662, type: ss, cipher: chacha20-ietf-poly1305, password: d69ffbcd-1f7c-46dc-8702-79efcb134e98, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 9564c22b-9317-4052-8533-756669a96320, udp: true}
 - {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 32103, type: trojan, password: 9564c22b-9317-4052-8533-756669a96320, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
