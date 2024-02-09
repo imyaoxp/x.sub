@@ -15,5 +15,5 @@ proxies:
 - {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133217:CfXbun, obfs-param: '513dd133217.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
-- {name: ℹ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 011e0ec2-0be6-4509-ae63-d45a93a5babb, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 011e0ec2-0be6-4509-ae63-d45a93a5babb, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 17c912e6-351d-4b5b-9f80-50b6e67a08af, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: ℹ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 17c912e6-351d-4b5b-9f80-50b6e67a08af, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
