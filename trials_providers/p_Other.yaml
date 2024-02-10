@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 请使用clash Meta内核的客户端 - 养老机场-Reality-Hy-Hy2, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 1345b99b-15e1-4d9b-a3b5-1f79c135af19, udp: true}
+- {name: ℹ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: b37d173f-eec8-45d1-bdff-9b997682e87e, udp: true}
 - {name: ℹ 请使用clash Meta内核的客户端 - 飞鸟Reality🐔场, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ 新网址：sockboom.buzz - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 官网：www.kyjs.xyz（非节点） - 快云, server: hzct.hnytkm.com, port: 58286, type: vmess, uuid: 832b26b6-1c65-36d7-9e61-c90a8463b126, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -15,5 +15,5 @@ proxies:
 - {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133217:CfXbun, obfs-param: '513dd133217.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 用不了更新订阅或重新导入 - 鸡鸡云, server: jjyhk.com, port: 24910, type: ss, cipher: chacha20-ietf-poly1305, password: 21f705ff-3dda-4f7e-8e0e-2f2fb3eeda3c, udp: true}
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区坤厂, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 2ca78e40-f58b-4041-b6b4-4300e5a6fc66, udp: true}
-- {name: ℹ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 9cb39152-3703-4990-ae82-40e055eb28ba, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 9cb39152-3703-4990-ae82-40e055eb28ba, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: a3a1995c-8c04-4d3c-a678-c9f0d1c8728b, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: ℹ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: a3a1995c-8c04-4d3c-a678-c9f0d1c8728b, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
