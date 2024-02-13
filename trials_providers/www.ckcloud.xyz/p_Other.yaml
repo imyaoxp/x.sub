@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: afca1687-a407-4408-8aa6-d38ae817a7ab, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: afca1687-a407-4408-8aa6-d38ae817a7ab, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 6aeeeff6-edd7-4f15-8b8a-4715714532f9, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: ℹ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 6aeeeff6-edd7-4f15-8b8a-4715714532f9, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
