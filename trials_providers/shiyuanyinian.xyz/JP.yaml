@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP-Direct - 十元一年, server: JP-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: 0b6642a0-b7d7-4518-95fa-772b95f8fcb9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: JP-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER322221T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇯🇵 JP-Direct - 十元一年, server: JP-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: fbe9bbee-becd-4326-9dc2-043ec0e84177, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: JP-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER322221T, headers: {Host: bing.com}}, udp: true}
