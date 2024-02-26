@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 10000, type: vmess, uuid: 34d1f7d5-7f46-4490-8350-a44d92d616ef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇭🇰 香港-台湾中转 - 十元一年, server: tw3.passwallwall.shop, port: 10000, type: vmess, uuid: bf1bc6ea-f5a5-4893-9e62-c2141d8e4db5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--j6w193g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
