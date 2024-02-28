@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-全解锁-D - 十元一年, server: US2-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: 3d46a45b-ae40-4a6e-9321-01b5083b5956, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: US2-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3212221T, headers: {Host: bing.com}}, udp: true}
-- {name: 🇺🇸 美国-台湾中转-全 - 十元一年, server: tw3.passwallwall.shop, port: 31375, type: vmess, uuid: 3d46a45b-ae40-4a6e-9321-01b5083b5956, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--vcsx75g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇺🇸 美国-全解锁-D - 十元一年, server: US2-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: 192aab98-2599-4fef-be6c-7a946d305ee4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: US2-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3212221T, headers: {Host: bing.com}}, udp: true}
+- {name: 🇺🇸 美国-台湾中转-全 - 十元一年, server: tw3.passwallwall.shop, port: 31375, type: vmess, uuid: 192aab98-2599-4fef-be6c-7a946d305ee4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--vcsx75g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
