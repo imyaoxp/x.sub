@@ -19,7 +19,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 您的客户端不支持 - 飞鸟Reality🐔场
-  - ℹ 请使用clash Meta内核的客户端 - 飞鸟Reality🐔场
+  - ℹ️ 请使用clash Meta内核的客户端 - 飞鸟Reality🐔场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -55,7 +55,7 @@ proxy-groups:
   proxies: *id001
 proxies:
 - {name: 您的客户端不支持 - 飞鸟Reality🐔场, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ 请使用clash Meta内核的客户端 - 飞鸟Reality🐔场, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 请使用clash Meta内核的客户端 - 飞鸟Reality🐔场, server: 1.1.1.1, port: 80, type: vmess, uuid: aaaaaaaa-bbbb-cccc-cccc-dddddddddddd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
