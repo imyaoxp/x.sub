@@ -68,7 +68,7 @@ def _sc_config_url():
             sha = data['object']['sha']
         except KeyError:
             raise Exception(data)
-        return f'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini'
+        return f'https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix.ini'
     except Exception as e:
         raise Exception(f'_get_sc_config_url: 获取订阅转换配置链接失败: {e}')
 
