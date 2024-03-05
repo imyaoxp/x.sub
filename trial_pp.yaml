@@ -17,12 +17,12 @@ proxy-groups:
   tolerance: 100
   use: &id001
   - p_All
-  - Other
   - HK
-  - JP
-  - SG
   - TW
+  - SG
+  - JP
   - US
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -66,38 +66,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
   HK:
     type: http
     url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/HK.yaml
     interval: 180
     path: trials_providers/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/SG.yaml
-    interval: 180
-    path: trials_providers/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -111,11 +84,38 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/SG.yaml
+    interval: 180
+    path: trials_providers/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/JP.yaml
+    interval: 180
+    path: trials_providers/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   US:
     type: http
     url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/US.yaml
     interval: 180
     path: trials_providers/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/Other.yaml
+    interval: 180
+    path: trials_providers/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
