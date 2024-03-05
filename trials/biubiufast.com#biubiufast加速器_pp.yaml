@@ -53,9 +53,9 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/proxyvip.xyz/All.yaml
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/biubiufast.com#biubiufast加速器/All.yaml
     interval: 180
-    path: trials_providers/proxyvip.xyz/All.yaml
+    path: trials_providers/biubiufast.com#biubiufast加速器/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
