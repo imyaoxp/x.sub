@@ -1,17 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 导航网址：https://proxyvip.github.io - Proxyvip, server: cqyyds.76po.com, port: 31001, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31015, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31016, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪德国中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31017, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: de-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳印度中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31018, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: in-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺澳大利亚中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31019, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: au-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦加拿大中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33015, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ca-01.v4vip.top, udp: true}
-- {name: 🇬🇧英国中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33016, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gb-01.v4vip.top, udp: true}
-- {name: 🇩🇪德国中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33017, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de-01.v4vip.top, udp: true}
-- {name: 🇮🇳印度中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33018, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: in-01.v4vip.top, udp: true}
-- {name: 🇦🇺澳大利亚中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33019, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: au-01.v4vip.top, udp: true}
 - {name: '🇩🇪 德国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare01.bigmeyear.org, port: 20702, type: ss, cipher: aes-128-gcm, password: b59dfaf2-c430-430b-a075-756964e88592, udp: true}
 - {name: '🇬🇧 英国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare02.bigmeyear.org, port: 20703, type: ss, cipher: aes-128-gcm, password: b59dfaf2-c430-430b-a075-756964e88592, udp: true}
 - {name: ℹ 官网：www.strongswans.net - 一机场, server: frontend.yijianlian.app, port: 54570, type: trojan, password: b73b3b90-63d8-49f4-a00e-02af7d937632, skip-cert-verify: true, udp: true}
@@ -20,20 +9,3 @@ proxies:
 - {name: 🇦🇺 Australia-澳大利亚 - 一机场, server: frontend.yijianlian.app, port: 54590, type: trojan, password: b73b3b90-63d8-49f4-a00e-02af7d937632, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 UK-英国 - 一机场, server: frontend.yijianlian.app, port: 54000, type: trojan, password: b73b3b90-63d8-49f4-a00e-02af7d937632, skip-cert-verify: true, udp: true}
 - {name: 🇨🇦 Canada-加拿大 - 一机场, server: frontend.yijianlian.app, port: 54001, type: trojan, password: b73b3b90-63d8-49f4-a00e-02af7d937632, skip-cert-verify: true, udp: true}
-- {name: ℹ️ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: node000001.likeone.lol, port: 16343, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: node000003.likeone.lol, port: 16343, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: node000005.likeone.lol, port: 16343, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: node000001.likeone.lol, port: 16343, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度01【vip1】 - JCBB, server: node000005.likeone.lol, port: 26094, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: node000001.likeone.lol, port: 26094, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 JCBB_ 印度03【vip1】 - JCBB, server: node000003.likeone.lol, port: 26094, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国01【vip1】 - JCBB, server: node000005.likeone.lol, port: 42840, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: node000001.likeone.lol, port: 42840, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 JCBB_ 英国03【vip1】 - JCBB, server: node000003.likeone.lol, port: 42840, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: node000003.likeone.lol, port: 53279, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: node000005.likeone.lol, port: 53279, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 JCBB_德国03【vip1】 - JCBB, server: node000001.likeone.lol, port: 53279, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: node000001.likeone.lol, port: 60293, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: node000003.likeone.lol, port: 60293, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB, server: node000005.likeone.lol, port: 60293, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}

@@ -10,21 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -32,6 +18,14 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - ℹ️ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB
+  - ℹ️ 国外永久跳转域名 https://jcbbs.shop - JCBB
+  - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB
   - 🇭🇰 JCBB_香港01【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -44,35 +38,18 @@ proxy-groups:
   - 🇭🇰 JCBB_香港10【vip1】 - JCBB
   - 🇭🇰 JCBB_香港12【vip1】 - JCBB
   - 🇭🇰 JCBB_香港13【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB
   - 🇯🇵 JCBB_日本01【vip1】 - JCBB
   - 🇯🇵 JCBB_日本02【vip1】 - JCBB
   - 🇯🇵 JCBB_日本03【vip1】 - JCBB
   - 🇯🇵 JCBB_日本04【vip1】 - JCBB
   - 🇯🇵 JCBB_日本05【vip1】 - JCBB
   - 🇯🇵 JCBB_日本06【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国05【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国06【vip1】 - JCBB
-  - ℹ️ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB
-  - ℹ️ 国外永久跳转域名 https://jcbbs.shop - JCBB
+  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
   - 🇻🇳 JCBB_越南 01【vip1】 - JCBB
   - 🇻🇳 JCBB_越南 02【vip1】 - JCBB
   - 🇻🇳 JCBB_越南 03【vip1】 - JCBB
@@ -88,6 +65,18 @@ proxy-groups:
   - 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB
   - 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB
   - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国05【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国06【vip1】 - JCBB
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -103,30 +92,14 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -134,146 +107,6 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港03【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港04【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港05【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港06【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 07【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 08【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 09【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港10【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港12【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港13【vip1】 - JCBB
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港03【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港04【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港05【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港06【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 07【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 08【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港 09【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港10【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港12【vip1】 - JCBB
-  - 🇭🇰 JCBB_香港13【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 03【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 04【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB
-  - 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 JCBB_日本01【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本02【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本03【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本04【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本05【vip1】 - JCBB
-  - 🇯🇵 JCBB_日本06【vip1】 - JCBB
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id007
-  - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB
-  - 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国05【vip1】 - JCBB
-  - 🇺🇸 JCBB_美国06【vip1】 - JCBB
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id008
-  - ℹ️ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB
-  - ℹ️ 国外永久跳转域名 https://jcbbs.shop - JCBB
-  - 🇻🇳 JCBB_越南 01【vip1】 - JCBB
-  - 🇻🇳 JCBB_越南 02【vip1】 - JCBB
-  - 🇻🇳 JCBB_越南 03【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度01【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度02【vip1】 - JCBB
-  - 🇮🇳 JCBB_ 印度03【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国01【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国02【vip1】 - JCBB
-  - 🇬🇧 JCBB_ 英国03【vip1】 - JCBB
-  - 🇩🇪 JCBB_德国01【vip1】 - JCBB
-  - 🇩🇪 JCBB_德国02【vip1】 - JCBB
-  - 🇩🇪 JCBB_德国03【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB
-  - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id007
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id008
 proxies:
 - {name: ℹ️ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: node000001.likeone.lol, port: 16343, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
