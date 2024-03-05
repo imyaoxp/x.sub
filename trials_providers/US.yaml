@@ -2,11 +2,48 @@
 ---
 proxies:
 - {name: 🇺🇸 USA-德州-1(Trojan) - 麻雀加速器 Sparrow, server: us1.n305.dynu.net, port: 16389, type: trojan, password: 351ec5ba-6dda-4716-aa52-1d6482071417, sni: us1.n305.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq1.pw, port: 10443, type: trojan, password: 1d95a5ac-767b-35f6-9a10-1e949343d642, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq1.pw, port: 20443, type: trojan, password: 1d95a5ac-767b-35f6-9a10-1e949343d642, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq1.pw, port: 30443, type: trojan, password: 1d95a5ac-767b-35f6-9a10-1e949343d642, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 🚮美国4 - 乐色机场, server: dd.xn--sxqu35b.xn--fiqs8s, port: 5394, type: ss, cipher: chacha20-ietf-poly1305, password: af912eaa-1d6a-47f1-958e-2e0fa053f545, udp: true}
+- {name: 🇺🇸 🚮美国3 - 乐色机场, server: gy.lanxingyun.cn, port: 13163, type: ss, cipher: chacha20-ietf-poly1305, password: af912eaa-1d6a-47f1-958e-2e0fa053f545, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: 43db32e2-def3-477b-884b-dfe6aab3e008, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11303, type: trojan, password: 43db32e2-def3-477b-884b-dfe6aab3e008, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31006, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31007, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31008, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: cqyyds.76po.com, port: 31009, type: trojan, password: d45b58a3-f273-4b1d-ae07-20f3a0e88041, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅰ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33006, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-01.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅱ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33007, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-02.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅲ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33008, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-03.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅳ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33009, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
+- {name: 🇺🇸美国中继Ⅴ-V2ray - Proxyvip, server: sz.zj.my.76po.com, port: 33010, type: vmess, uuid: d45b58a3-f273-4b1d-ae07-20f3a0e88041, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-04.v4vip.top, udp: true}
+- {name: 🇺🇸 vip1 美国-01 - FastFly, server: node000001.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- {name: 🇺🇸 vip1 美国-02 - FastFly, server: node000003.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- {name: 🇺🇸 vip1 美国-03 - FastFly, server: node000005.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- {name: 🇺🇸 vip1 美国-06 - FastFly, server: node000001.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- {name: 🇺🇸 vip1 美国-07 - FastFly, server: node000003.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- {name: 🇺🇸 vip1 美国-08 - FastFly, server: node000005.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: node000001.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- {name: 🇺🇸 vip1 美国-12 - FastFly, server: node000003.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- {name: 🇺🇸 vip1 美国-13 - FastFly, server: node000005.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: e0a1daf5-fd3b-489c-a9b1-51c0e8eb4a1c, udp: true}
+- &id001 {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq1.pw, port: 10443, type: trojan, password: 1d95a5ac-767b-35f6-9a10-1e949343d642, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- &id002 {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq1.pw, port: 20443, type: trojan, password: 1d95a5ac-767b-35f6-9a10-1e949343d642, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- &id003 {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq1.pw, port: 30443, type: trojan, password: 1d95a5ac-767b-35f6-9a10-1e949343d642, sni: lavip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- *id001
+- *id002
+- *id003
+- {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: b0a76296-4a3a-427f-9324-a062b483903d, udp: true}
+- {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: b0a76296-4a3a-427f-9324-a062b483903d, udp: true}
+- {name: 🇺🇸 美国 / US｜BIZ - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: b0a76296-4a3a-427f-9324-a062b483903d, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 38ae35f7-217b-3c6e-86e6-da518d63b47e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
 - {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 38ae35f7-217b-3c6e-86e6-da518d63b47e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- &id004 {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id006 {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id007 {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- &id008 {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- &id009 {name: 🇺🇸 中转•美国46•原生 - 飞翔吧, server: gy.58n.net, port: 14846, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
+- &id010 {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id011 {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id012 {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 Game 美国01-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9873, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: dcaf289316.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国02-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 821, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: dcaf289316.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 903, type: ss, cipher: aes-128-gcm, password: ay2l23ud1, plugin: obfs, plugin-opts: {mode: http, host: dcaf289316.download.windowsupdate.com}, udp: true}
@@ -19,24 +56,43 @@ proxies:
 - {name: 🇺🇸 Web 美国I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: dcaf289316.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国II-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: dcaf289316.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国III-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: dcaf289316.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 35.88.72.159, port: 443, type: trojan, password: cbaeb05b-9b28-33f0-8d54-eb061506d9bd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5480, type: trojan, password: cbaeb05b-9b28-33f0-8d54-eb061506d9bd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3494, type: trojan, password: cbaeb05b-9b28-33f0-8d54-eb061506d9bd, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 11Fu5wqgQQ04kHtW, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 11Fu5wqgQQ04kHtW, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 11Fu5wqgQQ04kHtW, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 11Fu5wqgQQ04kHtW, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 11Fu5wqgQQ04kHtW, udp: true}
+- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: 11Fu5wqgQQ04kHtW, udp: true}
+- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: 11Fu5wqgQQ04kHtW, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 35.88.72.159, port: 443, type: trojan, password: 74effb53-0767-38f2-b492-b79566d6e9d6, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5480, type: trojan, password: 74effb53-0767-38f2-b492-b79566d6e9d6, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3494, type: trojan, password: 74effb53-0767-38f2-b492-b79566d6e9d6, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: '🇺🇸 美国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us01.bigmeyear.org, port: 30238, type: ss, cipher: aes-128-gcm, password: b59dfaf2-c430-430b-a075-756964e88592, udp: true}
 - {name: '🇺🇸 美国02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us02.bigmeyear.org, port: 30240, type: ss, cipher: aes-128-gcm, password: b59dfaf2-c430-430b-a075-756964e88592, udp: true}
 - {name: '🇺🇸 美国03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us03.bigmeyear.org, port: 30241, type: ss, cipher: aes-128-gcm, password: b59dfaf2-c430-430b-a075-756964e88592, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: dl5.fanqiecloud.top, port: 2086, type: vmess, uuid: ae53ccbd-c551-41b0-a652-6563298459d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-us3.fanqiecloud.top}}, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us.fanqiecloud.top, port: 28252, type: ss, cipher: chacha20-ietf-poly1305, password: ae53ccbd-c551-41b0-a652-6563298459d2, udp: true}
+- {name: 🇺🇸 America 3 - 番茄云, server: us2.fanqiecloud.top, port: 23553, type: ss, cipher: chacha20-ietf-poly1305, password: ae53ccbd-c551-41b0-a652-6563298459d2, udp: true}
 - {name: 🇺🇸 美国-全解锁-D - 十元一年, server: US3-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, port: 4591, type: vmess, uuid: 4b2e473b-981b-475f-8412-9c4b708cce68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: US3-Direct-Uuw5tkPYXwxSlzJG.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3212221T, headers: {Host: bing.com}}, udp: true}
 - {name: 🇺🇸 美国-台湾中转-全 - 十元一年, server: tw3.passwallwall.shop, port: 31375, type: vmess, uuid: 4b2e473b-981b-475f-8412-9c4b708cce68, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xn--vcsx75g.fly64jfgwhale.xyz, network: ws, ws-opts: {path: /WER3R21T, headers: {Host: bing.com}}, udp: true}
 - {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: 3ed55410-fbd2-30dd-8ff6-084f5ccefe11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: 3ed55410-fbd2-30dd-8ff6-084f5ccefe11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 1183aeab-2c53-446c-b0f0-a861b8fc0067, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us4.doushimeng.free.hr}}, udp: true}
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国46•原生 - 飞翔吧, server: gy.58n.net, port: 14846, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 0b533636-8bb8-37c4-a8c2-069737cbe47e, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: node000001.likeone.lol, port: 48560, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: node000003.likeone.lol, port: 48560, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: node000005.likeone.lol, port: 48560, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: node000005.likeone.lol, port: 10658, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: node000003.likeone.lol, port: 10658, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB, server: node000001.likeone.lol, port: 10658, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: node000005.likeone.lol, port: 26681, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: node000001.likeone.lol, port: 26681, type: trojan, password: 074505b2-e9ac-4f1a-b891-7e20f96a3098, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20179:3YaBjN, obfs-param: 1faee20179.microsoft.com, udp: true}

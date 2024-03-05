@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇨🇦 🚮加拿大 - 乐色机场, server: gy.lanxingyun.cn, port: 35613, type: ss, cipher: chacha20-ietf-poly1305, password: af912eaa-1d6a-47f1-958e-2e0fa053f545, udp: true}
