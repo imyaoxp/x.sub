@@ -19,7 +19,6 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 🇭🇰 中转•香港301•高速 - 飞翔吧
-  - 🇹🇼 广港•台湾258•高速 - 飞翔吧
   - 🇭🇰 广港•香港143•高速 - 飞翔吧
   - 🇭🇰 广港•香港269•高速 - 飞翔吧
   - 🇭🇰 广港•香港294•高速 - 飞翔吧
@@ -101,7 +100,6 @@ proxy-groups:
   - 💩 ‍广告
 proxies:
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: ae85a949-598f-3bc3-b642-2c8053f6151b, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gy.58n.net, port: 17629, type: trojan, password: ae85a949-598f-3bc3-b642-2c8053f6151b, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: ae85a949-598f-3bc3-b642-2c8053f6151b, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: ae85a949-598f-3bc3-b642-2c8053f6151b, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: ae85a949-598f-3bc3-b642-2c8053f6151b, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
