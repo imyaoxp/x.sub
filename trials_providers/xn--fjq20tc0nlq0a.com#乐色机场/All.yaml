@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 🚮香港 - 乐色机场, server: gy.lanxingyun.cn, port: 39210, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
-- {name: 🇭🇰 🚮香港3 - 乐色机场, server: lsgy.lanxingyun.cn, port: 39210, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
-- {name: 🇯🇵 🚮日本2 - 乐色机场, server: gy.lanxingyun.cn, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
-- {name: 🇯🇵 🚮日本3 - 乐色机场, server: lsgy.lanxingyun.cn, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
-- {name: 🇺🇸 🚮美国4 - 乐色机场, server: gy.lanxingyun.cn, port: 13163, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
-- {name: 🇺🇸 🚮美国3 - 乐色机场, server: lsgy.lanxingyun.cn, port: 13163, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
-- {name: 🇨🇦 🚮加拿大 - 乐色机场, server: gy.lanxingyun.cn, port: 35613, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
-- {name: 🇸🇬 🚮新加坡 - 乐色机场, server: gy.lanxingyun.cn, port: 35791, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
-- {name: 🇸🇬 🚮新加坡2 - 乐色机场, server: lsgy.lanxingyun.cn, port: 35791, type: ss, cipher: chacha20-ietf-poly1305, password: c43e9b2f-27ec-424b-852b-8e71ddd92125, udp: true}
+- {name: 🇭🇰 🚮香港 - 乐色机场, server: gy.lanxingyun.cn, port: 39210, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
+- {name: 🇭🇰 🚮香港3 - 乐色机场, server: lsgy.lanxingyun.cn, port: 39210, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
+- {name: 🇯🇵 🚮日本2 - 乐色机场, server: gy.lanxingyun.cn, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
+- {name: 🇯🇵 🚮日本3 - 乐色机场, server: lsgy.lanxingyun.cn, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
+- {name: 🇺🇸 🚮美国4 - 乐色机场, server: gy.lanxingyun.cn, port: 13163, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
+- {name: 🇺🇸 🚮美国3 - 乐色机场, server: lsgy.lanxingyun.cn, port: 13163, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
+- {name: 🇨🇦 🚮加拿大 - 乐色机场, server: gy.lanxingyun.cn, port: 35613, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
+- {name: 🇸🇬 🚮新加坡 - 乐色机场, server: gy.lanxingyun.cn, port: 35791, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
+- {name: 🇸🇬 🚮新加坡2 - 乐色机场, server: lsgy.lanxingyun.cn, port: 35791, type: ss, cipher: chacha20-ietf-poly1305, password: b44b6526-eb18-47a8-a11b-d9bf91a5aebc, udp: true}
