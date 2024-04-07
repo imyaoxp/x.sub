@@ -18,14 +18,9 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly
-  - ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly
   - 🇯🇵 vip1 日本-01 - FastFly
   - 🇯🇵 vip1 日本-02 - FastFly
   - 🇯🇵 vip1 日本-03 - FastFly
-  - 🇯🇵 vip1 日本-06 - FastFly
-  - 🇯🇵 vip1 日本-07 - FastFly
-  - 🇯🇵 vip1 日本-08 - FastFly
   - 🇭🇰 vip1 香港-01 - FastFly
   - 🇭🇰 vip1 香港-02 - FastFly
   - 🇭🇰 vip1 香港-03 - FastFly
@@ -114,14 +109,9 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
-- {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
 - {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
 - {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
 - {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
 - {name: 🇭🇰 vip1 香港-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: b2f07159-2849-4ebb-a9a7-383a84d3f72a, udp: true}
