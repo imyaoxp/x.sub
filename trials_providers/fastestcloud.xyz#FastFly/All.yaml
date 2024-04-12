@@ -54,9 +54,9 @@ proxies:
 - {name: 🇦🇺 vip1 澳大利亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
 - {name: 🇦🇺 vip1 澳大利亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
 - {name: 🇦🇺 vip1 澳大利亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
-- {name: 🇹🇷 vip1 土耳其-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15762, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
-- {name: 🇹🇷 vip1 土耳其-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15762, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
-- {name: 🇹🇷 vip1 土耳其-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15762, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
+- {name: 🇹🇷 vip1 土耳其-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 vip1 土耳其-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 vip1 土耳其-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 vip1 德国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
 - {name: 🇩🇪 vip1 德国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
 - {name: 🇩🇪 vip1 德国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: 7fc19727-9310-4579-ac9e-aad8b4330c9b, udp: true}
