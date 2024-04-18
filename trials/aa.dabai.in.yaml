@@ -60,14 +60,14 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇺🇸 美国|【清明活动7折进行中】前往网站订购|公益 - 大白, server: 104.18.236.73, port: 2095, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.236.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|公益 - 大白, server: 104.17.205.94, port: 2082, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.205.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|公益 - 大白, server: 104.17.95.115, port: 2095, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.95.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|公益 - 大白, server: 104.17.147.225, port: 2082, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.147.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|公益 - 大白, server: 104.17.117.152, port: 80, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.117.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【提供套餐】免费/按量不限时/不按量限时|GPT+流媒体|公益 - 大白, server: 104.19.6.98, port: 80, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.6.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【邀请用户】|最高返还40%|GPT+流媒体|公益 - 大白, server: 104.18.181.63, port: 2095, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-4.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.181.cn-db.top}}, udp: true}
-- {name: '🇺🇸 美国|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 104.19.145.193, port: 80, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-4.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.145.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【清明活动7折进行中】前往网站订购|公益 - 大白, server: 104.18.173.220, port: 8080, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.173.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|公益 - 大白, server: 104.20.68.178, port: 2086, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.68.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|公益 - 大白, server: 104.17.219.19, port: 2052, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.219.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|公益 - 大白, server: 104.18.91.84, port: 2095, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.91.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|公益 - 大白, server: 104.16.124.120, port: 2086, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.124.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【提供套餐】免费/按量不限时/不按量限时|GPT+流媒体|公益 - 大白, server: 104.16.250.149, port: 8880, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-5.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.250.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【邀请用户】|最高返还40%|GPT+流媒体|公益 - 大白, server: 104.19.143.172, port: 2095, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-4.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.143.cn-db.top}}, udp: true}
+- {name: '🇺🇸 美国|【节点优先级】[按量]>[不限量]>[免费]>[公共订阅]|公益 - 大白', server: 104.19.114.215, port: 8080, type: vmess, uuid: d42855d8-38d0-3fee-aa04-c3d5b03b628e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-4.cn-db.top, network: ws, ws-opts: {path: /db00, headers: {Host: 100.100.17.114.cn-db.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1806,19 +1806,12 @@ rules:
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
-- DOMAIN-SUFFIX,openai.com,🤖 ‍AI
-- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
-- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
-- DOMAIN-SUFFIX,bing.com,🤖 ‍AI
-- DOMAIN,copilot.microsoft.com,🤖 ‍AI
-- DOMAIN,gemini.google.com,🤖 ‍AI
-- DOMAIN-SUFFIX,claude.ai,🤖 ‍AI
-- DOMAIN-SUFFIX,anthropic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,btlibrary.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,cccat.io,✈️ ‍起飞
+- DOMAIN-SUFFIX,chat.openai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudcone.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,dubox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gameloft.com,✈️ ‍起飞
@@ -1829,6 +1822,7 @@ rules:
 - DOMAIN-SUFFIX,linkedin.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,myteamspeak.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,notion.so,✈️ ‍起飞
+- DOMAIN-SUFFIX,openai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ping.pe,✈️ ‍起飞
 - DOMAIN-SUFFIX,reddit.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,teddysun.com,✈️ ‍起飞
@@ -2339,6 +2333,7 @@ rules:
 - DOMAIN-SUFFIX,biliworld.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,billypan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binance.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bing.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binux.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,binwang.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,bird.so,✈️ ‍起飞
