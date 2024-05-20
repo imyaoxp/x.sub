@@ -59,9 +59,6 @@ proxy-groups:
   - 🇺🇸 vip1 美国-06 - FastFly
   - 🇺🇸 vip1 美国-07 - FastFly
   - 🇺🇸 vip1 美国-06 测试 - FastFly
-  - 🇺🇸 vip1 美国-11 - FastFly
-  - 🇺🇸 vip1 美国-12 - FastFly
-  - 🇺🇸 vip1 美国-11 测试 - FastFly
   - 🇻🇳 vip1 越南-01 - FastFly
   - 🇻🇳 vip1 越南-02 - FastFly
   - 🇻🇳 vip1 越南-01 测试 - FastFly
@@ -155,9 +152,6 @@ proxies:
 - {name: 🇺🇸 vip1 美国-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10519, type: trojan, password: 2efb2682-889e-4d74-9622-fd68defd4a51, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10519, type: trojan, password: 2efb2682-889e-4d74-9622-fd68defd4a51, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-06 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 46675, type: vmess, uuid: 2efb2682-889e-4d74-9622-fd68defd4a51, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us03.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 28625, type: trojan, password: 2efb2682-889e-4d74-9622-fd68defd4a51, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-12 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 28625, type: trojan, password: 2efb2682-889e-4d74-9622-fd68defd4a51, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-11 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 46121, type: vmess, uuid: 2efb2682-889e-4d74-9622-fd68defd4a51, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us04.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 54295, type: trojan, password: 2efb2682-889e-4d74-9622-fd68defd4a51, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 54295, type: trojan, password: 2efb2682-889e-4d74-9622-fd68defd4a51, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 39609, type: vmess, uuid: 2efb2682-889e-4d74-9622-fd68defd4a51, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vn01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
