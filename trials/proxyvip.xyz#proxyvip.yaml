@@ -89,21 +89,21 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: ℹ️ 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.01-vip.top, port: 31001, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: hk-01.01-vip.top, port: 31001, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: hk-02.01-vip.top, port: 31002, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: hk-03.01-vip.top, port: 31003, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港中继Ⅳ-Trojan - Proxyvip, server: hk-04.01-vip.top, port: 31004, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-04.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: us-01.01-vip.top, port: 31006, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: us-02.01-vip.top, port: 31007, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: us-03.01-vip.top, port: 31008, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: us-04.01-vip.top, port: 31009, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sg-01.01-vip.top, port: 31011, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.01-vip.top, port: 31012, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本中继Ⅰ-Trojan - Proxyvip, server: jp-01.01-vip.top, port: 31013, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: jp-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本中继Ⅱ-Trojan - Proxyvip, server: jp-02.01-vip.top, port: 31014, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: jp-02.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: ca-01.01-vip.top, port: 31015, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: gb-01.01-vip.top, port: 31016, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.01-vip.top, port: 21001, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅰ-Trojan - Proxyvip, server: hk-01.01-vip.top, port: 21001, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅱ-Trojan - Proxyvip, server: hk-02.01-vip.top, port: 21002, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅲ-Trojan - Proxyvip, server: hk-03.01-vip.top, port: 21003, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港中继Ⅳ-Trojan - Proxyvip, server: hk-04.01-vip.top, port: 21004, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: hk-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅰ-Trojan - Proxyvip, server: us-01.01-vip.top, port: 21006, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: us-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅱ-Trojan - Proxyvip, server: us-02.01-vip.top, port: 21007, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: us-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅲ-Trojan - Proxyvip, server: us-03.01-vip.top, port: 21008, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: us-03.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国中继Ⅳ-Trojan - Proxyvip, server: us-04.01-vip.top, port: 21009, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: us-04.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡中继Ⅰ-Trojan - Proxyvip, server: sg-01.01-vip.top, port: 21011, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: sg-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬新加坡中继Ⅱ-Trojan - Proxyvip, server: sg-02.01-vip.top, port: 21012, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: sg-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本中继Ⅰ-Trojan - Proxyvip, server: jp-01.01-vip.top, port: 21013, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: jp-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵日本中继Ⅱ-Trojan - Proxyvip, server: jp-02.01-vip.top, port: 21014, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: jp-02.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦加拿大中继Ⅰ-Trojan - Proxyvip, server: ca-01.01-vip.top, port: 21015, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: ca-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧英国中继Ⅰ-Trojan - Proxyvip, server: gb-01.01-vip.top, port: 21016, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: gb-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪德国中继Ⅰ-Trojan - Proxyvip, server: de-01.01-vip.top, port: 31017, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: de-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳印度中继Ⅰ-Trojan - Proxyvip, server: in-01.01-vip.top, port: 31018, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: in-01.v4vip.top, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺澳大利亚中继Ⅰ-Trojan - Proxyvip, server: au-01.01-vip.top, port: 31019, type: trojan, password: 4bb3a00c-6a3d-48d3-a89c-e4acce46e1ad, sni: au-01.v4vip.top, skip-cert-verify: true, udp: true}
