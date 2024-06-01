@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 52.198.230.68, port: 443, type: trojan, password: 67fddc9a-7b21-3db4-8522-82fac5f68d7b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 3.115.116.198, port: 443, type: trojan, password: 67fddc9a-7b21-3db4-8522-82fac5f68d7b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 52.11.123.242, port: 443, type: trojan, password: 67fddc9a-7b21-3db4-8522-82fac5f68d7b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5505, type: trojan, password: 67fddc9a-7b21-3db4-8522-82fac5f68d7b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3504, type: trojan, password: 67fddc9a-7b21-3db4-8522-82fac5f68d7b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 52.198.230.68, port: 443, type: trojan, password: 58ef5a6c-4116-32b5-9d3f-b7def69f2ad9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 3.115.116.198, port: 443, type: trojan, password: 58ef5a6c-4116-32b5-9d3f-b7def69f2ad9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 52.11.123.242, port: 443, type: trojan, password: 58ef5a6c-4116-32b5-9d3f-b7def69f2ad9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5505, type: trojan, password: 58ef5a6c-4116-32b5-9d3f-b7def69f2ad9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3504, type: trojan, password: 58ef5a6c-4116-32b5-9d3f-b7def69f2ad9, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
