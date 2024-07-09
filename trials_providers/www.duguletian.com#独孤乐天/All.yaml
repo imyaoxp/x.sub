@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: c7651ead-8dd9-39fc-a1d2-91293c0ea484, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: c7651ead-8dd9-39fc-a1d2-91293c0ea484, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: c7651ead-8dd9-39fc-a1d2-91293c0ea484, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: c7651ead-8dd9-39fc-a1d2-91293c0ea484, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.dugusite3.top, port: 5061, type: vmess, uuid: c7651ead-8dd9-39fc-a1d2-91293c0ea484, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.dugusite3.top, port: 5061, type: vmess, uuid: c7651ead-8dd9-39fc-a1d2-91293c0ea484, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: 37c18d64-2c4e-30a9-8bf2-0cc1d6f2d3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: 37c18d64-2c4e-30a9-8bf2-0cc1d6f2d3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: 37c18d64-2c4e-30a9-8bf2-0cc1d6f2d3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: 37c18d64-2c4e-30a9-8bf2-0cc1d6f2d3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.dugusite3.top, port: 5061, type: vmess, uuid: 37c18d64-2c4e-30a9-8bf2-0cc1d6f2d3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.dugusite3.top, port: 5061, type: vmess, uuid: 37c18d64-2c4e-30a9-8bf2-0cc1d6f2d3aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
