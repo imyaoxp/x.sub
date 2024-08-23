@@ -53,9 +53,9 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/mgnet.vip/All.yaml
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/cooc.cloud/All.yaml
     interval: 180
-    path: trials_providers/mgnet.vip/All.yaml
+    path: trials_providers/cooc.cloud/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

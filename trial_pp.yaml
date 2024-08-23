@@ -19,6 +19,10 @@ proxy-groups:
   - p_All
   - p_All_All
   - p_All_All
+  - p_All_All_All_All
+  - p_All_All_All_All
+  - p_All_All_All_All
+  - p_All_All_All_All
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -67,6 +71,15 @@ proxy-providers:
     url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/p_All_All.yaml
     interval: 180
     path: trials_providers/p_All_All.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_All_All_All:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/p_All_All_All_All.yaml
+    interval: 180
+    path: trials_providers/p_All_All_All_All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
