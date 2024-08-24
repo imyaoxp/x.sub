@@ -59,13 +59,13 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 172.67.105.216, port: 80, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.105.216, headers: {Host: 100-100-17-430.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.20.143.246, port: 2095, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.143.246, headers: {Host: 100-100-17-79.db-link01.top}}, udp: true}
-- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.24.213.164, port: 2082, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.213.164, headers: {Host: 100-100-17-61.db-link01.top}}, udp: true}
-- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.17.6.26, port: 8080, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.6.26, headers: {Host: 100-100-17-495.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.24.141.157, port: 2096, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-318.cn-db.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-318.cn-db.top}}, udp: true}
-- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 104.18.245.184, port: 2083, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-29.cn-db.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-29.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|最低35%-aff招募进行中|共享 - 大白, server: 104.16.120.26, port: 2095, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.120.26, headers: {Host: 100-100-17-263.db-link01.top}}, udp: true}
+- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 172.67.110.14, port: 80, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.110.14, headers: {Host: 100-100-17-44.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.16.215.27, port: 2086, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.215.27, headers: {Host: 100-100-17-101.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.20.198.215, port: 8880, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.198.215, headers: {Host: 100-100-17-329.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.25.158.156, port: 8080, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.158.156, headers: {Host: 100-100-17-297.db-link01.top}}, udp: true}
+- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.25.87.253, port: 443, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-312.db-link01.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-312.db-link01.top}}, udp: true}
+- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 172.67.52.71, port: 2096, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-392.cn-db.top, network: ws, ws-opts: {path: /dabai.in, headers: {Host: 100-100-17-392.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|最低35%-aff招募进行中|共享 - 大白, server: 172.64.39.100, port: 2052, type: vmess, uuid: 5fdf7b18-ddef-3806-a120-258007426af8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.39.100, headers: {Host: 100-100-17-70.cn-db.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1799,12 +1799,20 @@ rules:
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
+- DOMAIN-SUFFIX,openai.com,🤖 ‍AI
+- DOMAIN-SUFFIX,chatgpt.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
+- DOMAIN-SUFFIX,bing.com,🤖 ‍AI
+- DOMAIN,copilot.microsoft.com,🤖 ‍AI
+- DOMAIN,gemini.google.com,🤖 ‍AI
+- DOMAIN-SUFFIX,claude.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,anthropic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,btlibrary.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,cccat.io,✈️ ‍起飞
-- DOMAIN-SUFFIX,chat.openai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudcone.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,dubox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gameloft.com,✈️ ‍起飞
@@ -1815,7 +1823,6 @@ rules:
 - DOMAIN-SUFFIX,linkedin.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,myteamspeak.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,notion.so,✈️ ‍起飞
-- DOMAIN-SUFFIX,openai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ping.pe,✈️ ‍起飞
 - DOMAIN-SUFFIX,reddit.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,teddysun.com,✈️ ‍起飞
@@ -2328,7 +2335,6 @@ rules:
 - DOMAIN-SUFFIX,biliworld.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,billypan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binance.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,bing.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binux.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,binwang.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,bird.so,✈️ ‍起飞
@@ -2578,7 +2584,6 @@ rules:
 - DOMAIN-SUFFIX,channelnewsasia.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,chaoex.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,chapm25.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,chatgpt.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,chatnook.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,chaturbate.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,checkgfw.com,✈️ ‍起飞
