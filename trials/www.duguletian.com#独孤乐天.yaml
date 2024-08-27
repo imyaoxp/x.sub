@@ -9,24 +9,7 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 👆🏻 ‍指定
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id001
-  - 🇯🇵 日本 AWS *3 - 独孤乐天
-  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
-  - 🇯🇵 日本 AWS3 *3 - 独孤乐天
-  - 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天
-  - 🇺🇸 美国 AWS *1 - 独孤乐天
-  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -44,12 +27,10 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - ✈️ ‍起飞
-  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - ✈️ ‍起飞
-  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -58,6 +39,8 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
+- {name: 💣 剩余流量：1.06GB - 独孤乐天, server: www.duguletian.com, port: 10086, type: vmess, uuid: 4f5bde57-d6c7-344a-a85a-ea253bc331c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 💣 过期时间：2024-08-27 - 独孤乐天, server: www.duguletian.com, port: 10086, type: vmess, uuid: 4f5bde57-d6c7-344a-a85a-ea253bc331c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: 4f5bde57-d6c7-344a-a85a-ea253bc331c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: 4f5bde57-d6c7-344a-a85a-ea253bc331c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: 4f5bde57-d6c7-344a-a85a-ea253bc331c7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
@@ -455,7 +438,6 @@ rules:
 - DOMAIN-SUFFIX,rtbasia.com,💩 ‍广告
 - DOMAIN-SUFFIX,sanya1.com,💩 ‍广告
 - DOMAIN-SUFFIX,scupio.com,💩 ‍广告
-- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuiguo.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuzilm.cn,💩 ‍广告
 - DOMAIN-SUFFIX,similarweb.com,💩 ‍广告
@@ -523,6 +505,7 @@ rules:
 - DOMAIN-SUFFIX,wqmobile.com,💩 ‍广告
 - DOMAIN-SUFFIX,wrating.com,💩 ‍广告
 - DOMAIN-SUFFIX,wumii.cn,💩 ‍广告
+- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,xcy8.com,💩 ‍广告
 - DOMAIN-SUFFIX,xdrig.com,💩 ‍广告
 - DOMAIN-SUFFIX,xiaozhen.com,💩 ‍广告
@@ -556,7 +539,6 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
-- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -680,6 +662,7 @@ rules:
 - DOMAIN-SUFFIX,sape.ru,💩 ‍广告
 - DOMAIN-SUFFIX,scorecardresearch.com,💩 ‍广告
 - DOMAIN-SUFFIX,segment.com,💩 ‍广告
+- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,sharethis.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.net,💩 ‍广告
@@ -2228,6 +2211,7 @@ rules:
 - DOMAIN-SUFFIX,axureformac.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerbaycan.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerimix.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,azirevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azubu.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azurewebsites.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,b-ok.cc,✈️ ‍起飞
@@ -2388,6 +2372,7 @@ rules:
 - DOMAIN-SUFFIX,blubrry.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,blueangellive.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bmfinn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bnbstatic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnews.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnn.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnrmetal.com,✈️ ‍起飞
@@ -2711,6 +2696,7 @@ rules:
 - DOMAIN-SUFFIX,clubhouseapi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clyp.it,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmcn.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,cmegroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmoinc.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,cms.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmu.edu,✈️ ‍起飞
@@ -3965,6 +3951,7 @@ rules:
 - DOMAIN-SUFFIX,imageab.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagefap.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imageflea.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,imageglass.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,images-gaytube.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagevenue.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagezilla.net,✈️ ‍起飞
@@ -4070,6 +4057,7 @@ rules:
 - DOMAIN-SUFFIX,ivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iverycd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivpn.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixquick.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixxx.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iyouport.com,✈️ ‍起飞
@@ -5067,6 +5055,7 @@ rules:
 - DOMAIN-SUFFIX,perfect-privacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,perfectgirls.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,periscope.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,perplexity.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,persecutionblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,persiankitty.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phapluan.org,✈️ ‍起飞
@@ -5730,6 +5719,7 @@ rules:
 - DOMAIN-SUFFIX,stoptibetcrisis.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,storagenewsletter.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,storify.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,storj.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,storm.mg,✈️ ‍起飞
 - DOMAIN-SUFFIX,stormmediagroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,stoweboyd.com,✈️ ‍起飞
@@ -6016,6 +6006,7 @@ rules:
 - DOMAIN-SUFFIX,tibetswiss.ch,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettelegraph.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettimes.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,tibettruth.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibetwrites.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tigervpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiktok.com,✈️ ‍起飞
@@ -6295,7 +6286,7 @@ rules:
 - DOMAIN-SUFFIX,urlparser.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,us.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,usacn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,usc.edu,✈️ ‍起飞
+- DOMAIN-SUFFIX,uscardforum.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,uscnpm.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,usembassy.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,usfk.mil,✈️ ‍起飞
@@ -7193,6 +7184,8 @@ rules:
 - DOMAIN-SUFFIX,didialift.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,didiglobal.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,udache.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,bytefcdnrd.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,edgesrv.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyu.tv,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyuscdn.com,🛩️ ‍墙内
@@ -7469,6 +7462,7 @@ rules:
 - DOMAIN-SUFFIX,kaola.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,knewone.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koowo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,koyso.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ksyungslb.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kuaidi100.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kugou.com,🛩️ ‍墙内

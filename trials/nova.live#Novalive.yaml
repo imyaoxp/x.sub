@@ -57,11 +57,11 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 52.198.230.68, port: 443, type: trojan, password: 1c739348-43ec-3273-827b-d62e7674b86a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.73.226.191, port: 443, type: trojan, password: 1c739348-43ec-3273-827b-d62e7674b86a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 34.220.92.190, port: 443, type: trojan, password: 1c739348-43ec-3273-827b-d62e7674b86a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5514, type: trojan, password: 1c739348-43ec-3273-827b-d62e7674b86a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3504, type: trojan, password: 1c739348-43ec-3273-827b-d62e7674b86a, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 52.198.230.68, port: 443, type: trojan, password: 16d1b458-47d4-370a-8959-fff789fed49b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.73.226.191, port: 443, type: trojan, password: 16d1b458-47d4-370a-8959-fff789fed49b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 34.220.92.190, port: 443, type: trojan, password: 16d1b458-47d4-370a-8959-fff789fed49b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5514, type: trojan, password: 16d1b458-47d4-370a-8959-fff789fed49b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3504, type: trojan, password: 16d1b458-47d4-370a-8959-fff789fed49b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -453,7 +453,6 @@ rules:
 - DOMAIN-SUFFIX,rtbasia.com,💩 ‍广告
 - DOMAIN-SUFFIX,sanya1.com,💩 ‍广告
 - DOMAIN-SUFFIX,scupio.com,💩 ‍广告
-- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuiguo.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuzilm.cn,💩 ‍广告
 - DOMAIN-SUFFIX,similarweb.com,💩 ‍广告
@@ -521,6 +520,7 @@ rules:
 - DOMAIN-SUFFIX,wqmobile.com,💩 ‍广告
 - DOMAIN-SUFFIX,wrating.com,💩 ‍广告
 - DOMAIN-SUFFIX,wumii.cn,💩 ‍广告
+- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,xcy8.com,💩 ‍广告
 - DOMAIN-SUFFIX,xdrig.com,💩 ‍广告
 - DOMAIN-SUFFIX,xiaozhen.com,💩 ‍广告
@@ -554,7 +554,6 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
-- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -678,6 +677,7 @@ rules:
 - DOMAIN-SUFFIX,sape.ru,💩 ‍广告
 - DOMAIN-SUFFIX,scorecardresearch.com,💩 ‍广告
 - DOMAIN-SUFFIX,segment.com,💩 ‍广告
+- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,sharethis.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.net,💩 ‍广告
@@ -2226,6 +2226,7 @@ rules:
 - DOMAIN-SUFFIX,axureformac.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerbaycan.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerimix.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,azirevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azubu.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azurewebsites.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,b-ok.cc,✈️ ‍起飞
@@ -2386,6 +2387,7 @@ rules:
 - DOMAIN-SUFFIX,blubrry.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,blueangellive.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bmfinn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bnbstatic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnews.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnn.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnrmetal.com,✈️ ‍起飞
@@ -2709,6 +2711,7 @@ rules:
 - DOMAIN-SUFFIX,clubhouseapi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clyp.it,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmcn.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,cmegroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmoinc.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,cms.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmu.edu,✈️ ‍起飞
@@ -3963,6 +3966,7 @@ rules:
 - DOMAIN-SUFFIX,imageab.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagefap.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imageflea.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,imageglass.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,images-gaytube.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagevenue.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagezilla.net,✈️ ‍起飞
@@ -4068,6 +4072,7 @@ rules:
 - DOMAIN-SUFFIX,ivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iverycd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivpn.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixquick.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixxx.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iyouport.com,✈️ ‍起飞
@@ -5065,6 +5070,7 @@ rules:
 - DOMAIN-SUFFIX,perfect-privacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,perfectgirls.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,periscope.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,perplexity.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,persecutionblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,persiankitty.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phapluan.org,✈️ ‍起飞
@@ -5728,6 +5734,7 @@ rules:
 - DOMAIN-SUFFIX,stoptibetcrisis.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,storagenewsletter.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,storify.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,storj.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,storm.mg,✈️ ‍起飞
 - DOMAIN-SUFFIX,stormmediagroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,stoweboyd.com,✈️ ‍起飞
@@ -6014,6 +6021,7 @@ rules:
 - DOMAIN-SUFFIX,tibetswiss.ch,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettelegraph.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettimes.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,tibettruth.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibetwrites.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tigervpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiktok.com,✈️ ‍起飞
@@ -6293,7 +6301,7 @@ rules:
 - DOMAIN-SUFFIX,urlparser.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,us.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,usacn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,usc.edu,✈️ ‍起飞
+- DOMAIN-SUFFIX,uscardforum.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,uscnpm.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,usembassy.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,usfk.mil,✈️ ‍起飞
@@ -7191,6 +7199,8 @@ rules:
 - DOMAIN-SUFFIX,didialift.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,didiglobal.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,udache.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,bytefcdnrd.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,edgesrv.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyu.tv,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyuscdn.com,🛩️ ‍墙内
@@ -7467,6 +7477,7 @@ rules:
 - DOMAIN-SUFFIX,kaola.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,knewone.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koowo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,koyso.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ksyungslb.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kuaidi100.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kugou.com,🛩️ ‍墙内
