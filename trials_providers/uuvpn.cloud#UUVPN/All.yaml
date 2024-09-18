@@ -15,7 +15,7 @@ proxies:
 - {name: 🇭🇰 香港03 - UUVPN官网, server: gdcub.yunnode.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
 - {name: 🇸🇬 新加坡01 - UUVPN官网, server: gdcub.yunnode.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
 - {name: 🇸🇬 新加坡02 - UUVPN官网, server: gdcub.yunnode.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
-- {name: 🇭🇰 香港04-备用 - UUVPN官网, server: 140.249.160.81, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
-- {name: 🇭🇰 香港05-备用 - UUVPN官网, server: 140.249.160.81, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
+- {name: 🇭🇰 香港04-备用 - UUVPN官网, server: 4c52.ens3.buzz, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
+- {name: 🇭🇰 香港05-备用 - UUVPN官网, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
 - {name: 🇻🇳 越南01 - UUVPN官网, server: gdcub.yunnode.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
 - {name: 🇺🇸 美国04 - UUVPN官网, server: gdcub.yunnode.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: 6ea274ec-1440-4e47-b047-6958857060d7, udp: true}
