@@ -173,7 +173,6 @@ proxy-groups:
   - 🇺🇸 US180|CN2GIA - NovaLive
   - 🇺🇸 US181|CN2GIA - NovaLive
   - ℹ️ 最新官网：www.uuvpn.life - UUVPN官网
-  - ℹ️ x 代表使用倍率 - UUVPN官网
   - ℹ️ 用不了，请更新订阅 - UUVPN官网
   - ℹ️ 永久地址请查看活动公告 - UUVPN官网
   - 🇸🇬 新加坡03 - UUVPN官网
@@ -409,13 +408,13 @@ proxies:
 - {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: 308b4e52-816c-3759-926c-c3be39ec53b8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.dugusite3.top, port: 5061, type: vmess, uuid: 308b4e52-816c-3759-926c-c3be39ec53b8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.dugusite3.top, port: 5061, type: vmess, uuid: 308b4e52-816c-3759-926c-c3be39ec53b8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: db-link01.top, port: 2053, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.24.95.196, headers: {Host: 100-100-17-310.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: db-link02.top, port: 2052, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.21.208.34, headers: {Host: 100-100-17-484.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: cn-db.top, port: 443, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.24.106.29, headers: {Host: 100-100-17-218.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: db-link01.top, port: 8080, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.17.144.201, headers: {Host: 100-100-17-272.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: db-link02.top, port: 2082, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.20.7.233, headers: {Host: 100-100-17-297.db-link02.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: db-link02.top, port: 2086, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.16.197.0, headers: {Host: 100-100-17-103.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: db-link01.top, port: 2052, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in172.64.18.128, headers: {Host: 100-100-17-78.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: db-link02.top, port: 8080, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.17.212.2, headers: {Host: 100-100-17-397.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: db-link01.top, port: 80, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in172.67.27.198, headers: {Host: 100-100-17-226.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: db-link01.top, port: 2053, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.17.90.10, headers: {Host: 100-100-17-426.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: db-link02.top, port: 2095, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.21.156.5, headers: {Host: 100-100-17-119.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: cn-db.top, port: 2052, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.24.239.186, headers: {Host: 100-100-17-72.cn-db.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: db-link02.top, port: 2095, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in172.64.49.58, headers: {Host: 100-100-17-333.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: cn-db.top, port: 80, type: vmess, uuid: 6f7c0784-ca23-3775-89f1-5d392ebb32a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-5.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.24.225.47, headers: {Host: 100-100-17-344.cn-db.top}}, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: 783aa5bd-0036-3fde-ae16-f7895b43d554, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 783aa5bd-0036-3fde-ae16-f7895b43d554, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 783aa5bd-0036-3fde-ae16-f7895b43d554, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -525,7 +524,6 @@ proxies:
 - {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5521, type: trojan, password: 9a3b8834-61ac-3227-8036-e1ddb22abd47, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3507, type: trojan, password: 9a3b8834-61ac-3227-8036-e1ddb22abd47, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 最新官网：www.uuvpn.life - UUVPN官网, server: 最新官网：uuvpn.cloud, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 72657a78-7506-4bb5-acf1-fd39e506d69b, udp: true}
-- {name: ℹ️ x 代表使用倍率 - UUVPN官网, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 72657a78-7506-4bb5-acf1-fd39e506d69b, udp: true}
 - {name: ℹ️ 用不了，请更新订阅 - UUVPN官网, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 72657a78-7506-4bb5-acf1-fd39e506d69b, udp: true}
 - {name: ℹ️ 永久地址请查看活动公告 - UUVPN官网, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: 72657a78-7506-4bb5-acf1-fd39e506d69b, udp: true}
 - {name: 🇸🇬 新加坡03 - UUVPN官网, server: gdcub.yunnode.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 72657a78-7506-4bb5-acf1-fd39e506d69b, udp: true}
@@ -2428,12 +2426,20 @@ rules:
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
+- DOMAIN-SUFFIX,openai.com,🤖 ‍AI
+- DOMAIN-SUFFIX,chatgpt.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
+- DOMAIN-SUFFIX,bing.com,🤖 ‍AI
+- DOMAIN,copilot.microsoft.com,🤖 ‍AI
+- DOMAIN,gemini.google.com,🤖 ‍AI
+- DOMAIN-SUFFIX,claude.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,anthropic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,btlibrary.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,cccat.io,✈️ ‍起飞
-- DOMAIN-SUFFIX,chat.openai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudcone.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,dubox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gameloft.com,✈️ ‍起飞
@@ -2444,7 +2450,6 @@ rules:
 - DOMAIN-SUFFIX,linkedin.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,myteamspeak.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,notion.so,✈️ ‍起飞
-- DOMAIN-SUFFIX,openai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ping.pe,✈️ ‍起飞
 - DOMAIN-SUFFIX,reddit.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,teddysun.com,✈️ ‍起飞
@@ -2742,7 +2747,6 @@ rules:
 - DOMAIN-SUFFIX,answering-islam.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,antd.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,anthonycalzadilla.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,anthropic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,anti1984.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,antichristendom.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,antiwave.net,✈️ ‍起飞
@@ -2959,7 +2963,6 @@ rules:
 - DOMAIN-SUFFIX,biliworld.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,billypan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binance.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,bing.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binux.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,binwang.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,bird.so,✈️ ‍起飞
@@ -3210,7 +3213,6 @@ rules:
 - DOMAIN-SUFFIX,channelnewsasia.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,chaoex.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,chapm25.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,chatgpt.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,chatnook.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,chaturbate.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,checkgfw.com,✈️ ‍起飞
@@ -3325,7 +3327,6 @@ rules:
 - DOMAIN-SUFFIX,ck101.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clarionproject.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,classicalguitarblog.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,claude.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,cleansite.biz,✈️ ‍起飞
 - DOMAIN-SUFFIX,cleansite.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,clearharmony.net,✈️ ‍起飞
