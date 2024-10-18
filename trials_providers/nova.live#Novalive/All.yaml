@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.238.135.78, port: 443, type: trojan, password: f113843d-0ed7-3fed-a365-e47c49365fbf, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.75.8.137, port: 443, type: trojan, password: f113843d-0ed7-3fed-a365-e47c49365fbf, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 35.93.203.243, port: 443, type: trojan, password: f113843d-0ed7-3fed-a365-e47c49365fbf, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5525, type: trojan, password: f113843d-0ed7-3fed-a365-e47c49365fbf, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3509, type: trojan, password: f113843d-0ed7-3fed-a365-e47c49365fbf, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.238.135.78, port: 443, type: trojan, password: 7e4f3d80-dc0d-3c8f-8850-7cea9af25378, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.75.8.137, port: 443, type: trojan, password: 7e4f3d80-dc0d-3c8f-8850-7cea9af25378, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 35.93.203.243, port: 443, type: trojan, password: 7e4f3d80-dc0d-3c8f-8850-7cea9af25378, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5525, type: trojan, password: 7e4f3d80-dc0d-3c8f-8850-7cea9af25378, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3509, type: trojan, password: 7e4f3d80-dc0d-3c8f-8850-7cea9af25378, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
