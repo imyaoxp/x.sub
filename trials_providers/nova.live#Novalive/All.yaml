@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.238.135.78, port: 443, type: trojan, password: 76c57ba3-8e30-3ca9-83b6-9b8fb658c2df, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.75.8.137, port: 443, type: trojan, password: 76c57ba3-8e30-3ca9-83b6-9b8fb658c2df, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 54.186.255.249, port: 443, type: trojan, password: 76c57ba3-8e30-3ca9-83b6-9b8fb658c2df, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5527, type: trojan, password: 76c57ba3-8e30-3ca9-83b6-9b8fb658c2df, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3510, type: trojan, password: 76c57ba3-8e30-3ca9-83b6-9b8fb658c2df, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.238.135.78, port: 443, type: trojan, password: 48e7aba9-29f3-3b7a-ac86-40a47717123c, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.75.8.137, port: 443, type: trojan, password: 48e7aba9-29f3-3b7a-ac86-40a47717123c, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.186.255.249, port: 443, type: trojan, password: 48e7aba9-29f3-3b7a-ac86-40a47717123c, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5527, type: trojan, password: 48e7aba9-29f3-3b7a-ac86-40a47717123c, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3510, type: trojan, password: 48e7aba9-29f3-3b7a-ac86-40a47717123c, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
