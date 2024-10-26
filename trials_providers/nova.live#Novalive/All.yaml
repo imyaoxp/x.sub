@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.238.135.78, port: 443, type: trojan, password: edcbe6f1-e373-3210-b38d-d84821450efa, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.75.8.137, port: 443, type: trojan, password: edcbe6f1-e373-3210-b38d-d84821450efa, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 54.186.255.249, port: 443, type: trojan, password: edcbe6f1-e373-3210-b38d-d84821450efa, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5529, type: trojan, password: edcbe6f1-e373-3210-b38d-d84821450efa, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3511, type: trojan, password: edcbe6f1-e373-3210-b38d-d84821450efa, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.238.135.78, port: 443, type: trojan, password: 829da61a-c5f8-3aa3-9a1d-6cf25692c285, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.75.8.137, port: 443, type: trojan, password: 829da61a-c5f8-3aa3-9a1d-6cf25692c285, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.186.255.249, port: 443, type: trojan, password: 829da61a-c5f8-3aa3-9a1d-6cf25692c285, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5529, type: trojan, password: 829da61a-c5f8-3aa3-9a1d-6cf25692c285, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3511, type: trojan, password: 829da61a-c5f8-3aa3-9a1d-6cf25692c285, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
