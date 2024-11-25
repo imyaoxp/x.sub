@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 18.179.44.127, port: 443, type: trojan, password: a9bb18d4-394e-3e7b-8c16-88915ed201ff, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.75.8.137, port: 443, type: trojan, password: a9bb18d4-394e-3e7b-8c16-88915ed201ff, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 35.88.22.65, port: 443, type: trojan, password: a9bb18d4-394e-3e7b-8c16-88915ed201ff, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: a9bb18d4-394e-3e7b-8c16-88915ed201ff, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: a9bb18d4-394e-3e7b-8c16-88915ed201ff, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 18.179.44.127, port: 443, type: trojan, password: 6b96ea0e-c4bd-3546-9bca-226b5ec8cadc, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.75.8.137, port: 443, type: trojan, password: 6b96ea0e-c4bd-3546-9bca-226b5ec8cadc, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 35.88.22.65, port: 443, type: trojan, password: 6b96ea0e-c4bd-3546-9bca-226b5ec8cadc, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 6b96ea0e-c4bd-3546-9bca-226b5ec8cadc, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 6b96ea0e-c4bd-3546-9bca-226b5ec8cadc, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
