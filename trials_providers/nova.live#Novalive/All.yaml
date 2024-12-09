@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 18.179.44.127, port: 443, type: trojan, password: 55fec2d6-396c-3542-a7e2-3db29b08afe1, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.140.241, port: 443, type: trojan, password: 55fec2d6-396c-3542-a7e2-3db29b08afe1, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 35.91.137.19, port: 443, type: trojan, password: 55fec2d6-396c-3542-a7e2-3db29b08afe1, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 55fec2d6-396c-3542-a7e2-3db29b08afe1, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 55fec2d6-396c-3542-a7e2-3db29b08afe1, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 18.179.44.127, port: 443, tfo: true, type: trojan, password: dc1acb5a-c864-3701-8ee2-553b2ba5763a, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.140.241, port: 443, tfo: true, type: trojan, password: dc1acb5a-c864-3701-8ee2-553b2ba5763a, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 35.91.137.19, port: 443, tfo: true, type: trojan, password: dc1acb5a-c864-3701-8ee2-553b2ba5763a, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, tfo: true, type: trojan, password: dc1acb5a-c864-3701-8ee2-553b2ba5763a, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, tfo: true, type: trojan, password: dc1acb5a-c864-3701-8ee2-553b2ba5763a, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
