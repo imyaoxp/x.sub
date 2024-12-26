@@ -81,35 +81,35 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇭🇰 香港 A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇭🇰 香港 B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇭🇰 香港 C｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇯🇵 日本 A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇯🇵 日本 B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇯🇵 日本 C｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇺🇸 美国 A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇺🇸 美国 B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇺🇸 美国 C｜US - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇰🇷 韩国 A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇰🇷 韩国 B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇰🇷 韩国 C｜KR - 小白云, server: kr3.iepl.cooc.icu, port: 35609, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇹🇼 台湾 A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇹🇼 台湾 B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇹🇼 台湾 C｜TW - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇸🇬 新加坡 A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇸🇬 新加坡 B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇸🇬 新加坡 C｜SG - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇹🇭 泰国 / TH｜BIZ - 小白云, server: th.cooc.icu, port: 35613, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn.cooc.icu, port: 35601, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk.cooc.icu, port: 35605, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ge.cooc.icu, port: 35607, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr.cooc.icu, port: 35611, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.cooc.icu, port: 35645, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas.cooc.icu, port: 35603, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇺🇸 US｜海外用户 - 小白云, server: us.cooc.icu, port: 35881, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
-- {name: 🇯🇵 JP｜海外用户 - 小白云, server: jp.cooc.icu, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: 4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, udp: true}
+- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇭🇰 香港 A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇭🇰 香港 B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇭🇰 香港 C｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇯🇵 日本 A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇯🇵 日本 B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇯🇵 日本 C｜JP - 小白云, server: jp3.iepl.cooc.icu, port: 19881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇺🇸 美国 A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇺🇸 美国 B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇺🇸 美国 C｜US - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇰🇷 韩国 A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇰🇷 韩国 B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇰🇷 韩国 C｜KR - 小白云, server: kr3.iepl.cooc.icu, port: 35609, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇹🇼 台湾 A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇹🇼 台湾 B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇹🇼 台湾 C｜TW - 小白云, server: tw3.iepl.cooc.icu, port: 35111, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇸🇬 新加坡 A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇸🇬 新加坡 B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇸🇬 新加坡 C｜SG - 小白云, server: sg3.iepl.cooc.icu, port: 35107, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇹🇭 泰国 / TH｜BIZ - 小白云, server: th.cooc.icu, port: 35613, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn.cooc.icu, port: 35601, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk.cooc.icu, port: 35605, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ge.cooc.icu, port: 35607, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr.cooc.icu, port: 35611, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.cooc.icu, port: 35645, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas.cooc.icu, port: 35603, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇺🇸 US｜海外用户 - 小白云, server: us.cooc.icu, port: 35881, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
+- {name: 🇯🇵 JP｜海外用户 - 小白云, server: jp.cooc.icu, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: f3f00abf-9170-47f5-a1fc-0e9f1723d0d4, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -146,22 +146,43 @@ rules:
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
+- DOMAIN-SUFFIX,bgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,dgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,fgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,hgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,igithub.xyz,DIRECT
+- DOMAIN-SUFFIX,jgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,lgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,4git.xyz,DIRECT
+- DOMAIN-SUFFIX,5git.xyz,DIRECT
+- DOMAIN-SUFFIX,6git.xyz,DIRECT
+- DOMAIN-SUFFIX,mgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,ngithub.xyz,DIRECT
+- DOMAIN-SUFFIX,ogithub.xyz,DIRECT
+- DOMAIN-SUFFIX,pgithub.xyz,DIRECT
+- DOMAIN,hub.whtrys.space,DIRECT
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
-- DOMAIN-SUFFIX,scmx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内
 - DOMAIN,url.v1.mk,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,sub.id9.cc,🛩️ ‍墙内
 - DOMAIN,api-suc.0z.gs,🛩️ ‍墙内
-- DOMAIN,ghproxy.top,🛩️ ‍墙内
-- DOMAIN,ghproxy.net,🛩️ ‍墙内
-- DOMAIN,ghproxy.org,🛩️ ‍墙内
-- DOMAIN,ghproxy.cc,🛩️ ‍墙内
-- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
-- DOMAIN,gh.idayer.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
-- DOMAIN,gh.con.sh,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghp.ci,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghpr.cc,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gitdl.cn,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghproxy.cc,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghproxy.cn,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghproxy.net,🛩️ ‍墙内
+- DOMAIN,gh.llkk.cc,🛩️ ‍墙内
+- DOMAIN,gh.6yit.com,🛩️ ‍墙内
+- DOMAIN,gh.tryxd.cn,🛩️ ‍墙内
+- DOMAIN,gh.pylas.xyz,🛩️ ‍墙内
+- DOMAIN,gh.nxnow.top,🛩️ ‍墙内
+- DOMAIN,gh.sixyin.com,🛩️ ‍墙内
+- DOMAIN,mirror.v2gh.com,🛩️ ‍墙内
+- DOMAIN,github-mirror.us.kg,🛩️ ‍墙内
+- DOMAIN,proxy.yaoyaoling.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
@@ -182,12 +203,37 @@ rules:
 - DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
-- DOMAIN-SUFFIX,sigmob.cn,💩 ‍广告
+- DOMAIN,dc.sigmob.cn,💩 ‍广告
 - DOMAIN,open.e.kuaishou.com,💩 ‍广告
 - DOMAIN,open.e.kuaishou.cn,💩 ‍广告
 - DOMAIN-SUFFIX,adkwai.com,💩 ‍广告
 - DOMAIN-SUFFIX,adukwai.com,💩 ‍广告
 - DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
+- DOMAIN,pangolin.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-lq.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-hl.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-lf.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc0-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc0-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc0-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-aliec2.zijieapi.com,💩 ‍广告
 - DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
 - DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
 - DOMAIN,api.juliangcili.com,💩 ‍广告
@@ -4119,6 +4165,7 @@ rules:
 - DOMAIN-SUFFIX,iuksky.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iverycd.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,ivonblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivpn.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixquick.com,✈️ ‍起飞
@@ -4134,6 +4181,7 @@ rules:
 - DOMAIN-SUFFIX,jamaat.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,jamestown.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,jamyangnorbu.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,jan.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,jandyx.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,janwongphoto.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,japan-whores.com,✈️ ‍起飞
@@ -4557,6 +4605,7 @@ rules:
 - DOMAIN-SUFFIX,meshrep.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mesotw.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,messenger.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,meta.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,metacafe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,metafilter.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,metart.com,✈️ ‍起飞
@@ -5108,8 +5157,6 @@ rules:
 - DOMAIN-SUFFIX,pen.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,penchinese.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,penchinese.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,pengyulong.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,penisbot.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,pentalogic.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,penthouse.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,peoplebookcafe.com,✈️ ‍起飞
@@ -5124,7 +5171,6 @@ rules:
 - DOMAIN-SUFFIX,phapluan.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,phayul.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,philborges.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,philly.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phmsociety.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,phncdn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phonegap.com,✈️ ‍起飞
@@ -5238,7 +5284,6 @@ rules:
 - DOMAIN-SUFFIX,provpnaccounts.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxfree.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxifier.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,proxlet.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxomitron.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxyanonimo.es,✈️ ‍起飞
@@ -5331,13 +5376,11 @@ rules:
 - DOMAIN-SUFFIX,raindrop.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,ramcity.com.au,✈️ ‍起飞
 - DOMAIN-SUFFIX,rangwang.biz,✈️ ‍起飞
-- DOMAIN-SUFFIX,rangzen.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rangzen.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,rangzen.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,ranxiang.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ranyunfei.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rapbull.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,rapidgator.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,rapidmoviez.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rapidvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rarbgprx.org,✈️ ‍起飞
@@ -6073,6 +6116,7 @@ rules:
 - DOMAIN-SUFFIX,tibetwrites.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tigervpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiktok.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,tiktokv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiltbrush.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,timdir.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,time.com,✈️ ‍起飞
@@ -6123,6 +6167,7 @@ rules:
 - DOMAIN-SUFFIX,torrentprivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrentproject.se,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrenty.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,tortoisesvn.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,torvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,totalvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,toutiaoabc.com,✈️ ‍起飞
