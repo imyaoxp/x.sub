@@ -1,21 +1,21 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 最新官网：www.uuvpn.life - UUVPN官网, server: 最新官网：uuvpn.cloud, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: ℹ️ x 代表使用倍率 - UUVPN官网, server: x 代表使用倍率, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: ℹ️ 用不了，请更新订阅 - UUVPN官网, server: 用不了，请更新订阅, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: ℹ️ 永久地址请查看活动公告 - UUVPN官网, server: https://sulinkcloud.github.io/, port: 55626, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇸🇬 新加坡03 - UUVPN官网, server: jscm1.yunnode.win, port: 31640, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇺🇸 美国02 - UUVPN官网, server: jscm1.yunnode.win, port: 31644, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇭🇰 香港01 - UUVPN官网, server: jscm1.yunnode.win, port: 31672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇭🇰 香港02 - UUVPN官网, server: jscm1.yunnode.win, port: 31675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇺🇸 美国01 - UUVPN官网, server: jscm1.yunnode.win, port: 31642, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇹🇼 台湾01 - UUVPN官网, server: jscm1.yunnode.win, port: 31632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇬🇧 英国02 - UUVPN官网, server: jscm1.yunnode.win, port: 31648, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇭🇰 香港03 - UUVPN官网, server: jscm1.yunnode.win, port: 31679, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇸🇬 新加坡01 - UUVPN官网, server: jscm1.yunnode.win, port: 31636, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇸🇬 新加坡02 - UUVPN官网, server: jscm1.yunnode.win, port: 31738, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇭🇰 香港06-备用 - UUVPN官网, server: jsyd.yeahfast.com, port: 31681, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇭🇰 香港05-备用 - UUVPN官网, server: 4c52.ens3.buzz, port: 31683, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇻🇳 越南01 - UUVPN官网, server: jscm1.yunnode.win, port: 31660, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
-- {name: 🇺🇸 美国04 - UUVPN官网, server: jscm1.yunnode.win, port: 31650, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: ℹ️ 最新官网：www.uuvpn.life - UUVPN官网, server: 最新官网：uuvpn.cloud, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: ℹ️ x 代表使用倍率 - UUVPN官网, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - UUVPN官网, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - UUVPN官网, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇸🇬 新加坡03 - UUVPN官网, server: jscm1.yunnode.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇺🇸 美国02 - UUVPN官网, server: jscm1.yunnode.win, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇭🇰 香港01 - UUVPN官网, server: jscm1.yunnode.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇭🇰 香港02 - UUVPN官网, server: jscm1.yunnode.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇺🇸 美国01 - UUVPN官网, server: jscm1.yunnode.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇹🇼 台湾01 - UUVPN官网, server: jscm1.yunnode.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇬🇧 英国02 - UUVPN官网, server: jscm1.yunnode.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇭🇰 香港03 - UUVPN官网, server: jscm1.yunnode.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇸🇬 新加坡01 - UUVPN官网, server: jscm1.yunnode.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇸🇬 新加坡02 - UUVPN官网, server: jscm1.yunnode.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇭🇰 香港06-备用 - UUVPN官网, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇭🇰 香港05-备用 - UUVPN官网, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇻🇳 越南01 - UUVPN官网, server: jscm1.yunnode.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
+- {name: 🇺🇸 美国04 - UUVPN官网, server: jscm1.yunnode.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: edd60d1a-a0b7-4267-b009-8d23cf33ac02, udp: true}
