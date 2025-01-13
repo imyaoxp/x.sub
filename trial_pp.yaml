@@ -16,7 +16,9 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id001
-  - All
+  - p_All
+  - p_All_All
+  - p_All_All
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -51,11 +53,20 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxy-providers:
-  All:
+  p_All:
     type: http
-    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/All.yaml
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/p_All.yaml
     interval: 180
-    path: trials_providers/All.yaml
+    path: trials_providers/p_All.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_All:
+    type: http
+    url: https://raw.kgithub.com/imyaoxp/x.sub/main/trials_providers/p_All_All.yaml
+    interval: 180
+    path: trials_providers/p_All_All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
