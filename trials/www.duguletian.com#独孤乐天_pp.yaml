@@ -12,6 +12,7 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - DIRECT
+  - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 100
