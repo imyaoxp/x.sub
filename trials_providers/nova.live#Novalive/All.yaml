@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, type: trojan, password: 1b348ae7-cff0-3706-a562-f755ad728b41, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: 1b348ae7-cff0-3706-a562-f755ad728b41, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 54.201.185.116, port: 443, type: trojan, password: 1b348ae7-cff0-3706-a562-f755ad728b41, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 1b348ae7-cff0-3706-a562-f755ad728b41, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 1b348ae7-cff0-3706-a562-f755ad728b41, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, type: trojan, password: 6420e4a9-cf40-395f-8d59-4037f28e0b33, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: 6420e4a9-cf40-395f-8d59-4037f28e0b33, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.201.185.116, port: 443, type: trojan, password: 6420e4a9-cf40-395f-8d59-4037f28e0b33, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 6420e4a9-cf40-395f-8d59-4037f28e0b33, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 6420e4a9-cf40-395f-8d59-4037f28e0b33, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
