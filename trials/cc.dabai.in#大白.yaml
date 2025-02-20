@@ -60,13 +60,13 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link02.top, port: 80, tfo: true, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.103.223, headers: {Host: 100-160-2-199.s4.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 2086, tfo: true, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.147.171, headers: {Host: 100-3-214-189.s2.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2052, tfo: true, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.24.67, headers: {Host: 100-20-123-94.s1.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s4.db-link02.top, port: 2086, tfo: true, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.109.23, headers: {Host: 100-17-209-234.s4.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s5.db-link01.top, port: 2082, tfo: true, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.122.38, headers: {Host: 100-254-75-229.s5.db-link01.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.cn-db.top, port: 8080, tfo: true, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.8.118, headers: {Host: 100-210-2-117.s2.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s5.cn-db.top, port: 2095, tfo: true, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.29.195, headers: {Host: 100-121-113-185.s5.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 80, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.134.117, headers: {Host: 100-225-188-247.s1.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 8880, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.9.165, headers: {Host: 100-144-239-146.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 2095, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.6.135, headers: {Host: 100-69-178-166.s2.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2052, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.153.196, headers: {Host: 100-13-246-10.s2.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.db-link02.top, port: 2095, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.218.214, headers: {Host: 100-165-176-208.s1.db-link02.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.db-link01.top, port: 2082, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.107.231, headers: {Host: 100-16-46-48.s2.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s1.db-link02.top, port: 2095, type: vmess, uuid: 51f057cd-bdb2-34d4-b4c0-162490ec5b19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.204.93, headers: {Host: 100-104-85-59.s1.db-link02.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -160,41 +160,6 @@ rules:
 - DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
-- DOMAIN,dc.sigmob.cn,💩 ‍广告
-- DOMAIN,open.e.kuaishou.com,💩 ‍广告
-- DOMAIN,open.e.kuaishou.cn,💩 ‍广告
-- DOMAIN-SUFFIX,adkwai.com,💩 ‍广告
-- DOMAIN-SUFFIX,adukwai.com,💩 ‍广告
-- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
-- DOMAIN,pangolin.snssdk.com,💩 ‍广告
-- DOMAIN,pangolin-lq.snssdk.com,💩 ‍广告
-- DOMAIN,pangolin-hl.snssdk.com,💩 ‍广告
-- DOMAIN,pangolin-lf.snssdk.com,💩 ‍广告
-- DOMAIN,tnc3-bjlgy.snssdk.com,💩 ‍广告
-- DOMAIN,tnc3-alisc1.snssdk.com,💩 ‍广告
-- DOMAIN,tnc3-aliec2.snssdk.com,💩 ‍广告
-- DOMAIN,tnc11-bjlgy.snssdk.com,💩 ‍广告
-- DOMAIN,tnc11-alisc1.snssdk.com,💩 ‍广告
-- DOMAIN,tnc11-aliec2.snssdk.com,💩 ‍广告
-- DOMAIN,tnc100-bjlgy.snssdk.com,💩 ‍广告
-- DOMAIN,tnc100-alisc1.snssdk.com,💩 ‍广告
-- DOMAIN,tnc100-aliec2.snssdk.com,💩 ‍广告
-- DOMAIN,tnc0-bjlgy.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc0-alisc1.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc0-aliec2.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc3-bjlgy.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc3-alisc1.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc3-aliec2.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc11-bjlgy.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc11-alisc1.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc11-aliec2.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc100-bjlgy.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc100-alisc1.zijieapi.com,💩 ‍广告
-- DOMAIN,tnc100-aliec2.zijieapi.com,💩 ‍广告
-- DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
-- DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
-- DOMAIN,api.juliangcili.com,💩 ‍广告
-- DOMAIN-SUFFIX,anythinktech.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
