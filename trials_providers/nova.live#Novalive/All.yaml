@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.168.236.31, port: 443, type: trojan, password: 077a5653-b1c0-399d-ae20-e154a506b762, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.248.202, port: 443, type: trojan, password: 077a5653-b1c0-399d-ae20-e154a506b762, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 54.186.62.98, port: 443, type: trojan, password: 077a5653-b1c0-399d-ae20-e154a506b762, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 077a5653-b1c0-399d-ae20-e154a506b762, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 077a5653-b1c0-399d-ae20-e154a506b762, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.168.236.31, port: 443, type: trojan, password: 2abe8518-4c57-3dcb-8ac0-757039d139ec, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.248.202, port: 443, type: trojan, password: 2abe8518-4c57-3dcb-8ac0-757039d139ec, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.186.62.98, port: 443, type: trojan, password: 2abe8518-4c57-3dcb-8ac0-757039d139ec, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 2abe8518-4c57-3dcb-8ac0-757039d139ec, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 2abe8518-4c57-3dcb-8ac0-757039d139ec, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
