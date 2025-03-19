@@ -7,7 +7,7 @@ invite_code  dclZ  9999
 last_checkin  2025-03-19 10:18:18.860434+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.295M  10.18G  2025-03-20 10:18:18+08:00  (剩余 10.18G 22:06:42.557310)
+sub_info  12.54M  10.18G  2025-03-20 10:18:18+08:00  (剩余 10.17G 21:08:10.748794)
 sub_url  http://175.178.9.20/link/TOKFqAhdNqNleBim?clash=1#飞翔吧
 time  2025-03-19 10:18:20.195628+08:00
 type  sspanel
@@ -21,7 +21,7 @@ email  pamgsahr99@yzm.de
 last_checkin  2025-03-19 11:23:01.229159+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  134M  1.107G  2025-03-20 11:23:00+08:00  (剩余 1000M 23:11:24.817891)
+sub_info  333.5M  1.107G  2025-03-20 11:23:00+08:00  (剩余 800.5M 22:12:52.451246)
 sub_url  https://network.ayucloud.nl/link/cPd9XjjOyvkAFNRd?clash=1
 time  2025-03-19 11:23:02.229798+08:00
 type  sspanel
@@ -29,14 +29,16 @@ type  sspanel
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  xkmjhoxh33@gmail.com
-last_checkin  2025-03-19 03:07:41.817806+08:00
+email  rwlysxjs544@gmail.com
+last_checkin  2025-03-19 13:10:06.453638+08:00
 name  大白
 node_n  7
 sub_info  3.963G  1T  2025-04-18 03:07:41+08:00  (剩余 1020G 29 days, 14:56:07.187505)
-sub_url  https://cc.dabai.in/link/GOFrkoowsyV832my?sub=3
-time  2025-03-19 03:07:42.852230+08:00
+sub_url  https://cc.dabai.in/link/50ECWfFPp86f1afV?sub=3
+time  2025-03-19 13:10:07.515424+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
 
 [cooc.cloud#小白云]
 buy  pass
@@ -47,7 +49,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f951804c160>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa8688832e0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -57,10 +59,11 @@ email  wjbygbqrc594@guerrillamail.biz
 last_checkin  2025-03-19 12:12:16.403925+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.103G  2025-03-19 12:12:16+08:00  (剩余 1.103G -1 day, 23:59:55.475274)
+sub_info  5.234M  1.103G  2025-03-19 12:12:16+08:00  (剩余 1.097G -1 day, 23:01:49.877288)
 sub_url  https://new.gfw.news/link/tcHmxcvpj4DXmMHA?sub=3
 time  2025-03-19 12:12:16.923912+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -69,11 +72,10 @@ email  zpddijtlv688@51788.top
 last_checkin  2025-03-19 10:18:07.785489+08:00
 name  独孤乐天
 node_n  4
-sub_info  156M  1.026G  2025-03-20 10:18:06+08:00  (剩余 895M 22:55:14.397916)
+sub_info  468M  1.026G  2025-03-20 10:18:06+08:00  (剩余 583M 21:08:00.164318)
 sub_url  https://www.duguletian.com/link/H1kw8KxYGSUqNJBi?sub=3
 time  2025-03-19 10:18:08.429740+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [mgnet.vip#mgnet]
 auto_invite  F
@@ -82,7 +84,7 @@ email  hpefwbeq538@gmail.com
 last_checkin  2025-03-19 08:47:03.978028+08:00
 name  MG Network
 node_n  10
-sub_info  117K  5.21G  2025-03-21 09:47:03+08:00  (剩余 5.21G 1 day, 21:35:28.463687)
+sub_info  1.79M  5.21G  2025-03-21 09:47:03+08:00  (剩余 5.208G 1 day, 20:36:53.227371)
 sub_url  https://www.mgnet.sbs/link/wSNm7DwUCE8biIg7?sub=3
 time  2025-03-19 08:47:04.410376+08:00
 type  sspanel
