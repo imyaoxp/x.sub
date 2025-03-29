@@ -7,7 +7,7 @@ invite_code  fB7T  10000
 last_checkin  2025-03-30 06:08:32.006000+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.14G  2025-03-31 06:08:30+08:00  (剩余 10.14G 23:59:52.778619)
+sub_info  305.8M  10.14G  2025-03-31 06:08:30+08:00  (剩余 9.837G 22:59:29.696276)
 sub_url  http://175.178.9.20/link/kL9aoc4VDasVLltN?clash=1#飞翔吧
 time  2025-03-30 06:08:33.298226+08:00
 type  sspanel
@@ -35,10 +35,11 @@ email  ixsdhno89@gmail.com
 last_checkin  2025-03-30 05:08:04.616610+08:00
 name  大白
 node_n  7
-sub_info  364.2M  1T  2025-04-29 05:08:04+08:00  (剩余 1024G 29 days, 22:59:52.237909)
+sub_info  581.6M  1T  2025-04-29 05:08:04+08:00  (剩余 1023G 29 days, 21:59:05.877278)
 sub_url  https://cc.dabai.in/link/H45HKBFelTalK0Uu?sub=3
 time  2025-03-30 05:08:05.926299+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [cooc.cloud#小白云]
 buy  pass
@@ -49,7 +50,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcfa0467130>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb345b24f40>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -59,22 +60,22 @@ email  oarurnk36@oakon.com
 last_checkin  2025-03-30 06:08:28.758796+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.18G  2025-03-30 06:08:28+08:00  (剩余 1.18G -1 day, 23:59:56.962407)
+sub_info  0B  1.179G  2025-03-30 06:08:28+08:00  (剩余 1.179G -1 day, 22:59:26.419215)
 sub_url  https://new.gfw.news/link/pj1b6rm6Mu60qxEP?sub=3
 time  2025-03-30 06:08:29.312161+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ttucdym842@prokumdo.com","success":"false"}'
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  linshiyou.com  psnator.com  mydefipet.live  youxiang.dev  tmpnator.live  femailtor.com  smartnator.com  muatoc.com  miteon.com  111.vupkl.shop  xxxhi.cc  snapmail.cc  lista.cc  maxamba.com  442587.xyz  mail.wvwvw.tech  x866.cc  bccto.cc  965.tmmad.com  mxl001.win
-email  kiempchcw243@vapesculpt.com
-last_checkin  2025-03-30 03:06:51.485161+08:00
+email  glbuwpqzg276@mail.shouyou789.com
+last_checkin  2025-03-30 07:09:05.662316+08:00
 name  独孤乐天
 node_n  4
-sub_info  803M  1.049G  2025-03-31 03:06:50+08:00  (剩余 271M 20:58:33.571396)
-sub_url  https://www.duguletian.com/link/R6LhEOZVGmLt81DX?sub=3
-time  2025-03-30 03:06:52.286026+08:00
+sub_info  0B  1.023G  2025-03-31 07:09:04+08:00  (剩余 1.023G 23:59:51.203260)
+sub_url  https://www.duguletian.com/link/lwfNWPQqnCpAzEf3?sub=3
+time  2025-03-30 07:09:06.625956+08:00
 type  sspanel
 
 [mgnet.vip#mgnet]
@@ -84,7 +85,7 @@ email  vejouupvp744@gmail.com
 last_checkin  2025-03-30 06:08:11.633437+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.525G  2025-04-01 07:08:11+08:00  (剩余 5.525G 2 days, 0:59:56.916345)
+sub_info  0B  5.525G  2025-04-01 07:08:11+08:00  (剩余 5.525G 1 day, 23:59:06.331543)
 sub_url  https://www.mgnet.sbs/link/Hu8HkOjfmbhqKiyz?sub=3
 time  2025-03-30 06:08:12.064510+08:00
 type  sspanel
