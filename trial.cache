@@ -7,7 +7,7 @@ invite_code  i4Oz  9999
 last_checkin  2025-03-31 14:15:12.223331+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.598G  10.1G  2025-04-01 14:15:12+08:00  (剩余 8.504G 15:04:36.420923)
+sub_info  3.001G  10.1G  2025-04-01 14:15:12+08:00  (剩余 7.1G 14:02:56.034591)
 sub_url  http://175.178.9.20/link/Y8ePrVxsuQrfx4zI?clash=1#飞翔吧
 time  2025-03-31 14:15:13.363929+08:00
 type  sspanel
@@ -27,7 +27,7 @@ time  2025-03-29 03:08:47.810623+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -36,7 +36,7 @@ email  mxyxcygy324@gmail.com
 last_checkin  2025-03-31 17:11:31.303794+08:00
 name  大白
 node_n  7
-sub_info  352M  1T  2025-04-30 17:11:31+08:00  (剩余 1024G 29 days, 18:00:58.909678)
+sub_info  371.6M  1T  2025-04-30 17:11:31+08:00  (剩余 1024G 29 days, 16:59:13.117944)
 sub_url  https://cc.dabai.in/link/tHVJ1SV9flJ1kKhz?sub=3
 time  2025-03-31 17:11:32.540950+08:00
 type  sspanel
@@ -50,19 +50,19 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f078d1a6e90>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fae31604fa0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  mail.wvwvw.tech  femailtor.com  psnator.com  wj32.haihantnc.xyz  smartnator.com  lista.cc  tmpnator.live  wglccg.cn  mydefipet.live  teml.net  buguauto.cn  dyxglu.cn  disbox.org  bccto.cc  bareed.ws  lplso.tmmad.com  muatoc.com  456.craigbyrge.shop  mail.shouyou789.com  nespressopixie.com  mynanaimohomes.com  maxamba.com  youxiang.dev  linshiyou.com  456.witvc.shop  guerrillamail.com  456.gracebrown.shop  guerrillamail.org  disbox.net  xxxhi.cc  snapmail.cc  miteon.com  111.wldpb.shop  guerrillamail.net  222.wfmvz.shop  222.vzakf.shop  btcstar.site  grr.la  wfes.site  MAIL.WVWVW.TECH  WFES.SITE  tmpmail.net  tmpeml.com  edu.chqu.school  tmails.net  333.wkhxn.shop  333.vupkl.shop  444.waocq.shop  444.vupkl.shop  444.cvrmpr.shop  rgzx.tmmad.com  xiaoyaoemail.cc  jkb.tmmad.com  jkd.tmmad.com  555.vtnli.shop  qwer.usphms.shop  zz.vlvitp.shop  mxl001.win  ipiso.tmmad.com  442587.xyz  51788.top  x866.cc  zz.wgfkq.shop  965.tmmad.com  lyx13.xyz  top.co.mom  lpl1so.tmmad.com  moakt.co  tmail.ws  tmpmail.org  spam4.me  bookmorpho.cfd  sharklasers.com  guerrillamail.biz  huiplay.com  qabq.com  moakt.cc  pastryofistanbul.com  gotsession.com
 buy  pass
-email  wohvezne328@vapesculpt.com
-last_checkin  2025-03-31 23:10:46.412867+08:00
+email  sozbmznx38@25ua.com
+last_checkin  2025-04-01 00:12:23.259138+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.05G  2025-03-31 23:10:46+08:00  (剩余 1.05G -1 day, 23:59:57.729722)
-sub_url  https://new.gfw.news/link/IpI40ftJIslPeNse?sub=3
-time  2025-03-31 23:10:47.082126+08:00
+sub_info  0B  1.142G  2025-04-01 00:12:22+08:00  (剩余 1.142G -1 day, 23:59:54.386993)
+sub_url  https://new.gfw.news/link/ylb2Fc0s81NVZPrf?sub=3
+time  2025-04-01 00:12:23.814693+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -72,10 +72,11 @@ email  esvqbva652@questtechsystems.com
 last_checkin  2025-03-31 20:19:11.480462+08:00
 name  独孤乐天
 node_n  4
-sub_info  559.7M  1.037G  2025-04-01 20:19:10+08:00  (剩余 502.3M 21:08:36.109810)
+sub_info  873.5M  1.037G  2025-04-01 20:19:10+08:00  (剩余 188.5M 20:06:55.001100)
 sub_url  https://www.duguletian.com/link/FJcJsVttdeoLcPCB?sub=3
 time  2025-03-31 20:19:12.218982+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"udzurfe126@25ua.com","success":"false"}'
 
 [mgnet.vip#mgnet]
 auto_invite  F
@@ -84,7 +85,7 @@ email  mjwkrhrjh109@gmail.com
 last_checkin  2025-03-31 22:10:01.232461+08:00
 name  MG Network
 node_n  10
-sub_info  1.504G  5.461G  2025-04-02 23:10:00+08:00  (剩余 3.957G 1 day, 23:59:27.108095)
+sub_info  3.818G  5.461G  2025-04-02 23:10:00+08:00  (剩余 1.643G 1 day, 22:57:45.474287)
 sub_url  https://www.mgnet.sbs/link/w01N16Xl6W1HPVTu?sub=3
 time  2025-03-31 22:10:01.761701+08:00
 type  sspanel
