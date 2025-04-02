@@ -7,7 +7,7 @@ invite_code  NB4e  10000
 last_checkin  2025-04-02 22:10:06.603723+08:00
 name  飞翔吧
 node_n  46
-sub_info  398K  10.1G  2025-04-03 22:10:04+08:00  (剩余 10.1G 22:59:29.301050)
+sub_info  166.5M  10.1G  2025-04-03 22:10:04+08:00  (剩余 9.937G 21:57:28.884109)
 sub_url  http://175.178.9.20/link/gpyyXnwfWkefVoRP?clash=1#飞翔吧
 time  2025-04-02 22:10:08.310349+08:00
 type  sspanel
@@ -25,8 +25,8 @@ sub_info  1.706G  1.184G  2025-04-02 11:37:43+08:00  (剩余 -534.7M 0:10:17.153
 sub_url  https://network.ayucloud.nl/link/ISJeYkjeRMpFxIi8?clash=1
 time  2025-04-01 11:37:44.446753+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f04883266b0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -35,7 +35,7 @@ email  hwozinazu671@gmail.com
 last_checkin  2025-04-02 16:14:00.817060+08:00
 name  大白
 node_n  7
-sub_info  3.206G  1T  2025-05-02 16:14:00+08:00  (剩余 1021G 29 days, 17:03:27.953775)
+sub_info  3.21G  1T  2025-05-02 16:14:00+08:00  (剩余 1021G 29 days, 16:01:28.333341)
 sub_url  https://cc.dabai.in/link/BX3WwHgeRtAxMGyM?sub=3
 time  2025-04-02 16:14:01.935960+08:00
 type  sspanel
@@ -49,31 +49,31 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f169d3dc3a0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f04883255a0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  mail.wvwvw.tech  femailtor.com  psnator.com  wj32.haihantnc.xyz  smartnator.com  lista.cc  tmpnator.live  wglccg.cn  mydefipet.live  teml.net  buguauto.cn  dyxglu.cn  disbox.org  bccto.cc  bareed.ws  lplso.tmmad.com  muatoc.com  456.craigbyrge.shop  mail.shouyou789.com  nespressopixie.com  mynanaimohomes.com  maxamba.com  youxiang.dev  linshiyou.com  456.witvc.shop  guerrillamail.com  456.gracebrown.shop  guerrillamail.org  disbox.net  xxxhi.cc  snapmail.cc  miteon.com  111.wldpb.shop  guerrillamail.net  222.wfmvz.shop  222.vzakf.shop  btcstar.site  grr.la  wfes.site  MAIL.WVWVW.TECH  WFES.SITE  tmpmail.net  tmpeml.com  edu.chqu.school  tmails.net  333.wkhxn.shop  333.vupkl.shop  444.waocq.shop  444.vupkl.shop  444.cvrmpr.shop  rgzx.tmmad.com  xiaoyaoemail.cc  jkb.tmmad.com  jkd.tmmad.com  555.vtnli.shop  qwer.usphms.shop  zz.vlvitp.shop  mxl001.win  ipiso.tmmad.com  442587.xyz  51788.top  x866.cc  zz.wgfkq.shop  965.tmmad.com  lyx13.xyz  top.co.mom  lpl1so.tmmad.com  moakt.co  tmail.ws  tmpmail.org  spam4.me  bookmorpho.cfd  sharklasers.com  guerrillamail.biz  huiplay.com  qabq.com  moakt.cc  pastryofistanbul.com  gotsession.com
 buy  pass
-email  eljapiud968@vapenano.com
-last_checkin  2025-04-02 23:10:44.235004+08:00
+email  ffokffes147@yzm.de
+last_checkin  2025-04-03 00:12:41.484771+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.06G  2025-04-02 23:10:43+08:00  (剩余 1.06G -1 day, 23:59:57.024054)
-sub_url  https://new.gfw.news/link/a0xjM3Ummd6LyNWX?sub=3
-time  2025-04-02 23:10:44.864225+08:00
+sub_info  0B  1.138G  2025-04-03 00:12:41+08:00  (剩余 1.138G -1 day, 23:59:57.321275)
+sub_url  https://new.gfw.news/link/YZMOlmiAmC4Qoy8c?sub=3
+time  2025-04-03 00:12:41.999443+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  linshiyou.com  psnator.com  mydefipet.live  youxiang.dev  tmpnator.live  femailtor.com  smartnator.com  muatoc.com  miteon.com  111.vupkl.shop  xxxhi.cc  snapmail.cc  lista.cc  maxamba.com  442587.xyz  mail.wvwvw.tech  x866.cc  bccto.cc  965.tmmad.com  mxl001.win
-email  arqmvzkeh828@rgzx.tmmad.com
-last_checkin  2025-04-02 18:10:55.623098+08:00
+email  opgmisc863@51788.top
+last_checkin  2025-04-03 00:12:37.206441+08:00
 name  独孤乐天
 node_n  4
-sub_info  704.3M  1.047G  2025-04-03 18:10:54+08:00  (剩余 367.7M 19:00:22.068835)
-sub_url  https://www.duguletian.com/link/woGkzQwlExuXEbXA?sub=3
-time  2025-04-02 18:10:56.304514+08:00
+sub_info  0B  1.014G  2025-04-04 00:12:36+08:00  (剩余 1.014G 23:59:56.099102)
+sub_url  https://www.duguletian.com/link/XGHDRzCRNeSB3YeA?sub=3
+time  2025-04-03 00:12:37.963670+08:00
 type  sspanel
 
 [mgnet.vip#mgnet]
@@ -83,7 +83,7 @@ email  bsrbvsv520@gmail.com
 last_checkin  2025-04-02 23:10:31.213274+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.404G  2025-04-05 00:10:30+08:00  (剩余 5.404G 2 days, 0:59:56.865161)
+sub_info  0B  5.404G  2025-04-05 00:10:30+08:00  (剩余 5.404G 1 day, 23:57:59.022857)
 sub_url  https://www.mgnet.sbs/link/jzLAWUIWRam9gDNR?sub=3
 time  2025-04-02 23:10:31.597907+08:00
 type  sspanel
