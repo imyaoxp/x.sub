@@ -7,7 +7,7 @@ invite_code  JvdX  10000
 last_checkin  2025-04-07 13:10:58.688705+08:00
 name  飞翔吧
 node_n  46
-sub_info  2.345G  10.16G  2025-04-08 13:10:57+08:00  (剩余 7.812G 21:59:50.693727)
+sub_info  4.413G  10.16G  2025-04-08 13:10:57+08:00  (剩余 5.745G 20:56:28.273180)
 sub_url  http://175.178.9.20/link/pPf7hAVMHTRFUqhm?clash=1#飞翔吧
 time  2025-04-07 13:10:59.966444+08:00
 type  sspanel
@@ -26,7 +26,7 @@ sub_url  https://network.ayucloud.nl/link/kEh7TeJXEJfU2FvY?clash=1
 time  2025-04-06 07:09:44.141865+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f067049fdc0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f257e7e0bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -35,7 +35,7 @@ email  jiavmgfp439@gmail.com
 last_checkin  2025-04-07 08:51:02.459646+08:00
 name  大白
 node_n  7
-sub_info  978.5M  1T  2025-05-07 08:51:02+08:00  (剩余 1023G 29 days, 17:39:56.833552)
+sub_info  1.359G  1T  2025-05-07 08:51:02+08:00  (剩余 1023G 29 days, 16:36:42.017669)
 sub_url  https://cc.dabai.in/link/zDLrn9nbHxNrXxoI?sub=3
 time  2025-04-07 08:51:03.916165+08:00
 type  sspanel
@@ -49,7 +49,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0670420b50>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f256bf13bb0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -59,7 +59,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-07 01:07:44.182962+08:00
 name  NovaLive
 node_n  5
-sub_info  1.515G  1.498G  2025-04-05 07:09:25+08:00  (剩余 -16.9M -3 days, 15:57:26.909490)
+sub_info  1.515G  1.498G  2025-04-05 07:09:25+08:00  (剩余 -16.9M -3 days, 14:55:02.843966)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -72,7 +72,7 @@ email  jruyimr390@careandcompare.com
 last_checkin  2025-04-07 15:12:02.167133+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.036G  2025-04-08 15:12:01+08:00  (剩余 1.036G 23:59:56.927961)
+sub_info  218.8M  1.036G  2025-04-08 15:12:01+08:00  (剩余 842.2M 22:57:42.144162)
 sub_url  https://www.duguletian.com/link/knGbSQgugzxA7pzz?sub=3
 time  2025-04-07 15:12:03.293606+08:00
 type  sspanel
@@ -84,7 +84,7 @@ email  frostlh497@gmail.com
 last_checkin  2025-04-07 15:11:04.721617+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.338G  2025-04-09 16:11:04+08:00  (剩余 5.338G 2 days, 0:59:56.479207)
+sub_info  0B  5.338G  2025-04-09 16:11:04+08:00  (剩余 5.338G 1 day, 23:56:44.042125)
 sub_url  https://www.mgnet.sbs/link/DnSUmgufajjyDhhx?sub=3
 time  2025-04-07 15:11:05.164517+08:00
 type  sspanel
