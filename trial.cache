@@ -7,12 +7,10 @@ invite_code  JvdX  9997
 last_checkin  2025-04-08 05:09:28.202194+08:00
 name  飞翔吧
 node_n  46
-sub_info  10.11G  10.38G  2025-04-08 22:10:33+08:00  (剩余 273.8M 17:59:14.800753)
+sub_info  0B  10.19G  2025-04-09 05:09:28+08:00  (剩余 10.19G 22:59:46.735773)
 sub_url  http://175.178.9.20/link/KaTGIsHSnDkiODd6?clash=1#飞翔吧
 time  2025-04-08 05:09:29.363232+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
 
 [ayucloud.services]
 auth_path  user
@@ -29,21 +27,20 @@ time  2025-04-06 07:09:44.141865+08:00
 type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  keoenax180@gmail.com
-last_checkin  2025-04-08 02:13:57.411897+08:00
+email  xunwjoe880@gmail.com
+last_checkin  2025-04-08 06:09:41.105043+08:00
 name  大白
 node_n  7
-sub_info  455.2M  1T  2025-05-08 02:13:57+08:00  (剩余 1024G 29 days, 21:04:49.593816)
-sub_url  https://cc.dabai.in/link/8udTDdOkL5APiBNp?sub=3
-time  2025-04-08 02:13:58.439878+08:00
+sub_info  0B  1T  2025-05-08 06:09:40+08:00  (剩余 1T 29 days, 23:59:56.009939)
+sub_url  https://cc.dabai.in/link/uAXbznyVT2F9f79u?sub=3
+time  2025-04-08 06:09:42.365566+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [cooc.cloud#小白云]
 buy  pass
@@ -54,7 +51,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4a1870b340>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5ea00383a0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -64,7 +61,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-08 01:09:11.819846+08:00
 name  NovaLive
 node_n  5
-sub_info  1.588G  1.57G  2025-04-05 07:09:25+08:00  (剩余 -18.15M -3 days, 1:58:14.623141)
+sub_info  1.588G  1.57G  2025-04-05 07:09:25+08:00  (剩余 -18.15M -3 days, 0:59:43.622801)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -73,15 +70,15 @@ type  sspanel
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  linshiyou.com  psnator.com  mydefipet.live  youxiang.dev  tmpnator.live  femailtor.com  smartnator.com  muatoc.com  miteon.com  111.vupkl.shop  xxxhi.cc  snapmail.cc  lista.cc  maxamba.com  442587.xyz  mail.wvwvw.tech  x866.cc  bccto.cc  965.tmmad.com  mxl001.win
-email  latcatszp462@guerrillamail.de
-last_checkin  2025-04-08 03:08:05.748015+08:00
+email  pykvbvgjm806@guerrillamail.de
+last_checkin  2025-04-08 06:09:55.796682+08:00
 name  独孤乐天
 node_n  4
-sub_info  208M  1.033G  2025-04-09 03:08:04+08:00  (剩余 850M 22:56:10.880028)
-sub_url  https://www.duguletian.com/link/WmCuQ75tn8qANQHN?sub=3
-time  2025-04-08 03:08:06.437355+08:00
+sub_info  0B  1G  永不过期  (剩余 1G)
+sub_url  https://www.duguletian.com/link/tybFweymaOkLbnuB?sub=3
+time  2025-04-08 06:09:56.482983+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
+保存base64/clash订阅失败  string indices must be integers
 
 [mgnet.vip#mgnet]
 auto_invite  F
@@ -90,10 +87,9 @@ email  bjpuhnamk987@gmail.com
 last_checkin  2025-04-08 03:07:44.956835+08:00
 name  MG Network
 node_n  10
-sub_info  696.3M  5.753G  2025-04-10 04:07:44+08:00  (剩余 5.073G 1 day, 22:58:35.453885)
+sub_info  2.089G  5.753G  2025-04-10 04:07:44+08:00  (剩余 3.664G 1 day, 21:58:03.733262)
 sub_url  https://www.mgnet.sbs/link/lPwXXyRdwPfZyJoM?sub=3
 time  2025-04-08 03:07:45.398216+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [uuvpn.cloud:1080#UUVPN]
