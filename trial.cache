@@ -7,10 +7,11 @@ invite_code  JvdX  10000
 last_checkin  2025-04-07 13:10:58.688705+08:00
 name  飞翔吧
 node_n  46
-sub_info  8.795G  10.16G  2025-04-08 13:10:57+08:00  (剩余 1.362G 18:02:19.162231)
+sub_info  10.24G  10.16G  2025-04-08 13:10:57+08:00  (剩余 -86.76M 16:50:28.327031)
 sub_url  http://175.178.9.20/link/pPf7hAVMHTRFUqhm?clash=1#飞翔吧
 time  2025-04-07 13:10:59.966444+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [ayucloud.services]
 auth_path  user
@@ -27,7 +28,7 @@ time  2025-04-06 07:09:44.141865+08:00
 type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 保存订阅信息失败  no sub info
-更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -36,7 +37,7 @@ email  jiavmgfp439@gmail.com
 last_checkin  2025-04-07 08:51:02.459646+08:00
 name  大白
 node_n  7
-sub_info  1.862G  1T  2025-05-07 08:51:02+08:00  (剩余 1022G 29 days, 13:42:27.033731)
+sub_info  1.96G  1T  2025-05-07 08:51:02+08:00  (剩余 1022G 29 days, 12:31:50.585504)
 sub_url  https://cc.dabai.in/link/zDLrn9nbHxNrXxoI?sub=3
 time  2025-04-07 08:51:03.916165+08:00
 type  sspanel
@@ -50,7 +51,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0f9cad6200>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f78fd410340>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -60,7 +61,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-07 01:07:44.182962+08:00
 name  NovaLive
 node_n  5
-sub_info  1.515G  1.498G  2025-04-05 07:09:25+08:00  (剩余 -16.9M -3 days, 12:00:44.581529)
+sub_info  1.515G  1.498G  2025-04-05 07:09:25+08:00  (剩余 -16.9M -3 days, 10:49:31.523363)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -73,22 +74,21 @@ email  vsgzltep841@oakon.com
 last_checkin  2025-04-07 18:11:53.758121+08:00
 name  独孤乐天
 node_n  4
-sub_info  208M  1.009G  2025-04-08 18:11:52+08:00  (剩余 825M 23:03:17.635893)
+sub_info  633M  1.009G  2025-04-08 18:11:52+08:00  (剩余 400M 21:52:40.767210)
 sub_url  https://www.duguletian.com/link/kRzDkLxChSL0B9cC?sub=3
 time  2025-04-07 18:11:54.457254+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [mgnet.vip#mgnet]
 auto_invite  F
 buy  pass
-email  frostlh497@gmail.com
-last_checkin  2025-04-07 15:11:04.721617+08:00
+email  mvxqdhyxn970@gmail.com
+last_checkin  2025-04-07 20:19:17.148575+08:00
 name  MG Network
 node_n  10
-sub_info  3.862G  5.338G  2025-04-09 16:11:04+08:00  (剩余 1.476G 1 day, 21:02:29.586053)
-sub_url  https://www.mgnet.sbs/link/DnSUmgufajjyDhhx?sub=3
-time  2025-04-07 15:11:05.164517+08:00
+sub_info  0B  5.359G  2025-04-09 21:19:16+08:00  (剩余 5.359G 2 days, 0:59:56.562433)
+sub_url  https://www.mgnet.sbs/link/KbL3BDRZ4nG2aqyb?sub=3
+time  2025-04-07 20:19:17.548711+08:00
 type  sspanel
 
 [uuvpn.cloud:1080#UUVPN]
