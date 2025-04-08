@@ -7,10 +7,11 @@ invite_code  JvdX  9996
 last_checkin  2025-04-08 11:26:40.392687+08:00
 name  飞翔吧
 node_n  46
-sub_info  8.515G  10.16G  2025-04-09 11:26:40+08:00  (剩余 1.648G 19:12:16.857633)
+sub_info  11.24G  10.16G  2025-04-09 11:26:40+08:00  (剩余 -1.081G 18:15:02.021646)
 sub_url  http://175.178.9.20/link/U8b58p3PaZpsDMQ8?clash=1#飞翔吧
 time  2025-04-08 11:26:41.570001+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [ayucloud.services]
 auth_path  user
@@ -37,7 +38,7 @@ email  xdudacwl105@gmail.com
 last_checkin  2025-04-08 08:47:29.363102+08:00
 name  大白
 node_n  7
-sub_info  4.627M  1T  2025-05-08 08:47:29+08:00  (剩余 1T 29 days, 16:33:12.089302)
+sub_info  4.857M  1T  2025-05-08 08:47:29+08:00  (剩余 1T 29 days, 15:36:24.897478)
 sub_url  https://cc.dabai.in/link/DDv1MKo030KJT4i7?sub=3
 time  2025-04-08 08:47:30.638260+08:00
 type  sspanel
@@ -51,7 +52,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f120ff64220>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb6c6711690>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -61,7 +62,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-08 01:09:11.819846+08:00
 name  NovaLive
 node_n  5
-sub_info  1.588G  1.57G  2025-04-05 07:09:25+08:00  (剩余 -18.15M -4 days, 14:55:05.175176)
+sub_info  1.588G  1.57G  2025-04-05 07:09:25+08:00  (剩余 -18.15M -4 days, 13:58:16.723102)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -74,21 +75,22 @@ email  lebyxdv858@guerrillamail.biz
 last_checkin  2025-04-08 14:14:41.486381+08:00
 name  独孤乐天
 node_n  4
-sub_info  633.3M  1.02G  2025-04-09 14:14:40+08:00  (剩余 410.7M 22:00:21.692488)
+sub_info  1.057G  1.02G  2025-04-09 14:14:40+08:00  (剩余 -38.28M 21:03:02.040579)
 sub_url  https://www.duguletian.com/link/jNcSHzXd9JdmnVfb?sub=3
 time  2025-04-08 14:14:42.039533+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [mgnet.vip#mgnet]
 auto_invite  F
 buy  pass
-email  sodxkyjgd77@gmail.com
-last_checkin  2025-04-08 13:10:33.175573+08:00
+email  dkhnvxi621@gmail.com
+last_checkin  2025-04-08 17:11:04.603648+08:00
 name  MG Network
 node_n  10
-sub_info  823.8M  5.813G  2025-04-10 14:10:32+08:00  (剩余 5.009G 1 day, 21:56:10.361236)
-sub_url  https://www.mgnet.sbs/link/GYXG0zKdDGOlFMpK?sub=3
-time  2025-04-08 13:10:33.465127+08:00
+sub_info  0B  5.782G  2025-04-10 18:11:04+08:00  (剩余 5.782G 2 days, 0:59:57.011012)
+sub_url  https://www.mgnet.sbs/link/zIT22FDprR1NUknB?sub=3
+time  2025-04-08 17:11:05.144058+08:00
 type  sspanel
 
 [uuvpn.cloud:1080#UUVPN]
