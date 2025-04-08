@@ -7,7 +7,7 @@ invite_code  hyzQ  9999
 last_checkin  2025-04-08 20:19:27.434636+08:00
 name  飞翔吧
 node_n  46
-sub_info  4.182G  10.1G  2025-04-09 20:19:27+08:00  (剩余 5.918G 22:08:54.625070)
+sub_info  5.316G  10.1G  2025-04-09 20:19:27+08:00  (剩余 4.783G 21:08:11.259984)
 sub_url  http://175.178.9.20/link/pwtXeSXisaqIqIH7?clash=1#飞翔吧
 time  2025-04-08 20:19:28.768815+08:00
 type  sspanel
@@ -28,7 +28,7 @@ type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcde86767d0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -37,7 +37,7 @@ email  xdudacwl105@gmail.com
 last_checkin  2025-04-08 08:47:29.363102+08:00
 name  大白
 node_n  7
-sub_info  9.16M  1T  2025-05-08 08:47:29+08:00  (剩余 1T 29 days, 10:36:58.089106)
+sub_info  11.29M  1T  2025-05-08 08:47:29+08:00  (剩余 1T 29 days, 9:36:13.463126)
 sub_url  https://cc.dabai.in/link/DDv1MKo030KJT4i7?sub=3
 time  2025-04-08 08:47:30.638260+08:00
 type  sspanel
@@ -51,7 +51,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcde032c400>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe5b7285570>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -61,7 +61,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-08 01:09:11.819846+08:00
 name  NovaLive
 node_n  5
-sub_info  1.588G  1.57G  2025-04-05 07:09:25+08:00  (剩余 -18.15M -4 days, 8:58:51.722570)
+sub_info  1.588G  1.57G  2025-04-05 07:09:25+08:00  (剩余 -18.15M -4 days, 7:57:54.769239)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -70,16 +70,14 @@ type  sspanel
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  linshiyou.com  psnator.com  mydefipet.live  youxiang.dev  tmpnator.live  femailtor.com  smartnator.com  muatoc.com  miteon.com  111.vupkl.shop  xxxhi.cc  snapmail.cc  lista.cc  maxamba.com  442587.xyz  mail.wvwvw.tech  x866.cc  bccto.cc  965.tmmad.com  mxl001.win
-email  tgokbqcsh855@uuf.me
-last_checkin  2025-04-08 18:11:26.191437+08:00
+email  qawmubn544@grr.la
+last_checkin  2025-04-08 23:11:33.639387+08:00
 name  独孤乐天
 node_n  4
-sub_info  832M  1.021G  永不过期  (剩余 213M)
-sub_url  https://www.duguletian.com/link/DE3wUtnZpa16TUoB?sub=3
-time  2025-04-08 18:11:26.718729+08:00
+sub_info  0B  1.023G  2025-04-09 23:11:32+08:00  (剩余 1.023G 23:59:51.826817)
+sub_url  https://www.duguletian.com/link/TXeYqhwkO62Xrq1u?sub=3
+time  2025-04-08 23:11:34.365001+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [mgnet.vip#mgnet]
 auto_invite  F
@@ -88,7 +86,7 @@ email  rgmesup698@gmail.com
 last_checkin  2025-04-08 19:08:32.174569+08:00
 name  MG Network
 node_n  10
-sub_info  1.591G  5.668G  2025-04-10 20:08:31+08:00  (剩余 4.077G 1 day, 21:57:59.531037)
+sub_info  3.893G  5.668G  2025-04-10 20:08:31+08:00  (剩余 1.775G 1 day, 20:57:15.353791)
 sub_url  https://www.mgnet.sbs/link/jC2hA1s2R6fZJKQ2?sub=3
 time  2025-04-08 19:08:32.757507+08:00
 type  sspanel
