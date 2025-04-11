@@ -57,10 +57,10 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: bc227085-d20e-375d-b127-71c1b4392b23, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: bc227085-d20e-375d-b127-71c1b4392b23, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: bc227085-d20e-375d-b127-71c1b4392b23, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: bc227085-d20e-375d-b127-71c1b4392b23, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 2b0faa19-51a8-30bd-9f9c-5e7b0c34131f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 2b0faa19-51a8-30bd-9f9c-5e7b0c34131f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 2b0faa19-51a8-30bd-9f9c-5e7b0c34131f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 2b0faa19-51a8-30bd-9f9c-5e7b0c34131f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
