@@ -7,7 +7,7 @@ invite_code  80DM  10000
 last_checkin  2025-04-11 10:21:28.013351+08:00
 name  飞翔吧
 node_n  46
-sub_info  3.391G  10.14G  2025-04-12 10:21:26+08:00  (剩余 6.75G 22:08:55.170942)
+sub_info  5.54G  10.14G  2025-04-12 10:21:26+08:00  (剩余 4.601G 21:10:17.408395)
 sub_url  http://175.178.9.20/link/zt9Ukstb9ItACpJ9?clash=1#飞翔吧
 time  2025-04-11 10:21:29.163824+08:00
 type  sspanel
@@ -27,7 +27,7 @@ time  2025-04-06 07:09:44.141865+08:00
 type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 保存订阅信息失败  no sub info
-尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f50adb24b80>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
@@ -37,7 +37,7 @@ email  nabvsbpzf511@gmail.com
 last_checkin  2025-04-11 01:09:11.918274+08:00
 name  大白
 node_n  7
-sub_info  2.233M  1T  2025-05-10 13:10:49+08:00  (剩余 1T 29 days, 0:58:19.671964)
+sub_info  2.233M  1T  2025-05-10 13:10:49+08:00  (剩余 1T 28 days, 23:59:41.144015)
 sub_url  https://cc.dabai.in/link/RT6A4LxtTjCz1lU9?sub=3
 time  2025-04-10 13:10:50.671146+08:00
 type  sspanel
@@ -51,7 +51,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f50ac579840>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa774969900>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -61,7 +61,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-11 01:09:11.923698+08:00
 name  NovaLive
 node_n  5
-sub_info  1.807G  1.768G  2025-04-05 07:09:25+08:00  (剩余 -40.08M -7 days, 18:56:54.517920)
+sub_info  1.807G  1.768G  2025-04-05 07:09:25+08:00  (剩余 -40.08M -7 days, 17:58:15.606656)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -74,7 +74,7 @@ email  pdehaco709@oakon.com
 last_checkin  2025-04-11 11:27:26.035873+08:00
 name  独孤乐天
 node_n  4
-sub_info  261.7M  1.021G  2025-04-12 11:27:25+08:00  (剩余 783.3M 23:14:50.847039)
+sub_info  480.3M  1.021G  2025-04-12 11:27:25+08:00  (剩余 564.7M 22:16:12.070032)
 sub_url  https://www.duguletian.com/link/HhZ7SxuMG4KIj7R0?sub=3
 time  2025-04-11 11:27:26.598128+08:00
 type  sspanel
@@ -86,7 +86,7 @@ email  ywijsjotb51@gmail.com
 last_checkin  2025-04-11 10:21:21.028781+08:00
 name  MG Network
 node_n  10
-sub_info  566M  5.446G  2025-04-13 11:21:20+08:00  (剩余 4.894G 1 day, 23:08:50.457588)
+sub_info  1.155G  5.446G  2025-04-13 11:21:20+08:00  (剩余 4.291G 1 day, 22:10:14.037912)
 sub_url  https://www.mgnet.sbs/link/BLogMD4cIs3Iu5DH?sub=3
 time  2025-04-11 10:21:21.342755+08:00
 type  sspanel
