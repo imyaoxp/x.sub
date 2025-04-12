@@ -7,7 +7,7 @@ invite_code  80DM  9996
 last_checkin  2025-04-12 06:10:49.779861+08:00
 name  飞翔吧
 node_n  46
-sub_info  2.439G  10.1G  2025-04-13 06:10:49+08:00  (剩余 7.66G 23:00:57.418942)
+sub_info  5.701G  10.1G  2025-04-13 06:10:49+08:00  (剩余 4.397G 21:22:48.592715)
 sub_url  http://175.178.9.20/link/fsDq0HJ6DCHk7an3?clash=1#飞翔吧
 time  2025-04-12 06:10:50.966489+08:00
 type  sspanel
@@ -18,17 +18,16 @@ auto_invite  F
 banned_domains  xxxhi.cc  lista.cc  smartnator.com  tmpnator.live  psnator.com  femailtor.com  miteon.com  mydefipet.live  snapmail.cc  mynanaimohomes.com  222.vzakf.shop  222.bdnxnq.shop  guerrillamail.de  nespressopixie.com  maxamba.com  xiaoyaoemail.cc  lyx13.xyz  ipiso.tmmad.com  mxl001.win  wfes.site  zz.witvc.shop  edu.chqu.school  51788.top  x866.cc  lpl1so.tmmad.com  jkd.tmmad.com  qwer.usphms.shop  top.co.mom  mail.wvwvw.tech  moakt.cc
 buy  pass
 email  efjbrbxpl259@965.tmmad.com
-last_checkin  2025-04-07 18:11:39.563608+08:00
+last_checkin  2025-04-12 08:47:41.006143+08:00
 name  AyucLouD-Services
 node_n  99
 sub_info  1.618G  1.161G  2025-04-07 07:09:42+08:00  (剩余 -467.5M 0:00:36.552964)
 sub_url  https://network.ayucloud.nl/link/kEh7TeJXEJfU2FvY?clash=1
 time  2025-04-06 07:09:44.141865+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(lfzswsmt173@tmpmail.org): 邮箱后缀已被拉黑
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -37,10 +36,11 @@ email  ectoiufb731@gmail.com
 last_checkin  2025-04-12 07:09:43.013982+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-05-12 07:09:42+08:00  (剩余 1T 29 days, 23:59:55.477727)
+sub_info  0B  1T  2025-05-12 07:09:42+08:00  (剩余 1T 29 days, 22:21:58.488937)
 sub_url  https://cc.dabai.in/link/VvFSOCz14bdpPrXi?sub=3
 time  2025-04-12 07:09:44.295151+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [cooc.cloud#小白云]
 buy  pass
@@ -51,7 +51,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb239924bb0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f430f4159c0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -61,7 +61,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-12 01:08:40.688353+08:00
 name  NovaLive
 node_n  5
-sub_info  1.97G  1.947G  2025-04-05 07:09:25+08:00  (剩余 -22.88M -8 days, 23:59:34.141389)
+sub_info  1.97G  1.947G  2025-04-05 07:09:25+08:00  (剩余 -22.88M -8 days, 22:21:40.559813)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -70,25 +70,25 @@ type  sspanel
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  linshiyou.com  psnator.com  mydefipet.live  youxiang.dev  tmpnator.live  femailtor.com  smartnator.com  muatoc.com  miteon.com  111.vupkl.shop  xxxhi.cc  snapmail.cc  lista.cc  maxamba.com  442587.xyz  mail.wvwvw.tech  x866.cc  bccto.cc  965.tmmad.com  mxl001.win  yzm.de
-email  hbdquntbd554@guerrillamail.org
-last_checkin  2025-04-12 04:11:32.187829+08:00
+email  fnvcjnajx368@mail.shouyou789.com
+last_checkin  2025-04-12 08:47:53.204403+08:00
 name  独孤乐天
 node_n  4
-sub_info  684.6M  1.009G  2025-04-13 04:11:31+08:00  (剩余 348.4M 21:01:47.756109)
-sub_url  https://www.duguletian.com/link/pZ10ThVJixRMA2w4?sub=3
-time  2025-04-12 04:11:32.865618+08:00
+sub_info  0B  1.049G  2025-04-13 08:47:52+08:00  (剩余 1.049G 23:58:20.702899)
+sub_url  https://www.duguletian.com/link/PoMbUqDkhlzDdhlt?sub=3
+time  2025-04-12 08:47:53.900619+08:00
 type  sspanel
 
 [mgnet.vip#mgnet]
 auto_invite  F
 buy  pass
-email  cbmkhvkcs576@gmail.com
-last_checkin  2025-04-12 00:12:18.026980+08:00
+email  okyjadnzq208@gmail.com
+last_checkin  2025-04-12 08:49:07.903622+08:00
 name  MG Network
 node_n  10
-sub_info  5.072G  5.531G  2025-04-14 01:12:17+08:00  (剩余 470.6M 1 day, 18:02:34.880839)
-sub_url  https://www.mgnet.sbs/link/PsnZyRmQq1OfKheb?sub=3
-time  2025-04-12 00:12:18.457026+08:00
+sub_info  0B  5.452G  2025-04-14 09:49:07+08:00  (剩余 5.452G 2 days, 0:59:48.714495)
+sub_url  https://www.mgnet.sbs/link/EAep4RLrsRIlzOI1?sub=3
+time  2025-04-12 08:49:08.343172+08:00
 type  sspanel
 
 [uuvpn.cloud:1080#UUVPN]
