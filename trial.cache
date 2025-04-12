@@ -7,7 +7,7 @@ invite_code  ZHUO  10000
 last_checkin  2025-04-12 12:11:56.684678+08:00
 name  飞翔吧
 node_n  46
-sub_info  3.443G  10.13G  2025-04-13 12:11:55+08:00  (剩余 6.684G 21:58:47.842741)
+sub_info  4.929G  10.13G  2025-04-13 12:11:55+08:00  (剩余 5.198G 21:02:54.756121)
 sub_url  http://175.178.9.20/link/oK9sDa7YGKlfXBZc?clash=1#飞翔吧
 time  2025-04-12 12:11:57.986045+08:00
 type  sspanel
@@ -36,10 +36,11 @@ email  zjvkabt316@gmail.com
 last_checkin  2025-04-12 13:09:38.554149+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-05-12 13:09:38+08:00  (剩余 1T 29 days, 22:56:54.611684)
+sub_info  0B  1T  2025-05-12 13:09:38+08:00  (剩余 1T 29 days, 22:00:39.027317)
 sub_url  https://cc.dabai.in/link/mgrgp5X280JBC9VD?sub=3
 time  2025-04-12 13:09:39.895200+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [cooc.cloud#小白云]
 buy  pass
@@ -50,7 +51,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f56a47e98a0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8a3c71d9c0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -60,7 +61,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-12 01:08:40.688353+08:00
 name  NovaLive
 node_n  5
-sub_info  1.97G  1.947G  2025-04-05 07:09:25+08:00  (剩余 -22.88M -8 days, 16:56:39.479050)
+sub_info  1.97G  1.947G  2025-04-05 07:09:25+08:00  (剩余 -22.88M -8 days, 16:00:25.088324)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -73,7 +74,7 @@ email  fnvcjnajx368@mail.shouyou789.com
 last_checkin  2025-04-12 08:47:53.204403+08:00
 name  独孤乐天
 node_n  4
-sub_info  58.01M  1.049G  2025-04-13 08:47:52+08:00  (剩余 1016M 18:35:08.233551)
+sub_info  58.01M  1.049G  2025-04-13 08:47:52+08:00  (剩余 1016M 17:38:48.836858)
 sub_url  https://www.duguletian.com/link/PoMbUqDkhlzDdhlt?sub=3
 time  2025-04-12 08:47:53.900619+08:00
 type  sspanel
@@ -85,7 +86,7 @@ email  okyjadnzq208@gmail.com
 last_checkin  2025-04-12 08:49:07.903622+08:00
 name  MG Network
 node_n  10
-sub_info  1.697G  5.452G  2025-04-14 09:49:07+08:00  (剩余 3.755G 1 day, 19:36:23.979506)
+sub_info  1.85G  5.452G  2025-04-14 09:49:07+08:00  (剩余 3.602G 1 day, 18:40:04.347861)
 sub_url  https://www.mgnet.sbs/link/EAep4RLrsRIlzOI1?sub=3
 time  2025-04-12 08:49:08.343172+08:00
 type  sspanel
