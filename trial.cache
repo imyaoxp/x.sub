@@ -7,7 +7,7 @@ invite_code  x9va  10000
 last_checkin  2025-04-13 21:18:50.692003+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.11G  2025-04-14 21:18:49+08:00  (剩余 10.11G 23:10:44.855758)
+sub_info  696.3M  10.11G  2025-04-14 21:18:49+08:00  (剩余 9.434G 22:09:54.434304)
 sub_url  http://175.178.9.20/link/OqdBDw0bNmTc4PZk?clash=1#飞翔吧
 time  2025-04-13 21:18:51.987432+08:00
 type  sspanel
@@ -37,7 +37,7 @@ email  pbkpxgmf169@gmail.com
 last_checkin  2025-04-13 01:08:01.693904+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-05-12 22:08:00+08:00  (剩余 1T 28 days, 23:59:58.086311)
+sub_info  0B  1T  2025-05-12 22:08:00+08:00  (剩余 1T 28 days, 22:59:10.309846)
 sub_url  https://cc.dabai.in/link/s7jHzm8QJXJ83yJg?sub=3
 time  2025-04-12 22:08:01.881036+08:00
 type  sspanel
@@ -51,7 +51,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1d9e5a81f0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f09b01574f0>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -61,7 +61,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-13 01:08:01.695439+08:00
 name  NovaLive
 node_n  5
-sub_info  2.083G  2.022G  2025-04-05 07:09:25+08:00  (剩余 -62.25M -9 days, 9:01:18.894583)
+sub_info  2.083G  2.022G  2025-04-05 07:09:25+08:00  (剩余 -62.25M -9 days, 7:58:31.601207)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -74,7 +74,7 @@ email  abmbizife808@lyx13.xyz
 last_checkin  2025-04-13 22:08:15.222657+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.045G  2025-04-14 22:08:14+08:00  (剩余 1.045G 23:59:46.357271)
+sub_info  208M  1.045G  2025-04-14 22:08:14+08:00  (剩余 862M 22:59:25.449533)
 sub_url  https://www.duguletian.com/link/AA3H7VEMAxVNwO2f?sub=3
 time  2025-04-13 22:08:15.863607+08:00
 type  sspanel
@@ -86,10 +86,9 @@ email  bwqxxah50@gmail.com
 last_checkin  2025-04-13 18:09:10.742937+08:00
 name  MG Network
 node_n  10
-sub_info  2.749G  5.702G  2025-04-15 19:09:10+08:00  (剩余 2.953G 1 day, 21:01:07.951633)
+sub_info  4.057G  5.702G  2025-04-15 19:09:10+08:00  (剩余 1.645G 1 day, 20:00:20.370051)
 sub_url  https://www.mgnet.sbs/link/n6LcXUbeWulUtiDt?sub=3
 time  2025-04-13 18:09:11.168030+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [uuvpn.cloud:1080#UUVPN]
