@@ -7,7 +7,7 @@ invite_code  6O7p  10000
 last_checkin  2025-04-14 07:10:41.877867+08:00
 name  飞翔吧
 node_n  46
-sub_info  3.753G  10.17G  2025-04-15 07:10:40+08:00  (剩余 6.417G 22:18:18.949087)
+sub_info  5.855G  10.17G  2025-04-15 07:10:40+08:00  (剩余 4.315G 20:45:17.745064)
 sub_url  http://175.178.9.20/link/MM7AXvymeMiSvUVj?clash=1#飞翔吧
 time  2025-04-14 07:10:42.997133+08:00
 type  sspanel
@@ -27,7 +27,7 @@ time  2025-04-06 07:09:44.141865+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
@@ -37,7 +37,7 @@ email  oenjkdyk997@gmail.com
 last_checkin  2025-04-14 08:52:18.926412+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-05-14 08:52:18+08:00  (剩余 1T 29 days, 23:59:55.064738)
+sub_info  0B  1T  2025-05-14 08:52:18+08:00  (剩余 1T 29 days, 22:26:58.301411)
 sub_url  https://cc.dabai.in/link/2oLEKiB9zQrSaY8l?sub=3
 time  2025-04-14 08:52:20.259611+08:00
 type  sspanel
@@ -51,7 +51,7 @@ sub_info  1.22G  1G  2024-12-27 12:14:05+08:00  (剩余 -224.9M 0:02:41.625020)
 sub_url  https://cooc.cloud/api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5
 time  2024-12-27 11:14:05.201887+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbb7e353340>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c9fb7cf9b3413a90eacb20767ee2d6d5 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f35f0c27310>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
@@ -61,7 +61,7 @@ email  cmjnwhf100@adomixhd.com
 last_checkin  2025-04-14 01:07:40.307333+08:00
 name  NovaLive
 node_n  5
-sub_info  2.195G  2.114G  2025-04-05 07:09:25+08:00  (剩余 -82.8M -10 days, 22:17:06.823211)
+sub_info  2.195G  2.114G  2025-04-05 07:09:25+08:00  (剩余 -82.8M -10 days, 20:44:04.246868)
 sub_url  https://new.gfw.news/link/9QsoiIDYVYEG6ETk?sub=3
 time  2025-04-05 07:09:26.519466+08:00
 type  sspanel
@@ -74,7 +74,7 @@ email  ogbusrg574@vapesculpt.com
 last_checkin  2025-04-14 08:52:23.203087+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.03G  2025-04-15 08:52:22+08:00  (剩余 1.03G 23:59:57.006974)
+sub_info  426.9M  1.03G  2025-04-15 08:52:22+08:00  (剩余 628.1M 22:26:57.058389)
 sub_url  https://www.duguletian.com/link/fVuFYjnOOeg3l2nJ?sub=3
 time  2025-04-14 08:52:24.164006+08:00
 type  sspanel
@@ -86,7 +86,7 @@ email  cdrcgijdc876@gmail.com
 last_checkin  2025-04-14 08:52:17.518288+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.711G  2025-04-16 09:52:17+08:00  (剩余 5.711G 2 days, 0:59:57.463569)
+sub_info  0B  5.711G  2025-04-16 09:52:17+08:00  (剩余 5.711G 1 day, 23:26:58.297782)
 sub_url  https://www.mgnet.sbs/link/sGwzY2nuPXacL13D?sub=3
 time  2025-04-14 08:52:17.992629+08:00
 type  sspanel
