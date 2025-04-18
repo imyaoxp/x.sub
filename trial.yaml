@@ -224,18 +224,18 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link02.top, port: 2082, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.24.2, headers: {Host: 100-70-57-151.s4.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 8880, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.160.156, headers: {Host: 100-142-13-72.s3.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 2082, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.223.5, headers: {Host: 100-4-105-248.s3.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2095, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.115.131, headers: {Host: 100-3-253-39.s1.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s3.cn-db.top, port: 8880, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.38.118, headers: {Host: 100-226-97-115.s3.cn-db.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.cn-db.top, port: 2095, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.100.209, headers: {Host: 100-115-39-65.s2.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.db-link01.top, port: 8080, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.49.191, headers: {Host: 100-234-102-17.s2.db-link01.top}}, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: 2747f2b0-c0fe-313d-9393-bc6193a03cc3, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: 2747f2b0-c0fe-313d-9393-bc6193a03cc3, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 44.247.86.151, port: 443, type: trojan, password: 2747f2b0-c0fe-313d-9393-bc6193a03cc3, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 2747f2b0-c0fe-313d-9393-bc6193a03cc3, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 2747f2b0-c0fe-313d-9393-bc6193a03cc3, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 2052, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.13.165, headers: {Host: 100-255-95-202.s4.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link01.top, port: 2095, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.1.56, headers: {Host: 100-179-231-204.s2.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 2086, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.2.114, headers: {Host: 100-108-240-209.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 80, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.147.198, headers: {Host: 100-157-207-189.s5.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s4.db-link02.top, port: 2052, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.99.208, headers: {Host: 100-109-98-197.s4.db-link02.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.db-link01.top, port: 80, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.77.32, headers: {Host: 100-25-148-126.s2.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s4.db-link02.top, port: 2095, type: vmess, uuid: e871cf93-b31f-36ce-bb85-32e8c13d3ccd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.23.158, headers: {Host: 100-91-145-242.s4.db-link02.top}}, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: bd289a2f-e2d3-30b6-af57-ebc3d4d7d579, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: bd289a2f-e2d3-30b6-af57-ebc3d4d7d579, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 44.247.86.151, port: 443, type: trojan, password: bd289a2f-e2d3-30b6-af57-ebc3d4d7d579, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: bd289a2f-e2d3-30b6-af57-ebc3d4d7d579, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: bd289a2f-e2d3-30b6-af57-ebc3d4d7d579, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: f5068380-7a54-3e9d-8e61-5c272f4699d3, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: f5068380-7a54-3e9d-8e61-5c272f4699d3, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: f5068380-7a54-3e9d-8e61-5c272f4699d3, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -391,10 +391,10 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 6bf67109090.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: 6bf67109090.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: 6bf67109090.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 7c0fdfe4-4960-3c79-a34d-d5e88014c3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 7c0fdfe4-4960-3c79-a34d-d5e88014c3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 7c0fdfe4-4960-3c79-a34d-d5e88014c3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 7c0fdfe4-4960-3c79-a34d-d5e88014c3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, tfo: true, type: vmess, uuid: 7c0fdfe4-4960-3c79-a34d-d5e88014c3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, tfo: true, type: vmess, uuid: 7c0fdfe4-4960-3c79-a34d-d5e88014c3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, tfo: true, type: vmess, uuid: 7c0fdfe4-4960-3c79-a34d-d5e88014c3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, tfo: true, type: vmess, uuid: 7c0fdfe4-4960-3c79-a34d-d5e88014c3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -2295,14 +2295,6 @@ rules:
 - DOMAIN-SUFFIX,1bao.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,1dumb.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1eew.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.cloud,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.cz,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.domains,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.education,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.limited,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.pl,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.sk,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,1mobile.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1point3acres.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1pondo.tv,✈️ ‍起飞
@@ -2322,7 +2314,6 @@ rules:
 - DOMAIN-SUFFIX,24smile.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,25u.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2du5.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,2lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,2lipstube.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2shared.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2waky.com,✈️ ‍起飞
@@ -2335,7 +2326,6 @@ rules:
 - DOMAIN-SUFFIX,3arabtv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,3boys2girls.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,3d-game.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,3lib.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,3proxy.ru,✈️ ‍起飞
 - DOMAIN-SUFFIX,3tui.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,404museum.com,✈️ ‍起飞
@@ -2617,7 +2607,6 @@ rules:
 - DOMAIN-SUFFIX,arethusa.su,✈️ ‍起飞
 - DOMAIN-SUFFIX,arlingtoncemetery.mil,✈️ ‍起飞
 - DOMAIN-SUFFIX,army.mil,✈️ ‍起飞
-- DOMAIN-SUFFIX,art1lib.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,art4tibet1998.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,arte.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,artofpeacefoundation.org,✈️ ‍起飞
@@ -2684,11 +2673,7 @@ rules:
 - DOMAIN-SUFFIX,azirevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azubu.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azurewebsites.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,b-ok.africa,✈️ ‍起飞
-- DOMAIN-SUFFIX,b-ok.asia,✈️ ‍起飞
 - DOMAIN-SUFFIX,b-ok.cc,✈️ ‍起飞
-- DOMAIN-SUFFIX,b-ok.global,✈️ ‍起飞
-- DOMAIN-SUFFIX,b-ok.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,b0ne.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,baby-kingdom.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,babylonbee.com,✈️ ‍起飞
@@ -2879,16 +2864,8 @@ rules:
 - DOMAIN-SUFFIX,bonfoundation.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bongacams.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,boobstagram.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,book4you.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bookdepository.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bookepub.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,bookfi.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,booksc.me,✈️ ‍起飞
-- DOMAIN-SUFFIX,booksc.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,booksc.xyz,✈️ ‍起飞
-- DOMAIN-SUFFIX,bookshome.info,✈️ ‍起飞
-- DOMAIN-SUFFIX,bookshome.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,bookshome.world,✈️ ‍起飞
 - DOMAIN-SUFFIX,booktopia.com.au,✈️ ‍起飞
 - DOMAIN-SUFFIX,boomssr.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bootstrapcdn.com,✈️ ‍起飞
@@ -3224,7 +3201,6 @@ rules:
 - DOMAIN-SUFFIX,clipfish.de,✈️ ‍起飞
 - DOMAIN-SUFFIX,clips4sale.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloakpoint.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,cloudflare-dns.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudflare-ipfs.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudfront.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudfunctions.net,✈️ ‍起飞
@@ -3417,7 +3393,6 @@ rules:
 - DOMAIN-SUFFIX,ddns.name,✈️ ‍起飞
 - DOMAIN-SUFFIX,ddns.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,de-sci.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,de1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,deadhouse.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,deadline.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,deaftone.com,✈️ ‍起飞
@@ -3783,7 +3758,6 @@ rules:
 - DOMAIN-SUFFIX,fangongheike.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanhaodang.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanhaolou.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,fani.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiang.network,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiang.tk,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiangdang.com,✈️ ‍起飞
@@ -3805,7 +3779,6 @@ rules:
 - DOMAIN-SUFFIX,faststone.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,fatakat-n.club,✈️ ‍起飞
 - DOMAIN-SUFFIX,fatbtc.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,favcomic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,favotter.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,favstar.fm,✈️ ‍起飞
 - DOMAIN-SUFFIX,fawanghuihui.org,✈️ ‍起飞
@@ -4167,7 +4140,6 @@ rules:
 - DOMAIN-SUFFIX,gmx.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,gnews.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,go-pki.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,go-to-library.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,go-to-zlibrary.se,✈️ ‍起飞
 - DOMAIN-SUFFIX,go.sony.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,go141.com,✈️ ‍起飞
@@ -4279,7 +4251,6 @@ rules:
 - DOMAIN-SUFFIX,gzm.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,gzone-anime.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,h-china.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,h-ciyuan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,h-moe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,h1n1china.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,h528.com,✈️ ‍起飞
@@ -4391,7 +4362,6 @@ rules:
 - DOMAIN-SUFFIX,hjd2048.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk-pub.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk01.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,hk1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk32168.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hkacg.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hkacg.net,✈️ ‍起飞
@@ -4541,7 +4511,6 @@ rules:
 - DOMAIN-SUFFIX,hybrid-analysis.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hyperrate.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hypothes.is,✈️ ‍起飞
-- DOMAIN-SUFFIX,hysteria.network,✈️ ‍起飞
 - DOMAIN-SUFFIX,i-cable.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,i-scmp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,i2p2.de,✈️ ‍起飞
@@ -4707,7 +4676,6 @@ rules:
 - DOMAIN-SUFFIX,isuntv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,isupportuyghurs.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,itaboo.info,✈️ ‍起飞
-- DOMAIN-SUFFIX,italian-books.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,italiatibet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,itasoftware.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,itemdb.com,✈️ ‍起飞
@@ -4998,9 +4966,6 @@ rules:
 - DOMAIN-SUFFIX,libertysculpturepark.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,libraryinformationtechnology.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,libredd.it,✈️ ‍起飞
-- DOMAIN-SUFFIX,libsolutions.app,✈️ ‍起飞
-- DOMAIN-SUFFIX,libsolutions.domains,✈️ ‍起飞
-- DOMAIN-SUFFIX,libsolutions.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,lidecheng.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lifemiles.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lighti.me,✈️ ‍起飞
@@ -5093,7 +5058,6 @@ rules:
 - DOMAIN-SUFFIX,m-team.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,m.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,m8008.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,ma1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,macgamestore.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,macrovpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mad-ar.ch,✈️ ‍起飞
@@ -5127,7 +5091,6 @@ rules:
 - DOMAIN-SUFFIX,mansion.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mansionpoker.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,manta.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,manwa.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,manyvoices.news,✈️ ‍起飞
 - DOMAIN-SUFFIX,maplew.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,marc.info,✈️ ‍起飞
@@ -6196,7 +6159,6 @@ rules:
 - DOMAIN-SUFFIX,safechat.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,safeguarddefenders.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,safervpn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,sagernet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,saintyculture.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,saiq.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,sakuralive.com,✈️ ‍起飞
@@ -6286,7 +6248,6 @@ rules:
 - DOMAIN-SUFFIX,sfshibao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sftindia.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sftuk.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,sg1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sgwritings.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sgzhan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,shadeyouvpn.com,✈️ ‍起飞
@@ -6355,11 +6316,7 @@ rules:
 - DOMAIN-SUFFIX,simpleswap.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,sinchew.com.my,✈️ ‍起飞
 - DOMAIN-SUFFIX,singfortibet.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,singlelogin.app,✈️ ‍起飞
-- DOMAIN-SUFFIX,singlelogin.me,✈️ ‍起飞
-- DOMAIN-SUFFIX,singlelogin.re,✈️ ‍起飞
 - DOMAIN-SUFFIX,singlelogin.se,✈️ ‍起飞
-- DOMAIN-SUFFIX,singlelogin.site,✈️ ‍起飞
 - DOMAIN-SUFFIX,singtao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,singtaousa.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sino-monthly.com,✈️ ‍起飞
@@ -6468,7 +6425,6 @@ rules:
 - DOMAIN-SUFFIX,sosad.fun,✈️ ‍起飞
 - DOMAIN-SUFFIX,sosreader.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sostibet.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,sotwe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sou-tong.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,soubory.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,soul-plus.net,✈️ ‍起飞
@@ -6520,7 +6476,6 @@ rules:
 - DOMAIN-SUFFIX,ssglobal.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,ssh91.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ssl443.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,ssm.fun,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspanel.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspanel.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspro.ml,✈️ ‍起飞
@@ -6786,7 +6741,6 @@ rules:
 - DOMAIN-SUFFIX,thlib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thomasbernhard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thongdreams.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,thotsbay.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,threadreaderapp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,threads.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,threatchaos.com,✈️ ‍起飞
@@ -7774,13 +7728,8 @@ rules:
 - DOMAIN-SUFFIX,yyjlymb.xyz,✈️ ‍起飞
 - DOMAIN-SUFFIX,yysub.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,yzzk.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-lib.gd,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-lib.gs,✈️ ‍起飞
 - DOMAIN-SUFFIX,z-lib.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,z-lib.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-lib.ps,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-library.se,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-library.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,zacebook.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zalmos.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zamimg.com,✈️ ‍起飞
@@ -7832,9 +7781,6 @@ rules:
 - DOMAIN-SUFFIX,zippyshare.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zkaip.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zkiz.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,zlib.life,✈️ ‍起飞
-- DOMAIN-SUFFIX,zlibcdn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,zlibcdn2.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zmw.cn,✈️ ‍起飞
 - DOMAIN-SUFFIX,zoho.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zomobo.net,✈️ ‍起飞
