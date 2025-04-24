@@ -57,10 +57,10 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: ℹ️ 官网:cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 78800cf1-c0b9-46cc-a55c-2149e074e0fc, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 78800cf1-c0b9-46cc-a55c-2149e074e0fc, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 78800cf1-c0b9-46cc-a55c-2149e074e0fc, udp: true}
-- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 78800cf1-c0b9-46cc-a55c-2149e074e0fc, udp: true}
+- {name: ℹ️ 官网:cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 640169d1-0f79-44f4-8b30-ee0cb0c8af46, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 640169d1-0f79-44f4-8b30-ee0cb0c8af46, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 640169d1-0f79-44f4-8b30-ee0cb0c8af46, udp: true}
+- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 640169d1-0f79-44f4-8b30-ee0cb0c8af46, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
