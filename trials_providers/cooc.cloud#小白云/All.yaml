@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 官网:cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 640169d1-0f79-44f4-8b30-ee0cb0c8af46, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 640169d1-0f79-44f4-8b30-ee0cb0c8af46, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 640169d1-0f79-44f4-8b30-ee0cb0c8af46, udp: true}
-- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 640169d1-0f79-44f4-8b30-ee0cb0c8af46, udp: true}
+- {name: ℹ️ 官网:cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 2fdecf31-1029-41f4-b7e0-f227fab8120b, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 2fdecf31-1029-41f4-b7e0-f227fab8120b, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 2fdecf31-1029-41f4-b7e0-f227fab8120b, udp: true}
+- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 2fdecf31-1029-41f4-b7e0-f227fab8120b, udp: true}
