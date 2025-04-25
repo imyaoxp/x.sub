@@ -29,6 +29,14 @@ proxy-groups:
   - 🇺🇸 美国 A｜US - 小白云
   - 🇺🇸 美国 B｜US - 小白云
   - 🇺🇸 美国 C｜US - 小白云
+  - 🇸🇬 新加坡 A｜SG - 小白云
+  - 🇸🇬 新加坡 B｜SG - 小白云
+  - 🇸🇬 新加坡 C｜SG - 小白云
+  - 🇹🇼 台湾 A｜TW - 小白云
+  - 🇹🇼 台湾 B｜TW - 小白云
+  - 🇹🇼 台湾 C｜TW - 小白云
+  - 🇰🇷 韩国 B｜KR - 小白云
+  - 🇰🇷 韩国 C｜KR - 小白云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -63,16 +71,24 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: ℹ️ 官网：cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 6b73ef27-f101-4319-8d3a-242450988619, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 6b73ef27-f101-4319-8d3a-242450988619, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 6b73ef27-f101-4319-8d3a-242450988619, udp: true}
-- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 6b73ef27-f101-4319-8d3a-242450988619, udp: true}
-- {name: 🇯🇵 日本 A｜JP - 小白云, server: a.api.studyservice.top, port: 51004, type: trojan, password: 6b73ef27-f101-4319-8d3a-242450988619, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 B｜JP - 小白云, server: b.api.studyservice.top, port: 51005, type: ss, cipher: aes-256-gcm, password: 6b73ef27-f101-4319-8d3a-242450988619, udp: true}
-- {name: 🇯🇵 日本 C｜JP - 小白云, server: c.api.studyservice.top, port: 51006, type: ss, cipher: aes-256-gcm, password: 6b73ef27-f101-4319-8d3a-242450988619, udp: true}
-- {name: 🇺🇸 美国 A｜US - 小白云, server: a.api.studyservice.top, port: 51007, type: trojan, password: 6b73ef27-f101-4319-8d3a-242450988619, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 B｜US - 小白云, server: b.api.studyservice.top, port: 51008, type: ss, cipher: aes-256-gcm, password: 6b73ef27-f101-4319-8d3a-242450988619, udp: true}
-- {name: 🇺🇸 美国 C｜US - 小白云, server: c.api.studyservice.top, port: 51009, type: ss, cipher: aes-256-gcm, password: 6b73ef27-f101-4319-8d3a-242450988619, udp: true}
+- {name: ℹ️ 官网：cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇯🇵 日本 A｜JP - 小白云, server: a.api.studyservice.top, port: 51004, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 B｜JP - 小白云, server: b.api.studyservice.top, port: 51005, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇯🇵 日本 C｜JP - 小白云, server: c.api.studyservice.top, port: 51006, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇺🇸 美国 A｜US - 小白云, server: a.api.studyservice.top, port: 51007, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 B｜US - 小白云, server: b.api.studyservice.top, port: 51008, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇺🇸 美国 C｜US - 小白云, server: c.api.studyservice.top, port: 51009, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇸🇬 新加坡 A｜SG - 小白云, server: a.api.studyservice.top, port: 51010, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 B｜SG - 小白云, server: b.api.studyservice.top, port: 51011, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇸🇬 新加坡 C｜SG - 小白云, server: c.api.studyservice.top, port: 51012, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇹🇼 台湾 A｜TW - 小白云, server: a.api.studyservice.top, port: 51013, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 B｜TW - 小白云, server: b.api.studyservice.top, port: 51014, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇹🇼 台湾 C｜TW - 小白云, server: c.api.studyservice.top, port: 51015, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇰🇷 韩国 B｜KR - 小白云, server: b.api.studyservice.top, port: 51017, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: 🇰🇷 韩国 C｜KR - 小白云, server: c.api.studyservice.top, port: 51018, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -148,6 +164,24 @@ rules:
 - DOMAIN,proxy.yaoyaoling.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
+- DOMAIN,dl.google.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,googletraveladservices.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,🛩️ ‍墙内
+- DOMAIN,origin-a.akamaihd.net,🛩️ ‍墙内
+- DOMAIN,fairplay.l.qq.com,🛩️ ‍墙内
+- DOMAIN,livew.l.qq.com,🛩️ ‍墙内
+- DOMAIN,vd.l.qq.com,🛩️ ‍墙内
+- DOMAIN,errlog.umeng.com,🛩️ ‍墙内
+- DOMAIN,msg.umeng.com,🛩️ ‍墙内
+- DOMAIN,msg.umengcloud.com,🛩️ ‍墙内
+- DOMAIN,tracking.miui.com,🛩️ ‍墙内
+- DOMAIN,app.adjust.com,🛩️ ‍墙内
+- DOMAIN,bdtj.tagtic.cn,🛩️ ‍墙内
+- DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
+- DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
 - DOMAIN,dc.sigmob.cn,💩 ‍广告
 - DOMAIN,open.e.kuaishou.com,💩 ‍广告
 - DOMAIN,open.e.kuaishou.cn,💩 ‍广告
