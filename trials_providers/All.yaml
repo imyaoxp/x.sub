@@ -1,24 +1,24 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 官网：cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇯🇵 日本 A｜JP - 小白云, server: a.api.studyservice.top, port: 51004, type: trojan, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 B｜JP - 小白云, server: b.api.studyservice.top, port: 51005, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇯🇵 日本 C｜JP - 小白云, server: c.api.studyservice.top, port: 51006, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇺🇸 美国 A｜US - 小白云, server: a.api.studyservice.top, port: 51007, type: trojan, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 B｜US - 小白云, server: b.api.studyservice.top, port: 51008, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇺🇸 美国 C｜US - 小白云, server: c.api.studyservice.top, port: 51009, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇸🇬 新加坡 A｜SG - 小白云, server: a.api.studyservice.top, port: 51010, type: trojan, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 B｜SG - 小白云, server: b.api.studyservice.top, port: 51011, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇸🇬 新加坡 C｜SG - 小白云, server: c.api.studyservice.top, port: 51012, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇹🇼 台湾 A｜TW - 小白云, server: a.api.studyservice.top, port: 51013, type: trojan, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 B｜TW - 小白云, server: b.api.studyservice.top, port: 51014, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇹🇼 台湾 C｜TW - 小白云, server: c.api.studyservice.top, port: 51015, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇰🇷 韩国 B｜KR - 小白云, server: b.api.studyservice.top, port: 51017, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
-- {name: 🇰🇷 韩国 C｜KR - 小白云, server: c.api.studyservice.top, port: 51018, type: ss, cipher: aes-256-gcm, password: 92511c1d-04d2-4af0-81eb-8c07a0712e66, udp: true}
+- {name: ℹ️ 官网：cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇯🇵 日本 A｜JP - 小白云, server: a.api.studyservice.top, port: 51004, type: trojan, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 B｜JP - 小白云, server: b.api.studyservice.top, port: 51005, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇯🇵 日本 C｜JP - 小白云, server: c.api.studyservice.top, port: 51006, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇺🇸 美国 A｜US - 小白云, server: a.api.studyservice.top, port: 51007, type: trojan, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 B｜US - 小白云, server: b.api.studyservice.top, port: 51008, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇺🇸 美国 C｜US - 小白云, server: c.api.studyservice.top, port: 51009, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇸🇬 新加坡 A｜SG - 小白云, server: a.api.studyservice.top, port: 51010, type: trojan, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 B｜SG - 小白云, server: b.api.studyservice.top, port: 51011, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇸🇬 新加坡 C｜SG - 小白云, server: c.api.studyservice.top, port: 51012, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇹🇼 台湾 A｜TW - 小白云, server: a.api.studyservice.top, port: 51013, type: trojan, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 B｜TW - 小白云, server: b.api.studyservice.top, port: 51014, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇹🇼 台湾 C｜TW - 小白云, server: c.api.studyservice.top, port: 51015, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇰🇷 韩国 B｜KR - 小白云, server: b.api.studyservice.top, port: 51017, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
+- {name: 🇰🇷 韩国 C｜KR - 小白云, server: c.api.studyservice.top, port: 51018, type: ss, cipher: aes-256-gcm, password: 0b7045be-8851-4038-8f8b-1469b5cd635b, udp: true}
 - {name: 🇶🇦 Video 卡塔尔A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 15558, type: ss, cipher: aes-128-gcm, password: 1m23sddsc4532r, plugin: obfs, plugin-opts: {mode: http, host: d4080109264.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 803, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d4080109264.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 806, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d4080109264.download.windowsupdate.com}, udp: true}
@@ -122,11 +122,11 @@ proxies:
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 04fcf1bb-8e53-3875-a2e5-0faa5d09f1ed, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 04fcf1bb-8e53-3875-a2e5-0faa5d09f1ed, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 04fcf1bb-8e53-3875-a2e5-0faa5d09f1ed, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: 518ada9c-7de6-3446-b374-be48dde1217c, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: 518ada9c-7de6-3446-b374-be48dde1217c, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 54.185.162.231, port: 443, type: trojan, password: 518ada9c-7de6-3446-b374-be48dde1217c, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 518ada9c-7de6-3446-b374-be48dde1217c, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 518ada9c-7de6-3446-b374-be48dde1217c, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: 298263dd-6087-31a1-9dca-e114e935edff, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: 298263dd-6087-31a1-9dca-e114e935edff, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.185.162.231, port: 443, type: trojan, password: 298263dd-6087-31a1-9dca-e114e935edff, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 298263dd-6087-31a1-9dca-e114e935edff, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 298263dd-6087-31a1-9dca-e114e935edff, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: fae22c45-fcf7-314b-ac36-56b77e9e3c94, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: fae22c45-fcf7-314b-ac36-56b77e9e3c94, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: fae22c45-fcf7-314b-ac36-56b77e9e3c94, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
