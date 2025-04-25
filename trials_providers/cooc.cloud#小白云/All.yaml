@@ -1,21 +1,21 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 官网：cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇯🇵 日本 A｜JP - 小白云, server: a.api.studyservice.top, port: 51004, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 B｜JP - 小白云, server: b.api.studyservice.top, port: 51005, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇯🇵 日本 C｜JP - 小白云, server: c.api.studyservice.top, port: 51006, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇺🇸 美国 A｜US - 小白云, server: a.api.studyservice.top, port: 51007, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 B｜US - 小白云, server: b.api.studyservice.top, port: 51008, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇺🇸 美国 C｜US - 小白云, server: c.api.studyservice.top, port: 51009, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇸🇬 新加坡 A｜SG - 小白云, server: a.api.studyservice.top, port: 51010, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 B｜SG - 小白云, server: b.api.studyservice.top, port: 51011, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇸🇬 新加坡 C｜SG - 小白云, server: c.api.studyservice.top, port: 51012, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇹🇼 台湾 A｜TW - 小白云, server: a.api.studyservice.top, port: 51013, type: trojan, password: 276c5066-5b4d-4b3a-bc27-166735a67427, sni: www.bing.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 B｜TW - 小白云, server: b.api.studyservice.top, port: 51014, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇹🇼 台湾 C｜TW - 小白云, server: c.api.studyservice.top, port: 51015, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇰🇷 韩国 B｜KR - 小白云, server: b.api.studyservice.top, port: 51017, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
-- {name: 🇰🇷 韩国 C｜KR - 小白云, server: c.api.studyservice.top, port: 51018, type: ss, cipher: aes-256-gcm, password: 276c5066-5b4d-4b3a-bc27-166735a67427, udp: true}
+- {name: ℹ️ 官网：cooc.wiki - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 A｜HK - 小白云, server: a.api.studyservice.top, port: 51001, type: trojan, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 B｜HK - 小白云, server: b.api.studyservice.top, port: 51002, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇭🇰 香港 C｜HK - 小白云, server: c.api.studyservice.top, port: 51003, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇯🇵 日本 A｜JP - 小白云, server: a.api.studyservice.top, port: 51004, type: trojan, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 B｜JP - 小白云, server: b.api.studyservice.top, port: 51005, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇯🇵 日本 C｜JP - 小白云, server: c.api.studyservice.top, port: 51006, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇺🇸 美国 A｜US - 小白云, server: a.api.studyservice.top, port: 51007, type: trojan, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 B｜US - 小白云, server: b.api.studyservice.top, port: 51008, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇺🇸 美国 C｜US - 小白云, server: c.api.studyservice.top, port: 51009, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇸🇬 新加坡 A｜SG - 小白云, server: a.api.studyservice.top, port: 51010, type: trojan, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 B｜SG - 小白云, server: b.api.studyservice.top, port: 51011, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇸🇬 新加坡 C｜SG - 小白云, server: c.api.studyservice.top, port: 51012, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇹🇼 台湾 A｜TW - 小白云, server: a.api.studyservice.top, port: 51013, type: trojan, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, sni: www.bing.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 B｜TW - 小白云, server: b.api.studyservice.top, port: 51014, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇹🇼 台湾 C｜TW - 小白云, server: c.api.studyservice.top, port: 51015, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇰🇷 韩国 B｜KR - 小白云, server: b.api.studyservice.top, port: 51017, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
+- {name: 🇰🇷 韩国 C｜KR - 小白云, server: c.api.studyservice.top, port: 51018, type: ss, cipher: aes-256-gcm, password: 567f0412-4bf4-440a-8bba-1329ceb784e4, udp: true}
