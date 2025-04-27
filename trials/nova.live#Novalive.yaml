@@ -58,11 +58,11 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: 780d9cb3-91f8-3632-8625-540e108c226a, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: 780d9cb3-91f8-3632-8625-540e108c226a, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 54.185.162.231, port: 443, type: trojan, password: 780d9cb3-91f8-3632-8625-540e108c226a, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 780d9cb3-91f8-3632-8625-540e108c226a, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 780d9cb3-91f8-3632-8625-540e108c226a, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, tfo: true, type: trojan, password: d03f5be0-83ca-36d7-83de-efd449b59772, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, tfo: true, type: trojan, password: d03f5be0-83ca-36d7-83de-efd449b59772, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.185.162.231, port: 443, tfo: true, type: trojan, password: d03f5be0-83ca-36d7-83de-efd449b59772, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, tfo: true, type: trojan, password: d03f5be0-83ca-36d7-83de-efd449b59772, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, tfo: true, type: trojan, password: d03f5be0-83ca-36d7-83de-efd449b59772, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -98,6 +98,22 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
+- DOMAIN-SUFFIX,kkgithub.com,DIRECT
+- DOMAIN-SUFFIX,bgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,dgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,fgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,hgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,igithub.xyz,DIRECT
+- DOMAIN-SUFFIX,jgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,lgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,4git.xyz,DIRECT
+- DOMAIN-SUFFIX,5git.xyz,DIRECT
+- DOMAIN-SUFFIX,6git.xyz,DIRECT
+- DOMAIN-SUFFIX,mgithub.xyz,DIRECT
+- DOMAIN-SUFFIX,ngithub.xyz,DIRECT
+- DOMAIN-SUFFIX,ogithub.xyz,DIRECT
+- DOMAIN-SUFFIX,pgithub.xyz,DIRECT
+- DOMAIN,hub.whtrys.space,DIRECT
 - DOMAIN-SUFFIX,arx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
