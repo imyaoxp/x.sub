@@ -4,14 +4,13 @@ banned_domains  psnator.com  disbox.org  bareed.ws  geting.net  moakt.co  femail
 buy  shop=9
 email  addglof451@ipiso.tmmad.com
 invite_code  5F7E  9999
-last_checkin  2025-05-08 08:52:13.063583+08:00
+last_checkin  2025-05-09 02:14:04.659780+08:00
 name  飞翔吧
 node_n  46
-sub_info  2.828G  10.13G  2025-05-09 08:52:12+08:00  (剩余 7.299G 7:42:49.608266)
+sub_info  2.836G  10.24G  2025-05-09 08:52:12+08:00  (剩余 7.4G 6:38:00.813896)
 sub_url  http://175.178.9.20/link/lcUeZlbp4U6Z7vuz?clash=1#飞翔吧
 time  2025-05-08 08:52:14.505805+08:00
 type  sspanel
-尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>502 Bad Gateway</title>\n\t<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n\t<style>\n\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n\n<h1>502 Bad Gateway</h1>\n<p>The site is unavailable now, cause: Failed to read origin site.</p>\n\n<address>Connection: 172.191.189.6 (Client) -&gt; 43.249.172.23 (Server)</address>\n<address>Request ID: 174672414262191000001.</address>\n\n</body>\n</html>')
 
 [ayucloud.services]
 auth_path  user
@@ -22,12 +21,12 @@ email  dzsrvxr810@25ua.com
 last_checkin  2025-05-08 15:10:50.616791+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.229G  1.158G  2025-05-09 15:10:50+08:00  (剩余 -73.01M 14:01:13.973306)
+sub_info  1.229G  1.158G  2025-05-09 15:10:50+08:00  (剩余 -73.01M 12:56:31.907042)
 sub_url  https://network.ayucloud.nl/link/GbNgMoV0rQohsSkj?clash=1
 time  2025-05-08 15:10:51.658028+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(cnnylous163@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(otnzvza929@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -36,10 +35,11 @@ email  tcezvbfw534@gmail.com
 last_checkin  2025-05-09 01:09:06.926584+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-06-08 01:09:06+08:00  (剩余 1T 29 days, 23:59:54.098638)
+sub_info  3.296G  1T  2025-06-08 01:09:06+08:00  (剩余 1021G 29 days, 22:54:58.679101)
 sub_url  https://cc.dabai.in/link/5MVMMEcBph4DQSjI?sub=3
 time  2025-05-09 01:09:08.217284+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [cooc.cloud#小白云]
 buy  pass
@@ -50,19 +50,19 @@ sub_info  1.371G  1G  2025-04-27 01:10:30+08:00  (剩余 -380.3M 0:02:29.262361)
 sub_url  https://wiki.xn--omro0eq6bn8ju49d.cn/api/v1/client/subscribe?token=713a4d532c4569ad3937a232798acbe9
 time  2025-04-27 00:10:30.339352+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdd58c86500>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f23c43ec460>: Failed to resolve 'cooc.cloud' ([Errno -5] No address associated with hostname)"))
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  mail.wvwvw.tech  femailtor.com  psnator.com  wj32.haihantnc.xyz  smartnator.com  lista.cc  tmpnator.live  wglccg.cn  mydefipet.live  teml.net  buguauto.cn  dyxglu.cn  disbox.org  bccto.cc  bareed.ws  lplso.tmmad.com  muatoc.com  456.craigbyrge.shop  mail.shouyou789.com  nespressopixie.com  mynanaimohomes.com  maxamba.com  youxiang.dev  linshiyou.com  456.witvc.shop  guerrillamail.com  456.gracebrown.shop  guerrillamail.org  disbox.net  xxxhi.cc  snapmail.cc  miteon.com  111.wldpb.shop  guerrillamail.net  222.wfmvz.shop  222.vzakf.shop  btcstar.site  grr.la  wfes.site  MAIL.WVWVW.TECH  WFES.SITE  tmpmail.net  tmpeml.com  edu.chqu.school  tmails.net  333.wkhxn.shop  333.vupkl.shop  444.waocq.shop  444.vupkl.shop  444.cvrmpr.shop  rgzx.tmmad.com  xiaoyaoemail.cc  jkb.tmmad.com  jkd.tmmad.com  555.vtnli.shop  qwer.usphms.shop  zz.vlvitp.shop  mxl001.win  ipiso.tmmad.com  442587.xyz  51788.top  x866.cc  zz.wgfkq.shop  965.tmmad.com  lyx13.xyz  top.co.mom  lpl1so.tmmad.com  moakt.co  tmail.ws  tmpmail.org  spam4.me  bookmorpho.cfd  sharklasers.com  guerrillamail.biz  huiplay.com  qabq.com  moakt.cc  pastryofistanbul.com  gotsession.com  bonusales.com  questtechsystems.com  moakt.ws  teihu.com  safsd88nb.icu  oakon.com  bestpestrepeller.com  tmpbox.net  hwe6fgh8.icu  guerrillamail.de  prokumdo.com  signsetcetc.com  cefcayman.com  fdhtrs66.net  adomixhd.com  yzm.de  nqmo.com  end.tw  uuf.me  jsglassworks.com  brookeandbilly.com  guerrillamailblock.com  directservbms.com  careandcompare.com  jacobpetier.com  vapesculpt.com  overseashopper.com  25ua.com  justbesharp.com  vapelato.com  vapenano.com  vapechroma.com  vrpiss.com  cyberconect.com  7clink.com  jamieandjessica.com  12316hfk.com  12316wxc.com  12316deu.com  12396mgc.com
 buy  pass
-email  hyjylij167@gmail.com
-last_checkin  2025-05-09 01:09:04.216183+08:00
+email  utngdaa590@gmail.com
+last_checkin  2025-05-09 02:14:07.818828+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.097G  2025-05-09 01:09:04+08:00  (剩余 1.097G -1 day, 23:59:57.031896)
-sub_url  https://new.gfw.news/link/xc8ps2Q0CljF4T7b?sub=3
-time  2025-05-09 01:09:04.692019+08:00
+sub_info  0B  1.108G  2025-05-09 02:14:07+08:00  (剩余 1.108G -1 day, 23:59:56.206426)
+sub_url  https://new.gfw.news/link/7mYv0xQuGf0zdPIB?sub=3
+time  2025-05-09 02:14:08.516336+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -72,7 +72,7 @@ email  cowodeqi599@grr.la
 last_checkin  2025-05-09 01:09:02.032464+08:00
 name  独孤乐天
 node_n  4
-sub_info  93.52K  1.05G  2025-05-09 15:10:38+08:00  (剩余 1.05G 14:01:34.052201)
+sub_info  93.52K  1.05G  2025-05-09 15:10:38+08:00  (剩余 1.05G 12:56:29.320951)
 sub_url  https://www.duguletian.com/link/7RfT9NNmEfIsWLCQ?sub=3
 time  2025-05-08 15:10:41.452613+08:00
 type  sspanel
@@ -84,7 +84,7 @@ email  ikqpbwbw834@gmail.com
 last_checkin  2025-05-09 01:09:02.026485+08:00
 name  MG Network
 node_n  10
-sub_info  5.737G  6.082G  2025-05-10 18:11:12+08:00  (剩余 353.5M 1 day, 17:02:07.687847)
+sub_info  5.739G  6.082G  2025-05-10 18:11:12+08:00  (剩余 350.9M 1 day, 15:57:05.270207)
 sub_url  https://www.mgnet.sbs/link/I4ViBtidtoxjPVHq?sub=3
 time  2025-05-08 17:11:13.138399+08:00
 type  sspanel
