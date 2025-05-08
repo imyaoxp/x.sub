@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: bddfcb3d-0713-36bc-bfd2-da66b7ae4819, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: bddfcb3d-0713-36bc-bfd2-da66b7ae4819, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 34.220.64.51, port: 443, type: trojan, password: bddfcb3d-0713-36bc-bfd2-da66b7ae4819, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 443, type: trojan, password: bddfcb3d-0713-36bc-bfd2-da66b7ae4819, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, tfo: true, type: trojan, password: 7dbb49f4-a95d-3030-8e03-99812c052bd9, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, tfo: true, type: trojan, password: 7dbb49f4-a95d-3030-8e03-99812c052bd9, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 34.220.64.51, port: 443, tfo: true, type: trojan, password: 7dbb49f4-a95d-3030-8e03-99812c052bd9, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 443, tfo: true, type: trojan, password: 7dbb49f4-a95d-3030-8e03-99812c052bd9, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
