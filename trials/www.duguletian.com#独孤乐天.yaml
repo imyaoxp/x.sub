@@ -9,8 +9,23 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
   - DIRECT
   - REJECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -28,10 +43,12 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
