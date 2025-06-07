@@ -183,13 +183,13 @@ proxies:
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: cf17759c-157f-383b-8d4f-d0f05caf5bd5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: cf17759c-157f-383b-8d4f-d0f05caf5bd5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: cf17759c-157f-383b-8d4f-d0f05caf5bd5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 80, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.16.40, headers: {Host: 100-7-75-234.s2.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link01.top, port: 8880, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.76.53, headers: {Host: 100-9-164-1.s4.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 8880, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.104.72, headers: {Host: 100-192-132-195.s2.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 8880, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.136.79, headers: {Host: 100-132-69-116.s3.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.cn-db.top, port: 2095, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.236.162, headers: {Host: 100-208-71-21.s2.cn-db.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.cn-db.top, port: 8080, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.157.87, headers: {Host: 100-78-207-145.s1.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s5.cn-db.top, port: 80, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.9.209, headers: {Host: 100-100-78-109.s5.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 2052, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.54.203, headers: {Host: 100-197-199-108.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 2052, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.55.252, headers: {Host: 100-98-198-111.s2.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 2095, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.158.68, headers: {Host: 100-79-50-54.s5.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 2082, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.78.131, headers: {Host: 100-245-44-152.s5.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s5.db-link02.top, port: 8080, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.242.21, headers: {Host: 100-208-187-20.s5.db-link02.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.db-link01.top, port: 8880, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.82.43, headers: {Host: 100-247-147-194.s2.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s1.db-link02.top, port: 80, type: vmess, uuid: 632a25d2-8863-3e26-9ba5-92ce6a941f46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.77.66, headers: {Host: 100-198-22-186.s1.db-link02.top}}, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 819b56f5-5cb4-31fd-9edb-fc3cdb86b85f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 819b56f5-5cb4-31fd-9edb-fc3cdb86b85f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 819b56f5-5cb4-31fd-9edb-fc3cdb86b85f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
@@ -299,12 +299,12 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: bea5c110378.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: bea5c110378.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: bea5c110378.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 39d9127c-0909-37ae-91d7-7e70e6431244, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: qoi.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 39d9127c-0909-37ae-91d7-7e70e6431244, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: qfb.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 39d9127c-0909-37ae-91d7-7e70e6431244, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28465, type: trojan, password: 39d9127c-0909-37ae-91d7-7e70e6431244, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28460, type: trojan, password: 39d9127c-0909-37ae-91d7-7e70e6431244, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: 39d9127c-0909-37ae-91d7-7e70e6431244, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 88c895d8-cc17-354d-86e2-2ed503764901, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: qoi.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 88c895d8-cc17-354d-86e2-2ed503764901, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: qfb.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 88c895d8-cc17-354d-86e2-2ed503764901, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28465, type: trojan, password: 88c895d8-cc17-354d-86e2-2ed503764901, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28460, type: trojan, password: 88c895d8-cc17-354d-86e2-2ed503764901, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: 88c895d8-cc17-354d-86e2-2ed503764901, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -398,6 +398,41 @@ rules:
 - DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
+- DOMAIN,dc.sigmob.cn,💩 ‍广告
+- DOMAIN,open.e.kuaishou.com,💩 ‍广告
+- DOMAIN,open.e.kuaishou.cn,💩 ‍广告
+- DOMAIN-SUFFIX,adkwai.com,💩 ‍广告
+- DOMAIN-SUFFIX,adukwai.com,💩 ‍广告
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
+- DOMAIN,pangolin.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-lq.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-hl.snssdk.com,💩 ‍广告
+- DOMAIN,pangolin-lf.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc3-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc11-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-bjlgy.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-alisc1.snssdk.com,💩 ‍广告
+- DOMAIN,tnc100-aliec2.snssdk.com,💩 ‍广告
+- DOMAIN,tnc0-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc0-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc0-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc3-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc11-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-bjlgy.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-alisc1.zijieapi.com,💩 ‍广告
+- DOMAIN,tnc100-aliec2.zijieapi.com,💩 ‍广告
+- DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
+- DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
+- DOMAIN,api.juliangcili.com,💩 ‍广告
+- DOMAIN-SUFFIX,anythinktech.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
