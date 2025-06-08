@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 4f05d0d7-05fb-3967-b73e-7db7391f050a, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: qoi.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 4f05d0d7-05fb-3967-b73e-7db7391f050a, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: qfb.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 4f05d0d7-05fb-3967-b73e-7db7391f050a, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28466, type: trojan, password: 4f05d0d7-05fb-3967-b73e-7db7391f050a, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28461, type: trojan, password: 4f05d0d7-05fb-3967-b73e-7db7391f050a, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: 4f05d0d7-05fb-3967-b73e-7db7391f050a, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 71ef865f-c86e-3a95-be2c-1e4cac86e63d, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: qoi.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 71ef865f-c86e-3a95-be2c-1e4cac86e63d, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: qfb.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 71ef865f-c86e-3a95-be2c-1e4cac86e63d, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28466, type: trojan, password: 71ef865f-c86e-3a95-be2c-1e4cac86e63d, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28461, type: trojan, password: 71ef865f-c86e-3a95-be2c-1e4cac86e63d, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: 71ef865f-c86e-3a95-be2c-1e4cac86e63d, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
