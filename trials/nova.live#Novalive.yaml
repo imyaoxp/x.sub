@@ -57,10 +57,10 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: 183.236.51.154, port: 56323, type: trojan, password: 8e25707d-7b23-3912-b195-bf41f2c4403d, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: 183.236.51.154, port: 56432, type: trojan, password: 8e25707d-7b23-3912-b195-bf41f2c4403d, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK010高速 - NovaLive, server: 112.18.120.18, port: 23452, type: trojan, password: 8e25707d-7b23-3912-b195-bf41f2c4403d, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK011高速 - NovaLive, server: 112.18.120.18, port: 23453, type: trojan, password: 8e25707d-7b23-3912-b195-bf41f2c4403d, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: 183.236.51.154, port: 56323, type: trojan, password: 8fa1d893-ab2c-33d7-b822-4b0883884cf5, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: 183.236.51.154, port: 56432, type: trojan, password: 8fa1d893-ab2c-33d7-b822-4b0883884cf5, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK010高速 - NovaLive, server: 112.18.120.18, port: 23452, type: trojan, password: 8fa1d893-ab2c-33d7-b822-4b0883884cf5, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK011高速 - NovaLive, server: 112.18.120.18, port: 23453, type: trojan, password: 8fa1d893-ab2c-33d7-b822-4b0883884cf5, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
